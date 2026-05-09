@@ -60,6 +60,16 @@ This is the **earliest primary-source bundle** in the UAP project for the 1948 S
 
 The 1948 routing apparatus this document establishes was carried into 1949 via [[concepts/fsr-200-4-reporting-regulation|Flight Service Regulation 200-4 (2 Nov 1948)]] — see [[references/usaf-flying-discs-1949]] for the **143-page sequel file** (NARA box 186 file 319.1) covering Oct 1948 – Jan 1950 with **20+ field sighting reports** filed in the EEI / 10-element template; the attention line evolved from `MCI` / `TSDIN` to `MCIAXO-3`; the new 1949 routing actor is the [[entities/military-air-transport-service|Military Air Transport Service]] alongside AMC.
 
+## Gap-filler: Sep 1948 – Jan 1949 incident-numbered stream (NEW)
+
+Between this Feb–Jun 1948 startup file and the Oct 1948 – Jan 1950 continuation file, Project SIGN ran a **single sequential incident-numbered stream**. The 173–233 segment of that stream is preserved in [[references/project-sign-incident-summaries-173-233]] — a 144-page bundle of **58 incident summary sheets** routed AMC → D/I HQ USAF on 22 Mar 1949 under R/S S-02378. This bundle **closes the previously-empty Sep–Dec 1948 window** in the corpus and includes:
+
+- The **December 1948 New Mexico green fireball wave** with [[entities/lincoln-la-paz|Dr Lincoln La Paz]]'s analytical memo as Inc 227 (see [[concepts/green-fireballs-new-mexico]]).
+- The **first 1948 engagement-class event** — Inc 207 Andrews AFB pursuit, [[references/sighting-andrews-1948-11]].
+- **First multi-witness clusters** (Azores 5-witness; NM 11-witness-set green flare wave; Andrews multi-aircraft pursuit).
+- The first preserved instance of the post-1948 **ACIAXO routing line** (Inc 213, Dec 1948) that becomes 1949's MCIAXO-3 standard.
+- **Internal SIGN authority citation:** Technical Instructions 215, Addendum No. 3, dated 11 Feb 48 (cited verbatim in Inc 213's Klingfelman query memo).
+
 ## Parallel TS sub-track: USAFE TT 1524 (4 Nov 1948)
 
 This AFOIR-CO file runs at **CONFIDENTIAL / SECRET** classifications and handles **field-installation-originated** sighting reports (CONUS + Alaska, expanded worldwide by the 26 Oct 1948 TWX). It is **not** the only 1948 USAF routing channel for flying-saucer material.
@@ -72,9 +82,11 @@ The implication for [[concepts/project-sign]]: **the 1948 routing apparatus was 
 
 ## See also
 
+- [[references/project-sign-incident-summaries-173-233]] — the Sep 1948 – Jan 1949 incident-numbered stream (gap-filler between this file and the 1949 continuation file)
 - [[references/usaf-flying-discs-1949]] — the 1949 continuation file (CONF/SECRET)
 - [[references/usafe-tt1524-1948-11]] — the parallel USAFE TS sub-track dispatch (Nov 1948)
 - [[concepts/fsr-200-4-reporting-regulation]] — the routing instrument that codified Cabell's directive
+- [[concepts/green-fireballs-new-mexico]] — the Dec 1948 NM cluster surfaced in the gap-filler
 - [[projects/uap/uap]] — UAP project overview
 - [[synthesis/horten-thesis-vs-disc-sightings]] — analysis of the leading 1948 conventional explanation, updated for 1949 morphology diversification
 - [[concepts/project-sign]]

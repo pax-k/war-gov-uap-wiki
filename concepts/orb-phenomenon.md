@@ -2,17 +2,17 @@
 title: Orb Phenomenon
 category: concepts
 tags: [uap, morphology, sighting, pattern]
-sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json]
+sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/38_143685_box7_incident_summaries_173-233.json]
 summary: Recurring UAP morphology — small to medium luminous or solid spherical / disc-class bodies, with sub-classes including flash-orbs, sustained hovers (≥30 min as old as 1948), "mother / daughter" launches, and sequential flare formations.
 provenance:
   extracted: 0.5
   inferred: 0.45
   ambiguous: 0.05
-base_confidence: 0.6
+base_confidence: 0.65
 lifecycle: draft
-lifecycle_changed: 2026-05-09
+lifecycle_changed: 2026-05-10
 created: 2026-05-09T13:33:54Z
-updated: 2026-05-09T18:30:00Z
+updated: 2026-05-10T02:00:00Z
 ---
 
 # Orb Phenomenon
@@ -48,6 +48,20 @@ A UAP report is consistent with the *orb* morphology when the witness account in
 ## Long-duration hover precursor (1948)
 
 The Nov 1948 [[references/usafe-tt1524-1948-11|USAFE TT 1524 Item 14]] dispatch references a flying-saucer-class object that **hovered over Neubiberg AB for ~30 minutes** in late October 1948 ([[references/sighting-neubiberg-1948-10]]). This is the wiki's **earliest documented sustained-hover** datum and predates the modern multi-minute / multi-hour sustained-hover orb cases by ~77 years. The 1948 reference does not preserve color or self-luminosity information — it is therefore *morphologically ambiguous* relative to the modern luminous-orb sub-class — but the **duration alone** establishes that long-duration hover is at least as old as 1948 as a tracked behavior. ^[inferred] See [[concepts/eti-attribution-statements]] for the institutional context (the 1948 dispatch is what carries the wiki's earliest institutional ETI-adjacent attribution).
+
+### 1948 sister hover events (NEW)
+
+The Sep 1948 – Jan 1949 [[references/project-sign-incident-summaries-173-233|Project SIGN incident summaries 173–233 bundle]] preserves three orb-class long-duration hover events that bracket the late-Oct Neubiberg case:
+
+- **Inc 190 (11 Oct 1948, 1300, Neubiberg AB)** — silver/very-shiny round object at ~40,000 ft, observed by 6 personnel of the 86th Fighter Wing **for 45 minutes**, with an AF-80 jet flying between observer and object appearing small in comparison. **High reliability** assessment. ^[extracted] This is a **distinct event** ~3 weeks earlier than the late-Oct ~30-min hover documented in USAFE TT 1524, and the bundle's first **multi-personnel high-reliability sustained-hover** datum. See [[references/sighting-neubiberg-1948-10]] for sister-event analysis.
+- **Inc 187 (19 Aug 1948, 1050 EST, Godman AFB KY)** — spherical bright silver object at 30–40,000 ft observed by Lt Col John Waugh **for ~2 hours**, with theodolite tracking. **Identified as Venus** by Mr Moore (Reed Astrologer, University of Louisville); MCI confirmed. ^[extracted] This is the corpus's **earliest celestial-misidentification ruleout** — important as an **operational counter-example**: not every 2-hour stationary-bright-object report is exotic. The Project SIGN apparatus correctly identified this case, distinguishing it from the otherwise-similar Neubiberg hover.
+- **Inc 175 / 175a (23 Sep 1948, 0930–0945, Santa Fe NM)** — ~100–150 ft white perfectly flat circular object, **15–20 min stationary** at ~30,000 ft over the Los Alamos approach, observed by A. Ruble Angier (commercial pilot since 1928) using a radio tower as an alignment reference. ^[extracted] This is a **disc-shape rather than orb-shape** observation but the **stationary-at-altitude** behavioral signature is identical to the Neubiberg hover.
+
+The combined 1948 picture: **sustained hover (15+ min) by silver / bright-white round-or-disc-shaped objects at altitude is a documented Project SIGN signature in the Aug–Nov 1948 window** — independent of the much-better-known late-Oct Neubiberg case and corroborated by trained observers including USAF officers, multi-personnel base personnel, commercial pilots, and theodolite operators. ^[inferred]
+
+### 1948 luminous-orb precursor (Inc 215)
+
+[[references/sighting-fairfield-suisun-1948-12|The Fairfield-Suisun 3 Dec 1948 event]] — preserved both as the corpus's first complete EEI Project SIGN form **and** as **Inc 215** in the 173–233 bundle — is the wiki's earliest **clean luminous-orb signature**: a 30-inch round colorless white light, no exhaust / no sound, climbing almost vertically from ~3,000 ft to ~20,000 ft. The **light-only-no-body** signature is structurally adjacent to the modern flash-orb and sustained-glow orb sub-classes by 77+ years.
 
 ## Compare and contrast
 

@@ -3,17 +3,17 @@ title: UAP
 category: project
 tags: [uap, history, intelligence, archive]
 source_path: _raw/ (declassified UAP archive volumes), sources/ (Mistral-OCR'd briefings and witness statements)
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/341_110677_numerical_file_5-2500.json, sources/255_t_763_r1b_transcripts.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json, sources/059uap00012.json, sources/059uap00011.json, sources/059uap00013.json]
-summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN, 1955 USAIRA Russell sighting, 1957–58 FBI Detroit files, 1963 NASC, 1965 NASA GT-7 PAO bogey tape, 1985 PNG + 1994 Kazakhstan + 2023 Mexico DOS cables (substantive A/B/C), 2001 Moscow + 2004 Ashgabat DOS cables (boundary), 1999 COMETA Report, 2025 intel statement, 2023 FBI FD-302 pair, 2026 AARO Western US slides.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/341_110677_numerical_file_5-2500.json, sources/255_t_763_r1b_transcripts.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json, sources/059uap00012.json, sources/059uap00011.json, sources/059uap00013.json, sources/38_143685_box7_incident_summaries_173-233.json]
+summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN (incl. 173–233 incident summaries Sep 1948 – Jan 1949), 1955 USAIRA Russell sighting, 1957–58 FBI Detroit files, 1963 NASC, 1965 NASA GT-7 PAO bogey tape, 1985 PNG + 1994 Kazakhstan + 2023 Mexico DOS cables (A/B/C), 2001 Moscow + 2004 Ashgabat DOS cables (boundary), 1999 COMETA Report, 2025 intel statement, 2023 FBI FD-302 pair, 2026 AARO Western US slides.
 provenance:
-  extracted: 0.48
-  inferred: 0.5
+  extracted: 0.5
+  inferred: 0.48
   ambiguous: 0.02
-base_confidence: 0.74
+base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-10T01:00:00Z
+updated: 2026-05-10T02:00:00Z
 ---
 
 # UAP
@@ -35,6 +35,10 @@ A research project distilling declassified primary-source archives on Unidentifi
 ### 1948 USAF "Flying Disc" file
 
 - [[references/usaf-flying-discs-1948]] — 28-page Mistral-OCR'd USAF correspondence file (Feb–Jun 1948, "general_1948_vol_1" item 18). The file naming suggests there are more volumes to come.
+
+### 1948–49 Project SIGN incident summaries 173–233 (NEW — gap-filler)
+
+- [[references/project-sign-incident-summaries-173-233]] — 144-page Mistral-OCR'd bundle of **58 Project SIGN incident summary sheets** numbered 173–233 (gaps at 197/210/222) covering **Sep 1948 – Jan 1949**, routed AMC → D/I HQ USAF on **22 Mar 1949** (R/S S-02378, EXHIBIT #529, declass NND 917033, carrier 5-20300). Archived in NARA RG 38 (CNO/Naval Records) Box 7 / 143685 — but originating agency, reporting protocol, and routing chain are USAF / AMC / Project SIGN; the RG 38 placement is an ONI archival cross-file. ^[inferred] **The wiki's longest temporal-density gap-filler**: closes the previously-empty Sep–Dec 1948 window between the [[references/usaf-flying-discs-1948|Feb–Jun 1948 SIGN startup file]] and the [[references/usaf-flying-discs-1949|Oct 1948 – Jan 1950 continuation file]]. Notable additions: **the December 1948 New Mexico green fireball wave** with [[entities/lincoln-la-paz|Dr Lincoln La Paz]]'s analytical memo (Inc 227 second sheet) — see [[concepts/green-fireballs-new-mexico]]; **the first 1948 engagement-class event** at Andrews AFB on 18 Nov 1948 (Inc 207 — see [[references/sighting-andrews-1948-11]]); the unique amoeba-with-flapping-appendages morphology of Inc 176 (see [[references/sighting-castro-ranch-1948-09]]); the first Pacific-theater multi-glimpse disc by USAF Maj Drum at Honolulu on 18 Oct 1948 (Inc 178 — see [[references/sighting-honolulu-1948-10]]); the terminal incident in the 173–233 series — Tom Rush at Jackson MS on 1 Jan 1949 (Inc 233 — see [[references/sighting-jackson-ms-1949-01]], cross-listed in the 1949 file). The bundle preserves three Project SIGN paperwork artifacts in routine use: the 25-field Incident Summary Sheet, the 26-field Check-List variant (Inc 232), and the RESTRICTED 4-page Guide to Investigation template (GI CO INV 31G 1). Internal AMC operating instruction is **Technical Instructions 215, Addendum No. 3, dated 11 Feb 48** (cited in Inc 213's Klingfelman query memo). The first ACIAXO routing line in the corpus appears in the same memo (Dec 1948) — anchoring the MCI/TSDIN → MCIAXO-3 attention-line transition to **late 1948**, not 1949 as prior wiki record implied. ^[inferred]
 
 ### 1948 USAFE TS sub-track (TT 1524) (NEW)
 
@@ -204,6 +208,8 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 
 - [[entities/c-p-cabell]] — signed the foundational SIGN directive (Feb 1948); also **named addressee** of the USAFE TS dispatch (Nov 1948 — TT 1524 Item 14, *"What are your reactions?"*). Two distinct routing roles in the same calendar year.
 - [[entities/horten-brothers]] — under US/G-2 interrogation as part of the investigation.
+- [[entities/lincoln-la-paz]] — Director, Institute of Meteoritics, UNM; analyst-and-witness for the Dec 1948 NM green fireball wave; analytical memo preserved as Project SIGN Inc 227 second sheet.
+- **Col W.E. Klingfelman** — Chief, Technical Intelligence Division, Intelligence Department; signed the Dec 1948 ACIAXO query memo to AMC Flight Test Section (Inc 213); the first ACIAXO routing line in the corpus.
 
 ## Key people (1963 policy track)
 
@@ -247,9 +253,15 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 | 5–8 March 1948 | Bakersfield, CA | civilians + USAF | [[references/sighting-bakersfield-1948-03]] |
 | 8 May 1948 (night) | Hobson, OH | NY Central rail workers | [[references/sighting-hobson-ohio-1948-05]] |
 | 5 September 1948, 1402Z | Off W coast of Holland (51°55′N 03°55′E), 30,000 ft | 3 crews of USAF 307th BG, Op Daggar | [[references/sighting-holland-coast-1948-09-05]] |
+| 23 September 1948, ~1200 | Castro's Ranch, near San Pablo, CA | Col Horace Eakins (US Army, Ret) + Mr Bentham | [[references/sighting-castro-ranch-1948-09]] |
+| 18 October 1948, 1705–1715 HST | Honolulu, T.H. (158°W 21°5'N) | Maj Robert C. Drum (USAF rated pilot) | [[references/sighting-honolulu-1948-10]] |
 | Pre-late-Oct 1948 (date unknown) | Unnamed Swedish lake (witness's lake-edge home) | Single Swedish technical expert + Swedish AIS naval salvage team | [[references/sighting-swedish-lake-crash-1948]] |
+| 11 October 1948, 1300 | Neubiberg AB, Bavaria (Inc 190 sister event) | 6 personnel of 86th Fighter Wing | folded into [[references/sighting-neubiberg-1948-10]] |
 | ~28 Oct – 4 Nov 1948 | Neubiberg AB, Bavaria | Unidentified — referenced inside USAFE TT 1524 Item 14 | [[references/sighting-neubiberg-1948-10]] |
+| 18 November 1948, 2145 EST | Andrews AFB, Camp Springs, MD | 2d Lt Kenwood Jackson + 2d Lt Glen Stalker + 2d Lt Henry Combs (AFR; 2 aircraft) | [[references/sighting-andrews-1948-11]] |
 | 3 December 1948, 2015 PST | Fairfield-Suisun AFB, CA | AACS tower operators (PFC McFarland AGCT 143 + Sgt DeLafayette) | [[references/sighting-fairfield-suisun-1948-12]] |
+| 5–13 December 1948 (multi-night) | Las Vegas / Albuquerque / Vaughn / Sandia / Bernal corridor, NM | Multi-witness wave (Capt Goade C-47; S/A Stahl + Neff; Dr Lincoln La Paz + 4 corroborating; Col Hayes; Joseph Toulouse; 11+ witness sets) | [[concepts/green-fireballs-new-mexico]] |
+| 1 January 1949, 1700 CST | 2 mi E of Jackson, MS | Mr & Mrs Tom Rush (Dixie Air Service pilot + private pilot wife) — Stinson on landing approach | [[references/sighting-jackson-ms-1949-01]] |
 | 25 January 1949, ~1950 JST | Fukushima/Iida/Suwa/Nagano/Takayama/Gifu, Japan | Japanese CMO weather stations (6 stations) | [[references/sighting-japan-glow-1949-01]] |
 | 8 April 1949, ~2030–2045 | Kodiak, Alaska | USN Lt Cdr Shepard + USMS dep marshal Herbing + 2 civilians | [[references/sighting-kodiak-alaska-1949-04]] |
 | 24 July 1949, 1205 MST | NW of Mountain Home, ID | Harry Clark (airport mgr, Ritchie Field) | [[references/sighting-mountain-home-id-1949-07]] |

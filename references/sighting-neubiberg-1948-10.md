@@ -3,17 +3,17 @@ title: "Sighting — Flying Saucer Hovering Over Neubiberg AB ~30 Minutes (~Oct/
 category: references
 tags: [uap, sighting, 1948, germany]
 aliases: [Neubiberg 1948, Neubiberg flying saucer hover, Neubiberg AB Oct 1948]
-sources: [sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json]
-summary: One-line referenced (not primary-reported) flying-saucer observation over Neubiberg Air Base, Germany — ~30 minutes hover, "during the last week" prior to 4 Nov 1948 — surfaced inside USAFE TT 1524 Item 14.
+sources: [sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/38_143685_box7_incident_summaries_173-233.json]
+summary: One-line referenced flying-saucer observation over Neubiberg Air Base, Germany — ~30 minutes hover in late Oct/early Nov 1948 (USAFE TT 1524). A sister event (Inc 190, 11 Oct 1948 1300, 45-min observation by 6 personnel of the 86th FW) is preserved in the Project SIGN incident summaries bundle.
 provenance:
-  extracted: 0.45
-  inferred: 0.4
-  ambiguous: 0.15
-base_confidence: 0.55
+  extracted: 0.6
+  inferred: 0.3
+  ambiguous: 0.10
+base_confidence: 0.62
 lifecycle: draft
-lifecycle_changed: 2026-05-09
+lifecycle_changed: 2026-05-10
 created: 2026-05-09T18:30:00Z
-updated: 2026-05-09T18:30:00Z
+updated: 2026-05-10T02:00:00Z
 ---
 
 # Sighting — Flying Saucer Hovering Over Neubiberg AB ~30 Minutes (~Oct/Nov 1948)
@@ -58,11 +58,41 @@ The sentence is doing rhetorical work for USAFE's policy ask, but the underlying
 - Whether **GCI / radar** picked up the object during the 30-minute hover. (Material inside USAFE 14 frames the Swedish lake-crash chain in detail but is silent on Neubiberg sensor cross-checks.) ^[ambiguous]
 - Whether any **separate report-of-record** was filed at Neubiberg's S-2 office, USAFE A-2, or the AFOIR-CO field-report channel. ^[open]
 
+## Sister event: Project SIGN Inc 190 (NEW)
+
+The [[references/project-sign-incident-summaries-173-233|Sep 1948 – Jan 1949 Project SIGN incident summaries 173–233 bundle]] preserves a **separate, earlier Neubiberg-area sighting** — Project SIGN **Incident 190** — that partially answers the open thread above for a Neubiberg-region primary report.
+
+| Field | Inc 190 |
+|---|---|
+| Date | **11 October 1948** |
+| Time | 1300 |
+| Location | Neubiberg AB, Germany (50° heading from base) |
+| Object | Silver, very-shiny round object at ~40,000 ft |
+| Observers | **6 military personnel of the 86th Fighter Wing**, Neubiberg AB |
+| Duration | **45 minutes** (object gradually became smaller — apparently rising) |
+| Reference object | An AF-80 jet flying between observer and object **appeared small in relation to the size of the object** (estimated jet altitude: 25,000 ft) |
+| Manner of disappearance | Lost behind a thin ~20,000 ft cloud layer |
+| Reliability | "**High reliability** is given the personnel sighting this object" ^[extracted] |
+
+This event is **distinct** from the late-Oct ~30-min hover documented in USAFE TT 1524: ^[inferred]
+
+- Inc 190 is **3 weeks earlier** (11 Oct 1948 vs. ~28 Oct – 4 Nov 1948).
+- Inc 190 is a **daylight** event; the USAFE TT 1524 sentence does not record a time-of-day.
+- Inc 190 is a **rising silver object**, not a stationary "flying saucer" hover at low altitude.
+- Inc 190 has **6 named-by-unit witnesses** (86th Fighter Wing personnel); USAFE TT 1524 doesn't name witnesses.
+
+A third Neubiberg-area datum exists in the same bundle as **Project SIGN Inc 193** (Oct 1948, 1200–1430, 2 mi west of Neubiberg AB, civilian witnesses at base housing project): a **black object** faster than F-47 traveling SW for 2 minutes. ^[extracted]
+
+The combined picture: **at least three distinct Neubiberg-area unidentified-aerial-phenomena observations occurred in October–early-November 1948**, two by USAF personnel and one by civilians at the housing project. The USAFE TT 1524 sentence is therefore **representative** of a sustained pattern of Neubiberg-area sightings, not a one-off datum. This **substantially strengthens** USAFE A-2's policy ask in TT 1524 — they were not citing a single anomalous observation, they were citing a recurring local pattern. ^[inferred]
+
+This pair of events (Inc 190 + the late-Oct USAFE TT 1524 reference) also distinguishes the AFOIR-CO field-installation channel (which received Inc 190 via Project SIGN intake) from the USAFE TS sub-track (which carried the late-Oct reference). Both routing paths handled Neubiberg material in the same weeks, **routed separately**, and only converged at AMC's desk via the 8 Nov 1948 disposition slip. ^[inferred]
+
 ## Open threads
 
-- Locate the **Neubiberg primary report** (if one exists) in the [[references/usaf-flying-discs-1949|1948–50 USAF Flying Disc continuation file]] or in NARA RG 341 successor TS dispatches. ^[open]
-- Determine whether the **307th Bomb Group** (involved in the contemporaneous [[references/sighting-holland-coast-1948-09-05|5 Sep 1948 Holland-coast jet sighting]]) had any presence at or near Neubiberg in late October 1948. ^[open]
-- Cross-check **Bavarian** ground-witness accounts of late-October / early-November 1948 unexplained-aerial-phenomena reports — the Neubiberg event likely also produced civilian witnesses on the ground around the base. ^[inferred]
+- Locate any further **Neubiberg primary report** for the late-Oct ~30-min hover specifically — Inc 190's 11 Oct event is a sister, not the canonical match. ^[open]
+- Determine whether the **307th Bomb Group** (involved in the contemporaneous [[references/sighting-holland-coast-1948-09-05|5 Sep 1948 Holland-coast jet sighting]]) had any presence at or near Neubiberg in October–November 1948. ^[open]
+- Cross-check **Bavarian** ground-witness accounts of October–early-November 1948 unexplained-aerial-phenomena reports — Inc 193 (civilians at the Neubiberg base housing project) confirms there were ground witnesses. ^[inferred]
+- The **86th Fighter Wing** is now a candidate squadron-of-record for Neubiberg-area UAP observations through late 1948 — track forward in any USAFE successor sources. ^[open]
 
 ## See also
 

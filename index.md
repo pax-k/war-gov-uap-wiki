@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-10T01:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-10T02:00:00Z*
 
 ## Concepts
 
@@ -18,6 +18,7 @@ title: Wiki Index
 - [[concepts/foo-fighter-phenomenon]] — WWII Allied aircrew name for unexplained nocturnal lights pacing combat aircraft ( #uap #ww2 #morphology)
 - [[concepts/four-phase-contact-strategy]] — COMETA 1999's observation/sampling/influence/direct-contact thought experiment for visitor strategy ( #uap #policy #contact #france)
 - [[concepts/fsr-200-4-reporting-regulation]] — USAF Flight Service Regulation 200-4 (2 Nov 1948) — codified the Cabell directive into a standing order; cited in nearly every 1949 sighting report ( #uap #usaf #protocol)
+- [[concepts/green-fireballs-new-mexico]] — Dec 1948 New Mexico bright-green fireball wave analyzed in real time by Dr Lincoln La Paz; first multi-event single-region UAP cluster in the corpus ( #uap #1948 #morphology #pattern)
 - [[concepts/horten-flying-wing]] — German wartime tailless aircraft family, the leading 1948 conventional explanation for disc sightings ( #uap #aviation #ww2)
 - [[concepts/mhd-propulsion-uap]] — COMETA 1999 §8.1.1.1 magnetohydrodynamic propulsion physical model for UAP atmospheric flight characteristics ( #uap #france #policy #anomaly)
 - [[concepts/orb-flare-formation]] — Distinct UAP morphology: orbs flaring up sequentially in a line/stack, holding stationary, flaring down in reverse order ( #uap #morphology #pattern)
@@ -62,6 +63,7 @@ title: Wiki Index
 - [[entities/jaime-maussan]] — Mexican journalist and longstanding UAP/UFO public figure; presented two alleged "alien corpses" to the Mexican Congress on 12 Sep 2023 ( #uap #person #mexico #witness #public-affairs)
 - [[entities/j-w-hunt]] — Open-question stub for a cover-routing-slip name on the 1963 NASC alien-policy memo; possibly OCR misread of "M. W. Hunter" ( #uap #person #ambiguous #ocr)
 - [[entities/jim-lovell]] — USN test pilot, NASA "Next Nine" astronaut, Pilot Gemini 7; co-witness on the GT-7 bogey exchange (booster only on the released transcript) ( #person #witness #uap #nasa #astronaut)
+- [[entities/lincoln-la-paz]] — Director, Institute of Meteoritics, UNM; analyst-and-witness for the Dec 1948 New Mexico green fireball wave (Project SIGN Inc 227) ( #uap #person #1948)
 - [[entities/maxwell-w-hunter]] — NASC Professional Staff member; authored the 1963 "Space Alien Race Question" memo ( #person #nasc #policy)
 - [[entities/military-air-transport-service]] — Joint USAF/Navy unified airlift command (1948); recurring 1949 routing-and-triage hub for Project SIGN reports alongside AMC ( #usaf #organization #history)
 - [[entities/nasa]] — National Aeronautics and Space Administration; civilian space agency; first NASA-originating UAP-adjacent record in the corpus (1965 GT-7 PAO tape) ( #nasa #organization #civil-agency)
@@ -108,7 +110,10 @@ title: Wiki Index
 - [[references/iaf-ir-193-55-russell-1955]] — Declassified 9-page SECRET (NOFORN) USAIRA Prague Air Intelligence Information Report (IR 193-55, 14 Oct 1955; TS Cont. # 3-2500) on Senator Russell's Trans-Caucasus flying-disc sighting ( #uap #primary-source #declassified #1955)
 - [[references/loedding-flying-disc]] — US AMC in-house disc-shaped aircraft concept (drawing LD-2), 1947 ( #uap #aviation #usaf)
 - [[references/nasa-pao-t-00763-r1b-gemini-7-1965]] — 4-page NASA PAO release-commentary tape transcript (NARA RG 255) of the 4 Dec 1965 GT-7 air-to-ground voice loop containing Borman's "bogey at ten o'clock high" call ( #uap #primary-source #nasa #1965)
+- [[references/project-sign-incident-summaries-173-233]] — 144-page bundle of 58 Project SIGN incident summary sheets (Sep 1948 – Jan 1949), routed AMC → D/I HQ USAF on 22 Mar 1949; the gap-filler between the Feb–Jun 1948 startup file and the Oct 1948 – Jan 1950 continuation file ( #uap #primary-source #declassified #1948)
+- [[references/sighting-andrews-1948-11]] — 18 Nov 1948 multi-aircraft pursuit of an oval glowing object circling Andrews AFB for 15-18 min — the corpus's first 1948 documented UAP-aircraft engagement-class event (Project SIGN Inc 207) ( #uap #sighting #usaf #1948 #behavior)
 - [[references/sighting-bakersfield-1948-03]] — Two falling-object observations near Bakersfield, CA in March 1948 ( #uap #sighting #california)
+- [[references/sighting-castro-ranch-1948-09]] — 23 Sep 1948 daylight observation by Col Horace Eakins (US Army, Ret) of a translucent gray "amoeba-like" object with three forward and two aft flapping appendages near San Pablo CA — unique morphology in the corpus (Project SIGN Inc 176) ( #uap #sighting #california #1948 #morphology)
 - [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] — 1 March 1945 USAAF reconnaissance pilot sighting of a 12-ft aluminium cylinder hovering vertically at 9,000 ft ( #uap #sighting #ww2)
 - [[references/sighting-dark-kite-western-us]] — Federal LE agents pursue what looks like a car; it lifts off the road, hovers, and reads as a thin dark kite/triangle ( #uap #sighting #federal-le)
 - [[references/sighting-detroit-1958-04-17]] — 0408-LT 17 Apr 1958 single-witness Detroit sighting (David Weaver) of a circular crystal-domed object NE-bound from SW; phoned in to FBI after Selfridge unreachable ( #uap #sighting #michigan)
@@ -120,6 +125,8 @@ title: Wiki Index
 - [[references/sighting-helicopter-orb-encounter-2025]] — 2025 multi-hour helicopter orb encounter at a redacted facility, with FLIR + NVG + naked-eye corroboration ( #uap #sighting #intel-witness)
 - [[references/sighting-hobson-ohio-1948-05]] — Night-time multi-witness phosphorescent disc sighting by NY Central rail workers ( #uap #sighting #ohio)
 - [[references/sighting-holland-coast-1948-09-05]] — Three crews of USAF 307th BG track an unidentified high-performance jet off the Dutch coast at 30,000 ft during Op Daggar (5 Sep 1948, USAFE B-2 evaluation) ( #uap #sighting #1948 #netherlands)
+- [[references/sighting-honolulu-1948-10]] — 18 Oct 1948 four-glimpse silver disc sighting at Honolulu, T.H. by USAF Maj Robert C. Drum — earliest Pacific-theater multi-glimpse disc-class observation (Project SIGN Inc 178) ( #uap #sighting #usaf #1948)
+- [[references/sighting-jackson-ms-1949-01]] — 1 Jan 1949 sighting of a 60-ft cigar-shaped wingless dark object on landing approach to Jackson MS by ex-AAF pilot Tom Rush + wife (Project SIGN Inc 233) — terminal incident in the 173–233 numbered series ( #uap #sighting #1949 #aviation)
 - [[references/sighting-japan-glow-1949-01]] — Six-station Japanese CMO multi-vantage glow phenomenon with delayed thunder-roar (25 Jan 1949) ( #uap #sighting #japan)
 - [[references/sighting-kansas-city-1950-01]] — Two motionless brilliant-white spheres flashing orange/red over Kansas City KS / Olathe KS (6 Jan 1950) ( #uap #sighting #kansas)
 - [[references/sighting-kazakhstan-1994-01-27]] — 27 Jan 1994 ~40-min UAP encounter at FL410 over Kazakhstan by 3 American Tajik Air pilots; circles/corkscrews/90° turns + ~100,000-ft contrails ( #uap #sighting #kazakhstan)

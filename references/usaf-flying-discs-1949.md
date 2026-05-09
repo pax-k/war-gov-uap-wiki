@@ -122,9 +122,13 @@ This file fills the **largest temporal gap** in the corpus — the year between 
 ## See also
 
 - [[references/usaf-flying-discs-1948]] — the immediate predecessor file
+- [[references/project-sign-incident-summaries-173-233]] — the Sep 1948 – Jan 1949 incident-numbered intake stream that **overlaps** with this file at Inc 215 (Fairfield-Suisun 3 Dec 48), Inc 203 (Edmonton/Alberta 17 Nov 48), and Inc 233 (Tom Rush Jackson MS 1 Jan 49)
+- [[references/sighting-jackson-ms-1949-01]] — Inc 233, the Tom Rush event surfaced in this file's sighting table
 - [[concepts/project-sign]] — the program these reports feed
+- [[concepts/green-fireballs-new-mexico]] — Dec 1948 NM cluster (precursor to Project Twinkle)
 - [[concepts/fsr-200-4-reporting-regulation]] — the 2 Nov 1948 Flight Service Regulation cited in nearly every 1949 memo
 - [[concepts/flying-disc-reporting-protocol]] — the 10-element template the EEI form expands
 - [[entities/air-materiel-command]] — recipient at Wright-Patterson
+- [[entities/lincoln-la-paz]] — UNM analyst on the Dec 1948 fireball wave
 - [[synthesis/horten-thesis-vs-disc-sightings]] — analysis updated for 1949 morphology diversification
 - [[projects/uap/uap]]

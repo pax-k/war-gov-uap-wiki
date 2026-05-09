@@ -2,18 +2,18 @@
 title: Sighting — Fairfield-Suisun AFB CA (3 Dec 1948)
 category: references
 tags: [uap, sighting, california, primary-source]
-aliases: [Fairfield-Suisun control tower 1948, EEI Project SIGN Fairfield]
-sources: [sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json]
-summary: Two AACS control-tower operators at Fairfield-Suisun AFB (3 Dec 1948, 2015 PST) tracked a 30-inch luminous round object that hovered, climbed almost vertically, and reached ~20,000 ft — the corpus's first complete EEI Project SIGN form.
+aliases: [Fairfield-Suisun control tower 1948, EEI Project SIGN Fairfield, Inc 215 Fairfield-Suisun]
+sources: [sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/38_143685_box7_incident_summaries_173-233.json]
+summary: Two AACS control-tower operators at Fairfield-Suisun AFB (3 Dec 1948, 2015 PST) tracked a 30-inch luminous round object that hovered, climbed almost vertically, and reached ~20,000 ft — preserved in two complementary primary sources (the EEI form and the Project SIGN Inc 215 summary sheet).
 provenance:
   extracted: 0.94
   inferred: 0.06
   ambiguous: 0.0
-base_confidence: 0.62
+base_confidence: 0.7
 lifecycle: draft
-lifecycle_changed: 2026-05-09
+lifecycle_changed: 2026-05-10
 created: 2026-05-09T15:30:00Z
-updated: 2026-05-09T15:30:00Z
+updated: 2026-05-10T02:00:00Z
 ---
 
 # Sighting — Fairfield-Suisun AFB CA (3 Dec 1948)
@@ -70,9 +70,23 @@ Items 4, 6, and 7 of the General section explicitly address candidate explanatio
 - The "round white light, 30 inches, vertical climb to 20k ft, no sound, no exhaust" morphology is a clean **luminous-orb** signature (cf. [[concepts/orb-phenomenon|orb phenomenon]]). The 1948 instance predates the 1949 [[references/sighting-kodiak-alaska-1949-04|Kodiak]] event by ~4 months and the 2025 [[references/sighting-helicopter-orb-encounter-2025|helicopter orb encounter]] by ~77 years — same morphology class. ^[inferred]
 - **The "almost vertical climb to 20,000 ft from 3,000 ft"** behavior is structurally outside the conventional aviation envelope of any 1948 airframe and matches the modern UAP "instantaneous altitude excursion" pattern. ^[inferred]
 
+## Two-source companion: Project SIGN Inc 215 (NEW)
+
+The same event also appears as **Project SIGN Incident 215** in [[references/project-sign-incident-summaries-173-233|the 173–233 incident summaries bundle]]. The two records are **complementary views** of the same event:
+
+| Document | Form type | Detail level | Filing date |
+|---|---|---|---|
+| The bundled EEI report (this page's primary source) | 20-element Essential Elements of Information / Project SIGN form + Inclosure 3 (McFarland certified statement) | **Maximal** — names both witnesses, AGCT score, prior occupations, conventional-candidate ruleouts | 19 Jan 1949, signed Maj Arthur Conradi Jr. |
+| Project SIGN Inc 215 summary sheet | 25-field Incident Summary Sheet | **Minimal** — control-tower personnel unnamed, no AGCT data, no inclosures | filed in the AMC stream, transmitted 22 Mar 1949 |
+
+The Inc 215 summary sheet preserves the **operationally critical descriptors** (30-inch round bright light, 1–2k ft initial → 20k ft vertical climb, 400–500 mph, 8x binoculars, no sound, no exhaust) but lacks the witness-character detail. The EEI form is therefore the **investigative-grade record**; Inc 215 is the **routing-grade record**. ^[inferred]
+
+The two-source presence of this event in the corpus is structurally important: it shows that the **same Project SIGN sighting could be filed twice** through parallel pipelines (the AACS / 1501st ATW / MATS Pacific Division route → the EEI form sent to AMC; and the AMC-internal Incident Summary Sheet that carries a sequential incident number). ^[inferred]
+
 ## See also
 
-- [[references/usaf-flying-discs-1949]] — parent bundle (this report is the latest 1948 item filed)
+- [[references/usaf-flying-discs-1949]] — bundle preserving the EEI form
+- [[references/project-sign-incident-summaries-173-233]] — bundle preserving Inc 215 (companion summary form)
 - [[concepts/flying-disc-reporting-protocol]] — the EEI form is its expanded version
 - [[concepts/orb-phenomenon]]
 - [[concepts/project-sign]]

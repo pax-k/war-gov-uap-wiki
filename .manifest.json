@@ -470,18 +470,51 @@
         "_meta/taxonomy.md",
         "index.md"
       ]
+    },
+    "sources/38_143685_box7_incident_summaries_173-233.json": {
+      "ingested_at": "2026-05-10T02:00:00Z",
+      "size_bytes": 222360,
+      "modified_at": 1778332063,
+      "content_hash": "sha256:e6fe7d7e8224074d507140f9e1dd4045d75709b332d09fd724ff4bdffc7ea749",
+      "source_id": "nara-rg38-143685-box7-project-sign-incident-summaries-173-233",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/project-sign-incident-summaries-173-233.md",
+        "references/sighting-andrews-1948-11.md",
+        "references/sighting-castro-ranch-1948-09.md",
+        "references/sighting-honolulu-1948-10.md",
+        "references/sighting-jackson-ms-1949-01.md",
+        "concepts/green-fireballs-new-mexico.md",
+        "entities/lincoln-la-paz.md"
+      ],
+      "pages_updated": [
+        "concepts/project-sign.md",
+        "concepts/uap-aircraft-engagement.md",
+        "concepts/orb-phenomenon.md",
+        "concepts/balls-of-fire-red.md",
+        "references/usaf-flying-discs-1948.md",
+        "references/usaf-flying-discs-1949.md",
+        "references/sighting-fairfield-suisun-1948-12.md",
+        "references/sighting-neubiberg-1948-10.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T01:00:00Z",
-      "sources_ingested": 18
+      "last_ingested": "2026-05-10T02:00:00Z",
+      "sources_ingested": 19
     }
   },
   "stats": {
-    "total_sources_ingested": 19,
-    "total_pages": 126,
+    "total_sources_ingested": 20,
+    "total_pages": 133,
     "total_projects": 1,
     "last_full_rebuild": null
   }

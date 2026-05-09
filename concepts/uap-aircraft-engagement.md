@@ -2,17 +2,17 @@
 title: UAP–Aircraft Engagement
 category: concepts
 tags: [uap, behavior, military, pattern]
-sources: [sources/usper-statement-redacted.json]
-summary: A UAP behavioral signature in which orb-class objects approach, follow, or break off from one aircraft to pursue another — distinct from passive hover or lateral departure.
+sources: [sources/usper-statement-redacted.json, sources/38_143685_box7_incident_summaries_173-233.json]
+summary: A UAP behavioral signature in which orb-class objects approach, follow, or break off from one aircraft to pursue another — distinct from passive hover or lateral departure. Now documented in the corpus as early as 1948.
 provenance:
   extracted: 0.55
   inferred: 0.40
   ambiguous: 0.05
-base_confidence: 0.30
+base_confidence: 0.40
 lifecycle: draft
-lifecycle_changed: 2026-05-09
+lifecycle_changed: 2026-05-10
 created: 2026-05-09T13:41:53Z
-updated: 2026-05-09T13:41:53Z
+updated: 2026-05-10T02:00:00Z
 ---
 
 # UAP–Aircraft Engagement
@@ -47,9 +47,11 @@ In the 2025 redacted statement [[references/usper-statement-2025]] / [[reference
 
 ## Comparison to the broader corpus
 
-- The 1948 [[references/usaf-flying-discs-1948|USAF "Flying Disc" file]] does **not** document UAP-aircraft engagement of this kind; sightings are largely passive, stationary, or unidirectional. ^[inferred]
+- The 1948 [[references/usaf-flying-discs-1948|USAF "Flying Disc" file]] (Feb–Jun 1948) does not document UAP-aircraft engagement of this kind; its sightings are largely passive, stationary, or unidirectional. ^[inferred]
+- **Correction (2026-05-10):** The Sep 1948 – Jan 1949 Project SIGN [[references/project-sign-incident-summaries-173-233|incident summaries 173–233 bundle]] **does** document an engagement-class event. **Project SIGN Incident 207 (18 Nov 1948, Andrews AFB)** records a 15–18 minute pursuit of an oval glowing object by an AFR pilot (2d Lt Kenwood Jackson + 2d Lt Glen Stalker) in a chase aircraft, corroborated from a separate aircraft by 2d Lt Henry Combs. The object's behavior matches **all four** operational criteria above — close approach, sustained co-location, target-following with vertical-axis evasion (climb vertically, drop behind from above to continue circling the field), and **sensor-stimulus response** (the object brightened when illuminated by the chase aircraft's landing light). ^[extracted] See [[references/sighting-andrews-1948-11]].
+- The 1948 Andrews event recasts the historical envelope: **engagement-class behavior is not a modern phenomenon** introduced by the drone era; it is a 1948-or-earlier datum. ^[inferred]
 - The 2026 [[references/western-us-event-2026|Western U.S. Event]] involves **ground-based federal LE witnesses**, not aircraft. The orb-class behaviors there (launching, hovering, briefly transparent) do not include cross-platform engagement.
-- This 2025 statement therefore sits in a category of its own within the wiki so far, anchored by its multi-sensor (FLIR + NVG + naked eye) corroboration. ^[inferred]
+- The 2025 helicopter-orb encounter therefore is **not** the corpus's first engagement-class event — but it remains the **strongest multi-sensor (FLIR + NVG + naked eye)** documented case. ^[inferred]
 
 ## Open hypotheses (not endorsed)
 
@@ -69,5 +71,7 @@ In the 2025 redacted statement [[references/usper-statement-2025]] / [[reference
 - [[concepts/orb-flare-formation]]
 - [[references/usper-statement-2025]]
 - [[references/sighting-helicopter-orb-encounter-2025]]
+- [[references/sighting-andrews-1948-11]] — 1948 engagement-class precursor (Inc 207)
+- [[references/project-sign-incident-summaries-173-233]] — bundle preserving the Andrews event
 - [[synthesis/federal-le-uap-witness-pattern]]
 - [[projects/uap/uap]]

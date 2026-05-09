@@ -3,17 +3,17 @@ title: Project SIGN
 category: concepts
 tags: [uap, history, usaf, intelligence, 1948]
 aliases: [Project Sign, Sign (USAF), AMC Flying Disc Project]
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json]
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/38_143685_box7_incident_summaries_173-233.json]
 summary: The first official US Air Force program (1948–49) to systematically collect, evaluate, and distribute information on "Flying Discs", run by Air Materiel Command at Wright-Patterson AFB. Two-track routing — AFOIR-CO field-installation channel + parallel USAFE TS foreign-liaison channel.
 provenance:
-  extracted: 0.68
-  inferred: 0.3
+  extracted: 0.7
+  inferred: 0.28
   ambiguous: 0.02
-base_confidence: 0.75
+base_confidence: 0.8
 lifecycle: draft
-lifecycle_changed: 2026-05-09
+lifecycle_changed: 2026-05-10
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T18:30:00Z
+updated: 2026-05-10T02:00:00Z
 ---
 
 # Project SIGN
@@ -66,6 +66,42 @@ The AFOIR-CO disposition slip on USAFE TT 1524 (8 Nov 1948) **bridges** the two 
 
 The parallel TS sub-track is what carried the wiki's earliest **institutional / foreign-liaison** [[concepts/eti-attribution-statements|ETI-adjacent attribution]] (Swedish AIS, 4 Nov 1948) into US hands. The AFOIR-CO field-installation channel never carried such material — none of the 1948 or 1949 AFOIR file reports preserve an ETI-adjacent institutional attribution. ^[inferred]
 
+## Sep 1948 – Jan 1949 incident-summary stream (NEW)
+
+Between the [[references/usaf-flying-discs-1948|Feb–Jun 1948 startup file]] and [[references/usaf-flying-discs-1949|the Oct 1948 – Jan 1950 continuation file]], Project SIGN operated a **single sequential incident-numbered stream** for all flying-disc reports. The 173–233 segment of that stream — a 144-page bundle of **58 incident summary sheets** routed AMC → D/I HQ USAF on 22 Mar 1949 under R/S S-02378 — is preserved in [[references/project-sign-incident-summaries-173-233]]. ^[extracted]
+
+Three SIGN-internal artifacts are documented in this segment for the first time:
+
+- **The 25-field Incident Summary Sheet form** as the routine intake instrument (descended from [[concepts/flying-disc-reporting-protocol|the Cabell 10-element template]] and parallel to the formal EEI form that emerges in [[references/sighting-fairfield-suisun-1948-12|the Fairfield-Suisun 19 Jan 1949 EEI]]).
+- **Technical Instructions 215, Addendum No. 3, dated 11 Feb 48** — the internal AMC operating instruction cited explicitly in Inc 213's Klingfelman query memo as the authority under which Project SIGN was "engaged in the collation, collection, compilation, evaluation and analysis of all information on unidentified flying objects." The Cabell directive (AFOIR-CO-5) and the FSR 200-4 regulation are the *external* governance instruments; TI 215 / Addendum 3 is the *internal* AMC operating instruction. ^[extracted]
+- **The "Guide to Investigation" template (RESTRICTED, GI CO INV 31G 1)** — a four-page investigator-facing worksheet (radar sightings on page 3; conventional-aircraft / weather / soil-sample ruleouts on page 4), distinct from the witness-statement form. This is the **investigator's checklist** rather than the witness intake form. ^[extracted]
+
+The **incident-numbering scheme** itself appears to have phased out as the case load grew through 1949: the [[references/usaf-flying-discs-1949|1949 file]] uses EEI / case-named filing rather than sequential numbers, suggesting parallel-processing pressure made a single-counter intake stream operationally impractical by mid-1949. ^[inferred]
+
+### The Klingfelman query memo (Inc 213, 17 Dec 1948)
+
+When MCI-Intelligence-Controls employee George Hoffman (Project SIGN office staff) and USN Lt Higar Miller (Hq AMC) reported separate twilight pulse-of-light sightings in Dayton on 3 Dec 1948 (Inc 212 + 213), **Col W.E. Klingfelman, Chief of the Technical Intelligence Division**, issued a query to the AMC Flight Test Section asking whether any "raw jets or other experimental types of propulsion emitting long pulses of flame" had been flown that night. ^[extracted]
+
+The memo's routing line **"WCRFO ACIAXO-3"** is the **first instance** in the corpus of the post-1948 ACIAXO routing line that becomes the 1949 standard MCIAXO-3. This dates the attention-line transition from MCI / TSDIN → MCIAXO-3 to **late December 1948**, not 1949 as the prior wiki record implied. ^[inferred]
+
+### First multi-witness-cluster events
+
+The 173–233 bundle contains the corpus's first multi-witness-cluster Project SIGN events:
+
+- **Azores 31 Oct 1948 5-witness cluster** (Inc 201, 201A, 201a, 201b, 201c) — 5 named witnesses to a single weaving pale-yellow flat round object.
+- **NM green-flare wave 5 Dec 1948** (Inc 223 + 223a) — 11 witness sets across 2105–2315 hours covering Las Vegas NM, Albuquerque NM, Lucy NM, Levy NM, Santa Fe Railroad station ONVA NM.
+- **Andrews 18 Nov 1948 multi-aircraft pursuit** (Inc 207 + 207A) — 3 USAF Reserve pilots in 2 aircraft.
+
+These events move the wiki's 1948 picture from "single witness with corroborating officer" to "platoon-scale eyewitness corpus." ^[inferred]
+
+### The December 1948 New Mexico green fireball wave
+
+The 173–233 bundle contains the **earliest SIGN-coordinated investigation** of a multi-event single-region UAP cluster — the [[concepts/green-fireballs-new-mexico|New Mexico green fireball wave]] of 5–13 December 1948. Incident 227's second sheet is **[[entities/lincoln-la-paz|Dr Lincoln La Paz]]'s analytical memo** "Significant Differences between the Fireballs Observed in the Interval Dec 5–13 and Typical Meteors" — the **earliest preserved professional-astronomy assessment** of a UAP event cluster in the corpus. La Paz's role marks the corpus's first instance of a civilian academic expert pulled inside Project SIGN's evaluation loop. ^[inferred]
+
+### The 1948 engagement-class precedent
+
+Project SIGN Incident 207 (18 Nov 1948, Andrews AFB) — see [[references/sighting-andrews-1948-11]] — preserves an **aircraft-engagement-class** event that significantly **predates** the modern engagement-class corpus by ~77 years. The behavioral signature (15–18 minute pursuit, vertical-axis evasion, sensor-stimulus response to landing-light illumination) directly contradicts the prior wiki claim that 1948 SIGN reports were uniformly passive. See [[concepts/uap-aircraft-engagement]] for the corrected analysis.
+
 ## Operational maturation through 1949
 
 Through 1949 the SIGN intake apparatus operated continuously under [[concepts/fsr-200-4-reporting-regulation|Flight Service Regulation 200-4 (2 Nov 1948)]], which propagated the 1948 Cabell directive into Flight Service Center operating procedure. The 1949 file ([[references/usaf-flying-discs-1949]]) shows three notable evolutions:
@@ -86,11 +122,15 @@ SIGN was not Allied air intelligence's first attempt to consolidate unexplained-
 ## See also
 
 - [[references/usaf-flying-discs-1948]]
+- [[references/project-sign-incident-summaries-173-233]] — the Sep 1948 – Jan 1949 incident-numbered intake stream
 - [[references/usaf-flying-discs-1949]]
 - [[references/usafe-tt1524-1948-11]]
 - [[references/foo-fighters-shaef-1944-1945]]
 - [[concepts/fsr-200-4-reporting-regulation]]
 - [[concepts/eti-attribution-statements]]
+- [[concepts/green-fireballs-new-mexico]] — the Dec 1948 NM cluster surfaced inside the 173–233 bundle
+- [[concepts/uap-aircraft-engagement]] — engagement-class behavior, 1948 precedent updated
+- [[entities/lincoln-la-paz]] — UNM analyst on Inc 227
 - [[projects/uap/uap]]
 - [[entities/air-materiel-command]]
 - [[entities/military-air-transport-service]]
