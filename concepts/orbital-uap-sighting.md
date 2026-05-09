@@ -3,7 +3,7 @@ title: Orbital UAP Sighting
 category: concepts
 tags: [uap, witness, pattern, nasa]
 aliases: [orbital sighting, on-orbit UAP, astronaut UAP witness, manned-spaceflight UAP]
-sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json]
+sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json]
 summary: Working concept page for on-orbit astronaut-witness UAP-adjacent observations; structurally distinct from atmospheric / ground sightings. Three corpus entries — GT-7 1965 (positive), Apollo 17 d6 1973 (null + keyword-false-positive), Apollo 17 d5 1973 (null, no keyword).
 provenance:
   extracted: 0.25

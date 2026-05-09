@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T18:00:00Z",
+  "updated": "2026-05-10T19:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -588,6 +588,34 @@
         "hot.md"
       ]
     },
+    "sources/nasa-uap-d3-gemini-7-transcript-1965.json": {
+      "ingested_at": "2026-05-10T19:00:00Z",
+      "size_bytes": 5443,
+      "content_hash": "sha256:b2b39f164c3d01a89491e9fc515aaa01659bf46ed01c4ca263c570332eea1c02",
+      "source_id": "nara-rg255-t-00763-r1b-gemini-7-pao-1965-12-04-d3-variant-ocr",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "duplicate_of": "sources/255_t_763_r1b_transcripts.json",
+      "duplicate_kind": "variant-ocr-pass-of-same-tape",
+      "pages_created": [
+        "references/nasa-uap-d3-gemini-7-transcript-1965.md"
+      ],
+      "pages_updated": [
+        "references/nasa-pao-t-00763-r1b-gemini-7-1965.md",
+        "references/sighting-gemini-7-bogey-1965-12-04.md",
+        "concepts/orbital-uap-sighting.md",
+        "entities/frank-borman.md",
+        "entities/jim-lovell.md",
+        "entities/gemini-7.md",
+        "entities/nasa.md",
+        "entities/nasa-pao.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
+    },
     "sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json": {
       "ingested_at": "2026-05-10T18:00:00Z",
       "size_bytes": 4047,
@@ -615,13 +643,13 @@
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T18:00:00Z",
-      "sources_ingested": 22
+      "last_ingested": "2026-05-10T19:00:00Z",
+      "sources_ingested": 23
     }
   },
   "stats": {
-    "total_sources_ingested": 24,
-    "total_pages": 150,
+    "total_sources_ingested": 25,
+    "total_pages": 151,
     "total_projects": 1,
     "last_full_rebuild": null
   }

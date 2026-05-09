@@ -3,7 +3,7 @@ title: Sighting — Gemini 7 "Bogey at 10 O'clock High" (4 Dec 1965, ~04h24m MET
 category: references
 tags: [uap, sighting, 1965, nasa]
 aliases: [GT-7 bogey sighting, Borman bogey, Gemini 7 UFO]
-sources: [sources/255_t_763_r1b_transcripts.json]
+sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json]
 summary: At ~04h24m MET on 4 Dec 1965, GT-7 CDR Frank Borman calls "a bogey at ten o'clock high" on air-to-ground voice; alongside the spent Titan-II booster and a separately-observed cross-track particle stream.
 provenance:
   extracted: 0.7
@@ -13,7 +13,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T19:30:00Z
-updated: 2026-05-09T19:30:00Z
+updated: 2026-05-10T19:00:00Z
 ---
 
 # Sighting — Gemini 7 "Bogey at 10 O'clock High" (4 Dec 1965, ~04h24m MET)
@@ -162,7 +162,8 @@ These are real corpus extensions even if the specific bogey call resolves to a m
 
 ## See also
 
-- [[references/nasa-pao-t-00763-r1b-gemini-7-1965]] — the source artifact.
+- [[references/nasa-pao-t-00763-r1b-gemini-7-1965]] — the source artifact (canonical).
+- [[references/nasa-uap-d3-gemini-7-transcript-1965]] — second independent OCR pass of the same tape (no new factual claims).
 - [[entities/frank-borman]] — primary witness.
 - [[entities/jim-lovell]] — secondary witness.
 - [[entities/gemini-7]] — the mission.

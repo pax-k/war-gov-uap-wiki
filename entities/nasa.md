@@ -3,7 +3,7 @@ title: NASA
 category: entities
 tags: [nasa, organization, civil-agency, uap]
 aliases: [National Aeronautics and Space Administration, Mission Control, MSC Houston, Manned Spacecraft Center]
-sources: [sources/255_t_763_r1b_transcripts.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json]
+sources: [sources/255_t_763_r1b_transcripts.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json]
 summary: US civilian space agency. In the UAP corpus, NASA enters as originator of the 1965 GT-7 PAO bogey tape, the 1973 Apollo 17 Technical and Science crew-debriefing excerpts (both null), and as NARA RG 255 archival home for the 1999 COMETA Report.
 provenance:
   extracted: 0.32

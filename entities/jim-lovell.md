@@ -3,7 +3,7 @@ title: James A. Lovell Jr.
 category: entities
 tags: [person, witness, uap, nasa, astronaut]
 aliases: [Jim Lovell, James A. Lovell, Lovell, Capt James A. Lovell Jr.]
-sources: [sources/255_t_763_r1b_transcripts.json]
+sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json]
 summary: USN test pilot, NASA "Next Nine" astronaut, Pilot of Gemini 7 (Dec 1965); on the GT-7 bogey-call air-to-ground voice loop he confirmed the booster from his vantage but does not corroborate Borman's bogey on the released transcript.
 provenance:
   extracted: 0.4

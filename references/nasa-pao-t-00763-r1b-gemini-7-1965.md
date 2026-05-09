@@ -3,7 +3,7 @@ title: NASA PAO Tape T-00763(R1b) — Gemini 7 Bogey Release Commentary (4 Dec 1
 category: references
 tags: [uap, primary-source, nasa, 1965]
 aliases: [Tape T-00763 R1b, GT-7 PAO release, Borman bogey transcript, NARA RG 255 T-763 R1b]
-sources: [sources/255_t_763_r1b_transcripts.json]
+sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json]
 summary: 4-page Mistral-OCR'd NASA PAO release-commentary tape (T-00763 R1b) covering the 4 Dec 1965 Gemini 7 air-to-ground exchange in which CDR Borman reports "a bogey at 10 o'clock high" alongside booster and particle observations.
 provenance:
   extracted: 0.7
@@ -13,7 +13,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T19:30:00Z
-updated: 2026-05-09T19:30:00Z
+updated: 2026-05-10T19:00:00Z
 ---
 
 # NASA PAO Tape T-00763(R1b) — Gemini 7 Bogey Release Commentary (4 Dec 1965)
@@ -49,6 +49,8 @@ The source bundle contains two structurally different transcriptions of the same
 - **Pages 1–3** (handwritten, OCR'd) are a working / informal variant with heavy OCR artifacts: `delivered` for `debris`, `polvorok` for `polar orbit`, `Lowell` / `Bounan` / `bounan` for `Lovell` / `Borman`, `GEMINE` / `Gemyn` / `gemine` for `Gemini`, `Gemcom` / `Gem Comtrol` for `Gemini Control`, `genuine Control` for `Gemini Control`, `delta` for `polar`.
 
 These are the **same underlying audio**, not two independent witness statements. Quotations on this and downstream pages cite **page 0** as canonical and flag where the variant transcriptions disagree.
+
+A **second independent OCR pass** of the same tape was later ingested as [[references/nasa-uap-d3-gemini-7-transcript-1965|d3 — Gemini 7 PAO Tape T-00763(R1b) Transcript (Variant OCR Pass)]] (3 pages: 1 typed + 2 handwritten variant). The d3 pass confirms page 0's typed transcript and reproduces a similar (but distinct) error profile on the handwritten variant pages — including the runaway *"a small pail, a small pail..."* loop where the canonical reads *"path of the vehicle at 90 degrees"*, and *"tuthers"* (d3) vs *"trillions"* (canonical) for Lovell's booster description. The convergence of two independent OCR passes on page 0 raises confidence in the typed transcript; the divergence on pages 1–3 is **a property of the handwritten variant itself**, not of the OCR engine. ^[inferred]
 
 ## Three classes of object referenced in the transcript
 
@@ -127,6 +129,7 @@ The ambiguity at step 4–5 — Houston *immediately* offers booster-or-natural-
 
 ## See also
 
+- [[references/nasa-uap-d3-gemini-7-transcript-1965]] — second OCR pass of the same tape (3 pages); duplicate-source-only ingest, no new factual claims.
 - [[references/sighting-gemini-7-bogey-1965-12-04]] — the consolidated sighting page.
 - [[entities/frank-borman]] — primary witness.
 - [[entities/jim-lovell]] — secondary witness.

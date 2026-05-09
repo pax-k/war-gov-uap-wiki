@@ -3,7 +3,7 @@ title: NASA Public Affairs Office (PAO)
 category: entities
 tags: [nasa, organization, public-affairs, uap]
 aliases: [PAO, NASA PAO, MSC PAO, Public Affairs Office, Gemini Control PAO]
-sources: [sources/255_t_763_r1b_transcripts.json]
+sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json]
 summary: NASA's release-by-default press / commentary channel; in the UAP corpus, PAO is the originating intake-and-release node for the GT-7 bogey tape T-00763(R1b) — institutionally distinct from the SECRET/TS-default channels of every other corpus record.
 provenance:
   extracted: 0.4

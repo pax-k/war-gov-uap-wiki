@@ -3,7 +3,7 @@ title: Frank Borman
 category: entities
 tags: [person, witness, uap, nasa, astronaut]
 aliases: [Borman, Cdr Frank Borman, Col Frank F. Borman II]
-sources: [sources/255_t_763_r1b_transcripts.json]
+sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json]
 summary: USAF test pilot, NASA "Next Nine" astronaut, Command Pilot of Gemini 7 (Dec 1965); the witness who called "a bogey at ten o'clock high" on the GT-7 air-to-ground voice loop captured on PAO Tape T-00763(R1b).
 provenance:
   extracted: 0.4

@@ -3,7 +3,7 @@ title: Gemini 7
 category: entities
 tags: [nasa, mission, spacecraft, uap]
 aliases: [GT-7, Gemini VII, GT-7/6 mission]
-sources: [sources/255_t_763_r1b_transcripts.json]
+sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json]
 summary: NASA Project Gemini long-duration / rendezvous mission flown 4–18 Dec 1965 by Borman + Lovell; the GT-7 voice loop captured the wiki's first orbital UAP-adjacent record on PAO Tape T-00763(R1b).
 provenance:
   extracted: 0.5

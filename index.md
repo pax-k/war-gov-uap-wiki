@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-10T18:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-10T19:00:00Z*
 
 ## Concepts
 
@@ -116,6 +116,7 @@ title: Wiki Index
 - [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — 2-page Mistral-OCR'd excerpt (cover + transcript page 24-4) of MSC-07631 Apollo 17 Technical Crew Debriefing (4 Jan 1973); CONFIDENTIAL with auto-declass clause; corpus's first null-content orbital-NASA artifact (no UAP observation) ( #uap #primary-source #nasa #1973 #astronaut)
 - [[references/nasa-apollo-17-science-debriefing-1973]] — 3-page Mistral-OCR'd excerpt (cover + pages 119-120) of MSC-07632 Apollo 17 Crew Debriefing for Science (8 Jan 1973), prepared by MSC Science Requirements Branch; HENRY UV-astronomy testimony (Coma cluster Lyman-alpha non-detection, UV galactic background, OGO-5 follow-up); strongest null in corpus — zero UAP keywords ( #uap #primary-source #nasa #1973 #astronaut)
 - [[references/nasa-pao-t-00763-r1b-gemini-7-1965]] — 4-page NASA PAO release-commentary tape transcript (NARA RG 255) of the 4 Dec 1965 GT-7 air-to-ground voice loop containing Borman's "bogey at ten o'clock high" call ( #uap #primary-source #nasa #1965)
+- [[references/nasa-uap-d3-gemini-7-transcript-1965]] — 3-page Mistral-OCR'd variant transcription of the same NASA PAO Tape T-00763(R1b); duplicate-source-only ingest; no new factual claims, only OCR-variant evidence ( #uap #primary-source #nasa #1965 #ocr)
 - [[references/project-sign-incident-summaries-1-100]] — 209-page bundle of 100 Incident Summary Sheets (May 1947 – Jan 1948), NARA RG 38 Box 7; founding bundle of the SIGN sequential-incident stream; preserves Arnold (Inc 17), Muroc cluster (Inc 1–4), Rhodes Phoenix photo (Inc 40), Cascade Mts EM-effect (Inc 68), and Mantell sequence (Inc 33+) ( #uap #primary-source #declassified #1947 #1948)
 - [[references/project-sign-incident-summaries-101-172]] — 178-page bundle of 66 Project SIGN incident summary sheets (Jan – Oct 1948), NARA RG 38 Box 7; predecessor to the 173–233 bundle; preserves the Chiles–Whitted, Gorman, Hamel MN landing, and Norcatur cases ( #uap #primary-source #declassified #1948)
 - [[references/project-sign-incident-summaries-173-233]] — 144-page bundle of 58 Project SIGN incident summary sheets (Sep 1948 – Jan 1949), routed AMC → D/I HQ USAF on 22 Mar 1949; bridge between the Feb–Jun 1948 startup file and the Oct 1948 – Jan 1950 continuation file ( #uap #primary-source #declassified #1948)
