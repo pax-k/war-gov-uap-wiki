@@ -7,3 +7,4 @@ title: Wiki Log
 - [2026-05-09T12:50:15Z] INIT vault_path="/Users/pax/Documents/Obsidian/obsidian-wiki" categories=concepts,entities,skills,references,synthesis,journal,projects
 - [2026-05-09T12:58:46Z] INGEST source="_raw/18_6369445_general_1948_vol_1.json" pages_created=13 pages_updated=0 mode=raw project=uap source_type=document
 - [2026-05-09T13:13:27Z] CROSS_LINK pages_scanned=13 links_added=7 pages_modified=6 orphans_remaining=0 misc_affinity_updated=0 promotion_candidates=0
+- [2026-05-09T13:33:54Z] INGEST source="sources/western_us_event_slides_5.08.2026.json" pages_updated=1 pages_created=8 mode=append project=uap source_type=document

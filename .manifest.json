@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T12:58:46Z",
+  "updated": "2026-05-09T13:33:54Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -31,18 +31,42 @@
         "synthesis/horten-thesis-vs-disc-sightings.md"
       ],
       "pages_updated": []
+    },
+    "sources/western_us_event_slides_5.08.2026.json": {
+      "ingested_at": "2026-05-09T13:33:54Z",
+      "size_bytes": 7135,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:28fd1cda66c32314bd0176ffde90363ca51d9fde6748f4ed450b4df205b177b8",
+      "source_id": "western-us-event-slides-2026-05-08",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/western-us-event-2026.md",
+        "references/sighting-orbs-launching-orbs-western-us.md",
+        "references/sighting-fiery-orb-western-us.md",
+        "references/sighting-dark-kite-western-us.md",
+        "references/sighting-transparent-kite-western-us.md",
+        "entities/aaro.md",
+        "concepts/orb-phenomenon.md",
+        "concepts/transparent-uap.md",
+        "synthesis/federal-le-uap-witness-pattern.md"
+      ],
+      "pages_updated": [
+        "projects/uap/uap.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T12:58:46Z",
-      "sources_ingested": 1
+      "last_ingested": "2026-05-09T13:33:54Z",
+      "sources_ingested": 2
     }
   },
   "stats": {
-    "total_sources_ingested": 1,
-    "total_pages": 13,
+    "total_sources_ingested": 2,
+    "total_pages": 22,
     "total_projects": 1,
     "last_full_rebuild": null
   }
