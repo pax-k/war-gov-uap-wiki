@@ -4,12 +4,12 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T16:15:00Z*
+*This index is automatically maintained. Last updated: 2026-05-09T16:30:00Z*
 
 ## Concepts
 
 - [[concepts/balls-of-fire-red]] — UK Air Ministry DDI2 filing term for the WWII night-light reports the USAAF called foo fighters ( #uap #ww2 #intelligence)
-- [[concepts/diplomatic-channel-uap-reporting]] — Foreign-intelligence-service inquiry routed through a US embassy to a US combatant command; distinct from operational and policy-staff intake patterns ( #uap #policy #diplomatic)
+- [[concepts/diplomatic-channel-uap-reporting]] — Umbrella institutional pattern for embassy-mediated UAP cables; two sub-patterns — foreign-liaison-inquiry (1985 PNG) and citizen-witness-relay (1994 Kazakhstan) ( #uap #policy #diplomatic)
 - [[concepts/flak-bombe-hypothesis]] — A.D.I.(K) Felkin's 1945 candidate explanation pointing to A.D.I.(K) Report No. 562/1944 ( #uap #ww2 #intelligence)
 - [[concepts/flying-disc-reporting-protocol]] — The 10-element observational template Cabell mandated for all 1948 USAF disc-sighting reports ( #uap #history #protocol)
 - [[concepts/foo-fighter-phenomenon]] — WWII Allied aircrew name for unexplained nocturnal lights pacing combat aircraft ( #uap #ww2 #morphology)
@@ -28,6 +28,7 @@ title: Wiki Index
 
 - [[entities/415th-night-fighter-squadron]] — USAAF night-fighter unit whose Dec 1944 – Jan 1945 sortie reports introduced the term "foofighter" into official intelligence files ( #uap #ww2 #usaaf)
 - [[entities/aaro]] — All-domain Anomaly Resolution Office; modern DoD UAP intake/assessment authority ( #usaf #organization #uap)
+- [[entities/amembassy-dushanbe]] — US Embassy in Dushanbe, Tajikistan; originating post of the 31 Jan 1994 DOS cable on the Tajik Air UAP encounter over Kazakhstan ( #state-department #embassy #organization)
 - [[entities/amembassy-port-moresby]] — US Embassy in Port Moresby, PNG; originating post of the 28 Jan 1985 DOS cable on PNG UAP overflights ( #state-department #embassy #organization)
 - [[entities/air-materiel-command]] — USAF command at Wright-Patterson AFB; designated central agency for 1948 Flying Disc reports ( #usaf #organization #history)
 - [[entities/c-m-grierson]] — Air Commodore, A.C. of S. A-2, SHAEF Air Staff; routed the 1944–45 foo-fighter correspondence ( #uap #ww2 #person #raf)
@@ -39,6 +40,7 @@ title: Wiki Index
 - [[entities/png-national-intelligence-organization]] — Papua New Guinea's national intelligence service; initiator of the 28 Jan 1985 inquiry to AMEMBASSY Port Moresby ( #intelligence #papua-new-guinea #organization)
 - [[entities/robert-f-packard]] — State Department / OISA officer; addressee of the 1963 NASC memo ( #person #state-department #policy)
 - [[entities/shaef-air-staff]] — Allied combined-air-forces intelligence/operations hub (1944–45) that routed the foo-fighter correspondence ( #uap #ww2 #organization)
+- [[entities/tajik-air]] — Tajikistan flag carrier; operator of the Boeing 747SP whose American crew reported the 27 Jan 1994 UAP encounter ( #airline #tajikistan #organization)
 - [[entities/uk-air-ministry-ddi2]] — UK Air Ministry intelligence branches (DDI2 + A.D.I.(K)) that handled the British-side reply ( #uap #ww2 #organization)
 - [[entities/uscincpac]] — US Commander-in-Chief Pacific (Honolulu); action addressee of the 28 Jan 1985 DOS cable on PNG overflights ( #usaf #organization #dod)
 - [[entities/wright-patterson-afb]] — Dayton, OH base; physical hub of the 1948 USAF UFO collection effort ( #usaf #location #history)
@@ -49,6 +51,7 @@ title: Wiki Index
 
 ## References
 
+- [[references/dos-cable-kazakhstan-1994-01]] — Declassified 3-page UNCLAS US State Department cable (31 Jan 1994, DUSHANBE 00259) on Tajik Air pilots' UAP encounter at FL410 over Kazakhstan ( #uap #primary-source #state-department)
 - [[references/dos-cable-papua-new-guinea-1985-01]] — Declassified 3-page US State Department cable (28 Jan 1985, PORT M 00199) on PNG NIO inquiry into 24 Jan 1985 high-altitude overflights ( #uap #primary-source #state-department)
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
 - [[references/loedding-flying-disc]] — US AMC in-house disc-shaped aircraft concept (drawing LD-2), 1947 ( #uap #aviation #usaf)
@@ -61,6 +64,7 @@ title: Wiki Index
 - [[references/sighting-hobson-ohio-1948-05]] — Night-time multi-witness phosphorescent disc sighting by NY Central rail workers ( #uap #sighting #ohio)
 - [[references/sighting-japan-glow-1949-01]] — Six-station Japanese CMO multi-vantage glow phenomenon with delayed thunder-roar (25 Jan 1949) ( #uap #sighting #japan)
 - [[references/sighting-kansas-city-1950-01]] — Two motionless brilliant-white spheres flashing orange/red over Kansas City KS / Olathe KS (6 Jan 1950) ( #uap #sighting #kansas)
+- [[references/sighting-kazakhstan-1994-01-27]] — 27 Jan 1994 ~40-min UAP encounter at FL410 over Kazakhstan by 3 American Tajik Air pilots; circles/corkscrews/90° turns + ~100,000-ft contrails ( #uap #sighting #kazakhstan)
 - [[references/sighting-kodiak-alaska-1949-04]] — Multi-witness greenish-blue ball-of-fire over US Naval Operating Base Kodiak (8 Apr 1949) — earliest Navy-originated UAP report ( #uap #sighting #alaska #navy)
 - [[references/sighting-medford-or-1949-08]] — 70-min theodolite + binoculars sighting of shiny high-altitude objects with detected wings (8 Aug 1949) ( #uap #sighting #oregon)
 - [[references/sighting-mountain-home-id-1949-07]] — Seven delta-wing objects in V-formation, unbanked 180° turn at 600+ mph, no sound (24 Jul 1949) ( #uap #sighting #idaho)

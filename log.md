@@ -14,3 +14,4 @@ title: Wiki Log
 - [2026-05-09T14:23:37Z] QUERY query="arguments against UAP-as-psyop hypothesis given detail/personnel/reports" result_pages=15 mode=normal escalated=false
 - [2026-05-09T15:30:00Z] INGEST source="sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json" pages_created=11 pages_updated=5 mode=append project=uap source_type=document
 - [2026-05-09T16:15:00Z] INGEST source="sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json" pages_created=5 pages_updated=1 mode=append project=uap source_type=document
+- [2026-05-09T16:30:00Z] INGEST source="sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json" pages_created=4 pages_updated=2 mode=append project=uap source_type=document

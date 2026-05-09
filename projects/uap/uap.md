@@ -3,8 +3,8 @@ title: UAP
 category: project
 tags: [uap, history, intelligence, archive]
 source_path: _raw/ (declassified UAP archive volumes), sources/ (Mistral-OCR'd briefings and witness statements)
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json]
-summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN, a 1963 NASC policy memo, a 1985 DOS Papua New Guinea cable, the 2026 AARO Western US event, and a 2025 SECRET//NOFORN intel-official witness statement.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json]
+summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN, a 1963 NASC policy memo, two 1985 + 1994 DOS diplomatic-channel cables, the 2026 AARO Western US event, and a 2025 SECRET//NOFORN intel-official witness statement.
 provenance:
   extracted: 0.5
   inferred: 0.5
@@ -13,7 +13,7 @@ base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T16:15:00Z
+updated: 2026-05-09T16:30:00Z
 ---
 
 # UAP
@@ -48,9 +48,13 @@ A research project distilling declassified primary-source archives on Unidentifi
 
 - [[references/usper-statement-2025]] — Three-page redacted SECRET//NOFORN witness statement by a senior US intelligence official describing a multi-hour helicopter-borne orb encounter at a redacted facility. Distinct from the 2026 Western U.S. event (different anonymization scheme, different witness class, different sensor configuration). The single sighting narrative is at [[references/sighting-helicopter-orb-encounter-2025]].
 
-### 1985 DOS Papua New Guinea overflight cable (NEW)
+### 1985 DOS Papua New Guinea overflight cable
 
-- [[references/dos-cable-papua-new-guinea-1985-01]] — 3-page declassified US State Department cable (`PORT M 00199`, 28 Jan 1985, AMEMBASSY Port Moresby → USCINCPAC) reporting a [[entities/png-national-intelligence-organization|PNG NIO]] inquiry into [[references/sighting-papua-new-guinea-1985-01-24|24 Jan 1985 high-altitude overflights]] of Papua New Guinea. Earliest **diplomatic-channel** UAP-adjacent artifact in the corpus, and the only one currently bridging the 1963 NASC policy layer and the modern AARO era. Also the corpus's earliest use of the phrase "**unidentified aerial phenomena**" as a category label. ^[inferred]
+- [[references/dos-cable-papua-new-guinea-1985-01]] — 3-page declassified US State Department cable (`PORT M 00199`, 28 Jan 1985, AMEMBASSY Port Moresby → USCINCPAC) reporting a [[entities/png-national-intelligence-organization|PNG NIO]] inquiry into [[references/sighting-papua-new-guinea-1985-01-24|24 Jan 1985 high-altitude overflights]] of Papua New Guinea. First **diplomatic-channel** UAP-adjacent artifact in the corpus (sub-pattern A, foreign-liaison-inquiry). Also the corpus's earliest use of the phrase "**unidentified aerial phenomena**" as a category label. ^[inferred]
+
+### 1994 DOS Kazakhstan / Tajik Air UFO cable (NEW)
+
+- [[references/dos-cable-kazakhstan-1994-01]] — 3-page declassified UNCLAS US State Department cable (`DUSHANBE 00259`, 31 Jan 1994, AMEMBASSY Dushanbe → SECSTATE, signed `ESCUDERO`) reporting three American [[entities/tajik-air|Tajik Air]] pilots' (Capt **Ed Rhodes** + 2 ex-PanAm crew) **27 Jan 1994 ~40-min UAP encounter at FL410 over Kazakhstan** (45°N 55°E) — circles, corkscrews, 90° turns at very high G's, plus contrails at ~100,000 ft. Single-event sighting page at [[references/sighting-kazakhstan-1994-01-27]]. Second diplomatic-channel artifact (sub-pattern B, citizen-witness-relay) and the **first explicit witness-side ETI attribution** in the corpus's primary-source documents. Cable is in the same release tranche `CSP-2025-00040` as the 1985 PNG cable (item identifiers `B-...027` / `B-...028`). ^[inferred]
 
 ### 1963 NASC policy memo
 
@@ -77,12 +81,14 @@ A research project distilling declassified primary-source archives on Unidentifi
 
 - [[entities/aaro|AARO]] — All-domain Anomaly Resolution Office; modern intake/assessment authority. Stub page; fills out as more AARO-handled material is ingested.
 
-## Diplomatic-channel layer (1985 PNG) (NEW)
+## Diplomatic-channel layer (1985 PNG + 1994 Kazakhstan)
 
-- [[entities/amembassy-port-moresby]] — Originating US embassy of the 1985 PNG cable.
-- [[entities/png-national-intelligence-organization]] — Foreign-government intelligence service that initiated the informal inquiry.
-- [[entities/uscincpac]] — Action addressee combatant command.
-- [[concepts/diplomatic-channel-uap-reporting]] — The institutional pattern this cable opens; structurally distinct from the operational, wartime-operational, policy-staff, and modern multi-track patterns.
+- [[concepts/diplomatic-channel-uap-reporting]] — The umbrella institutional pattern; structurally distinct from the operational, wartime-operational, policy-staff, and modern multi-track patterns. Now an umbrella with two sub-patterns: **A (foreign-liaison-inquiry)** — established by the 1985 PNG case; and **B (citizen-witness-relay)** — established by the 1994 Kazakhstan case.
+- [[entities/amembassy-port-moresby]] — Originating US embassy of the 1985 PNG cable (sub-pattern A).
+- [[entities/png-national-intelligence-organization]] — Foreign-government intelligence service that initiated the 1985 informal inquiry.
+- [[entities/uscincpac]] — Action addressee combatant command for the 1985 cable.
+- [[entities/amembassy-dushanbe]] — Originating US embassy of the 1994 Kazakhstan / Tajik Air cable (sub-pattern B). (NEW)
+- [[entities/tajik-air]] — Foreign commercial flag carrier whose American flight deck was the witness source for the 1994 cable. (NEW)
 
 ## Policy-staff layer (EOP, 1963)
 
@@ -146,6 +152,7 @@ A research project distilling declassified primary-source archives on Unidentifi
 | 22 August 1949, 1845P | Seattle, WA | 3 NCO controllers (143rd NG ACW Sqdn) + 2 ARTC controllers | [[references/sighting-seattle-1949-08]] |
 | 6 January 1950, night | Kansas City KS / Olathe KS | 2 Bendix Aviation employees (1 pilot) | [[references/sighting-kansas-city-1950-01]] |
 | 24 January 1985, evening (~1900 + 2200 local) | Papua New Guinea (Wewak / Angoram / various) | Air Niugini commercial pilot (radar) + Wewak residents + multi-vantage contrail witnesses | [[references/sighting-papua-new-guinea-1985-01-24]] |
+| 27 January 1994, ~dark + sunrise | Over Kazakhstan (~45°N 55°E), FL410 | Tajik Air Capt Ed Rhodes + 2 American ex-PanAm crew on Boeing 747SP | [[references/sighting-kazakhstan-1994-01-27]] |
 | 2025, single night, ~22:00–23:20 | Redacted US facility | Senior US intel official + state-org pilots + LP/OP team (FLIR + NVG + naked eye) | [[references/sighting-helicopter-orb-encounter-2025]] |
 | Unspecified, recent (≤2026) | Western U.S. | federal LE USPER1–USPER6 | [[references/sighting-orbs-launching-orbs-western-us]] |
 | Unspecified, recent (≤2026) | Western U.S. | federal LE USPER5, USPER6 | [[references/sighting-fiery-orb-western-us]] |
@@ -175,6 +182,10 @@ A research project distilling declassified primary-source archives on Unidentifi
 - Locate / ingest the **USCINCPAC reply** to [[references/dos-cable-papua-new-guinea-1985-01|PORT M 00199]], plus any other DOS cables in release tranche `CSP-2025-00040`. ^[open]
 - Confirm `GARDNER` (signature on PORT M 00199) = Ambassador Paul F. Gardner. ^[ambiguous]
 - Identify candidate non-US air assets (Soviet, Indonesian, Australian, civilian) for the 6–8 aircraft south-to-north 2200-local wave on 24 Jan 1985 over PNG.
+- Confirm `ESCUDERO` (signature on DUSHANBE 00259) = Ambassador Stanley T. Escudero (1992–95). ^[ambiguous]
+- Locate the **photos** Capt Ed Rhodes took with the pocket Olympus camera on 27 Jan 1994, and any **Tajikistan-Desk (Lowry Taylor)** follow-on traffic. ^[open]
+- Cross-check Russian air-defense / Roscosmos / Kazakh civil-aviation records for any 27 Jan 1994 anomalous-track event in the 45°N 55°E area. ^[open]
+- Determine whether `TSAP` is the conventional DOS subject-tag for unidentified aerial phenomena reporting (alongside `EAIR`), or coincidental in the 1994 cable. ^[ambiguous]
 
 ## See also
 

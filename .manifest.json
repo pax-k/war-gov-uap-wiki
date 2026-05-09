@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T16:15:00Z",
+  "updated": "2026-05-09T16:30:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -102,7 +102,7 @@
         "projects/uap/uap.md"
       ]
     },
-    "sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json": {
+    "sources/331_120752_numeric_files_1944\u20131945_37153_german_armament_equipment_documents.json": {
       "ingested_at": "2026-05-09T14:07:00Z",
       "size_bytes": 24313,
       "modified_at": "2026-05-09T13:07:43Z",
@@ -180,6 +180,26 @@
       "pages_updated": [
         "projects/uap/uap.md"
       ]
+    },
+    "sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json": {
+      "ingested_at": "2026-05-09T16:30:00Z",
+      "size_bytes": 4667,
+      "modified_at": "2026-05-09T16:07:44Z",
+      "content_hash": "sha256:8b5f555ea9e5b3482ac3741d54e5b1fa70ddd6a73d84a24f47827226e9405272",
+      "source_id": "dos-cable-dushanbe-00259-1994-01-31",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/dos-cable-kazakhstan-1994-01.md",
+        "references/sighting-kazakhstan-1994-01-27.md",
+        "entities/amembassy-dushanbe.md",
+        "entities/tajik-air.md"
+      ],
+      "pages_updated": [
+        "concepts/diplomatic-channel-uap-reporting.md",
+        "projects/uap/uap.md"
+      ]
     }
   },
   "projects": {
@@ -190,8 +210,8 @@
     }
   },
   "stats": {
-    "total_sources_ingested": 7,
-    "total_pages": 61,
+    "total_sources_ingested": 8,
+    "total_pages": 65,
     "total_projects": 1,
     "last_full_rebuild": null
   }
