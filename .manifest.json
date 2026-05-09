@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T20:00:00Z",
+  "updated": "2026-05-10T22:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -663,18 +663,49 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json": {
+      "ingested_at": "2026-05-10T22:00:00Z",
+      "size_bytes": 12997,
+      "content_hash": "sha256:ef7d736c50ff247e4076f8b2768ad2e54596f493e904f3428976035c6691456c",
+      "source_id": "nasa-apollo-11-technical-crew-debriefing-msc-1969-07-31-d4",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "signal_class": "ground-floor-uap",
+      "mechanism_class": "E",
+      "pages_created": [
+        "references/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.md",
+        "references/sighting-apollo-11-cylinder-1969-07.md",
+        "concepts/cosmic-ray-light-flashes.md",
+        "concepts/saturn-v-s-ivb-stage.md",
+        "concepts/passive-thermal-control.md",
+        "entities/apollo-11.md",
+        "entities/neil-armstrong.md",
+        "entities/buzz-aldrin.md",
+        "entities/michael-collins.md"
+      ],
+      "pages_updated": [
+        "concepts/orbital-uap-sighting.md",
+        "entities/nasa.md",
+        "entities/harrison-schmitt.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T20:00:00Z",
-      "sources_ingested": 24
+      "last_ingested": "2026-05-10T22:00:00Z",
+      "sources_ingested": 25
     }
   },
   "stats": {
-    "total_sources_ingested": 26,
-    "total_pages": 156,
+    "total_sources_ingested": 27,
+    "total_pages": 165,
     "total_projects": 1,
     "last_full_rebuild": null
   }

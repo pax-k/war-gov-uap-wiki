@@ -13,7 +13,7 @@ base_confidence: 0.42
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T18:00:00Z
+updated: 2026-05-10T22:00:00Z
 ---
 
 # Harrison H. Schmitt
@@ -35,7 +35,7 @@ In the wiki's UAP corpus, Schmitt enters as a **named speaker** on the **[[refer
 
 ### What it does *not* establish
 
-- **No UAP / unidentified-object observation.** The light flashes are a **documented neuro-optical effect of cosmic-ray ions traversing the retina**, with a NASA-instrumented investigative apparatus (ALFMED) already in place by Apollo 17. ^[inferred]
+- **No UAP / unidentified-object observation.** The light flashes are a **documented neuro-optical effect of cosmic-ray ions traversing the retina**, with a NASA-instrumented investigative apparatus (ALFMED) already in place by Apollo 17. ^[inferred] **The phenomenon was already astronaut-class characterized 3.5 years earlier on [[entities/apollo-11|Apollo 11]]** by [[entities/buzz-aldrin|Aldrin]] (primary first-principles observer) and [[entities/neil-armstrong|Armstrong]] (corroborating witness; articulator of the *"neutron or some kind of an atomic particle that would be in the visible spectrum"* model statement) — see [[concepts/cosmic-ray-light-flashes]] and [[references/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969]]. The 3.5-year arc Apollo 11 → Apollo 17 documents NASA's response evolving from "we should investigate this" (1969) to "we have instrumented an experiment to characterize this" (1972). ^[inferred]
 - **The "flash on the lunar surface"** observation is **not resolved on the excerpt** — Schmitt notes it as one of the continuous light-flash sequence rather than as a discrete TLP report. ^[ambiguous]
 
 ## Mission record (UAP-relevant only)
