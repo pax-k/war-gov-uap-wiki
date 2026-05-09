@@ -3,17 +3,17 @@ title: Diplomatic-Channel UAP Reporting
 category: concepts
 tags: [uap, policy, intelligence, diplomacy, institutional]
 aliases: [diplomatic UAP intake, embassy UAP reporting, foreign-government UAP inquiry, citizen-witness cable relay]
-sources: [sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/341_110677_numerical_file_5-2500.json, sources/059uap00012.json]
-summary: An institutional pattern in which a US diplomatic post (embassy or air-attaché office) aggregates a UAP-adjacent narrative from outside the standard US-military intake stream and forwards it up its parent department. Sub-patterns now include foreign-liaison-inquiry, citizen-witness-relay, and (sibling) air-attaché HUMINT. Negative-anchor: 2004 Ashgabat NGO cable.
+sources: [sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/341_110677_numerical_file_5-2500.json, sources/059uap00012.json, sources/059uap00011.json]
+summary: An institutional pattern in which a US diplomatic post (embassy or air-attaché office) aggregates a UAP-adjacent narrative from outside the standard US-military intake stream and forwards it up its parent department. Sub-patterns now include foreign-liaison-inquiry, citizen-witness-relay, and (sibling) air-attaché HUMINT. Two negative anchors (2004 Ashgabat NGO; 2001 Moscow rhetorical UFO).
 provenance:
-  extracted: 0.34
-  inferred: 0.62
+  extracted: 0.32
+  inferred: 0.64
   ambiguous: 0.04
-base_confidence: 0.55
+base_confidence: 0.6
 lifecycle: draft
-lifecycle_changed: 2026-05-09
+lifecycle_changed: 2026-05-10
 created: 2026-05-09T16:15:00Z
-updated: 2026-05-09T23:30:00Z
+updated: 2026-05-10T00:00:00Z
 ---
 
 # Diplomatic-Channel UAP Reporting
@@ -44,17 +44,34 @@ This pattern is **distinct** from the four other UAP-reporting institutional pat
 
 The diplomatic-channel pattern is structurally **the most asymmetric** of the five: the US embassy aggregates without analyzing, forwards without resolving, and the interpretive layer never closes inside the artifact itself.
 
-## Negative anchor — 2004 Ashgabat NGO cable
+## Negative anchors — two structurally distinct boundary cases
 
-The wiki holds a third UAP-keyword-matched DOS cable that **does not** instantiate this umbrella: [[references/dos-cable-turkmenistan-2004-11|ASHGABAT 1028 (12 Nov 2004)]] from [[entities/amembassy-ashgabat|AMEMBASSY Ashgabat]]. Its subject — *"TURKMENISTAN, CIVIL SOCIETY AND UFOS"* — refers not to a UAP narrative but to an NGO whose name is the [[entities/union-of-ufologists-turkmenabat|Union of UFOlogists of Turkmenabat]]. The cable is a USAID grant-assessment record; the only UAP-substantive line is UOU President Ovezberdy Muradov's uncorroborated, self-serving, and internally contradictory claim that *"the Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen airspace, but he said there had been no confirmed sightings of UFOs in Turkmenistan."* ^[ambiguous]
+The wiki now holds **two UAP-keyword-matched DOS cables** that **do not** instantiate this umbrella, and they are **structurally distinct from each other**. Together they ground a separate concept page — [[concepts/figurative-ufo-rhetoric]] — that names the typology of non-UAP "UFO" appearances in cable traffic.
 
-This cable is the umbrella's **negative anchor**: it shows that the FOIA-release universe of UAP-keyword DOS cables is not coextensive with the diplomatic-channel UAP intake pattern. FOIA selects on keyword (including the cable's *name* / *subject-line text*); the umbrella selects on **payload** (a UAP narrative being aggregated and forwarded). One does not imply the other. ^[inferred]
+### Negative anchor 1 — 2001 Moscow rhetorical-trope cable
 
-Implications:
+[[references/dos-cable-russia-georgia-2001-10|MOSCOW 13169 (30 Oct 2001)]] from [[entities/amembassy-moscow|AMEMBASSY Moscow]], signed `VERSHBOW`, classified by `POLMINCOUNS GEORGE KROL` under E.O. 12958 §1.5(B/D). The cable's substantive subject is **Russian airspace violations of Georgia and Russian foreign-ministry denials thereof** (Kodori Gorge bombings 28–29 Oct 2001). The word "UFO" appears in the cable as a **rhetorical / sarcastic device**:
 
-- **Do not infer a sub-pattern C from this cable.** No UAP narrative is forwarded; no foreign service is in the loop; no US-citizen aircrew is the witness; no asset query, witness probe, or interpretive question is posed. The cable does not share the umbrella's defining payload.
-- **Cross-corpus tag-schema observation strengthens.** The 2004 Ashgabat cable carries TAGS `AORC, TSPA, PREL, PGOV, EAID, OSCI, TX` — no `UFO` tag. The schema's substantive-routing principle (UAP matters route under their substantive bureau, not under a UAP-specific tag) holds even in cases where "UFO" appears in the cable's subject-line text. Now 3-of-3.
-- **Downstream synthesis must not silently inflate the diplomatic-channel UAP-cable count.** Pages that reference this concept should cite the 1985 PNG and 1994 Kazakhstan cables as the substantive corpus and treat the 2004 Ashgabat cable as a boundary case.
+- In the subject line *"UFOS OVER GEORGIA: STRANGE ENCOUNTERS OF AN MFA KIND"* — a film-allusion flourish (after Spielberg's 1977 *Close Encounters of the Third Kind*) framing a Russian-MFA denial as absurd. ^[inferred]
+- In the cable body, in a verbatim demarche by [[entities/russia-mfa|Russian MFA]] Georgia desk chief Tereoken: *"reports of planes in the area might as well have been about 'UFOs.'"* ^[extracted]
+- In Vershbow's COMMENT (¶8) **explicitly dismissing** the trope: *"TO POSIT THAT THEY COULD BE UFOS WOULD BE HUMOROUS IF IT WERE NOT FOR THE SERIOUSNESS OF THE VIOLATIONS."* ^[extracted]
+
+This is **figurative / Type 2** boundary case. The cable does not contain UAP narrative payload; it contains UAP-language deployed as a denial register by a foreign-government counterpart and explicitly rejected by the US ambassador.
+
+### Negative anchor 2 — 2004 Ashgabat NGO cable
+
+[[references/dos-cable-turkmenistan-2004-11|ASHGABAT 1028 (12 Nov 2004)]] from [[entities/amembassy-ashgabat|AMEMBASSY Ashgabat]]. Its subject — *"TURKMENISTAN, CIVIL SOCIETY AND UFOS"* — refers not to a UAP narrative but to an NGO whose name is the [[entities/union-of-ufologists-turkmenabat|Union of UFOlogists of Turkmenabat]]. The cable is a USAID grant-assessment record; the only UAP-substantive line is UOU President Ovezberdy Muradov's uncorroborated, self-serving, and internally contradictory claim that *"the Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen airspace, but he said there had been no confirmed sightings of UFOs in Turkmenistan."* ^[ambiguous]
+
+This is **referential / Type 1** boundary case (the cable's subject entity has "UFO" in its proper name).
+
+### Joint implications
+
+- **FOIA-release universe ≠ umbrella corpus.** FOIA selects on keyword (subject-line text or referenced-entity name); the umbrella selects on **payload** (a UAP narrative being aggregated and forwarded). One does not imply the other. ^[inferred]
+- **Two distinct keyword-match mechanisms** drive the boundary-case set: referential (Type 1, NGO name) and figurative (Type 2, rhetorical trope). See [[concepts/figurative-ufo-rhetoric]] for the consolidated typology.
+- **Do not infer a sub-pattern C from either cable.** Neither forwards a UAP narrative; neither involves a foreign service or US-citizen aircrew as a witness; neither poses an asset query, witness probe, or interpretive question.
+- **Cross-corpus tag-schema observation strengthens to 4-of-4.** The 1985 cable carries `MARR/PP`; the 1994 cable `TSAP, EAIR, KZ, TI, TAJIK AIR, (RHODES, ED)`; the 2001 cable `PREL, MARR, KCFE, UN, OSCE, GG, RS`; the 2004 cable `AORC, TSPA, PREL, PGOV, EAID, OSCI, TX` — no `UFO` tag in any of the four. The schema's substantive-routing principle holds across all three sub-categories: substantive UAP cables, Type-1 boundary cases, and Type-2 boundary cases. ^[inferred]
+- **Bureau-routing observation extends to 4 unique bureaus.** PM (1985), OES/S (1994), **IO** (2001), EUR/CACEN (2004) — all four cables route through different action bureaus, consistent with the hypothesis that bureau routing tracks **what question the embassy is asking HQ** rather than UAP keyword presence. ^[inferred]
+- **Downstream synthesis must not silently inflate the diplomatic-channel UAP-cable count.** Pages that reference this concept should cite the 1985 PNG and 1994 Kazakhstan cables as the substantive corpus and treat the 2001 Moscow and 2004 Ashgabat cables as boundary cases.
 
 ## Sub-patterns
 
@@ -122,14 +139,15 @@ The institutional **family** is still "UAP-adjacent reports gathered by a US dip
 |---|---|---|---|---|---|---|
 | [[references/dos-cable-papua-new-guinea-1985-01\|PORT M 00199]] | 28 Jan 1985 | [[entities/png-national-intelligence-organization\|PNG NIO]] | [[entities/amembassy-port-moresby\|AMEMBASSY Port Moresby]] | EAP/PIA + PM/RSA | [[entities/uscincpac\|USCINCPAC]] J3 + POLAD (action) | "No US aircraft in PNG airspace 24 Jan 1985." Reply not in corpus. ^[open] |
 | [[references/dos-cable-kazakhstan-1994-01\|DUSHANBE 00259]] | 31 Jan 1994 | US-citizen Tajik Air aircrew (Capt Ed Rhodes + 2) | [[entities/amembassy-dushanbe\|AMEMBASSY Dushanbe]] | OES/S | none on action; CIA + DIA on INFO | "We have no opinion and report the above for what it may be worth." Follow-on photos / Tajikistan-Desk traffic not in corpus. ^[open] |
-| [[references/dos-cable-turkmenistan-2004-11\|ASHGABAT 1028]] *(boundary case — outside umbrella)* | 12 Nov 2004 | NGO president (no UAP narrative) | [[entities/amembassy-ashgabat\|AMEMBASSY Ashgabat]] | EUR/CACEN | none (info to CIA, DIA, NSC, USCENTCOM, SECDEF, JS) | NGO grant assessment: *"Crazy? Like a fox; and worthy of USG attention and support."* No UAP determination because no UAP narrative. ^[extracted] |
+| [[references/dos-cable-russia-georgia-2001-10\|MOSCOW 13169]] *(boundary case — outside umbrella; figurative-UFO rhetoric)* | 30 Oct 2001 | Russian MFA officials Mamedov + Tereoken (no UAP narrative; UFO trope as denial device) | [[entities/amembassy-moscow\|AMEMBASSY Moscow]] | IO | none on action; SECDEF + Joint Staff on INFO | "TO POSIT THAT THEY COULD BE UFOS WOULD BE HUMOROUS IF IT WERE NOT FOR THE SERIOUSNESS OF THE VIOLATIONS." Explicit dismissal of UFO trope; substantive disposition is bilateral state-relations, not UAP. ^[extracted] |
+| [[references/dos-cable-turkmenistan-2004-11\|ASHGABAT 1028]] *(boundary case — outside umbrella; NGO-name keyword)* | 12 Nov 2004 | NGO president (no UAP narrative) | [[entities/amembassy-ashgabat\|AMEMBASSY Ashgabat]] | EUR/CACEN | none (info to CIA, DIA, NSC, USCENTCOM, SECDEF, JS) | NGO grant assessment: *"Crazy? Like a fox; and worthy of USG attention and support."* No UAP determination because no UAP narrative. ^[extracted] |
 
-This table is expected to grow as more 1970s–1990s State Department UAP releases are ingested. The boundary-case row is included to make the umbrella's limit explicit.
+This table is expected to grow as more 1970s–1990s State Department UAP releases are ingested. The boundary-case rows are included to make the umbrella's limit explicit. As of the `059uap*` series partial ingest (00011, 00012 done; 00013 pending), the boundary-case fraction is **2-of-2** in that tranche — see [[concepts/figurative-ufo-rhetoric]].
 
 ## Cross-corpus structural observations
 
-- **Three-of-three `UFO`-tag absence**: neither substantive cable carries `UFO` as a subject TAG, and neither does the boundary-case 2004 Ashgabat NGO cable. The 1985 cable carries `MARR`/`PP`; the 1994 cable carries `TSAP, EAIR, KZ, TI, TAJIK AIR, (RHODES, ED)`; the 2004 cable carries `AORC, TSPA, PREL, PGOV, EAID, OSCI, TX`. The DOS subject-indexing schema appears to **route UAP-keyword matters under their *substantive* category** (military overflights; space-and-aviation phenomena; civil-society/aid) rather than under a UAP-specific tag — *even when "UFO" is in the cable's subject-line text*. ^[inferred]
-- **Different bureau-routing per sub-pattern is consistent**: Pol-Mil for asset-disambiguation cases (1985); Science (`OES`) for citizen-witness narrative cases (1994). If this holds across more cables, it would suggest **State Department UAP-adjacent traffic is sorted by the question being asked of HQ** — "is this us?" goes to PM, "what was this?" goes to OES. ^[inferred]
+- **Four-of-four `UFO`-tag absence**: no cable in the four-cable working corpus carries `UFO` as a subject TAG. The 1985 cable carries `MARR`/`PP`; the 1994 cable `TSAP, EAIR, KZ, TI, TAJIK AIR, (RHODES, ED)`; the 2001 cable `PREL, MARR, KCFE, UN, OSCE, GG, RS`; the 2004 cable `AORC, TSPA, PREL, PGOV, EAID, OSCI, TX`. The DOS subject-indexing schema appears to **route UAP-keyword matters under their *substantive* category** (military overflights; space-and-aviation phenomena; bilateral state-relations / multilateral; civil-society/aid) rather than under a UAP-specific tag — *even when "UFO" is in the cable's subject-line text and even when the cable is CONFIDENTIAL rather than UNCLAS*. ^[inferred]
+- **Bureau-routing extends to four distinct bureaus**: PM for asset-disambiguation cases (1985); Science / OES for citizen-witness narrative cases (1994); **IO for UN / OSCE / multilateral state-relations cases (2001)**; EUR/CACEN for regional civil-society cases (2004). The pattern that **State Department UAP-adjacent traffic is sorted by the question being asked of HQ** ("is this us?" → PM; "what was this?" → OES; **"is this a multilateral / treaty-relations issue?" → IO**; "should we fund this NGO?" → EUR/CACEN) extends without contradiction. ^[inferred]
 - **Routing-depth difference**: PNG case has 5 hops (foreign witness → foreign field-officer → foreign HQ → US embassy → US combatant command). Kazakhstan case has only 3 (US-citizen aircrew → US embassy → State HQ). The depth is set by whether a foreign aggregation layer exists. ^[inferred]
 - **Declassification interval shrinks**: the 1985 cable was released 2026 (41-year delay); the 1994 cable was released 2026 (32-year delay). Both are inside the same release tranche `CSP-2025-00040`, suggesting a single FOIA/historical-review batch picked up both items together — and that the State Department's release-side handling pulls cables by topical bundle rather than by issuance year. ^[inferred]
 - **Witness-side ETI attribution surfaces only in sub-pattern B**: the PNG cable preserves no first-person ETI claim — the foreign aggregator filtered the body of reports down to "fast-moving objects with lights, contrails, and noise" before passing them. The Kazakhstan cable preserves Rhodes's verbatim claim that the object was "extraterrestrial and under intelligent control." The structural reason is that sub-pattern B has **no foreign filtering layer**. ^[inferred]
@@ -166,16 +184,23 @@ This table is expected to grow as more 1970s–1990s State Department UAP releas
 
 - [[references/dos-cable-papua-new-guinea-1985-01]]
 - [[references/dos-cable-kazakhstan-1994-01]]
+- [[references/dos-cable-russia-georgia-2001-10]] — Type-2 (rhetorical) boundary case.
+- [[references/dos-cable-turkmenistan-2004-11]] — Type-1 (NGO-name) boundary case.
 - [[references/sighting-papua-new-guinea-1985-01-24]]
 - [[references/sighting-kazakhstan-1994-01-27]]
 - [[entities/amembassy-port-moresby]]
 - [[entities/amembassy-dushanbe]]
-- [[entities/amembassy-ashgabat]] — boundary-case originating post (not part of the umbrella)
+- [[entities/amembassy-moscow]] — boundary-case originating post (Type-2 anchor)
+- [[entities/amembassy-ashgabat]] — boundary-case originating post (Type-1 anchor)
 - [[entities/union-of-ufologists-turkmenabat]] — boundary-case subject of the 2004 Ashgabat cable
+- [[entities/alexander-vershbow]] — signing officer, MOSCOW 13169
+- [[entities/george-krol]] — classifying officer, MOSCOW 13169
+- [[entities/russia-mfa]] — counterparty department in MOSCOW 13169
 - [[entities/png-national-intelligence-organization]]
 - [[entities/uscincpac]]
 - [[entities/tajik-air]]
 - [[entities/usaira-prague]]
 - [[concepts/usaira-reporting-channel]]
+- [[concepts/figurative-ufo-rhetoric]] — typology of non-UAP "UFO" appearances in cable traffic.
 - [[synthesis/early-uap-policy-vs-operational-track]]
 - [[projects/uap/uap]]

@@ -4,14 +4,15 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T23:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-10T00:00:00Z*
 
 ## Concepts
 
 - [[concepts/balls-of-fire-red]] — UK Air Ministry DDI2 filing term for the WWII night-light reports the USAAF called foo fighters ( #uap #ww2 #intelligence)
-- [[concepts/diplomatic-channel-uap-reporting]] — Umbrella institutional pattern for embassy-mediated UAP cables; two sub-patterns — foreign-liaison-inquiry (1985 PNG) and citizen-witness-relay (1994 Kazakhstan) ( #uap #policy #diplomacy)
+- [[concepts/diplomatic-channel-uap-reporting]] — Umbrella institutional pattern for embassy-mediated UAP cables; two sub-patterns (foreign-liaison-inquiry 1985 PNG, citizen-witness-relay 1994 Kazakhstan) plus two boundary cases (2001 Moscow figurative; 2004 Ashgabat referential) ( #uap #policy #diplomacy)
 - [[concepts/engine-stall-phenomenon]] — Recurring UAP-adjacent physical-effect signature: vehicle / equipment failure coincident with UAP proximity; recovers normally on departure ( #uap #morphology #electromagnetic)
 - [[concepts/eti-attribution-statements]] — Cross-era pattern for tracking explicit ETI-origin attributions: institutional / foreign-liaison (1948 Swedish AIS) vs. witness-side (1994 Tajik Air) ( #uap #history #intelligence #pattern)
+- [[concepts/figurative-ufo-rhetoric]] — Typology of "UFO" appearances in DOS cables that drive FOIA UAP-keyword indexing without UAP narrative payload — referential (Type 1) vs. figurative (Type 2) ( #uap #rhetoric #diplomacy #pattern)
 - [[concepts/flak-bombe-hypothesis]] — A.D.I.(K) Felkin's 1945 candidate explanation pointing to A.D.I.(K) Report No. 562/1944 ( #uap #ww2 #intelligence)
 - [[concepts/flying-disc-reporting-protocol]] — The 10-element observational template Cabell mandated for all 1948 USAF disc-sighting reports ( #uap #history #protocol)
 - [[concepts/foo-fighter-phenomenon]] — WWII Allied aircrew name for unexplained nocturnal lights pacing combat aircraft ( #uap #ww2 #morphology)
@@ -39,7 +40,9 @@ title: Wiki Index
 - [[entities/aaro]] — All-domain Anomaly Resolution Office; modern DoD UAP intake/assessment authority ( #usaf #organization #uap)
 - [[entities/amembassy-ashgabat]] — US Embassy in Ashgabat, Turkmenistan; originating post of the 12 Nov 2004 DOS cable on the Union of UFOlogists NGO; boundary-case post outside the diplomatic-channel UAP umbrella ( #state-department #embassy #organization)
 - [[entities/amembassy-dushanbe]] — US Embassy in Dushanbe, Tajikistan; originating post of the 31 Jan 1994 DOS cable on the Tajik Air UAP encounter over Kazakhstan ( #state-department #embassy #organization)
+- [[entities/amembassy-moscow]] — US Embassy in Moscow, Russia; originating post of the 30 Oct 2001 cable MOSCOW 13169 on Russian airspace-violation denials of Georgia (boundary case — figurative-UFO rhetoric) ( #state-department #embassy #russia #organization)
 - [[entities/amembassy-port-moresby]] — US Embassy in Port Moresby, PNG; originating post of the 28 Jan 1985 DOS cable on PNG UAP overflights ( #state-department #embassy #organization)
+- [[entities/alexander-vershbow]] — US Ambassador to Russia 2001–2005; signing officer of the 30 Oct 2001 MOSCOW 13169 cable ( #state-department #person #diplomacy #russia)
 - [[entities/andre-lebeau]] — Former chairman of CNES; foreword author of the 1999 COMETA Report ( #uap #france #person #civil-agency)
 - [[entities/air-materiel-command]] — USAF command at Wright-Patterson AFB; designated central agency for 1948 Flying Disc reports ( #usaf #organization #history)
 - [[entities/carol-rosin]] — US space-policy advocate, former von Braun spokesperson; courier of the 1999 COMETA Report to NASA in 2001 ( #uap #person #civilian-research #policy)
@@ -53,6 +56,7 @@ title: Wiki Index
 - [[entities/franciszek-grabowski]] — Polish co-witness named in the 1944 Gut Alt Golssen account; uncontactable by 1957; the only co-witness Krasuski could recall ( #person #witness #ww2)
 - [[entities/frank-borman]] — USAF test pilot, NASA "Next Nine" astronaut, Cdr Gemini 7; called "a bogey at ten o'clock high" on the 4 Dec 1965 GT-7 air-to-ground voice loop ( #person #witness #uap #nasa #astronaut)
 - [[entities/gemini-7]] — NASA GT-7 long-duration / rendezvous mission (4–18 Dec 1965); mission frame for the wiki's first orbital UAP-adjacent record ( #nasa #mission #spacecraft #uap)
+- [[entities/george-krol]] — POLMINCOUNS at AMEMBASSY Moscow in 2001; classifying officer of MOSCOW 13169; later US Ambassador to Belarus / Uzbekistan / Kazakhstan ( #state-department #person #diplomacy #russia)
 - [[entities/horten-brothers]] — German aircraft designers whose tailless wings were studied as a Flying Disc explanation ( #aviation #germany #ww2)
 - [[entities/j-w-hunt]] — Open-question stub for a cover-routing-slip name on the 1963 NASC alien-policy memo; possibly OCR misread of "M. W. Hunter" ( #uap #person #ambiguous #ocr)
 - [[entities/jim-lovell]] — USN test pilot, NASA "Next Nine" astronaut, Pilot Gemini 7; co-witness on the GT-7 bogey exchange (booster only on the released transcript) ( #person #witness #uap #nasa #astronaut)
@@ -67,6 +71,7 @@ title: Wiki Index
 - [[entities/robert-cutler]] — Special Assistant to President Eisenhower for National Security Affairs; routing principal in the 1957 FBI 100-26505 Krasuski case ( #person #white-house #eisenhower)
 - [[entities/robert-f-packard]] — State Department / OISA officer; addressee of the 1963 NASC memo ( #person #state-department #policy)
 - [[entities/ruben-efron]] — Senate Armed Services Committee Consultant; co-witness and contemporaneous note-keeper for the 4 Oct 1955 Trans-Caucasus disc sighting ( #person #witness #uap #senate-staff)
+- [[entities/russia-mfa]] — Russian Ministry of Foreign Affairs (MID); counterparty department in MOSCOW 13169; source of Tereoken's "UFO" denial trope ( #russia #foreign-government #organization #diplomacy)
 - [[entities/shaef-air-staff]] — Allied combined-air-forces intelligence/operations hub (1944–45) that routed the foo-fighter correspondence ( #uap #ww2 #organization)
 - [[entities/state-department]] — US Department of State; parent agency of all American embassies and the cable-traffic backbone of the corpus's diplomatic-channel UAP intake pattern ( #state-department #organization #diplomacy)
 - [[entities/swedish-air-intelligence-service]] — Swedish Air Force intelligence branch; source of the 1948 institutional "outside the earth" assessment relayed via USAFE TT 1524 ( #intelligence #sweden #organization)
@@ -88,6 +93,7 @@ title: Wiki Index
 
 - [[references/dos-cable-kazakhstan-1994-01]] — Declassified 3-page UNCLAS US State Department cable (31 Jan 1994, DUSHANBE 00259) on Tajik Air pilots' UAP encounter at FL410 over Kazakhstan ( #uap #primary-source #state-department)
 - [[references/dos-cable-papua-new-guinea-1985-01]] — Declassified 3-page US State Department cable (28 Jan 1985, PORT M 00199) on PNG NIO inquiry into 24 Jan 1985 high-altitude overflights ( #uap #primary-source #state-department)
+- [[references/dos-cable-russia-georgia-2001-10]] — Declassified 5-page CONFIDENTIAL US State Department cable (30 Oct 2001, MOSCOW 13169) on Russian denial of airspace violations of Georgia; boundary case — figurative-UFO rhetoric, not a UAP narrative ( #uap #primary-source #state-department #rhetoric)
 - [[references/dos-cable-turkmenistan-2004-11]] — Declassified 5-page UNCLAS/SBU US State Department cable (12 Nov 2004, ASHGABAT 1028) on the Union of UFOlogists NGO; boundary case — not a UAP-sighting cable ( #uap #primary-source #state-department #turkmenistan)
 - [[references/fbi-detroit-100-18221-serial-844-1958]] — Declassified one-page FBI Detroit Office Memorandum (SA Reynolds → SAC, 17 Apr 1958), serial 844 in file 100-18221, on the Weaver Detroit sighting ( #uap #primary-source #fbi)
 - [[references/fbi-detroit-100-26505-krasuski-1957]] — Declassified 15-page FBI Detroit file 100-26505 (NW 90290) — Nov 1957 WH-routed Krasuski interview about a 1944 Gut Alt Golssen observation, plus Oct 1966 OUFORA inquiry-and-USAF-redirect ( #uap #primary-source #fbi)

@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T23:30:00Z",
+  "updated": "2026-05-10T00:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -419,18 +419,45 @@
         "_meta/taxonomy.md",
         "index.md"
       ]
+    },
+    "sources/059uap00011.json": {
+      "ingested_at": "2026-05-10T00:00:00Z",
+      "size_bytes": 9587,
+      "modified_at": "2026-05-09T18:27:43Z",
+      "content_hash": "sha256:42317a718de1ee86f3891c95adcf9ece59e6c1b4c0d10edfb452e30d1e221749",
+      "source_id": "dos-rg059-uap-00011-moscow-13169-2001",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/dos-cable-russia-georgia-2001-10.md",
+        "entities/amembassy-moscow.md",
+        "entities/alexander-vershbow.md",
+        "entities/george-krol.md",
+        "entities/russia-mfa.md",
+        "concepts/figurative-ufo-rhetoric.md"
+      ],
+      "pages_updated": [
+        "concepts/diplomatic-channel-uap-reporting.md",
+        "entities/state-department.md",
+        "references/dos-cable-turkmenistan-2004-11.md",
+        "entities/amembassy-ashgabat.md",
+        "projects/uap/uap.md",
+        "_meta/taxonomy.md",
+        "index.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T23:30:00Z",
-      "sources_ingested": 16
+      "last_ingested": "2026-05-10T00:00:00Z",
+      "sources_ingested": 17
     }
   },
   "stats": {
-    "total_sources_ingested": 17,
-    "total_pages": 116,
+    "total_sources_ingested": 18,
+    "total_pages": 122,
     "total_projects": 1,
     "last_full_rebuild": null
   }

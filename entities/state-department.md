@@ -3,17 +3,17 @@ title: US Department of State
 category: entities
 tags: [state-department, organization, diplomacy]
 aliases: [DOS, State Department, Department of State, SECSTATE, US State Department, Foggy Bottom]
-sources: [sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/059uap00012.json]
+sources: [sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/059uap00012.json, sources/059uap00011.json]
 summary: US Department of State — the diplomatic instrument of the United States; parent agency of all American embassies and the cable-traffic backbone of the wiki's diplomatic-channel UAP intake pattern.
 provenance:
   extracted: 0.45
   inferred: 0.55
   ambiguous: 0.0
-base_confidence: 0.7
+base_confidence: 0.75
 lifecycle: draft
-lifecycle_changed: 2026-05-09
+lifecycle_changed: 2026-05-10
 created: 2026-05-09T20:30:00Z
-updated: 2026-05-09T20:30:00Z
+updated: 2026-05-10T00:00:00Z
 ---
 
 # US Department of State
@@ -32,9 +32,10 @@ Both cables share the State Department cable system but route through **differen
 |---|---|---|---|
 | [[references/dos-cable-papua-new-guinea-1985-01\|PORT M 00199 (28 Jan 1985)]] | **PM** (Bureau of Political-Military Affairs) | from [[entities/amembassy-port-moresby\|AMEMBASSY Port Moresby]] → action [[entities/uscincpac\|USCINCPAC]] / info SECSTATE | `MARR`/`PP` (military overflights) |
 | [[references/dos-cable-kazakhstan-1994-01\|DUSHANBE 00259 (31 Jan 1994)]] | **OES/S** (Bureau of Oceans and International Environmental and Scientific Affairs, Science office) | from [[entities/amembassy-dushanbe\|AMEMBASSY Dushanbe]] → SECSTATE WASHDC | `TSAP, EAIR, KZ, TI, TAJIK AIR` (space-and-aviation phenomena) |
-| [[references/dos-cable-turkmenistan-2004-11\|ASHGABAT 1028 (12 Nov 2004)]] *(boundary case — not a UAP narrative)* | **EUR/CACEN** (Bureau of European and Eurasian Affairs / Office of Caucasus and Central Asian Affairs) | from [[entities/amembassy-ashgabat\|AMEMBASSY Ashgabat]] → SECSTATE WASHDC | `AORC, TSPA, PREL, PGOV, EAID, OSCI, TX` (civil society / aid) |
+| [[references/dos-cable-russia-georgia-2001-10\|MOSCOW 13169 (30 Oct 2001)]] *(boundary case — figurative-UFO rhetoric, not a UAP narrative)* | **IO** (Bureau of International Organization Affairs) | from [[entities/amembassy-moscow\|AMEMBASSY Moscow]] → SECSTATE WASHDC PRIORITY; SECDEF + Joint Staff on INFO | `PREL, MARR, KCFE, UN, OSCE, GG, RS` (Russia-Georgia bilateral / CFE / UN-OSCE) |
+| [[references/dos-cable-turkmenistan-2004-11\|ASHGABAT 1028 (12 Nov 2004)]] *(boundary case — NGO-name keyword, not a UAP narrative)* | **EUR/CACEN** (Bureau of European and Eurasian Affairs / Office of Caucasus and Central Asian Affairs) | from [[entities/amembassy-ashgabat\|AMEMBASSY Ashgabat]] → SECSTATE WASHDC | `AORC, TSPA, PREL, PGOV, EAID, OSCI, TX` (civil society / aid) |
 
-The substantive pair (1985, 1994) shows that the same parent department (State) treats UAP traffic through whichever substantive lens fits the case — military overflights vs. space-and-aviation phenomena — rather than through a UAP-specific tag or sub-bureau. ^[inferred] The 2004 Ashgabat row extends the observation: even when the cable's *subject-line text* contains "UFO," the TAGS field still routes through the substantive bureau (here, regional civil-society / aid). None of the three cables carries a `UFO` tag (3-of-3 in the corpus). ^[extracted] The 2004 Ashgabat cable is **not** a UAP-substantive record — it is a civil-society NGO grant assessment about the [[entities/union-of-ufologists-turkmenabat|Union of UFOlogists of Turkmenabat]] — and is included here only to anchor the schema observation. See [[references/dos-cable-turkmenistan-2004-11]] for the boundary-case framing.
+The substantive pair (1985, 1994) shows that the same parent department (State) treats UAP traffic through whichever substantive lens fits the case — military overflights vs. space-and-aviation phenomena — rather than through a UAP-specific tag or sub-bureau. ^[inferred] The 2001 Moscow and 2004 Ashgabat rows extend the observation through **two structurally distinct boundary cases** (figurative-UFO rhetoric and NGO-name keyword respectively — see [[concepts/figurative-ufo-rhetoric]]): even when the cable's *subject-line text* contains "UFO," the TAGS field still routes through the substantive bureau. None of the four cables carries a `UFO` tag (**4-of-4** in the corpus). ^[extracted] All four cables route through **distinct action bureaus** (PM, OES/S, IO, EUR/CACEN) — consistent with the bureau-routing-by-question-class hypothesis. ^[inferred] Both the 2001 Moscow cable and the 2004 Ashgabat cable are **not** UAP-substantive records and are included here only to anchor the schema and bureau-routing observations. See [[references/dos-cable-russia-georgia-2001-10]] and [[references/dos-cable-turkmenistan-2004-11]] for the boundary-case framings.
 
 ## Institutional position (background)
 
@@ -58,15 +59,21 @@ State is one of the four oldest cabinet departments of the US executive branch. 
 
 - [[references/dos-cable-papua-new-guinea-1985-01]] — PM-routed cable.
 - [[references/dos-cable-kazakhstan-1994-01]] — OES/S-routed cable.
-- [[references/dos-cable-turkmenistan-2004-11]] — EUR/CACEN-routed cable (boundary case; not a UAP narrative).
+- [[references/dos-cable-russia-georgia-2001-10]] — IO-routed cable (boundary case; figurative-UFO rhetoric).
+- [[references/dos-cable-turkmenistan-2004-11]] — EUR/CACEN-routed cable (boundary case; NGO-name keyword).
 - [[references/hunter-1963-space-alien-race-memo]] — addressed to State/OISA.
 
 ## See also
 
 - [[concepts/diplomatic-channel-uap-reporting]]
+- [[concepts/figurative-ufo-rhetoric]] — typology covering the two boundary-case cables.
 - [[entities/amembassy-port-moresby]]
 - [[entities/amembassy-dushanbe]]
-- [[entities/amembassy-ashgabat]] — boundary-case originating post (2004 cable)
+- [[entities/amembassy-moscow]] — boundary-case originating post (2001 cable; figurative)
+- [[entities/amembassy-ashgabat]] — boundary-case originating post (2004 cable; referential)
+- [[entities/alexander-vershbow]] — Ambassador / signer of MOSCOW 13169
+- [[entities/george-krol]] — POLMINCOUNS / classifying officer of MOSCOW 13169
+- [[entities/russia-mfa]] — counterparty in MOSCOW 13169
 - [[entities/union-of-ufologists-turkmenabat]] — boundary-case subject of the 2004 cable
 - [[entities/robert-f-packard]]
 - [[entities/uscincpac]]

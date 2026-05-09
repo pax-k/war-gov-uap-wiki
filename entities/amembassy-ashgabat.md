@@ -62,7 +62,7 @@ The Ashgabat row is what tells the umbrella where its *limit* is. ^[inferred]
 ## Open threads
 
 - Confirm `JACOBSON` = Tracey Ann Jacobson (Ambassador to Turkmenistan 2003–2006). ^[ambiguous]
-- Locate **other AMEMBASSY Ashgabat cables** in the same `059uap*` release tranche — sister files [[references/dos-cable-059uap00011|059uap00011]] and [[references/dos-cable-059uap00013|059uap00013]] are scheduled for subsequent ingest and may or may not be Ashgabat-originated. ^[open]
+- Locate **other AMEMBASSY Ashgabat cables** in the same `059uap*` release tranche — sister file [[references/dos-cable-russia-georgia-2001-10|059uap00011 — MOSCOW 13169]] turned out to be **Moscow-originated** (Vershbow / Krol, 30 Oct 2001), not Ashgabat. [[references/dos-cable-059uap00013|059uap00013]] is still pending and could be from any post. ^[open]
 - Locate the four cables referenced as A–D (Ashgabat 989, 406, 291, 234, all NOTAL) — these establish the Ashgabat NGO-registration / Counterpart-International reporting context. ^[open]
 - Locate any **substantive UAP cable** originated by AMEMBASSY Ashgabat (none in the corpus yet). ^[open]
 - If Muradov's "Turkmen military consulted me about airspace events" claim has any real basis, look for **CIS / Russian / former-Soviet civil-aviation** records of unidentified-track events over Turkmenistan in 1992–2004. ^[open]
@@ -77,6 +77,8 @@ The Ashgabat row is what tells the umbrella where its *limit* is. ^[inferred]
 - [[entities/union-of-ufologists-turkmenabat]]
 - [[entities/amembassy-port-moresby]] — sister post (sub-pattern A).
 - [[entities/amembassy-dushanbe]] — sister post (sub-pattern B).
+- [[entities/amembassy-moscow]] — sister boundary-case post (Type-2 figurative-UFO rhetoric).
 - [[entities/state-department]] — parent department.
 - [[concepts/diplomatic-channel-uap-reporting]] — umbrella pattern this post sits **outside**.
+- [[concepts/figurative-ufo-rhetoric]] — typology of which this post's cable is the **Type-1 (referential) anchor**.
 - [[projects/uap/uap]]

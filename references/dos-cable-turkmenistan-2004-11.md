@@ -120,7 +120,7 @@ It does **not** extend the diplomatic-channel UAP intake pattern with a third su
 - `source_quality: official` — declassified release of an authentic State Department cable. The "Released in Full" stamp from John Powers (DOS Acting-Director) dated 2/25/2026 matches the release stamp on the 1985 PNG and 1994 Kazakhstan cables. ^[extracted]
 - The release identifier prefix differs (`059uap00012` rather than `CSP-2025-00040 B-...`); the `059uap*` series is part of NARA RG 059 (Records of the Department of State) — likely a different release tranche than the `CSP-2025-00040` items. ^[inferred]
 - Single-source artifact. No follow-on grant-decision traffic, no Turkmen-government records, no UOU-side documents are in the corpus.
-- This is part of a **3-cable series** with sister files [[references/dos-cable-059uap00011|059uap00011]] and [[references/dos-cable-059uap00013|059uap00013]] (placeholder wikilinks pending those ingests). ^[inferred]
+- This is part of a **3-cable series** with sister files [[references/dos-cable-russia-georgia-2001-10|059uap00011 — MOSCOW 13169]] (now ingested as a Type-2 figurative-UFO boundary case) and [[references/dos-cable-059uap00013|059uap00013]] (placeholder wikilink pending ingest). ^[inferred] The 2001 Moscow cable confirms the 3-file series spans **at least two distinct originating posts** ([[entities/amembassy-moscow|AMEMBASSY Moscow]], [[entities/amembassy-ashgabat|AMEMBASSY Ashgabat]]) and three distinct boundary mechanisms within the broader DOS UAP-keyword release universe.
 
 ## Open threads
 
@@ -141,6 +141,8 @@ It does **not** extend the diplomatic-channel UAP intake pattern with a third su
 - [[entities/union-of-ufologists-turkmenabat]] — the NGO subject of the cable.
 - [[references/dos-cable-papua-new-guinea-1985-01]] — sister DOS UAP-keyword cable; substantive UAP record.
 - [[references/dos-cable-kazakhstan-1994-01]] — sister DOS UAP-keyword cable; substantive UAP record.
+- [[references/dos-cable-russia-georgia-2001-10]] — sister `059uap*` series cable; **other** boundary case (Type-2 figurative-UFO rhetoric).
 - [[concepts/diplomatic-channel-uap-reporting]] — the umbrella pattern this cable does **not** instantiate.
+- [[concepts/figurative-ufo-rhetoric]] — typology naming this cable as the **Type-1 (referential) anchor**.
 - [[entities/state-department]] — parent department.
 - [[projects/uap/uap]] — project overview.
