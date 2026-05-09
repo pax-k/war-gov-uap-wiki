@@ -4,16 +4,16 @@ category: references
 tags: [uap, primary-source, declassified, state-department, 1994]
 aliases: [DUSHANBE 00259, 94 DUSHANBE 259, Tajik Air UFO cable, Rhodes 747SP cable]
 sources: [sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json]
-summary: 3-page declassified UNCLAS US State Department cable (31 Jan 1994, AMEMBASSY Dushanbe → SECSTATE) reporting three American Tajik Air pilots' 27 Jan 1994 ~40-min UAP encounter at FL410 over Kazakhstan (45°N 55°E).
+summary: 3-page declassified UNCLAS US State Department cable (31 Jan 1994, AMEMBASSY Dushanbe → SECSTATE) reporting three American Tajik Air pilots' 27 Jan 1994 ~40-min UAP encounter at FL410 over Kazakhstan (45°N 55°E). Carries the wiki's first witness-side ETI attribution.
 provenance:
-  extracted: 0.85
-  inferred: 0.13
+  extracted: 0.83
+  inferred: 0.15
   ambiguous: 0.02
 base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T16:30:00Z
-updated: 2026-05-09T16:30:00Z
+updated: 2026-05-09T18:30:00Z
 ---
 
 # DOS Cable — Tajik Air Pilots Report UFO Over Kazakhstan (DUSHANBE 00259, 31 Jan 1994)
@@ -67,7 +67,7 @@ A full single-event sighting page is at [[references/sighting-kazakhstan-1994-01
 ## Why this cable matters
 
 - **Second diplomatic-channel UAP intake in the corpus**, following [[references/dos-cable-papua-new-guinea-1985-01|PORT M 00199 (1985)]]. Two artifacts is enough to begin distinguishing **sub-patterns**: the 1985 cable is a *foreign-liaison-inquiry* sub-pattern (PNG NIO → embassy → USCINCPAC, asset-disambiguation disposition); this 1994 cable is a *citizen-witness-relay* sub-pattern (US-citizen aircrew → embassy → SECSTATE/OES, no disposition at all). See [[concepts/diplomatic-channel-uap-reporting]].
-- **First explicit witness-side ETI attribution** in the wiki's primary-source corpus. Earlier WWII / 1948 / 1949 / 1985 / 2025 / 2026 sources have witnesses describing morphologies, behaviors, and engagements — but in this cable a witness explicitly states the object "was extraterrestrial and under intelligent control." That this attribution is preserved verbatim in an UNCLAS State Department cable, alongside the embassy's flat "we have no opinion" closer, is the cable's most distinctive rhetorical feature. ^[inferred]
+- **First explicit witness-side ETI attribution** in the wiki's primary-source corpus. Earlier WWII / 1948 / 1949 / 1985 / 2025 / 2026 sources have witnesses describing morphologies, behaviors, and engagements — but in this cable a witness explicitly states the object "was extraterrestrial and under intelligent control." That this attribution is preserved verbatim in an UNCLAS State Department cable, alongside the embassy's flat "we have no opinion" closer, is the cable's most distinctive rhetorical feature. ^[inferred] **Refinement (2026-05-09)**: this cable holds the *witness-side* first; the wiki's *institutional / foreign-liaison* first ETI-adjacent attribution is **~46 years earlier** — the 1948 [[entities/swedish-air-intelligence-service|Swedish AIS]] *"outside the earth"* assessment relayed via [[references/usafe-tt1524-1948-11|USAFE TT 1524 Item 14]] to [[entities/c-p-cabell|Cabell]]. The 1948 case is a foreign-allied state's institutional position; the 1994 case is an individual witness's stated opinion. Both are tracked at [[concepts/eti-attribution-statements]].
 - **First UAP-adjacent cable with no US-military action addressee.** PORT M 00199 was action `USCINCPAC IMMEDIATE`. DUSHANBE 00259 is action `SECSTATE` with `OES-09` internal action and `OES/S` captioning — i.e., the embassy is reporting up the science-bureau ladder, not the operational-military ladder. CIA and DIA appear only as INFO copies. The structural significance: *not every diplomatic-channel UAP cable triggers a US-military asset query.*
 - **First post-Soviet, post-Cold-War-era UAP cable in the corpus**, geographically over former Soviet airspace (Kazakhstan, ~3 years after USSR dissolution). The dense INFO list of Central Asian and adjacent embassies (Moscow, Tashkent, Ashgabat, Almaty, Bishkek, Beijing) suggests the cable was distributed regionally as a routine air-incident-area item.
 - **First commercial-airline-cockpit witness narrative** in the corpus where the cockpit crew themselves are American (ex-PanAm) and the airline is a former-Soviet successor flag carrier ([[entities/tajik-air|Tajik Air]]). Note the parallel-but-different structure to the 1985 PNG case: there, an [[references/sighting-papua-new-guinea-1985-01-24|Air Niugini]] *foreign* commercial pilot's *radar* contact was relayed via PNG NIO; here, **American** commercial pilots flying for a *foreign* airline directly approach a US embassy with a *visual* + *contrail* narrative.
@@ -101,4 +101,6 @@ A full single-event sighting page is at [[references/sighting-kazakhstan-1994-01
 - [[entities/amembassy-dushanbe]] — originating post.
 - [[entities/tajik-air]] — operator of the 747SP.
 - [[concepts/diplomatic-channel-uap-reporting]] — institutional pattern this cable extends.
+- [[concepts/eti-attribution-statements]] — cross-era ETI-attribution pattern; this cable is the witness-side anchor.
+- [[references/usafe-tt1524-1948-11]] — institutional / foreign-liaison ETI-attribution anchor (1948 Swedish AIS), ~46 years earlier.
 - [[projects/uap/uap]] — project overview.

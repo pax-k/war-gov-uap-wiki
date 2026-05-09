@@ -3,17 +3,17 @@ title: USAF Flying Discs Correspondence — 1948 Vol 1, Doc 18
 category: references
 tags: [uap, history, primary-source, declassified, 1948]
 aliases: [Project SIGN 1948 correspondence, USAF 1948 Flying Discs Vol 1]
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json]
-summary: Declassified 28-page USAF correspondence file (Feb–Jun 1948) routing flying-disc sighting reports between USAF Intelligence, Air Materiel Command, and field commands during Project SIGN's first months. Continuation in 1949 file.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json]
+summary: Declassified 28-page USAF correspondence file (Feb–Jun 1948) routing flying-disc sighting reports between USAF Intelligence, Air Materiel Command, and field commands during Project SIGN's first months. Continuation in 1949 file. Parallel TS sub-track runs at USAFE.
 provenance:
-  extracted: 0.85
-  inferred: 0.13
+  extracted: 0.83
+  inferred: 0.15
   ambiguous: 0.02
-base_confidence: 0.7
+base_confidence: 0.75
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T15:30:00Z
+updated: 2026-05-09T18:30:00Z
 ---
 
 # USAF Flying Discs Correspondence — 1948 Vol 1, Doc 18
@@ -60,10 +60,22 @@ This is the **earliest primary-source bundle** in the UAP project for the 1948 S
 
 The 1948 routing apparatus this document establishes was carried into 1949 via [[concepts/fsr-200-4-reporting-regulation|Flight Service Regulation 200-4 (2 Nov 1948)]] — see [[references/usaf-flying-discs-1949]] for the **143-page sequel file** (NARA box 186 file 319.1) covering Oct 1948 – Jan 1950 with **20+ field sighting reports** filed in the EEI / 10-element template; the attention line evolved from `MCI` / `TSDIN` to `MCIAXO-3`; the new 1949 routing actor is the [[entities/military-air-transport-service|Military Air Transport Service]] alongside AMC.
 
+## Parallel TS sub-track: USAFE TT 1524 (4 Nov 1948)
+
+This AFOIR-CO file runs at **CONFIDENTIAL / SECRET** classifications and handles **field-installation-originated** sighting reports (CONUS + Alaska, expanded worldwide by the 26 Oct 1948 TWX). It is **not** the only 1948 USAF routing channel for flying-saucer material.
+
+A parallel **TOP SECRET sub-track** ran at the same time at [[entities/usafe|USAFE]] in Europe — see [[references/usafe-tt1524-1948-11|USAFE TT 1524, 4 Nov 1948]] (TS Control # 2-5317), addressed to [[entities/c-p-cabell|Cabell]] personally. That dispatch carried **foreign-liaison material** (the [[entities/swedish-air-intelligence-service|Swedish AIS]] *"outside the earth"* assessment, the [[references/sighting-swedish-lake-crash-1948|Swedish naval lake-salvage operation]], and the [[references/sighting-neubiberg-1948-10|Neubiberg ~30-min hover]]) that the AFOIR-CO field-installation track did not handle. ^[inferred]
+
+The 8 Nov 1948 AFOIR-CO disposition slip on TT 1524 redistributes USAFE 14 to AMC ([[entities/wright-patterson-afb|Wright-Patterson]]) — the **bridge** between the two tracks. The substantive content of the Swedish AIS / lake-crash account therefore reached the same hands that handled this AFOIR file's reports, but via a separate routing channel. ^[inferred]
+
+The implication for [[concepts/project-sign]]: **the 1948 routing apparatus was two-track, not one-track**. ^[inferred]
+
 ## See also
 
-- [[references/usaf-flying-discs-1949]] — the 1949 continuation file
+- [[references/usaf-flying-discs-1949]] — the 1949 continuation file (CONF/SECRET)
+- [[references/usafe-tt1524-1948-11]] — the parallel USAFE TS sub-track dispatch (Nov 1948)
 - [[concepts/fsr-200-4-reporting-regulation]] — the routing instrument that codified Cabell's directive
 - [[projects/uap/uap]] — UAP project overview
 - [[synthesis/horten-thesis-vs-disc-sightings]] — analysis of the leading 1948 conventional explanation, updated for 1949 morphology diversification
 - [[concepts/project-sign]]
+- [[concepts/eti-attribution-statements]]

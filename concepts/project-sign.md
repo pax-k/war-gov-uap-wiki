@@ -3,17 +3,17 @@ title: Project SIGN
 category: concepts
 tags: [uap, history, usaf, intelligence, 1948]
 aliases: [Project Sign, Sign (USAF), AMC Flying Disc Project]
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json]
-summary: The first official US Air Force program (1948–49) to systematically collect, evaluate, and distribute information on "Flying Discs", run by Air Materiel Command at Wright-Patterson AFB.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json]
+summary: The first official US Air Force program (1948–49) to systematically collect, evaluate, and distribute information on "Flying Discs", run by Air Materiel Command at Wright-Patterson AFB. Two-track routing — AFOIR-CO field-installation channel + parallel USAFE TS foreign-liaison channel.
 provenance:
-  extracted: 0.7
-  inferred: 0.28
+  extracted: 0.68
+  inferred: 0.3
   ambiguous: 0.02
-base_confidence: 0.7
+base_confidence: 0.75
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T15:30:00Z
+updated: 2026-05-09T18:30:00Z
 ---
 
 # Project SIGN
@@ -53,6 +53,19 @@ The 1948 correspondence shows SIGN's intelligence officers actively pursuing a c
 
 See [[synthesis/horten-thesis-vs-disc-sightings]] for the cross-cutting analysis.
 
+## Two-track routing in late 1948 (NEW)
+
+The wiki's 1948 SIGN sources reveal **two distinct routing channels** operating in parallel:
+
+| Track | Originating channel | Classification | Source bundle | Material |
+|---|---|---|---|---|
+| **AFOIR-CO field-installation** | Field installations → AMC T-2 → AFOIR-CO-5 → D/I (HQ USAF) | CONFIDENTIAL / SECRET | [[references/usaf-flying-discs-1948]] + [[references/usaf-flying-discs-1949]] | CONUS + Alaska + worldwide field reports per the 10-element template |
+| **USAFE TS foreign-liaison** | USAFE A-2 → AFOIR-CO routing slip → D/I (HQ USAF) | TOP SECRET | [[references/usafe-tt1524-1948-11]] | Foreign-allied AIS material (e.g. Swedish AIS); installation reports (Neubiberg); European-theater operational reports (Op Daggar Holland-coast jet) |
+
+The AFOIR-CO disposition slip on USAFE TT 1524 (8 Nov 1948) **bridges** the two tracks by redistributing the substantive USAFE 14 content (the [[entities/swedish-air-intelligence-service|Swedish AIS]] *"outside the earth"* assessment, the [[references/sighting-swedish-lake-crash-1948|Swedish lake-crash]], the [[references/sighting-neubiberg-1948-10|Neubiberg hover]]) to **AMC** at [[entities/wright-patterson-afb|Wright-Patterson]] — the same hub that received AFOIR-CO field reports. ^[inferred] So while the **routing classifications and originating channels diverge**, the **operational hub converges** at AMC.
+
+The parallel TS sub-track is what carried the wiki's earliest **institutional / foreign-liaison** [[concepts/eti-attribution-statements|ETI-adjacent attribution]] (Swedish AIS, 4 Nov 1948) into US hands. The AFOIR-CO field-installation channel never carried such material — none of the 1948 or 1949 AFOIR file reports preserve an ETI-adjacent institutional attribution. ^[inferred]
+
 ## Operational maturation through 1949
 
 Through 1949 the SIGN intake apparatus operated continuously under [[concepts/fsr-200-4-reporting-regulation|Flight Service Regulation 200-4 (2 Nov 1948)]], which propagated the 1948 Cabell directive into Flight Service Center operating procedure. The 1949 file ([[references/usaf-flying-discs-1949]]) shows three notable evolutions:
@@ -74,11 +87,15 @@ SIGN was not Allied air intelligence's first attempt to consolidate unexplained-
 
 - [[references/usaf-flying-discs-1948]]
 - [[references/usaf-flying-discs-1949]]
+- [[references/usafe-tt1524-1948-11]]
 - [[references/foo-fighters-shaef-1944-1945]]
 - [[concepts/fsr-200-4-reporting-regulation]]
+- [[concepts/eti-attribution-statements]]
 - [[projects/uap/uap]]
 - [[entities/air-materiel-command]]
 - [[entities/military-air-transport-service]]
+- [[entities/usafe]]
+- [[entities/swedish-air-intelligence-service]]
 - [[entities/wright-patterson-afb]]
 - [[concepts/flying-disc-reporting-protocol]]
 - [[concepts/foo-fighter-phenomenon]]

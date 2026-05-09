@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T18:00:00Z",
+  "updated": "2026-05-09T18:30:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -286,18 +286,47 @@
         "projects/uap/uap.md",
         "index.md"
       ]
+    },
+    "sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json": {
+      "ingested_at": "2026-05-09T18:30:00Z",
+      "size_bytes": 10214,
+      "modified_at": 1778332064,
+      "content_hash": "sha256:c88558cdc54118638bcabedaa47c036c0d834098012f354d250fa32c0cc3aecb",
+      "source_id": "nara-rg341-110448-tt1524-usafe-1948-11",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/usafe-tt1524-1948-11.md",
+        "references/sighting-neubiberg-1948-10.md",
+        "references/sighting-swedish-lake-crash-1948.md",
+        "references/sighting-holland-coast-1948-09-05.md",
+        "entities/swedish-air-intelligence-service.md",
+        "entities/usafe.md",
+        "concepts/eti-attribution-statements.md"
+      ],
+      "pages_updated": [
+        "entities/c-p-cabell.md",
+        "references/usaf-flying-discs-1948.md",
+        "concepts/project-sign.md",
+        "references/dos-cable-kazakhstan-1994-01.md",
+        "concepts/orb-phenomenon.md",
+        "synthesis/foo-fighters-to-flying-discs.md",
+        "projects/uap/uap.md",
+        "index.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T18:00:00Z",
-      "sources_ingested": 11
+      "last_ingested": "2026-05-09T18:30:00Z",
+      "sources_ingested": 12
     }
   },
   "stats": {
-    "total_sources_ingested": 12,
-    "total_pages": 78,
+    "total_sources_ingested": 13,
+    "total_pages": 85,
     "total_projects": 1,
     "last_full_rebuild": null
   }

@@ -4,13 +4,14 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T18:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-09T18:30:00Z*
 
 ## Concepts
 
 - [[concepts/balls-of-fire-red]] — UK Air Ministry DDI2 filing term for the WWII night-light reports the USAAF called foo fighters ( #uap #ww2 #intelligence)
 - [[concepts/diplomatic-channel-uap-reporting]] — Umbrella institutional pattern for embassy-mediated UAP cables; two sub-patterns — foreign-liaison-inquiry (1985 PNG) and citizen-witness-relay (1994 Kazakhstan) ( #uap #policy #diplomatic)
 - [[concepts/engine-stall-phenomenon]] — Recurring UAP-adjacent physical-effect signature: vehicle / equipment failure coincident with UAP proximity; recovers normally on departure ( #uap #morphology #electromagnetic)
+- [[concepts/eti-attribution-statements]] — Cross-era pattern for tracking explicit ETI-origin attributions: institutional / foreign-liaison (1948 Swedish AIS) vs. witness-side (1994 Tajik Air) ( #uap #history #intelligence #pattern)
 - [[concepts/flak-bombe-hypothesis]] — A.D.I.(K) Felkin's 1945 candidate explanation pointing to A.D.I.(K) Report No. 562/1944 ( #uap #ww2 #intelligence)
 - [[concepts/flying-disc-reporting-protocol]] — The 10-element observational template Cabell mandated for all 1948 USAF disc-sighting reports ( #uap #history #protocol)
 - [[concepts/foo-fighter-phenomenon]] — WWII Allied aircrew name for unexplained nocturnal lights pacing combat aircraft ( #uap #ww2 #morphology)
@@ -45,7 +46,9 @@ title: Wiki Index
 - [[entities/robert-cutler]] — Special Assistant to President Eisenhower for National Security Affairs; routing principal in the 1957 FBI 100-26505 Krasuski case ( #person #white-house #eisenhower)
 - [[entities/robert-f-packard]] — State Department / OISA officer; addressee of the 1963 NASC memo ( #person #state-department #policy)
 - [[entities/shaef-air-staff]] — Allied combined-air-forces intelligence/operations hub (1944–45) that routed the foo-fighter correspondence ( #uap #ww2 #organization)
+- [[entities/swedish-air-intelligence-service]] — Swedish Air Force intelligence branch; source of the 1948 institutional "outside the earth" assessment relayed via USAFE TT 1524 ( #intelligence #sweden #organization)
 - [[entities/tajik-air]] — Tajikistan flag carrier; operator of the Boeing 747SP whose American crew reported the 27 Jan 1994 UAP encounter ( #airline #tajikistan #organization)
+- [[entities/usafe]] — US Air Forces in Europe; European-theater liaison hub originating the Nov 1948 TS sub-track dispatch (TT 1524) to Cabell ( #usaf #organization #history)
 - [[entities/uk-air-ministry-ddi2]] — UK Air Ministry intelligence branches (DDI2 + A.D.I.(K)) that handled the British-side reply ( #uap #ww2 #organization)
 - [[entities/uscincpac]] — US Commander-in-Chief Pacific (Honolulu); action addressee of the 28 Jan 1985 DOS cable on PNG overflights ( #usaf #organization #dod)
 - [[entities/wladyslaw-krasuski]] — Polish DP, Detroit brewery worker, ex-WWII POW at Gut Alt Golssen; FBI-interviewed witness in the 1957 100-26505 case ( #person #witness #uap #ww2)
@@ -75,20 +78,24 @@ title: Wiki Index
 - [[references/sighting-gut-alt-golssen-1944]] — 1944 wartime forced-labor witness account by Polish POW Krasuski of an ascending circular vehicle (~75–100 yd) from a tarpaulin enclosure ~30 mi east of Berlin; recorded by FBI 13 years later ( #uap #sighting #ww2 #germany)
 - [[references/sighting-helicopter-orb-encounter-2025]] — 2025 multi-hour helicopter orb encounter at a redacted facility, with FLIR + NVG + naked-eye corroboration ( #uap #sighting #intel-witness)
 - [[references/sighting-hobson-ohio-1948-05]] — Night-time multi-witness phosphorescent disc sighting by NY Central rail workers ( #uap #sighting #ohio)
+- [[references/sighting-holland-coast-1948-09-05]] — Three crews of USAF 307th BG track an unidentified high-performance jet off the Dutch coast at 30,000 ft during Op Daggar (5 Sep 1948, USAFE B-2 evaluation) ( #uap #sighting #1948 #netherlands)
 - [[references/sighting-japan-glow-1949-01]] — Six-station Japanese CMO multi-vantage glow phenomenon with delayed thunder-roar (25 Jan 1949) ( #uap #sighting #japan)
 - [[references/sighting-kansas-city-1950-01]] — Two motionless brilliant-white spheres flashing orange/red over Kansas City KS / Olathe KS (6 Jan 1950) ( #uap #sighting #kansas)
 - [[references/sighting-kazakhstan-1994-01-27]] — 27 Jan 1994 ~40-min UAP encounter at FL410 over Kazakhstan by 3 American Tajik Air pilots; circles/corkscrews/90° turns + ~100,000-ft contrails ( #uap #sighting #kazakhstan)
 - [[references/sighting-kodiak-alaska-1949-04]] — Multi-witness greenish-blue ball-of-fire over US Naval Operating Base Kodiak (8 Apr 1949) — earliest Navy-originated UAP report ( #uap #sighting #alaska #navy)
 - [[references/sighting-medford-or-1949-08]] — 70-min theodolite + binoculars sighting of shiny high-altitude objects with detected wings (8 Aug 1949) ( #uap #sighting #oregon)
 - [[references/sighting-mountain-home-id-1949-07]] — Seven delta-wing objects in V-formation, unbanked 180° turn at 600+ mph, no sound (24 Jul 1949) ( #uap #sighting #idaho)
+- [[references/sighting-neubiberg-1948-10]] — One-line referenced flying-saucer hover (~30 min) over Neubiberg AB, late October 1948 — surfaces in USAFE TT 1524 Item 14 ( #uap #sighting #1948 #germany)
 - [[references/sighting-orbs-launching-orbs-western-us]] — Three federal LE teams independently see orange orbs launching red orbs over two days ( #uap #sighting #orb)
 - [[references/sighting-papua-new-guinea-1985-01-24]] — 24 Jan 1985 multi-vantage Papua New Guinea overflights (Air Niugini radar contact + multi-region contrails) reported via PNG NIO ( #uap #sighting #papua-new-guinea)
 - [[references/sighting-portland-or-1949-07]] — NWA Capt Thrush attempted 180° intercept of pacing 2-red/1-white-light object near Portland (30 Jul 1949) ( #uap #sighting #oregon)
 - [[references/sighting-seattle-1949-08]] — Multi-vantage 75–100 ft circular object plus separate F-84-track jet object (22 Aug 1949) ( #uap #sighting #washington)
+- [[references/sighting-swedish-lake-crash-1948]] — 1948 Swedish technical-expert observation of a flying-saucer-class object crashing into a lake; Swedish naval salvage team finds an uncharted lake-floor crater ( #uap #sighting #1948 #sweden)
 - [[references/sighting-transparent-kite-western-us]] — Pre-dawn kite-shaped object visible through NVGs and bare eye but not all witnesses; partially transparent ( #uap #sighting #transparent)
 - [[references/hunter-1963-space-alien-race-memo]] — 6-page declassified OFFICIAL USE ONLY memo (NASC, 18 Jul 1963) framing US policy options for first contact ( #uap #primary-source #policy)
 - [[references/usaf-flying-discs-1948]] — Declassified 28-page USAF inter-office correspondence, Feb–Jun 1948 ( #uap #primary-source #declassified)
 - [[references/usaf-flying-discs-1949]] — Declassified 143-page USAF correspondence, NARA box 186 / 319.1, Oct 1948 – Jan 1950, with ~20 distinct sighting reports ( #uap #primary-source #declassified)
+- [[references/usafe-tt1524-1948-11]] — Declassified 7-page TOP SECRET USAFE-to-Cabell intelligence dispatch (TT 1524, 4 Nov 1948); contains the Swedish AIS "outside the earth" assessment + Neubiberg + Swedish lake-crash + Op Daggar Holland-coast jet ( #uap #primary-source #declassified #1948)
 - [[references/usper-statement-2025]] — Redacted SECRET//NOFORN witness statement by a senior US intelligence official describing a 2025 helicopter orb encounter ( #uap #primary-source #intel-witness)
 - [[references/western-us-event-2026]] — 4-slide briefing deck on the multi-event Western U.S. federal LE UAP cluster, with AARO follow-up ( #uap #primary-source #federal-le)
 

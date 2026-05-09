@@ -3,17 +3,17 @@ title: UAP
 category: project
 tags: [uap, history, intelligence, archive]
 source_path: _raw/ (declassified UAP archive volumes), sources/ (Mistral-OCR'd briefings and witness statements)
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json]
-summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN, **two 1957–58 FBI Detroit files (100-26505 Krasuski + 100-18221 Weaver)**, a 1963 NASC policy memo, two 1985 + 1994 DOS diplomatic-channel cables, the 2026 AARO Western US event, a 2025 SECRET//NOFORN intel-official witness statement, and **two parallel 2023 FBI FD-302s** on the same Sept 2023 contractor-convoy UAP incident.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json]
+summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN (two-track AFOIR + USAFE TS), 1957–58 FBI Detroit files, 1963 NASC, 1985 + 1994 DOS cables, 2025 intel statement, 2023 FBI FD-302 pair, and 2026 AARO Western US slides.
 provenance:
-  extracted: 0.5
+  extracted: 0.48
   inferred: 0.5
-  ambiguous: 0.0
-base_confidence: 0.7
+  ambiguous: 0.02
+base_confidence: 0.72
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T17:30:00Z
+updated: 2026-05-09T18:30:00Z
 ---
 
 # UAP
@@ -35,6 +35,10 @@ A research project distilling declassified primary-source archives on Unidentifi
 ### 1948 USAF "Flying Disc" file
 
 - [[references/usaf-flying-discs-1948]] — 28-page Mistral-OCR'd USAF correspondence file (Feb–Jun 1948, "general_1948_vol_1" item 18). The file naming suggests there are more volumes to come.
+
+### 1948 USAFE TS sub-track (TT 1524) (NEW)
+
+- [[references/usafe-tt1524-1948-11]] — 7-page Mistral-OCR'd declassified TOP SECRET dispatch (NARA RG 341, FOIA 110448, TS Control # 2-5317) sent by [[entities/usafe|USAFE]] to USAF Directorate of Intelligence on 4 Nov 1948, addressed substantively to [[entities/c-p-cabell|Maj Gen Cabell]]. Establishes that the 1948 SIGN-era routing apparatus was **two-track**: the AFOIR-CO field-installation channel (CONF/SECRET) ran in parallel with this **USAFE TS foreign-liaison channel**. Carries the wiki's first **institutional / foreign-allied AIS** [[concepts/eti-attribution-statements|ETI-adjacent attribution]] (Swedish AIS, see [[entities/swedish-air-intelligence-service]]), the wiki's first state-funded **physical-trace claim** ([[references/sighting-swedish-lake-crash-1948|Swedish lake-crash + naval salvage uncharted-crater]]), the wiki's first sustained **~30-min hover** datum ([[references/sighting-neubiberg-1948-10|Neubiberg AB]]), and the wiki's first European-theater operational unidentified-jet sighting ([[references/sighting-holland-coast-1948-09-05|5 Sep 1948 Op Daggar Holland coast]]). The 8 Nov 1948 AFOIR-CO disposition slip redistributes USAFE 14 to **AMC** at [[entities/wright-patterson-afb|Wright-Patterson]] — bridging the two tracks at the operational hub. ^[inferred]
 
 ### 1948–1950 USAF "Flying Disc" continuation file (NEW)
 
@@ -71,7 +75,7 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 
 ### 1994 DOS Kazakhstan / Tajik Air UFO cable (NEW)
 
-- [[references/dos-cable-kazakhstan-1994-01]] — 3-page declassified UNCLAS US State Department cable (`DUSHANBE 00259`, 31 Jan 1994, AMEMBASSY Dushanbe → SECSTATE, signed `ESCUDERO`) reporting three American [[entities/tajik-air|Tajik Air]] pilots' (Capt **Ed Rhodes** + 2 ex-PanAm crew) **27 Jan 1994 ~40-min UAP encounter at FL410 over Kazakhstan** (45°N 55°E) — circles, corkscrews, 90° turns at very high G's, plus contrails at ~100,000 ft. Single-event sighting page at [[references/sighting-kazakhstan-1994-01-27]]. Second diplomatic-channel artifact (sub-pattern B, citizen-witness-relay) and the **first explicit witness-side ETI attribution** in the corpus's primary-source documents. Cable is in the same release tranche `CSP-2025-00040` as the 1985 PNG cable (item identifiers `B-...027` / `B-...028`). ^[inferred]
+- [[references/dos-cable-kazakhstan-1994-01]] — 3-page declassified UNCLAS US State Department cable (`DUSHANBE 00259`, 31 Jan 1994, AMEMBASSY Dushanbe → SECSTATE, signed `ESCUDERO`) reporting three American [[entities/tajik-air|Tajik Air]] pilots' (Capt **Ed Rhodes** + 2 ex-PanAm crew) **27 Jan 1994 ~40-min UAP encounter at FL410 over Kazakhstan** (45°N 55°E) — circles, corkscrews, 90° turns at very high G's, plus contrails at ~100,000 ft. Single-event sighting page at [[references/sighting-kazakhstan-1994-01-27]]. Second diplomatic-channel artifact (sub-pattern B, citizen-witness-relay) and the **first explicit witness-side ETI attribution** in the corpus's primary-source documents (the **institutional / foreign-liaison** ETI-attribution anchor is ~46 years earlier — see [[concepts/eti-attribution-statements]] and the 1948 Swedish AIS section under [[references/usafe-tt1524-1948-11]]). Cable is in the same release tranche `CSP-2025-00040` as the 1985 PNG cable (item identifiers `B-...027` / `B-...028`). ^[inferred]
 
 ### 1963 NASC policy memo
 
@@ -88,11 +92,13 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 
 ## Key institutional structures (1948–49)
 
-- [[concepts/project-sign]] — first official US Air Force investigative program.
+- [[concepts/project-sign]] — first official US Air Force investigative program; **two-track routing** (AFOIR-CO field-installation + USAFE TS foreign-liaison) confirmed by the Nov 1948 USAFE TT 1524 ingest.
 - [[concepts/flying-disc-reporting-protocol]] — the 10-element observational template that prefigures every later UAP report schema.
 - [[concepts/fsr-200-4-reporting-regulation]] — the 2 Nov 1948 Flight Service Regulation that codified the Cabell directive into a standing FSR order, cited in nearly every 1949 report.
-- [[entities/air-materiel-command]] @ [[entities/wright-patterson-afb]] — the operational hub (1948); attention line evolved from `MCI` / `TSDIN` (1948) to `MCIAXO-3` (1949).
+- [[entities/air-materiel-command]] @ [[entities/wright-patterson-afb]] — the operational hub (1948); attention line evolved from `MCI` / `TSDIN` (1948) to `MCIAXO-3` (1949). Also the **redistribution destination** for USAFE TS-track foreign-liaison material (USAFE 14, 8 Nov 1948 AFOIR-CO disposition slip).
 - [[entities/military-air-transport-service]] @ Andrews AFB — the **second institutional hub** that emerges in 1949 alongside AMC, handling AACS- and Flight-Service-originated reports.
+- [[entities/usafe]] — US Air Forces in Europe; **European-theater liaison hub** that originated the TS sub-track in late 1948. **(NEW)**
+- [[entities/swedish-air-intelligence-service]] — foreign-allied national air-intelligence service that USAFE liaised with in late October 1948. **(NEW)**
 
 ## Modern institutional structures
 
@@ -135,7 +141,7 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 
 ## Key people (1948)
 
-- [[entities/c-p-cabell]] — signed the foundational SIGN directive.
+- [[entities/c-p-cabell]] — signed the foundational SIGN directive (Feb 1948); also **named addressee** of the USAFE TS dispatch (Nov 1948 — TT 1524 Item 14, *"What are your reactions?"*). Two distinct routing roles in the same calendar year.
 - [[entities/horten-brothers]] — under US/G-2 interrogation as part of the investigation.
 
 ## Key people (1963 policy track)
@@ -160,6 +166,10 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 - [[concepts/uap-aircraft-engagement]] — orb-class objects approaching/pursuing crewed aircraft, including apparent target switching across platforms. New from the 2025 statement.
 - [[concepts/engine-stall-phenomenon]] — recurring physical-effect signature: vehicle / equipment failure coincident with UAP proximity, recovery on departure. **(NEW)** Connects 1944 Krasuski (tractor stall) → 1957 Levelland TX (multi-vehicle cluster, the trigger for Krasuski's report) → 2023 FBI gate anomaly.
 
+## Cross-era patterns (NEW)
+
+- [[concepts/eti-attribution-statements]] — explicit ETI-adjacent attributions in primary records, with two anchors: **1948 institutional / foreign-liaison** ([[entities/swedish-air-intelligence-service|Swedish AIS]] via [[references/usafe-tt1524-1948-11|USAFE TT 1524]]) and **1994 witness-side** (Capt Ed Rhodes via [[references/dos-cable-kazakhstan-1994-01|DUSHANBE 00259]]). The two are 46 years apart and structurally distinct evidence classes.
+
 ## Witness-class analysis
 
 - [[synthesis/federal-le-uap-witness-pattern]] — what multi-agent federal LE testimony does (and doesn't) buy you as evidence.
@@ -173,6 +183,9 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 | 1 March 1945, 1030 hrs | Vicinity grid F-5710 | 67 TAC/R Group / 107 PR Squadron pilots | [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] |
 | 5–8 March 1948 | Bakersfield, CA | civilians + USAF | [[references/sighting-bakersfield-1948-03]] |
 | 8 May 1948 (night) | Hobson, OH | NY Central rail workers | [[references/sighting-hobson-ohio-1948-05]] |
+| 5 September 1948, 1402Z | Off W coast of Holland (51°55′N 03°55′E), 30,000 ft | 3 crews of USAF 307th BG, Op Daggar | [[references/sighting-holland-coast-1948-09-05]] |
+| Pre-late-Oct 1948 (date unknown) | Unnamed Swedish lake (witness's lake-edge home) | Single Swedish technical expert + Swedish AIS naval salvage team | [[references/sighting-swedish-lake-crash-1948]] |
+| ~28 Oct – 4 Nov 1948 | Neubiberg AB, Bavaria | Unidentified — referenced inside USAFE TT 1524 Item 14 | [[references/sighting-neubiberg-1948-10]] |
 | 3 December 1948, 2015 PST | Fairfield-Suisun AFB, CA | AACS tower operators (PFC McFarland AGCT 143 + Sgt DeLafayette) | [[references/sighting-fairfield-suisun-1948-12]] |
 | 25 January 1949, ~1950 JST | Fukushima/Iida/Suwa/Nagano/Takayama/Gifu, Japan | Japanese CMO weather stations (6 stations) | [[references/sighting-japan-glow-1949-01]] |
 | 8 April 1949, ~2030–2045 | Kodiak, Alaska | USN Lt Cdr Shepard + USMS dep marshal Herbing + 2 civilians | [[references/sighting-kodiak-alaska-1949-04]] |
@@ -231,6 +244,13 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 - Determine whether the FBI maintains a **standing UAP-adjacent intake protocol** or files such records under whatever substantive case category (counter-intelligence, counterterrorism, criminal) the underlying investigation belongs to. ^[inferred]
 - Resolve the **second-vehicle observation contradiction** — serial-3 (driver) records that "[REDACTED] in the second vehicle said he saw the object too" while serial-4 (drone pilot) records that the second-vehicle occupant tried-and-failed. A third FD-302 (a second-vehicle witness's own statement) would resolve. ^[open]
 - Determine whether the **co-temporal gate anomaly** recorded in serial-3 (3 close-cycles, 4th attempt opens normally) was logged through facility security/maintenance channels, and whether the FBI checked. ^[open]
+- Locate the **Cabell reply to USAFE TT 1524 Item 14** — the dispatch is preserved but the response (if any) is not in the bundle. ^[open]
+- Locate **TT 1523 and TT 1525** (and other adjacent items in the TS Control range `2-5300 – 2-5399`). ^[inferred]
+- Identify the **Swedish lake** (USAFE 14 Swedish AIS naval-salvage operation) and the witness's name. ^[open]
+- Locate **Swedish-side Försvarsstaben / Flygstaben records** of the late-1948 naval salvage operation. ^[open]
+- Cross-reference **1946 Swedish "Ghost Rocket"** investigations against the 1948 lake-crash case for institutional continuity. ^[open]
+- Locate the **307th Bomb Group Operation Daggar after-action report** for 5 Sep 1948. ^[open]
+- Locate any **Neubiberg primary report** (USAFE 14 references a ~30-min hover but does not preserve the underlying report). ^[open]
 
 ## See also
 

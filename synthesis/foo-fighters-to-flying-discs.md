@@ -3,17 +3,17 @@ title: From Foo Fighters to Flying Discs — Continuity of the Allied UAP-Report
 category: synthesis
 tags: [uap, history, analysis, intelligence]
 aliases: [WWII to 1948 UAP continuity, Foo Fighters Flying Discs Bridge]
-sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, _raw/18_6369445_general_1948_vol_1.json, fbi-detroit-100-26505-100-de-26505]
-summary: Cross-cutting analysis showing the WWII Allied foo-fighter file (1944–45 SHAEF) and the 1948 USAF Flying Disc effort share institutional structure, candidate-explanation logic, and a near-identical reporting template.
+sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, _raw/18_6369445_general_1948_vol_1.json, fbi-detroit-100-26505-100-de-26505, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json]
+summary: Cross-cutting analysis showing the WWII Allied foo-fighter file (1944–45 SHAEF) and the 1948 USAF Flying Disc effort share institutional structure, candidate-explanation logic, and a near-identical reporting template — with a parallel USAFE-Swedish AIS TS sub-track active in late 1948.
 provenance:
-  extracted: 0.3
-  inferred: 0.62
-  ambiguous: 0.08
+  extracted: 0.28
+  inferred: 0.65
+  ambiguous: 0.07
 base_confidence: 0.93
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T14:07:00Z
-updated: 2026-05-09T18:00:00Z
+updated: 2026-05-09T18:30:00Z
 ---
 
 # From Foo Fighters to Flying Discs — Continuity of the Allied UAP-Reporting Apparatus, 1944–1948
@@ -76,6 +76,22 @@ Modern AARO's 2024–2026 public posture (per [[entities/aaro]]): a non-trivial 
 
 The institutional admission "we cannot fully explain these reports" is preserved across the entire 80-year arc. The "[[concepts/scientific-vs-saucer-advocate-frame|prepared-skepticism]]" rhetorical posture present in 1963 NASC traffic and 2026 AARO briefings is already operative in DDI2's 1945 admission. ^[inferred]
 
+## A late-1948 third track: USAFE TS foreign-liaison
+
+The wiki's [[references/usafe-tt1524-1948-11|USAFE TT 1524 (4 Nov 1948)]] dispatch — running at TOP SECRET, addressed to [[entities/c-p-cabell|Cabell]] — reveals a **third track** that ran in parallel with the AFOIR-CO field-installation channel during Project SIGN's first months:
+
+| Track | Originating channel | Material | Era |
+|---|---|---|---|
+| **Wartime SHAEF/Air Ministry** | 415th NFS / 67 TAC R / Bomber Command → tactical A-2 → SHAEF A-2 → Air Ministry DDI2 / A.D.I.(K) | Foo-fighter sortie reports + cylindrical-object thread | 1944–45 |
+| **AFOIR-CO field-installation** | Field installations → AMC T-2 → AFOIR-CO-5 → D/I HQ USAF | Disc-class field reports under the 10-element template | 1948–50 |
+| **USAFE TS foreign-liaison** | USAFE A-2 → AFOIR-CO routing → D/I HQ USAF (Cabell) | Foreign-allied AIS material (Swedish AIS), European-installation observations (Neubiberg), European-theater operational reports (Op Daggar) | Late 1948 |
+
+The third track is what carries the wiki's first **institutional / foreign-liaison** [[concepts/eti-attribution-statements|ETI-adjacent attribution]]: the [[entities/swedish-air-intelligence-service|Swedish AIS]] *"outside the earth"* assessment relayed via [[references/usafe-tt1524-1948-11|TT 1524 Item 14]] to Cabell. ^[extracted] This is a **structural extension** of the foo-fighter / disc continuity — the same five-step institutional loop, but with a foreign-allied-state intelligence service substituted for the wartime DDI2 / A.D.I.(K) technical-intelligence body. ^[inferred]
+
+The candidate-explanation logic also extends. In 1944–45 the leading explanation was *catalogued enemy capability* (Me 262, flak rockets, [[concepts/flak-bombe-hypothesis|Flak Bombe]]). In 1948 (AFOIR file) the leading explanation was *catalogued enemy capability* ([[concepts/horten-flying-wing|Horten flying wings]], Soviet Horten derivatives, [[references/loedding-flying-disc|Loedding LD-2]]). In **late 1948 (USAFE TS sub-track)** the leading explanation is **explicitly disclaimed**: the Swedish AIS position is that the phenomena *"cannot be credited to any presently known culture on earth"* — i.e., the catalogued-enemy-capability logic is **explicitly broken** for the first time in the Allied UAP-reporting apparatus. ^[inferred]
+
+The fact that this break enters the apparatus via a **foreign-allied AIS** rather than a US-side technical body is itself structurally significant — it tells the wiki that the institutional space for ETI-adjacent attributions opened **first at a foreign liaison interface**, not at the field-installation reporting channel. ^[inferred]
+
 ## Where the threads diverge
 
 - **Visual morphology**. The 1944–45 reports are dominated by *lights and luminous spheres* (foo fighters, "balls of fire"); the 1948 reports are dominated by *disc-shaped objects*. The candidate-explanation menus reflect this — Flak Bombe / flak rocket / Me 262 in the lights regime; flying-wing aircraft / disc-shaped aircraft in the disc regime. ^[inferred]
@@ -109,4 +125,8 @@ The institutional admission "we cannot fully explain these reports" is preserved
 - [[entities/c-p-cabell]]
 - [[references/sighting-gut-alt-golssen-1944]]
 - [[references/fbi-detroit-100-26505-krasuski-1957]]
+- [[references/usafe-tt1524-1948-11]]
+- [[entities/swedish-air-intelligence-service]]
+- [[entities/usafe]]
+- [[concepts/eti-attribution-statements]]
 - [[projects/uap/uap]]

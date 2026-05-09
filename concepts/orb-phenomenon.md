@@ -2,17 +2,17 @@
 title: Orb Phenomenon
 category: concepts
 tags: [uap, morphology, sighting, pattern]
-sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json]
-summary: Recurring UAP morphology — small to medium luminous spherical bodies (often colored), with sub-classes including flash-orbs, sustained hovers, "mother / daughter" launches, and sequential flare formations.
+sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json]
+summary: Recurring UAP morphology — small to medium luminous or solid spherical / disc-class bodies, with sub-classes including flash-orbs, sustained hovers (≥30 min as old as 1948), "mother / daughter" launches, and sequential flare formations.
 provenance:
-  extracted: 0.55
-  inferred: 0.4
+  extracted: 0.5
+  inferred: 0.45
   ambiguous: 0.05
-base_confidence: 0.55
+base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T13:33:54Z
-updated: 2026-05-09T13:41:53Z
+updated: 2026-05-09T18:30:00Z
 ---
 
 # Orb Phenomenon
@@ -44,6 +44,10 @@ A UAP report is consistent with the *orb* morphology when the witness account in
 - **Drone-launched submunitions**: red-orb-launch pattern resembles cluster-munition deployment ^[inferred] — but the orange "mother" orb's 1–2 s appearance and clean disappearance is awkward for a drone.
 - **Plasma / ball lightning analogues**: spherical, self-luminous, no acoustic signature; harder to reconcile with multi-team multi-day repeatability. ^[inferred]
 - **Genuine unknowns**: held open by AARO's role in [[references/western-us-event-2026]].
+
+## Long-duration hover precursor (1948)
+
+The Nov 1948 [[references/usafe-tt1524-1948-11|USAFE TT 1524 Item 14]] dispatch references a flying-saucer-class object that **hovered over Neubiberg AB for ~30 minutes** in late October 1948 ([[references/sighting-neubiberg-1948-10]]). This is the wiki's **earliest documented sustained-hover** datum and predates the modern multi-minute / multi-hour sustained-hover orb cases by ~77 years. The 1948 reference does not preserve color or self-luminosity information — it is therefore *morphologically ambiguous* relative to the modern luminous-orb sub-class — but the **duration alone** establishes that long-duration hover is at least as old as 1948 as a tracked behavior. ^[inferred] See [[concepts/eti-attribution-statements]] for the institutional context (the 1948 dispatch is what carries the wiki's earliest institutional ETI-adjacent attribution).
 
 ## Compare and contrast
 
