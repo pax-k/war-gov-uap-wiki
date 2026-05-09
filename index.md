@@ -4,12 +4,12 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-10T00:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-10T01:00:00Z*
 
 ## Concepts
 
 - [[concepts/balls-of-fire-red]] — UK Air Ministry DDI2 filing term for the WWII night-light reports the USAAF called foo fighters ( #uap #ww2 #intelligence)
-- [[concepts/diplomatic-channel-uap-reporting]] — Umbrella institutional pattern for embassy-mediated UAP cables; two sub-patterns (foreign-liaison-inquiry 1985 PNG, citizen-witness-relay 1994 Kazakhstan) plus two boundary cases (2001 Moscow figurative; 2004 Ashgabat referential) ( #uap #policy #diplomacy)
+- [[concepts/diplomatic-channel-uap-reporting]] — Umbrella institutional pattern for embassy-mediated UAP cables; three sub-patterns A/B/C (1985 PNG, 1994 Kazakhstan, 2023 Mexico) plus two boundary cases (2001 Moscow figurative; 2004 Ashgabat referential) ( #uap #policy #diplomacy)
 - [[concepts/engine-stall-phenomenon]] — Recurring UAP-adjacent physical-effect signature: vehicle / equipment failure coincident with UAP proximity; recovers normally on departure ( #uap #morphology #electromagnetic)
 - [[concepts/eti-attribution-statements]] — Cross-era pattern for tracking explicit ETI-origin attributions: institutional / foreign-liaison (1948 Swedish AIS) vs. witness-side (1994 Tajik Air) ( #uap #history #intelligence #pattern)
 - [[concepts/figurative-ufo-rhetoric]] — Typology of "UFO" appearances in DOS cables that drive FOIA UAP-keyword indexing without UAP narrative payload — referential (Type 1) vs. figurative (Type 2) ( #uap #rhetoric #diplomacy #pattern)
@@ -40,6 +40,7 @@ title: Wiki Index
 - [[entities/aaro]] — All-domain Anomaly Resolution Office; modern DoD UAP intake/assessment authority ( #usaf #organization #uap)
 - [[entities/amembassy-ashgabat]] — US Embassy in Ashgabat, Turkmenistan; originating post of the 12 Nov 2004 DOS cable on the Union of UFOlogists NGO; boundary-case post outside the diplomatic-channel UAP umbrella ( #state-department #embassy #organization)
 - [[entities/amembassy-dushanbe]] — US Embassy in Dushanbe, Tajikistan; originating post of the 31 Jan 1994 DOS cable on the Tajik Air UAP encounter over Kazakhstan ( #state-department #embassy #organization)
+- [[entities/amembassy-mexico]] — US Embassy in Mexico City; originating post of the 16 Sep 2023 MEXICO 2544 weekly political blotter cable whose ¶11 reported the Mexican Congress UAP hearing — sub-pattern C anchor of the diplomatic-channel umbrella ( #state-department #embassy #mexico #organization)
 - [[entities/amembassy-moscow]] — US Embassy in Moscow, Russia; originating post of the 30 Oct 2001 cable MOSCOW 13169 on Russian airspace-violation denials of Georgia (boundary case — figurative-UFO rhetoric) ( #state-department #embassy #russia #organization)
 - [[entities/amembassy-port-moresby]] — US Embassy in Port Moresby, PNG; originating post of the 28 Jan 1985 DOS cable on PNG UAP overflights ( #state-department #embassy #organization)
 - [[entities/alexander-vershbow]] — US Ambassador to Russia 2001–2005; signing officer of the 30 Oct 2001 MOSCOW 13169 cable ( #state-department #person #diplomacy #russia)
@@ -58,6 +59,7 @@ title: Wiki Index
 - [[entities/gemini-7]] — NASA GT-7 long-duration / rendezvous mission (4–18 Dec 1965); mission frame for the wiki's first orbital UAP-adjacent record ( #nasa #mission #spacecraft #uap)
 - [[entities/george-krol]] — POLMINCOUNS at AMEMBASSY Moscow in 2001; classifying officer of MOSCOW 13169; later US Ambassador to Belarus / Uzbekistan / Kazakhstan ( #state-department #person #diplomacy #russia)
 - [[entities/horten-brothers]] — German aircraft designers whose tailless wings were studied as a Flying Disc explanation ( #aviation #germany #ww2)
+- [[entities/jaime-maussan]] — Mexican journalist and longstanding UAP/UFO public figure; presented two alleged "alien corpses" to the Mexican Congress on 12 Sep 2023 ( #uap #person #mexico #witness #public-affairs)
 - [[entities/j-w-hunt]] — Open-question stub for a cover-routing-slip name on the 1963 NASC alien-policy memo; possibly OCR misread of "M. W. Hunter" ( #uap #person #ambiguous #ocr)
 - [[entities/jim-lovell]] — USN test pilot, NASA "Next Nine" astronaut, Pilot Gemini 7; co-witness on the GT-7 bogey exchange (booster only on the released transcript) ( #person #witness #uap #nasa #astronaut)
 - [[entities/maxwell-w-hunter]] — NASC Professional Staff member; authored the 1963 "Space Alien Race Question" memo ( #person #nasc #policy)
@@ -71,6 +73,7 @@ title: Wiki Index
 - [[entities/robert-cutler]] — Special Assistant to President Eisenhower for National Security Affairs; routing principal in the 1957 FBI 100-26505 Krasuski case ( #person #white-house #eisenhower)
 - [[entities/robert-f-packard]] — State Department / OISA officer; addressee of the 1963 NASC memo ( #person #state-department #policy)
 - [[entities/ruben-efron]] — Senate Armed Services Committee Consultant; co-witness and contemporaneous note-keeper for the 4 Oct 1955 Trans-Caucasus disc sighting ( #person #witness #uap #senate-staff)
+- [[entities/ryan-graves]] — Former US Navy F/A-18F pilot; post-2017 UAP witness who testified to both US Congress and Mexico's Congress (12 Sep 2023); publicly criticized Maussan's alleged-corpse display as an "unsubstantiated stunt" ( #uap #person #navy #witness #aviation)
 - [[entities/russia-mfa]] — Russian Ministry of Foreign Affairs (MID); counterparty department in MOSCOW 13169; source of Tereoken's "UFO" denial trope ( #russia #foreign-government #organization #diplomacy)
 - [[entities/shaef-air-staff]] — Allied combined-air-forces intelligence/operations hub (1944–45) that routed the foo-fighter correspondence ( #uap #ww2 #organization)
 - [[entities/state-department]] — US Department of State; parent agency of all American embassies and the cable-traffic backbone of the corpus's diplomatic-channel UAP intake pattern ( #state-department #organization #diplomacy)
@@ -92,6 +95,7 @@ title: Wiki Index
 ## References
 
 - [[references/dos-cable-kazakhstan-1994-01]] — Declassified 3-page UNCLAS US State Department cable (31 Jan 1994, DUSHANBE 00259) on Tajik Air pilots' UAP encounter at FL410 over Kazakhstan ( #uap #primary-source #state-department)
+- [[references/dos-cable-mexico-2023-09]] — Declassified 7-page UNCLAS US State Department cable (16 Sep 2023, MEXICO 2544) — Mission Mexico's weekly political blotter ¶11 reports the 12 Sep 2023 Mexican Congress UAP hearing with Maussan + Graves; first sub-pattern-C anchor of the diplomatic-channel umbrella ( #uap #primary-source #declassified #state-department #diplomacy)
 - [[references/dos-cable-papua-new-guinea-1985-01]] — Declassified 3-page US State Department cable (28 Jan 1985, PORT M 00199) on PNG NIO inquiry into 24 Jan 1985 high-altitude overflights ( #uap #primary-source #state-department)
 - [[references/dos-cable-russia-georgia-2001-10]] — Declassified 5-page CONFIDENTIAL US State Department cable (30 Oct 2001, MOSCOW 13169) on Russian denial of airspace violations of Georgia; boundary case — figurative-UFO rhetoric, not a UAP narrative ( #uap #primary-source #state-department #rhetoric)
 - [[references/dos-cable-turkmenistan-2004-11]] — Declassified 5-page UNCLAS/SBU US State Department cable (12 Nov 2004, ASHGABAT 1028) on the Union of UFOlogists NGO; boundary case — not a UAP-sighting cable ( #uap #primary-source #state-department #turkmenistan)

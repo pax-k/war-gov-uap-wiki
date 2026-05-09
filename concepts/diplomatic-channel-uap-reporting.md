@@ -2,35 +2,35 @@
 title: Diplomatic-Channel UAP Reporting
 category: concepts
 tags: [uap, policy, intelligence, diplomacy, institutional]
-aliases: [diplomatic UAP intake, embassy UAP reporting, foreign-government UAP inquiry, citizen-witness cable relay]
-sources: [sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/341_110677_numerical_file_5-2500.json, sources/059uap00012.json, sources/059uap00011.json]
-summary: An institutional pattern in which a US diplomatic post (embassy or air-attaché office) aggregates a UAP-adjacent narrative from outside the standard US-military intake stream and forwards it up its parent department. Sub-patterns now include foreign-liaison-inquiry, citizen-witness-relay, and (sibling) air-attaché HUMINT. Two negative anchors (2004 Ashgabat NGO; 2001 Moscow rhetorical UFO).
+aliases: [diplomatic UAP intake, embassy UAP reporting, foreign-government UAP inquiry, citizen-witness cable relay, host-country legislative-event reportage]
+sources: [sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/341_110677_numerical_file_5-2500.json, sources/059uap00012.json, sources/059uap00011.json, sources/059uap00013.json]
+summary: Institutional pattern in which a US diplomatic post aggregates UAP-adjacent content from outside the standard US-military intake stream and forwards it up its parent department. Three sub-patterns (A foreign-liaison-inquiry, B citizen-witness-relay, C host-country legislative-event reportage) plus sibling air-attaché HUMINT. Two negative-anchor boundary cases (Ashgabat NGO; Moscow figurative UFO).
 provenance:
-  extracted: 0.32
-  inferred: 0.64
+  extracted: 0.3
+  inferred: 0.66
   ambiguous: 0.04
-base_confidence: 0.6
+base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-09T16:15:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-10T01:00:00Z
 ---
 
 # Diplomatic-Channel UAP Reporting
 
 A distinct **institutional intake pattern** for UAP-adjacent reports, characterized by a [[entities/state-department|US Department of State]] **embassy** acting as the receiving and forwarding node — outside the US-military / DoD intake stream that handles other UAP-adjacent traffic in the corpus.
 
-The corpus now contains **two cables** establishing this pattern: [[references/dos-cable-papua-new-guinea-1985-01|PORT M 00199]] (1985, foreign-liaison-inquiry) and [[references/dos-cable-kazakhstan-1994-01|DUSHANBE 00259]] (1994, citizen-witness-relay). They share the embassy-as-conduit structure but route through *different* State-Department bureaus on the receiving side, target *different* US-side action addressees, and originate from *different* witness classes. The pattern is therefore best modelled as an **umbrella** with at least two sub-patterns.
+The corpus now contains **three cables** establishing this pattern: [[references/dos-cable-papua-new-guinea-1985-01|PORT M 00199]] (1985, **sub-pattern A — foreign-liaison-inquiry**), [[references/dos-cable-kazakhstan-1994-01|DUSHANBE 00259]] (1994, **sub-pattern B — citizen-witness-relay**), and [[references/dos-cable-mexico-2023-09|MEXICO 2544]] (2023, **sub-pattern C — host-country legislative-event reportage**). The three cables share the embassy-as-conduit structure but **route through different State-Department bureaus**, target **different US-side action addressees**, and originate from **different witness classes**. The pattern is therefore best modelled as an **umbrella** with three distinct sub-patterns.
 
 ## Common defining features (umbrella pattern)
 
-Across both sub-patterns:
+Across all three sub-patterns:
 
-1. A **UAP-adjacent narrative** reaches a US embassy via a *non-US-military* channel.
-2. The embassy aggregates the narrative internally and **issues a State Department cable** captioned to a Department bureau and (selectively) to other US-government action and information addressees.
-3. The cable's **subject TAGS do not include `UFO`**. The 1985 cable carries `MARR`, `PP`; the 1994 cable carries `TSAP, EAIR, KZ, TI, TAJIK AIR, (RHODES, ED)`. ^[inferred] With two cables and zero `UFO` tags, the hypothesis that the State Department's subject-tag schema does not formally classify these matters as UAP cases is no longer single-case.
-4. The interpretive layer is **left open** — the embassy forwards the question; it does not classify the objects.
-5. The cable is preserved in a **single State Department release tranche**: both items carry identifier prefix `CSP-2025-00040` and adjacent `B-...027` / `B-...028` tail numbers. ^[inferred]
+1. **UAP-adjacent content** reaches the State Department via a *non-US-military* channel — through a US embassy in the host country (sub-pattern A foreign-service inquiry; sub-pattern B US-citizen aircrew walk-in; sub-pattern C host-country political event observed via local media).
+2. The embassy aggregates the content internally and **issues a State Department cable** captioned to a Department bureau and (selectively) to other US-government action and information addressees.
+3. The cable's **subject TAGS do not include `UFO` or `UAP`**. The 1985 cable carries `MARR, PP`; the 1994 cable `TSAP, EAIR, KZ, TI, TAJIK AIR, (RHODES, ED)`; the 2023 cable `PGOV, PREL, ASEC, TSPA, KJUS, KCRM, MX`. ^[extracted] **With three substantive cables and zero `UFO` tags**, plus two boundary cables also tag-absent (see below), the State Department's subject-tag schema does not formally classify these matters as UAP cases. **`TSPA` (Transportation, Space, Aviation)** is the closest-to-de-facto routing tag for *aviation-and-airspace* content where one is needed (1994, 2004, 2023 — 3-of-5). ^[inferred]
+4. The interpretive layer is **left open** — the embassy forwards (and in sub-pattern C may quote selective skeptical voices), but does not classify the objects.
+5. **Sub-patterns A and B share a release tranche** (`CSP-2025-00040`, adjacent `B-...027 / B-...028` tail numbers), while sub-pattern C and the boundary cases are in the **`059uap*` series**. ^[inferred] The two release tranches differ in substantive-cable yield (`CSP-2025-00040`: 2/2 substantive; `059uap*`: 1/3 substantive after 00013 ingest).
 
 This pattern is **distinct** from the four other UAP-reporting institutional patterns already in the wiki:
 
@@ -40,7 +40,7 @@ This pattern is **distinct** from the four other UAP-reporting institutional pat
 | **Wartime operational** (1944–45 SHAEF foo-fighters; see [[synthesis/foo-fighters-to-flying-discs]]) | Allied combat aircrew | Combined-air-staff intelligence | Hypothesize wartime enemy weapon, file, no resolution |
 | **Policy-staff** (1963 NASC; see [[references/hunter-1963-space-alien-race-memo]]) | Internal EOP staffer | Other US-government policy office | Articulate hypothetical US policy posture |
 | **Modern multi-track** (2025 / 2026 AARO + intel-witness; see [[entities/aaro]]) | US federal LE / US intel-officials | AARO + intra-US-government channels | Standardized witness statement + analysis carve-out |
-| **Diplomatic-channel** *(this concept)* — 1985 PNG, 1994 Kazakhstan | **Non-DoD-stream witness** (foreign service or US-citizen aircrew) | **US embassy** → **State Department** ± combatant command | **No UAP determination; ad-hoc disposition** |
+| **Diplomatic-channel** *(this concept)* — 1985 PNG, 1994 Kazakhstan, **2023 Mexico** | **Non-DoD-stream content source** (foreign service, US-citizen aircrew, **or host-country political event observed via local media**) | **US embassy** → **State Department** ± combatant command | **No UAP determination; ad-hoc disposition** |
 
 The diplomatic-channel pattern is structurally **the most asymmetric** of the five: the US embassy aggregates without analyzing, forwards without resolving, and the interpretive layer never closes inside the artifact itself.
 
@@ -103,17 +103,32 @@ Established by [[references/dos-cable-kazakhstan-1994-01|DUSHANBE 00259, 31 Jan 
 
 Key feature: there is **no foreign service in the loop**, and the embassy does **not perform a US-asset query**. The cable is a forwarding-of-narrative artifact, not an asset-disambiguation artifact.
 
+### Sub-pattern C — Host-country legislative-event reportage
+
+Established by [[references/dos-cable-mexico-2023-09|MEXICO 2544, 16 Sep 2023]].
+
+| Step | What happens |
+|---|---|
+| 1 | A **host-country legislature** holds a UAP-related hearing with named witnesses (here, [[entities/jaime-maussan|Jaime Maussan]] + [[entities/ryan-graves|Ryan Graves]] before the Mexican Congress, 12 Sep 2023). |
+| 2 | The hearing and surrounding political context are **publicly observable** by the US embassy through ordinary host-country media monitoring — **no inquiry, no walk-in witness**. |
+| 3 | The US embassy ([[entities/amembassy-mexico|AMEMBASSY Mexico]]) **incorporates the hearing as one news item** in a **periodic political-reporting product** (here, Mission Mexico's Weekly Political Blotter), allocating ~190 words of an 11-bullet, 7-page cable to it. |
+| 4 | Drafter's stance is **implicit-skepticism** — relayed by **selective quotation** of the most-skeptical participant (Graves' *"unsubstantiated stunt"*) and the most-discrediting external evidence (*"scientists have discredited previous alleged alien corpses"*) without authoring a first-person editorial dismissal. ^[inferred] |
+| 5 | Action addressee is `WASHDC, SECSTATE Routine`; drafting bureau is **WHA/MEX** (Western Hemisphere Affairs / Mexico desk); information distribution is **structurally broad** (NSC, OVP, DNI, CIA, DIA, NORTHCOM, DHS, DOJ, SOUTHCOM, all WHA posts, all US consulates in Mexico) by **weekly-blotter format default** rather than UAP relevance. ^[inferred] |
+| 6 | The cable **takes no US-government posture toward UAP itself** — no US-asset query, no US witness, no narrative-bracketing. The disposition is **report-without-endorsing**, **with quoted-skepticism** as the only editorial signal. |
+
+Key features distinguishing C from A and B: the **passivity of the embassy's role** (neither responding to a foreign service's question (A) nor ingesting a citizen witness's account (B)); the **media-mediated, not source-mediated** intake; the **embedded-in-a-non-UAP-primary-cable** delivery format (UAP content is one bullet of eleven in a periodic political-blotter product); and the **distinct drafting officer ≠ signing officer** structure (Salazar signs the whole product; one of POL or EXEC officers drafted the UAP bullet). ^[inferred]
+
 ## Why these are *the same umbrella concept*
 
-Despite the routing differences, both sub-patterns:
+Despite the routing and intake-mode differences, all three sub-patterns:
 
 - use a US embassy as the aggregation-and-forwarding node;
 - route to State Department headquarters rather than into the DoD UAP-intake stream that handles every other UAP-adjacent corpus artifact;
-- preserve a verbatim foreign-or-civilian witness narrative inside an UNCLAS / LIMITED OFFICIAL USE cable;
+- preserve substantive UAP content (verbatim witness narrative in A and B; quoted-and-paraphrased hearing testimony in C) inside an UNCLAS / LIMITED OFFICIAL USE / SBU cable;
 - end without a US-side classification of the objects;
 - carry no `UFO` subject tag.
 
-They differ in *which State Department bureau* they route to (Pol-Mil vs. Science), *which precedence* they ride at (`IMMEDIATE` vs. `Routine`), and *whether* a combatant command is in the action loop. ^[inferred] These differences are downstream of the originating-witness class.
+They differ in: *intake mode* (foreign-service inquiry vs. US-citizen walk-in vs. host-country media observation); *which State Department bureau* they route to (Pol-Mil vs. Science vs. Western Hemisphere); *which precedence* they ride at (`IMMEDIATE` vs. `Routine` vs. `Routine`); *whether* a combatant command is in the action loop (USCINCPAC vs. none vs. NORTHCOM/SOUTHCOM on info-default); *whether* the cable is dedicated to the UAP content (A/B yes; C embedded as one bullet of eleven in a periodic blotter); and *whether* the drafter authors a first-person posture (A and B yes; C uses selective-quotation only). ^[inferred] These differences are downstream of the **content-source class** and the **cable format**.
 
 ### Sibling channel — Air-attaché HUMINT (USAIRA)
 
@@ -135,30 +150,38 @@ The institutional **family** is still "UAP-adjacent reports gathered by a US dip
 
 ## Working corpus
 
-| Cable / artifact | Date | Originating witness class | US-side post | Department bureau | Combatant command? | US-side disposition |
+| Cable / artifact | Date | Content-source class | US-side post | Department bureau | Combatant command? | US-side disposition |
 |---|---|---|---|---|---|---|
-| [[references/dos-cable-papua-new-guinea-1985-01\|PORT M 00199]] | 28 Jan 1985 | [[entities/png-national-intelligence-organization\|PNG NIO]] | [[entities/amembassy-port-moresby\|AMEMBASSY Port Moresby]] | EAP/PIA + PM/RSA | [[entities/uscincpac\|USCINCPAC]] J3 + POLAD (action) | "No US aircraft in PNG airspace 24 Jan 1985." Reply not in corpus. ^[open] |
-| [[references/dos-cable-kazakhstan-1994-01\|DUSHANBE 00259]] | 31 Jan 1994 | US-citizen Tajik Air aircrew (Capt Ed Rhodes + 2) | [[entities/amembassy-dushanbe\|AMEMBASSY Dushanbe]] | OES/S | none on action; CIA + DIA on INFO | "We have no opinion and report the above for what it may be worth." Follow-on photos / Tajikistan-Desk traffic not in corpus. ^[open] |
+| [[references/dos-cable-papua-new-guinea-1985-01\|PORT M 00199]] | 28 Jan 1985 | [[entities/png-national-intelligence-organization\|PNG NIO]] inquiry | [[entities/amembassy-port-moresby\|AMEMBASSY Port Moresby]] | EAP/PIA + PM/RSA | [[entities/uscincpac\|USCINCPAC]] J3 + POLAD (action) | "No US aircraft in PNG airspace 24 Jan 1985." Reply not in corpus. ^[open] |
+| [[references/dos-cable-kazakhstan-1994-01\|DUSHANBE 00259]] | 31 Jan 1994 | US-citizen Tajik Air aircrew walk-in (Capt Ed Rhodes + 2) | [[entities/amembassy-dushanbe\|AMEMBASSY Dushanbe]] | OES/S | none on action; CIA + DIA on INFO | "We have no opinion and report the above for what it may be worth." Follow-on photos / Tajikistan-Desk traffic not in corpus. ^[open] |
 | [[references/dos-cable-russia-georgia-2001-10\|MOSCOW 13169]] *(boundary case — outside umbrella; figurative-UFO rhetoric)* | 30 Oct 2001 | Russian MFA officials Mamedov + Tereoken (no UAP narrative; UFO trope as denial device) | [[entities/amembassy-moscow\|AMEMBASSY Moscow]] | IO | none on action; SECDEF + Joint Staff on INFO | "TO POSIT THAT THEY COULD BE UFOS WOULD BE HUMOROUS IF IT WERE NOT FOR THE SERIOUSNESS OF THE VIOLATIONS." Explicit dismissal of UFO trope; substantive disposition is bilateral state-relations, not UAP. ^[extracted] |
 | [[references/dos-cable-turkmenistan-2004-11\|ASHGABAT 1028]] *(boundary case — outside umbrella; NGO-name keyword)* | 12 Nov 2004 | NGO president (no UAP narrative) | [[entities/amembassy-ashgabat\|AMEMBASSY Ashgabat]] | EUR/CACEN | none (info to CIA, DIA, NSC, USCENTCOM, SECDEF, JS) | NGO grant assessment: *"Crazy? Like a fox; and worthy of USG attention and support."* No UAP determination because no UAP narrative. ^[extracted] |
+| [[references/dos-cable-mexico-2023-09\|MEXICO 2544]] | 16 Sep 2023 | Host-country legislative event observed via media (Mexican Congress hearing 12 Sep 2023; witnesses [[entities/jaime-maussan\|Maussan]] + [[entities/ryan-graves\|Graves]]) | [[entities/amembassy-mexico\|AMEMBASSY Mexico]] | WHA/MEX | none on action; NORTHCOM + SOUTHCOM on info-default | Report-with-quoted-skepticism: relays Graves' *"unsubstantiated stunt"* and *"scientists have discredited previous alleged alien corpses"* without authoring a first-person posture. Embedded as ¶11 of a 7-page weekly political blotter. ^[inferred] |
 
-This table is expected to grow as more 1970s–1990s State Department UAP releases are ingested. The boundary-case rows are included to make the umbrella's limit explicit. As of the `059uap*` series partial ingest (00011, 00012 done; 00013 pending), the boundary-case fraction is **2-of-2** in that tranche — see [[concepts/figurative-ufo-rhetoric]].
+This table is expected to grow as more 1970s–1990s and post-2017 State Department UAP releases are ingested. The boundary-case rows are included to make the umbrella's limit explicit.
+
+**As of the `059uap*` series complete ingest** (00011 + 00012 + 00013 done), the **substantive-vs-boundary fraction in that tranche** is **1-of-3 substantive** (00013 = sub-pattern C) and **2-of-3 boundary** (00011 = Type-2; 00012 = Type-1). The prior `CSP-2025-00040` tranche stays **2-of-2 substantive** (sub-pattern A + B). The two release tranches differ sharply in substantive-cable yield, reinforcing the hypothesis (made on the 00012 + 00011 ingests) that **boundary-case fraction tracks release-tranche, not subject-matter prevalence**. ^[inferred]
+
+**Sub-pattern coverage** of the umbrella now stands at **A, B, C — all three sub-patterns instantiated** by exactly one cable each. Future ingest events that produce a fourth sub-pattern would require either a new content-source class (e.g., **D — third-country diplomatic correspondence forwarded**) or a meaningful within-class divergence that justifies splitting an existing sub-pattern. ^[inferred]
 
 ## Cross-corpus structural observations
 
-- **Four-of-four `UFO`-tag absence**: no cable in the four-cable working corpus carries `UFO` as a subject TAG. The 1985 cable carries `MARR`/`PP`; the 1994 cable `TSAP, EAIR, KZ, TI, TAJIK AIR, (RHODES, ED)`; the 2001 cable `PREL, MARR, KCFE, UN, OSCE, GG, RS`; the 2004 cable `AORC, TSPA, PREL, PGOV, EAID, OSCI, TX`. The DOS subject-indexing schema appears to **route UAP-keyword matters under their *substantive* category** (military overflights; space-and-aviation phenomena; bilateral state-relations / multilateral; civil-society/aid) rather than under a UAP-specific tag — *even when "UFO" is in the cable's subject-line text and even when the cable is CONFIDENTIAL rather than UNCLAS*. ^[inferred]
-- **Bureau-routing extends to four distinct bureaus**: PM for asset-disambiguation cases (1985); Science / OES for citizen-witness narrative cases (1994); **IO for UN / OSCE / multilateral state-relations cases (2001)**; EUR/CACEN for regional civil-society cases (2004). The pattern that **State Department UAP-adjacent traffic is sorted by the question being asked of HQ** ("is this us?" → PM; "what was this?" → OES; **"is this a multilateral / treaty-relations issue?" → IO**; "should we fund this NGO?" → EUR/CACEN) extends without contradiction. ^[inferred]
-- **Routing-depth difference**: PNG case has 5 hops (foreign witness → foreign field-officer → foreign HQ → US embassy → US combatant command). Kazakhstan case has only 3 (US-citizen aircrew → US embassy → State HQ). The depth is set by whether a foreign aggregation layer exists. ^[inferred]
-- **Declassification interval shrinks**: the 1985 cable was released 2026 (41-year delay); the 1994 cable was released 2026 (32-year delay). Both are inside the same release tranche `CSP-2025-00040`, suggesting a single FOIA/historical-review batch picked up both items together — and that the State Department's release-side handling pulls cables by topical bundle rather than by issuance year. ^[inferred]
-- **Witness-side ETI attribution surfaces only in sub-pattern B**: the PNG cable preserves no first-person ETI claim — the foreign aggregator filtered the body of reports down to "fast-moving objects with lights, contrails, and noise" before passing them. The Kazakhstan cable preserves Rhodes's verbatim claim that the object was "extraterrestrial and under intelligent control." The structural reason is that sub-pattern B has **no foreign filtering layer**. ^[inferred]
-- **Both cables originate within ~2-week windows of late January**: 28 Jan 1985 and 31 Jan 1994. Probably coincidence, but worth flagging if more cables surface. ^[ambiguous]
+- **Five-of-five `UFO`-tag absence**: no cable in the five-cable working corpus carries `UFO` (or `UAP`) as a subject TAG. The 1985 cable carries `MARR/PP`; the 1994 cable `TSAP, EAIR, KZ, TI, TAJIK AIR, (RHODES, ED)`; the 2001 cable `PREL, MARR, KCFE, UN, OSCE, GG, RS`; the 2004 cable `AORC, TSPA, PREL, PGOV, EAID, OSCI, TX`; the 2023 cable `PGOV, PREL, ASEC, TSPA, KJUS, KCRM, MX`. The DOS subject-indexing schema appears to **route UAP-keyword matters under their *substantive* category** (military overflights; space-and-aviation phenomena; bilateral state-relations / multilateral; civil-society/aid; host-country political reporting) rather than under a UAP-specific tag — across UNCLAS, SBU, and CONFIDENTIAL classifications and across substantive cables and boundary cases. ^[inferred]
+- **`TSPA` (Transportation, Space, Aviation) emerges as the closest-to-de-facto UAP-substantive routing tag** — appears on **3-of-5** cables: 1994 (substantive sub-pattern B; spelled `TSAP`), 2004 (Type-1 boundary; `TSPA`), and 2023 (substantive sub-pattern C; `TSPA`). The `TSPA` presence pattern is **whenever the cable's substantive subject involves space, civil aviation, transportation infrastructure, or airspace-related events**. ^[inferred] The 1985 PM-routed and 2001 IO-routed cables do not carry `TSPA` because their substantive subjects are *Pol-Mil overflights* and *bilateral / OSCE / UN-multilateral state-relations* respectively. `TSPA` is **not** UAP-specific (it is the routing tag for an aviation-and-airspace category that **includes** UAP content), but it is the strongest positive subject-routing signal in the corpus. ^[inferred]
+- **Bureau-routing extends to five distinct action bureaus**: PM for asset-disambiguation cases (1985); Science / OES for citizen-witness narrative cases (1994); **IO for UN / OSCE / multilateral state-relations cases (2001)**; EUR/CACEN for regional civil-society cases (2004); **WHA/MEX for Western-Hemisphere periodic political-reporting cases (2023)**. The pattern that **State Department UAP-adjacent traffic is sorted by the substantive question being asked of HQ** holds across all five cables. ^[inferred]
+- **Routing-depth difference extends across three sub-patterns**: PNG (sub-pattern A) has 5 hops (foreign witness → foreign field-officer → foreign HQ → US embassy → US combatant command); Kazakhstan (B) has 3 (US-citizen aircrew → US embassy → State HQ); **Mexico (C) has 2** (host-country media → US embassy POL/EXEC drafter → State HQ + global-distribution-by-default). The depth is set by **what stands between the originating event and the embassy desk**. ^[inferred]
+- **Declassification interval extends from 41 years (1985) → 32 years (1994) → 25 years (2001) → 22 years (2004) → ~2.4 years (2023)**. The 2023 Mexico cable was released ~25 February 2026, the shortest declassification cycle in the corpus's diplomatic-channel sub-corpus. ^[extracted] The compressed cycle is consistent with the 2023 cable being **UNCLAS** at issuance (no declassification needed; only routine release-review processing), versus the 2001 Moscow cable which was originally CONFIDENTIAL.
+- **Witness-side ETI attribution surfaces only in sub-pattern B**: the PNG cable preserves no first-person ETI claim — the foreign aggregator filtered the body of reports down to "fast-moving objects with lights, contrails, and noise" before passing them. The Kazakhstan cable preserves Rhodes's verbatim claim that the object was "extraterrestrial and under intelligent control." The 2023 Mexico cable preserves no ETI claim either — it relays the legislative-event reportage with selective-quotation but does not preserve the witness-side first-person ETI attributions that would have been made in Maussan's testimony. ^[inferred] The structural reason is that sub-patterns A and C have **filtering layers** between the witness and the cable text, while sub-pattern B does not.
+- **Embassy-stance gradient extends to 5 cables, 5 distinct postures**: 1985 PNG forward-and-disambiguate ("not us") → 1994 Kazakhstan forward-and-disclaim ("we have no opinion") → 2001 Moscow forward-and-dismiss-trope ("would be humorous if not for the seriousness") → 2004 Ashgabat forward-and-endorse-NGO ("worthy of USG attention and support") → 2023 Mexico **forward-and-relay-quoted-skepticism** (selective inclusion of Graves' *"unsubstantiated stunt"* and external scientific discrediting, without authoring a first-person editorial). ^[inferred]
+- **First sub-pattern-C-driver-class instance**: the 2023 Mexico cable is the corpus's first **media-mediated** intake — content reaches the embassy through ordinary host-country media coverage of a publicly observable political event. The intake is **passive-observational**, not source-mediated. ^[inferred]
 
 ## Hypotheses about the broader pattern
 
-- **Volume.** Two cables in one release tranche is unlikely to be the full inventory. Other US embassies in the 1970s–1990s likely processed similar inquiries and witness intakes; bulk State Department UAP releases would surface them. ^[inferred]
-- **Geographic distribution.** Cases probably concentrate where (a) anomalous overflights are plausible by foreign military or research assets; and (b) US embassies are the only practical reporting node available to either foreign services or US citizens — small-post / post-conflict / non-allied contexts. PNG and Tajikistan are both consistent with that. ^[inferred]
-- **Bureau routing as a sorting key**: as above, PM vs. OES routing may track which question the embassy is asking HQ. If a third cable arrives that is captioned for `OES/S` and carries a foreign-service inquiry, the hypothesis is falsified. ^[inferred]
-- **TAGS schema follow-up**: if `TSAP` proves to be the conventional indexing tag for unidentified-aerial-phenomena reporting, then the absence of `UFO`-as-tag is by design rather than by oversight. ^[ambiguous]
+- **Volume.** Three substantive cables across two release tranches is unlikely to be the full inventory. Other US embassies likely processed similar inquiries, witness intakes, and host-country political-event reportages; bulk State Department UAP-keyword releases would surface them. ^[inferred]
+- **Geographic distribution.** Sub-pattern A and B cases concentrate where US embassies are the only practical reporting node — small-post / post-conflict / non-allied contexts (PNG, Tajikistan). Sub-pattern C is plausibly **wider in geographic distribution** because every Western Hemisphere / Europe / Asia post issues periodic political-reporting products, and any of them might have produced UAP-relevant bullets in 2017+ when host-country political attention to UAP increased post-disclosure. The 2023 Mexico cable is one realization; many more are plausible. ^[inferred]
+- **Bureau routing as a sorting key**: PM vs. OES vs. IO vs. EUR/CACEN vs. WHA/MEX routing tracks which substantive question the embassy is asking HQ. Falsified only if a future cable routes through one of these bureaus in a way that contradicts the substantive-routing rule. ^[inferred]
+- **TSPA as positive UAP-substantive routing signal**: the 3-of-5 `TSPA` presence on cables with aviation-and-airspace substantive content (1994, 2004, 2023) is a stronger observation than the negative `UFO`-tag-absence. If a future cable's substantive subject is aviation-and-airspace and `TSPA` is *absent*, the hypothesis weakens. If `TSPA` continues to mark such cables, it is the de-facto subject-routing tag for the category. ^[inferred]
+- **Sub-pattern C cable density**: if periodic political-reporting products are the dominant cable format in modern (post-2017) US embassy operations, then **sub-pattern C may be the most numerically common sub-pattern** in any post-2017 DOS UAP-keyword release tranche. The 1985 + 1994 substantive cables (sub-patterns A + B) are dedicated single-event cables typical of pre-2010s tradecraft; the 2023 cable's embedded-bullet format is plausibly typical of modern embassy reporting cadence. ^[inferred]
 
 ## Open questions
 
@@ -178,20 +201,25 @@ This table is expected to grow as more 1970s–1990s State Department UAP releas
 
 - [[references/dos-cable-papua-new-guinea-1985-01]] — first artifact (sub-pattern A).
 - [[references/dos-cable-kazakhstan-1994-01]] — second artifact (sub-pattern B).
+- [[references/dos-cable-mexico-2023-09]] — third artifact (sub-pattern C).
 - [[references/iaf-ir-193-55-russell-1955]] — sibling channel anchor (USAIRA HUMINT).
 
 ## See also
 
-- [[references/dos-cable-papua-new-guinea-1985-01]]
-- [[references/dos-cable-kazakhstan-1994-01]]
+- [[references/dos-cable-papua-new-guinea-1985-01]] — sub-pattern A anchor.
+- [[references/dos-cable-kazakhstan-1994-01]] — sub-pattern B anchor.
+- [[references/dos-cable-mexico-2023-09]] — sub-pattern C anchor.
 - [[references/dos-cable-russia-georgia-2001-10]] — Type-2 (rhetorical) boundary case.
 - [[references/dos-cable-turkmenistan-2004-11]] — Type-1 (NGO-name) boundary case.
 - [[references/sighting-papua-new-guinea-1985-01-24]]
 - [[references/sighting-kazakhstan-1994-01-27]]
 - [[entities/amembassy-port-moresby]]
 - [[entities/amembassy-dushanbe]]
+- [[entities/amembassy-mexico]] — sub-pattern C originating post.
 - [[entities/amembassy-moscow]] — boundary-case originating post (Type-2 anchor)
 - [[entities/amembassy-ashgabat]] — boundary-case originating post (Type-1 anchor)
+- [[entities/jaime-maussan]] — sub-pattern C witness #1.
+- [[entities/ryan-graves]] — sub-pattern C witness #2.
 - [[entities/union-of-ufologists-turkmenabat]] — boundary-case subject of the 2004 Ashgabat cable
 - [[entities/alexander-vershbow]] — signing officer, MOSCOW 13169
 - [[entities/george-krol]] — classifying officer, MOSCOW 13169

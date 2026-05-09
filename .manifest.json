@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T00:00:00Z",
+  "updated": "2026-05-10T01:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -446,18 +446,42 @@
         "_meta/taxonomy.md",
         "index.md"
       ]
+    },
+    "sources/059uap00013.json": {
+      "ingested_at": "2026-05-10T01:00:00Z",
+      "size_bytes": 14532,
+      "modified_at": "2026-05-09T18:27:43Z",
+      "content_hash": "sha256:a51420927a485f3c5080baefdb7437a57e6cd72d94b3abfe0c6a80c73ffa4f74",
+      "source_id": "dos-rg059-uap-00013-mexico-2544-2023",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/dos-cable-mexico-2023-09.md",
+        "entities/amembassy-mexico.md",
+        "entities/jaime-maussan.md",
+        "entities/ryan-graves.md"
+      ],
+      "pages_updated": [
+        "concepts/diplomatic-channel-uap-reporting.md",
+        "concepts/figurative-ufo-rhetoric.md",
+        "entities/state-department.md",
+        "projects/uap/uap.md",
+        "_meta/taxonomy.md",
+        "index.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T00:00:00Z",
-      "sources_ingested": 17
+      "last_ingested": "2026-05-10T01:00:00Z",
+      "sources_ingested": 18
     }
   },
   "stats": {
-    "total_sources_ingested": 18,
-    "total_pages": 122,
+    "total_sources_ingested": 19,
+    "total_pages": 126,
     "total_projects": 1,
     "last_full_rebuild": null
   }
