@@ -131,7 +131,7 @@ Four cables, four distinct action bureaus. **No two of the four cables share a b
 ## Source quality assessment
 
 - `source_quality: official` — declassified release of an authentic State Department cable. The "Declassified in Full / Release in Full" stamp from John Powers (DOS Acting-Director) dated 2/25/2026 matches the release stamp on the 1985 PNG, 1994 Kazakhstan, and 2004 Ashgabat cables. ^[extracted]
-- The release identifier prefix `059uap00011` is part of the **NARA RG 059** (Records of the Department of State) `059uap*` series — sister files [[references/dos-cable-turkmenistan-2004-11|059uap00012]] (already ingested) and [[references/dos-cable-059uap00013|059uap00013]] (pending ingest). ^[inferred]
+- The release identifier prefix `059uap00011` is part of the **NARA RG 059** (Records of the Department of State) `059uap*` series — sister files [[references/dos-cable-turkmenistan-2004-11|059uap00012]] (already ingested) and [[references/dos-cable-mexico-2023-09|059uap00013 (MEXICO 2544)]] (also ingested as substantive sub-pattern C). ^[inferred]
 - The two prior `CSP-2025-00040` tranche cables (1985 PNG, 1994 Kazakhstan) and the `059uap*` series cables (2001 Moscow, 2004 Ashgabat) appear to be **two distinct release tranches** of UAP-keyword DOS cables. ^[inferred]
 - Single-source artifact. No follow-on traffic from MOSCOW, TBILISI, USOSCE, USUN, BAKU, YEREVAN, or any of the DoD info-addressees is in the corpus.
 

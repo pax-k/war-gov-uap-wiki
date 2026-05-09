@@ -13,7 +13,7 @@ base_confidence: 0.75
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T18:30:00Z
+updated: 2026-05-10T08:30:00Z
 ---
 
 # USAF Flying Discs Correspondence — 1948 Vol 1, Doc 18
@@ -77,7 +77,7 @@ The 173–233 bundle is described in detail below. The 101–172 bundle adds:
 Highlights from the 173–233 bundle (also documented inline below):
 
 - The **December 1948 New Mexico green fireball wave** with [[entities/lincoln-la-paz|Dr Lincoln La Paz]]'s analytical memo as Inc 227 (see [[concepts/green-fireballs-new-mexico]]).
-- The **first 1948 engagement-class event** — Inc 207 Andrews AFB pursuit, [[references/sighting-andrews-1948-11]].
+- The **third 1948 engagement-class event** in chronological order — Inc 207 Andrews AFB pursuit, [[references/sighting-andrews-1948-11]] — the only 1948 sensor-stimulus-response case (after [[references/sighting-chiles-whitted-1948-07|Chiles–Whitted Inc 144]] and [[references/sighting-gorman-fargo-1948-10|Gorman Inc 172]] from the 101–172 bundle).
 - **First multi-witness clusters** (Azores 5-witness; NM 11-witness-set green flare wave; Andrews multi-aircraft pursuit).
 - The first preserved instance of the post-1948 **ACIAXO routing line** (Inc 213, Dec 1948) that becomes 1949's MCIAXO-3 standard.
 - **Internal SIGN authority citation:** Technical Instructions 215, Addendum No. 3, dated 11 Feb 48 (cited verbatim in Inc 213's Klingfelman query memo).

@@ -64,7 +64,7 @@ The Moscow row is the umbrella's **second** explicit boundary case. ^[inferred] 
 ## Open threads
 
 - Confirm `KROL` = George A. Krol (Political-Military Counselor, AMEMBASSY Moscow, 2001). ^[ambiguous]
-- Locate **other AMEMBASSY Moscow cables** in the same `059uap*` release tranche — sister file [[references/dos-cable-059uap00013|059uap00013]] is scheduled for subsequent ingest and may or may not be Moscow-originated. ^[open]
+- Locate **other AMEMBASSY Moscow cables** in the same `059uap*` release tranche — sister file [[references/dos-cable-mexico-2023-09|059uap00013 (MEXICO 2544, 2023-09)]] turned out to be **Mexico-originated** (substantive sub-pattern C of the diplomatic-channel umbrella), not Moscow. The series so far yields **no other Moscow-originated cable**. ^[inferred]
 - Locate **referenced cables** `MOSCOW 13072` (A — Gudauta withdrawal) and `TBILISI 3087` (B — Georgian airspace-violation report); these would establish the bilateral context. ^[open]
 - Locate any **substantive UAP cable** originated by AMEMBASSY Moscow (none in the corpus yet). The 1955 USAIRA Prague IR ([[references/iaf-ir-193-55-russell-1955|IR 193-55]]) is the corpus's only inside-Soviet-territory UAP-substantive record; it routed through USAIRA, not through AMEMBASSY. Moscow's diplomatic UAP traffic is presently a **rhetorical-only** entry. ^[inferred]
 - Identify whether the **subject-line wording** ("Strange Encounters of an MFA Kind") was Vershbow's, the drafting officer's, or carried up from Tereoken's actual remark. ^[ambiguous]

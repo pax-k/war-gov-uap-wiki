@@ -22,7 +22,7 @@ A pattern in which **a third-party operator** — present at or controlling the 
 
 ## The 1955 Trans-Caucasus instance
 
-**Source:** [[references/sighting-trans-caucasus-1955-10-04|4 Oct 1955 Trans-Caucasus sighting]] (Russell / Hathaway / Efron, on a USSR rail leg between ATJATY and ADZHLJABUL).
+**Source:** [[references/sighting-trans-caucasus-1955-10-04|4 Oct 1955 Trans-Caucasus sighting]] ([[entities/richard-russell|Russell]] / [[entities/e-u-hathaway|Hathaway]] / [[entities/ruben-efron|Efron]], on a USSR rail leg between ATJATY and ADZHLJABUL).
 
 After the two-disc sighting at 1910 hours from the train's left-side windows, **Soviet trainmen** (the third-party operators of the witness's vantage):
 

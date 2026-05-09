@@ -22,7 +22,7 @@ US Foreign Service officer; **Political-Military Counselor** (`POLMINCOUNS`) at 
 
 ## Why this page exists
 
-Krol is the **first named US-side classifying officer** in the wiki's diplomatic-channel UAP-keyword cable sub-corpus. ^[inferred] The cable's classification block reads:
+Krol is the **first named US-side classifying officer** in the wiki's [[concepts/diplomatic-channel-uap-reporting|diplomatic-channel UAP-keyword cable]] sub-corpus. ^[inferred] The cable's classification block reads:
 
 > *"CLASSIFIED BY POLMINCOUNS GEORGE KROL. REASON 1.5 (B/D)."* ^[extracted]
 

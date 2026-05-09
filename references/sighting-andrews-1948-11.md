@@ -4,7 +4,7 @@ category: references
 tags: [uap, sighting, usaf, 1948, behavior]
 aliases: [Inc 207 Andrews 1948, Jackson Andrews pursuit 1948, Andrews 18 Nov 1948]
 sources: [sources/38_143685_box7_incident_summaries_173-233.json]
-summary: 18 Nov 1948 multi-aircraft pursuit of an oval glowing object circling Andrews AFB for 15-18 minutes — the corpus's first 1948 documented UAP-aircraft engagement-class event with vertical climbs, target-following, and landing-light response.
+summary: 18 Nov 1948 multi-aircraft pursuit of an oval glowing object circling Andrews AFB for 15-18 min — third 1948 engagement-class event chronologically (after Chiles–Whitted Inc 144 and Gorman Inc 172); the only 1948 sensor-stimulus-response case.
 provenance:
   extracted: 0.78
   inferred: 0.20
@@ -13,12 +13,12 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T02:00:00Z
-updated: 2026-05-10T02:00:00Z
+updated: 2026-05-10T08:30:00Z
 ---
 
 # Sighting — Andrews AFB Pursuit (18 Nov 1948)
 
-A two-aircraft, two-pilot **active pursuit** event over Andrews AFB at Camp Springs, MD on the evening of **18 November 1948**, filed as **Project SIGN Incident 207 / 207A** in [[references/project-sign-incident-summaries-173-233|the Sep 1948 – Jan 1949 incident summaries bundle]]. This is the **earliest 1948 corpus event** that meets the operational criteria of [[concepts/uap-aircraft-engagement|UAP–aircraft engagement-class behavior]] — specifically, a UAP that closely tracked a chase aircraft, performed evasive vertical climbs, and dropped behind the chase aircraft to continue circling the field after the pilot's identification attempts.
+A two-aircraft, two-pilot **active pursuit** event over Andrews AFB at Camp Springs, MD on the evening of **18 November 1948**, filed as **Project SIGN Incident 207 / 207A** in [[references/project-sign-incident-summaries-173-233|the Sep 1948 – Jan 1949 incident summaries bundle]]. Andrews is the **third 1948 corpus event** that meets the operational criteria of [[concepts/uap-aircraft-engagement|UAP–aircraft engagement-class behavior]] — chronologically after [[references/sighting-chiles-whitted-1948-07|Chiles–Whitted Inc 144 (24 Jul 1948)]] and [[references/sighting-gorman-fargo-1948-10|Gorman Inc 172 (1 Oct 1948)]] — and the only 1948 case to exhibit the **sensor-stimulus-response** sub-signature (object brightening when chase aircraft turned on its landing light). The 173–233 bundle initially anchored Andrews as the corpus's first 1948 engagement-class event; that designation was superseded when the 101–172 bundle was ingested and the earlier Chiles–Whitted and Gorman cases came on-corpus.
 
 ## Witnesses
 

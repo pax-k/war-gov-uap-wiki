@@ -56,7 +56,7 @@ The cable's preserved Graves utterance — *"unsubstantiated stunt"* — combine
 - Graves **rejects** the alleged-physical-evidence category — Maussan's corpses are an "unsubstantiated stunt."
 - The two stances are **simultaneously held** — affirming experiential evidence while rejecting unverified-physical-evidence is the characteristic move of the prepared-skepticism middle-ground rhetoric. ^[inferred]
 
-This places Graves as the **first post-2017-era US-pilot witness** in the corpus who fits the same rhetorical posture that Hunter (1963 NASC), the COMETA committee (1999), and AARO (modern) all inhabit — though Graves arrives at it from witness experience rather than from policy-staff or institutional analysis. ^[inferred]
+This places Graves as the **first post-2017-era US-pilot witness** in the corpus who fits the same rhetorical posture that [[entities/maxwell-w-hunter|Hunter]] ([[references/hunter-1963-space-alien-race-memo|1963 NASC]]), the [[entities/cometa-committee|COMETA committee]] (1999), and [[entities/aaro|AARO]] (modern) all inhabit — though Graves arrives at it from witness experience rather than from policy-staff or institutional analysis. ^[inferred]
 
 ## Open questions
 

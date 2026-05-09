@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T18:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-10T08:30:00Z*
 
 ## Concepts
 
@@ -112,7 +112,7 @@ title: Wiki Index
 - [[references/nasa-pao-t-00763-r1b-gemini-7-1965]] — 4-page NASA PAO release-commentary tape transcript (NARA RG 255) of the 4 Dec 1965 GT-7 air-to-ground voice loop containing Borman's "bogey at ten o'clock high" call ( #uap #primary-source #nasa #1965)
 - [[references/project-sign-incident-summaries-101-172]] — 178-page bundle of 66 Project SIGN incident summary sheets (Jan – Oct 1948), NARA RG 38 Box 7; predecessor to the 173–233 bundle; preserves the Chiles–Whitted, Gorman, Hamel MN landing, and Norcatur cases ( #uap #primary-source #declassified #1948)
 - [[references/project-sign-incident-summaries-173-233]] — 144-page bundle of 58 Project SIGN incident summary sheets (Sep 1948 – Jan 1949), routed AMC → D/I HQ USAF on 22 Mar 1949; bridge between the Feb–Jun 1948 startup file and the Oct 1948 – Jan 1950 continuation file ( #uap #primary-source #declassified #1948)
-- [[references/sighting-andrews-1948-11]] — 18 Nov 1948 multi-aircraft pursuit of an oval glowing object circling Andrews AFB for 15-18 min — the corpus's first 1948 documented UAP-aircraft engagement-class event (Project SIGN Inc 207) ( #uap #sighting #usaf #1948 #behavior)
+- [[references/sighting-andrews-1948-11]] — 18 Nov 1948 multi-aircraft pursuit of an oval glowing object circling Andrews AFB for 15-18 min — third 1948 engagement-class event chronologically (after Inc 144 + Inc 172) and the only 1948 sensor-stimulus-response case (Project SIGN Inc 207) ( #uap #sighting #usaf #1948 #behavior)
 - [[references/sighting-bakersfield-1948-03]] — Two falling-object observations near Bakersfield, CA in March 1948 ( #uap #sighting #california)
 - [[references/sighting-castro-ranch-1948-09]] — 23 Sep 1948 daylight observation by Col Horace Eakins (US Army, Ret) of a translucent gray "amoeba-like" object with three forward and two aft flapping appendages near San Pablo CA — unique morphology in the corpus (Project SIGN Inc 176) ( #uap #sighting #california #1948 #morphology)
 - [[references/sighting-chiles-whitted-1948-07]] — 24 Jul 1948 02:45 close-approach of a 100-ft cigar with red-orange flame trail and blue underbelly glow toward an EAL DC-3 over Montgomery AL — Project SIGN Inc 144, earliest 1948 engagement-class precedent ( #uap #sighting #aviation #1948 #morphology)

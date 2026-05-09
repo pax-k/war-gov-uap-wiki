@@ -60,7 +60,7 @@ A **~40-minute multi-witness commercial-cockpit UAP encounter** at flight level 
 - The crew rejected this. They said in their PanAm careers they had "seen thousands of 'falling stars' and other space junk entering the atmosphere," and that "this, they insisted, was nothing like a meteor."
 - On the basis of the object's **speed and manoeuverability**, Rhodes — supported by his crew — stated the opinion that the object was **"extraterrestrial and under intelligent control"**.
 
-This is the **first explicit witness-side ETI attribution** in the corpus's primary-source documents. ^[inferred] It is preserved verbatim in an UNCLAS State Department cable, and is followed by the embassy's flat ¶4 closer **"WE HAVE NO OPINION AND REPORT THE ABOVE FOR WHAT IT MAY BE WORTH."** That two-bookend rhetorical structure — witness ETI claim + embassy posture-of-no-posture — is itself a useful corpus signal: see [[concepts/scientific-vs-saucer-advocate-frame]].
+This is the **first explicit witness-side [[concepts/eti-attribution-statements|ETI attribution]]** in the corpus's primary-source documents. ^[inferred] It is preserved verbatim in an UNCLAS State Department cable, and is followed by the embassy's flat ¶4 closer **"WE HAVE NO OPINION AND REPORT THE ABOVE FOR WHAT IT MAY BE WORTH."** That two-bookend rhetorical structure — witness ETI claim + embassy posture-of-no-posture — is itself a useful corpus signal: see [[concepts/scientific-vs-saucer-advocate-frame]].
 
 ## Cross-corpus signatures
 

@@ -5,7 +5,7 @@ tags: [taxonomy, meta]
 sources: []
 summary: Canonical controlled vocabulary for tags across the wiki. Source of truth for the tag-taxonomy skill.
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 
 # Tag Taxonomy
@@ -169,17 +169,20 @@ Tags below are **non-canonical**. Replace with the canonical form when found.
 
 ## Frequency Reference (post-normalization)
 
-89 unique tags across 105 wiki pages. Top tags:
+**As of 2026-05-10 audit:** 93 unique tags across 140 wiki pages (138 content pages + 2 root). Zero drift — all tags map to canonical vocabulary; zero pages over the 5-tag limit; zero non-ASCII / whitespace / case issues. Top tags:
 
 ```
-91  uap                30  sighting           28  history            24  primary-source
-20  intelligence       17  organization       14  person             14  ww2
-13  usaf               12  1948               12  declassified       10  witness
- 9  policy              8  federal-le          8  nasa                8  pattern
- 7  fbi                 7  military            6  morphology          6  state-department
+120 uap                38 sighting            33 history            30 primary-source
+24 organization        23 1948                22 person             21 intelligence
+18 policy              17 declassified        16 usaf               15 state-department
+14 ww2                 12 morphology          12 witness            10 pattern
+ 9 france               8 aviation             8 diplomacy           8 federal-le
+ 8 military             8 nasa                 7 fbi                 5 analysis
 ```
 
 The long tail (1–4 uses) is dominated by year tags, US state tags, and country tags — narrow but uniformly applied. Acceptable.
+
+**Canonical-but-unused tags** (zero pages): `1950`, `georgia`. Both retained for future ingest — `georgia` is contextually applicable to `references/dos-cable-russia-georgia-2001-10.md` but that page is at the 5-tag limit; curatorial decision deferred.
 
 ## Adding a New Tag
 

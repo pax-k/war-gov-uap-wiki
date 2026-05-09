@@ -105,7 +105,7 @@ It is the **wiki's second 1950s** artifact (after [[references/fbi-detroit-100-2
 - **Second-earliest FBI-originated UAP-adjacent record** in the corpus → see [[entities/fbi]] (entity now spans 1957 → 2023). The earlier record is [[references/fbi-detroit-100-26505-krasuski-1957|the cross-referenced 100-26505 file]].
 - **Sighting page** for the Weaver observation: [[references/sighting-detroit-1958-04-17]].
 - **Selfridge Field** as a recurring citizen-recognised AF point of contact for UFO calls — track recurrence in future ingests. ^[open]
-- **Sister institutional layer**: this 1958 memo is to the late-Project-SIGN / early-BLUE-BOOK era what the [[references/dos-cable-papua-new-guinea-1985-01|1985 PNG cable]] is to the diplomatic-channel layer — a **routing instrument**, not an investigation report. ^[inferred]
+- **Sister institutional layer**: this 1958 memo is to the late-Project-SIGN / early-BLUE-BOOK era what the [[references/dos-cable-papua-new-guinea-1985-01|1985 PNG cable]] is to the [[concepts/diplomatic-channel-uap-reporting|diplomatic-channel layer]] — a **routing instrument**, not an investigation report. ^[inferred]
 
 ## Open threads
 

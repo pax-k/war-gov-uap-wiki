@@ -62,7 +62,7 @@ The Ashgabat row is what tells the umbrella where its *limit* is. ^[inferred]
 ## Open threads
 
 - Confirm `JACOBSON` = Tracey Ann Jacobson (Ambassador to Turkmenistan 2003–2006). ^[ambiguous]
-- Locate **other AMEMBASSY Ashgabat cables** in the same `059uap*` release tranche — sister file [[references/dos-cable-russia-georgia-2001-10|059uap00011 — MOSCOW 13169]] turned out to be **Moscow-originated** (Vershbow / Krol, 30 Oct 2001), not Ashgabat. [[references/dos-cable-059uap00013|059uap00013]] is still pending and could be from any post. ^[open]
+- Locate **other AMEMBASSY Ashgabat cables** in the same `059uap*` release tranche — sister file [[references/dos-cable-russia-georgia-2001-10|059uap00011 — MOSCOW 13169]] turned out to be **Moscow-originated** (Vershbow / Krol, 30 Oct 2001), not Ashgabat; sister file [[references/dos-cable-mexico-2023-09|059uap00013 — MEXICO 2544]] turned out to be **Mexico-originated** (Sep 2023, substantive sub-pattern C of the diplomatic-channel umbrella), not Ashgabat. **No other Ashgabat-originated cable** in the 059uap* tranche. ^[inferred]
 - Locate the four cables referenced as A–D (Ashgabat 989, 406, 291, 234, all NOTAL) — these establish the Ashgabat NGO-registration / Counterpart-International reporting context. ^[open]
 - Locate any **substantive UAP cable** originated by AMEMBASSY Ashgabat (none in the corpus yet). ^[open]
 - If Muradov's "Turkmen military consulted me about airspace events" claim has any real basis, look for **CIS / Russian / former-Soviet civil-aviation** records of unidentified-track events over Turkmenistan in 1992–2004. ^[open]

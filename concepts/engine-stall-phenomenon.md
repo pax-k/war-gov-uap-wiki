@@ -57,7 +57,7 @@ The wiki's **earliest engine-stall record** is now the **1944 Gut Alt Golssen** 
 
 ## Krasuski's 1957 trigger to report — the Levelland connection
 
-Krasuski's letter to [[entities/robert-cutler|Cutler]] (4 Nov 1957) explicitly cites a **"news report of mysterious vehicle in Texas causing engines to stall"** he had heard on the **Polish radio program** as the trigger for reporting his 1944 observation. The Texas case is almost certainly the **2–3 November 1957 Levelland TX cluster**. ^[inferred]
+[[entities/wladyslaw-krasuski|Krasuski]]'s [[references/fbi-detroit-100-26505-krasuski-1957|letter to Cutler]] (4 Nov 1957) explicitly cites a **"news report of mysterious vehicle in Texas causing engines to stall"** he had heard on the **Polish radio program** as the trigger for reporting his 1944 observation. The Texas case is almost certainly the **2–3 November 1957 Levelland TX cluster**. ^[inferred]
 
 This makes Krasuski's account a **pre-Levelland-witness post-Levelland-report**: the 1944 observation pre-dates Levelland by 13 years, but the *report* is shaped by Levelland-era public consciousness of the engine-stall pattern. The phenomenology match is what triggered Krasuski's 13-year-delayed report, which is itself useful corpus evidence — the phenomenology is recognizable enough across two contexts (Polish forced-labor 1944, Texas civilian highway 1957) that an immigrant-DP witness recognized his own 1944 experience in the 1957 reports.
 

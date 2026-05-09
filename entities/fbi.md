@@ -59,7 +59,7 @@ The wiki distinguishes five institutional layers across its UAP corpus (see [[pr
 | **FBI (1958)** | Federal LE intake — citizen-call routing memo to USAF | **SF-64 Office Memorandum** (SA → SAC → USAF POC) | [[references/fbi-detroit-100-18221-serial-844-1958]] |
 | **FBI (1966)** | Federal LE intake — civilian UFO-org redirect to USAF | Outgoing letter from SAC | [[references/fbi-detroit-100-26505-krasuski-1957]] |
 | **FBI (2023)** | Federal LE intake — multiple parallel FD-302 interviews of co-incident witnesses | **FD-302** narrative form | [[references/fbi-fd302-drone-pilot-redacted-2023]], [[references/fbi-fd302-serial-3-driver-redacted-2023]] |
-| [[entities/uscincpac]] | Combatant-command action addressee on diplomatic-channel cables | DOS cable | [[references/dos-cable-papua-new-guinea-1985-01]] |
+| [[entities/uscincpac]] | Combatant-command action addressee on [[concepts/diplomatic-channel-uap-reporting\|diplomatic-channel cables]] | DOS cable | [[references/dos-cable-papua-new-guinea-1985-01]] |
 | Senior US intel official | Witness — not an intake authority | Statement, redacted | [[references/usper-statement-2025]] |
 | [[entities/air-materiel-command]] | 1948 Project SIGN intake hub | USAF correspondence | [[references/usaf-flying-discs-1948]] |
 

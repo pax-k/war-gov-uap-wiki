@@ -74,7 +74,7 @@ Cabell's 30 December 1947 SIGN directive (paraphrased in [[concepts/project-sign
 
 Modern AARO's 2024–2026 public posture (per [[entities/aaro]]): a non-trivial residual fraction of cases remain unresolved after AARO investigation.
 
-The institutional admission "we cannot fully explain these reports" is preserved across the entire 80-year arc. The "[[concepts/scientific-vs-saucer-advocate-frame|prepared-skepticism]]" rhetorical posture present in 1963 NASC traffic and 2026 AARO briefings is already operative in DDI2's 1945 admission. ^[inferred]
+The institutional admission "we cannot fully explain these reports" is preserved across the entire 80-year arc. The "[[concepts/scientific-vs-saucer-advocate-frame|prepared-skepticism]]" rhetorical posture present in [[references/hunter-1963-space-alien-race-memo|1963 NASC traffic]] and 2026 AARO briefings is already operative in DDI2's 1945 admission. ^[inferred]
 
 ## A late-1948 third track: USAFE TS foreign-liaison
 

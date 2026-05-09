@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b23df90b2b1aca89",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "885f56727454e1ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/uap/uap.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "uap"
-            }
-          }
-        ]
-      },
-      {
         "id": "e05ba9908132e977",
         "type": "tabs",
         "children": [
@@ -45,28 +15,28 @@
               "state": {
                 "file": "projects/uap/uap.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
+                  "localJumps": 5,
+                  "localBacklinks": false,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
+                  "localInterlinks": true,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 17.1796875,
-                  "linkStrength": 1,
-                  "linkDistance": 323,
-                  "scale": 1.3348562701219886,
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.1,
+                  "nodeSizeMultiplier": 1.08276475694444,
+                  "lineSizeMultiplier": 0.676770833333333,
+                  "collapse-forces": true,
+                  "centerStrength": 0.883203125,
+                  "repelStrength": 15.9505208333333,
+                  "linkStrength": 0.755555555555556,
+                  "linkDistance": 391,
+                  "scale": 1.746388695886059,
                   "close": true
                 }
               },
@@ -223,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,41 +208,41 @@
   },
   "active": "053e2dc475aa63df",
   "lastOpenFiles": [
-    "_meta/taxonomy.md",
-    "entities/j-w-hunt.md",
-    "entities/state-department.md",
-    "concepts/orbital-uap-sighting.md",
-    "entities/nasa-pao.md",
-    "entities/nasa.md",
-    "entities/gemini-7.md",
-    "entities/jim-lovell.md",
-    "entities/frank-borman.md",
-    "references/sighting-gemini-7-bogey-1965-12-04.md",
+    "references/hunter-1963-space-alien-race-memo.md",
+    "references/sighting-castro-ranch-1948-09.md",
+    "references/sighting-andrews-1948-11.md",
+    "references/foo-fighters-shaef-1944-1945.md",
+    "references/fbi-detroit-100-18221-serial-844-1958.md",
+    "references/dos-cable-russia-georgia-2001-10.md",
+    "references/cometa-report-1999.md",
+    "synthesis/early-uap-policy-vs-operational-track.md",
+    "synthesis/federal-le-uap-witness-pattern.md",
+    "synthesis/foo-fighters-to-flying-discs.md",
+    "synthesis/horten-thesis-vs-disc-sightings.md",
+    "synthesis/policy-papers-uap-1963-vs-1999.md",
+    "projects/uap/uap.md",
+    "references/sighting-norcatur-ks-1948-02.md",
+    "references/sighting-hamel-mn-1948-08.md",
+    "references/sighting-gorman-fargo-1948-10.md",
+    "references/sighting-chiles-whitted-1948-07.md",
+    "references/project-sign-incident-summaries-101-172.md",
     "references/nasa-pao-t-00763-r1b-gemini-7-1965.md",
-    "concepts/rotating-disc-morphology.md",
-    "concepts/observer-suppression-behavior.md",
-    "concepts/usaira-reporting-channel.md",
-    "entities/usaira-prague.md",
-    "entities/thomas-s-ryan.md",
-    "entities/ruben-efron.md",
-    "entities/e-u-hathaway.md",
-    "entities/richard-russell.md",
-    "references/sighting-trans-caucasus-1955-10-04.md",
-    "references/iaf-ir-193-55-russell-1955.md",
+    "references/fbi-fd302-drone-pilot-redacted-2023.md",
+    "references/dos-cable-turkmenistan-2004-11.md",
+    "references/usaf-flying-discs-1949.md.tmp.26524.99683844ac58",
+    "entities/lincoln-la-paz.md",
+    "concepts/green-fireballs-new-mexico.md",
+    "references/sighting-jackson-ms-1949-01.md",
+    "references/sighting-honolulu-1948-10.md",
+    "references/project-sign-incident-summaries-173-233.md",
     "references/dos-cable-kazakhstan-1994-01.md.tmp.26524.7575d999763d",
     "concepts/project-sign.md.tmp.26524.6a3d7f5b4aab",
-    "concepts/eti-attribution-statements.md",
-    "entities/usafe.md",
-    "entities/swedish-air-intelligence-service.md",
-    "references/sighting-holland-coast-1948-09-05.md",
-    "references/sighting-swedish-lake-crash-1948.md",
     "_raw",
     "sources/western_us_event_slides_5.08.2026.json",
     "sources/usper-statement-redacted.json",
     "sources/serial-4-redacted_redacted.json",
     "sources/serial-3_redacted.json",
     "sources/nasa-uap-d7-skylab-technical-crew-debriefing-1973.json",
-    "sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json",
-    "sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json"
+    "sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json"
   ]
 }

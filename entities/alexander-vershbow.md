@@ -22,7 +22,7 @@ US career diplomat; **US Ambassador to Russia 2001–2005**. ^[inferred] Signing
 
 ## Why this page exists
 
-Vershbow is the **first named US-side ambassador-class signer** in the wiki's diplomatic-channel UAP-keyword cable sub-corpus. He is the embassy principal whose `VERSHBOW` signature carries the cable's COMMENT paragraph (¶8), which is the only point in the cable where the US-side embassy stance on the **UFO trope** is on the record:
+Vershbow is the **first named US-side ambassador-class signer** in the wiki's [[concepts/diplomatic-channel-uap-reporting|diplomatic-channel UAP-keyword cable]] sub-corpus. He is the embassy principal whose `VERSHBOW` signature carries the cable's COMMENT paragraph (¶8), which is the only point in the cable where the US-side embassy stance on the **UFO trope** is on the record:
 
 > *"TO POSIT THAT THEY COULD BE UFOS WOULD BE HUMOROUS IF IT WERE NOT FOR THE SERIOUSNESS OF THE VIOLATIONS. ... THEIR OFFICIAL DENIALS REFLECT A TRADITIONAL RUSSIAN PENCHANT TO AVOID AN AWKWARD ADMISSION WITH A BOLD LIE."* ^[extracted]
 
