@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T19:30:00Z",
+  "updated": "2026-05-09T22:30:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -366,18 +366,49 @@
         "projects/uap/uap.md",
         "index.md"
       ]
+    },
+    "sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json": {
+      "ingested_at": "2026-05-09T22:30:00Z",
+      "size_bytes": 323726,
+      "content_hash": "sha256:eee95bb2e6df1565914eaba05b309fe7ac19b60a49f364f405f2c7a6bd74c477",
+      "source_id": "nara-rg255-413270-cometa-report-1999",
+      "source_type": "document",
+      "source_quality": "book",
+      "project": "uap",
+      "pages_created": [
+        "references/cometa-report-1999.md",
+        "entities/cometa-committee.md",
+        "entities/gepan-sepra.md",
+        "entities/denis-letty.md",
+        "entities/andre-lebeau.md",
+        "entities/carol-rosin.md",
+        "concepts/mhd-propulsion-uap.md",
+        "concepts/four-phase-contact-strategy.md",
+        "concepts/uap-state-knowledge-classes.md",
+        "synthesis/policy-papers-uap-1963-vs-1999.md"
+      ],
+      "pages_updated": [
+        "synthesis/early-uap-policy-vs-operational-track.md",
+        "concepts/space-alien-policy-question.md",
+        "concepts/three-class-alien-taxonomy.md",
+        "concepts/scientific-vs-saucer-advocate-frame.md",
+        "entities/nasa.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "_meta/taxonomy.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T19:30:00Z",
-      "sources_ingested": 14
+      "last_ingested": "2026-05-09T22:30:00Z",
+      "sources_ingested": 15
     }
   },
   "stats": {
-    "total_sources_ingested": 15,
-    "total_pages": 103,
+    "total_sources_ingested": 16,
+    "total_pages": 113,
     "total_projects": 1,
     "last_full_rebuild": null
   }

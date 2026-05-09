@@ -2,17 +2,17 @@
 title: Three-Class Alien Taxonomy (Hunter, 1963)
 category: concepts
 tags: [uap, policy, taxonomy, contact]
-sources: [sources/59_214434_sp_16_7.18.1963.json]
-summary: Maxwell Hunter's 1963 classification of any encountered alien race by the physics it appears to command — chemical-rocket, nuclear-class, or Einstein-violating — used to drive sharply different US policy postures.
+sources: [sources/59_214434_sp_16_7.18.1963.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json]
+summary: Maxwell Hunter's 1963 classification of any encountered alien race by the physics it appears to command — chemical-rocket, nuclear-class, or Einstein-violating — used to drive sharply different US policy postures. Orthogonal to COMETA's state-side taxonomy.
 provenance:
-  extracted: 0.7
-  inferred: 0.3
-  ambiguous: 0.0
-base_confidence: 0.45
+  extracted: 0.65
+  inferred: 0.32
+  ambiguous: 0.03
+base_confidence: 0.5
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T13:50:00Z
-updated: 2026-05-09T13:50:00Z
+updated: 2026-05-09T22:30:00Z
 ---
 
 # Three-Class Alien Taxonomy (Hunter, 1963)
@@ -52,14 +52,21 @@ Hunter justifies the classes with specific numbers extracted from the memo:
 
 - The 1948 USAF [[concepts/project-sign|Project SIGN]] file did **not** classify by physics command — it classified by report type / morphology / explanation candidate (Horten thesis, US disc, hoax, misperception). Hunter's taxonomy is doing different work: not "what did the witness see?" but "if a contact event were confirmed, what policy class are we facing?" ^[inferred]
 - The modern [[entities/aaro|AARO]]-handled material ([[references/western-us-event-2026]], [[references/usper-statement-2025]]) collects sensor and witness data; it does not classify by physics command either. The Hunter taxonomy is therefore **orthogonal to all current operational classifications in the wiki** — a *policy* axis, not a *sighting* axis. ^[inferred]
+- The 1999 [[references/cometa-report-1999|COMETA Report]] adds a **second policy-axis taxonomy** that is also orthogonal to Hunter's: [[concepts/uap-state-knowledge-classes]] classifies *states* (a/b/c/d) by knowledge and capacity. Hunter classifies *aliens*. The two taxonomies are therefore **orthogonal to each other and jointly orthogonal to operational morphology** — three independent classification axes for UAP-policy thinking. ^[inferred]
+- The COMETA Report's [[concepts/mhd-propulsion-uap|MHD propulsion model]] places a substantial fraction of observed UAP characteristics inside Hunter's **nuclear class** (Einstein-respecting, post-current-art) — i.e., the COMETA work is implicitly populating Hunter's middle category with a candidate physics. ^[inferred]
 
 ## Cross-links
 
 - [[references/hunter-1963-space-alien-race-memo]] — primary source.
+- [[references/cometa-report-1999]] — secondary source (explicit orthogonal taxonomy + MHD-class candidate physics).
 - [[concepts/space-alien-policy-question]] — the framing the taxonomy serves.
+- [[concepts/uap-state-knowledge-classes]] — orthogonal axis (state-side classification).
+- [[concepts/mhd-propulsion-uap]] — candidate physics for the nuclear-class slot.
+- [[concepts/four-phase-contact-strategy]] — COMETA's time-sequence taxonomy.
 - [[concepts/scientific-vs-saucer-advocate-frame]] — the rhetorical posture Hunter writes from.
 - [[entities/maxwell-w-hunter]]
 - [[synthesis/early-uap-policy-vs-operational-track]]
+- [[synthesis/policy-papers-uap-1963-vs-1999]]
 
 ## Open questions
 

@@ -2,22 +2,24 @@
 title: Space Alien Policy Question
 category: concepts
 tags: [uap, policy, contact, history]
-sources: [sources/59_214434_sp_16_7.18.1963.json]
-summary: The mid-1963 NASC framing of "what would US policy be if an extraterrestrial intelligence were confirmed?" treated as a foreseeable diplomatic problem, not a defense-only one.
+sources: [sources/59_214434_sp_16_7.18.1963.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json]
+summary: The mid-20th-century framing of "what would national policy be if an extraterrestrial intelligence were confirmed?" — instantiated by Hunter 1963 (US conditional) and COMETA 1999 (France, asserts ETH and prescribes action).
 provenance:
-  extracted: 0.55
-  inferred: 0.42
+  extracted: 0.5
+  inferred: 0.47
   ambiguous: 0.03
-base_confidence: 0.45
+base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T13:50:00Z
-updated: 2026-05-09T13:50:00Z
+updated: 2026-05-09T22:30:00Z
 ---
 
 # Space Alien Policy Question
 
-A specific framing established in the [[references/hunter-1963-space-alien-race-memo|1963 NASC memo]] by [[entities/maxwell-w-hunter|Maxwell W. Hunter II]]: the question of what US policy *should be* if first contact with an alien intelligence occurred — handled at White House staff level, addressed to State Department International Scientific Affairs. Hunter does not assert contact has happened or is imminent; he formalizes the conditional.
+A specific framing first established in the [[references/hunter-1963-space-alien-race-memo|1963 NASC memo]] by [[entities/maxwell-w-hunter|Maxwell W. Hunter II]]: the question of what US policy *should be* if first contact with an alien intelligence occurred — handled at White House staff level, addressed to State Department International Scientific Affairs. Hunter does not assert contact has happened or is imminent; he formalizes the conditional.
+
+The same question is **revisited 36 years later** by the [[references/cometa-report-1999|1999 COMETA Report]] (France), explicitly titled *"UFOs and Defense: What Should We Prepare For?"* — the COMETA Chapter 10.6 ("What Situations Must We Prepare For?") section is the direct French successor to Hunter's framing. The question persists across decades, jurisdictions, and government-vs-private status. ^[inferred]
 
 ## The four-part conditional structure
 
@@ -43,13 +45,30 @@ The third point reads as deliberately self-undermining — Hunter writes the mem
 - It reframes "flying saucers" without endorsing them: Hunter brackets the saucer-advocate position ("nonsense" in the strict scientific view) while also bracketing the strict scientific dismissal ("disturbing"). The result is a posture of **prepared skepticism**, not advocacy. See [[concepts/scientific-vs-saucer-advocate-frame]].
 - The memo identifies a structural problem the wiki keeps re-encountering across decades: **the institutional incentive structure does not reward preparing for contact** until contact is unambiguous, at which point preparation is too late. ^[inferred]
 
+## How COMETA 1999 reformulates the question
+
+The 1999 [[references/cometa-report-1999|COMETA Report]] expands Hunter's compact 1963 conditional into a 90-page elaboration. The expansions:
+
+- **From an alien-side taxonomy to a state-side taxonomy.** Hunter classifies *aliens* by physics command. COMETA adds [[concepts/uap-state-knowledge-classes|a four-class state-knowledge taxonomy]] (a/b/c/d) classifying *states* by their knowledge and investigative capacity. Orthogonal axes.
+- **From a one-event conditional to a multi-phase process model.** Hunter's "if first contact, then…" becomes COMETA's [[concepts/four-phase-contact-strategy|observation / sampling / influence / direct contact]] sequence — implying that "first contact" is itself a phased activity, not a singular event.
+- **From a thought-paper to a casework-grounded report.** Hunter writes from physics first principles (Mars escape speed, half-lightspeed colonization timing). COMETA reviews 50+ years of cases (Lakenheath, RB-47, Tehran, Trans-en-Provence, AF 3532) and proposes [[concepts/mhd-propulsion-uap|MHD propulsion]] as a known-physics framework.
+- **From "no preparation possible" to six concrete recommendations.** Hunter concedes the futility; COMETA acts on it.
+
+The **shared structural problem** Hunter identifies — institutional incentive against preparing — is what COMETA's recommendations directly attack 36 years later. ^[inferred] See [[synthesis/policy-papers-uap-1963-vs-1999]] for the side-by-side comparison.
+
 ## Cross-links
 
-- [[references/hunter-1963-space-alien-race-memo]] — primary source.
-- [[concepts/three-class-alien-taxonomy]] — Hunter's classification used to differentiate response postures.
-- [[concepts/scientific-vs-saucer-advocate-frame]] — the rhetorical posture Hunter inhabits.
-- [[synthesis/early-uap-policy-vs-operational-track]] — how this 1963 policy frame relates to the 1948 operational track and the modern AARO track.
+- [[references/hunter-1963-space-alien-race-memo]] — first primary source instantiating this question.
+- [[references/cometa-report-1999]] — second primary source (1999, France) that reformulates and answers it.
+- [[concepts/three-class-alien-taxonomy]] — Hunter's alien-side classification.
+- [[concepts/uap-state-knowledge-classes]] — COMETA's state-side classification.
+- [[concepts/four-phase-contact-strategy]] — COMETA's process model.
+- [[concepts/mhd-propulsion-uap]] — COMETA's physical-mechanism candidate.
+- [[concepts/scientific-vs-saucer-advocate-frame]] — the rhetorical posture both papers share at their foreword level.
+- [[synthesis/early-uap-policy-vs-operational-track]] — how this policy frame relates to the operational and modern AARO tracks.
+- [[synthesis/policy-papers-uap-1963-vs-1999]] — direct comparison of the two policy-staff-layer artifacts.
 - [[entities/national-aeronautics-and-space-council]]
+- [[entities/cometa-committee]]
 - [[concepts/project-sign]] — operational-track contemporary.
 
 ## Open questions

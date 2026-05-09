@@ -3,17 +3,17 @@ title: NASA
 category: entities
 tags: [nasa, organization, civil-agency, uap]
 aliases: [National Aeronautics and Space Administration, Mission Control, MSC Houston, Manned Spacecraft Center]
-sources: [sources/255_t_763_r1b_transcripts.json]
-summary: US civilian space agency; in the UAP corpus, NASA enters as the originating agency of the GT-7 PAO Tape T-00763(R1b) record — institutionally distinct from every prior classified-intake channel.
+sources: [sources/255_t_763_r1b_transcripts.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json]
+summary: US civilian space agency. In the UAP corpus, NASA enters first as the originating agency of the GT-7 PAO bogey tape (1965), and second as the NARA RG 255 archival home of the 1999 COMETA Report (delivered 2001 by Carol Rosin to Daniel Goldin).
 provenance:
-  extracted: 0.3
-  inferred: 0.68
-  ambiguous: 0.02
-base_confidence: 0.5
+  extracted: 0.32
+  inferred: 0.65
+  ambiguous: 0.03
+base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T19:30:00Z
-updated: 2026-05-09T19:30:00Z
+updated: 2026-05-09T22:30:00Z
 ---
 
 # NASA
@@ -54,6 +54,24 @@ The 1965 entry inverts the disclosure default. ^[inferred]
 - **Title 14 CFR Part 1213** (NASA News Release authority) institutionalizes the PAO release channel.
 - These authorities do **not** preempt USAF / DoD classified handling of in-flight observations that DoD chooses to claim. They establish NASA's **default** disposition of mission data, not an absolute rule. ^[inferred]
 
+## Second corpus role: NARA RG 255 archival home
+
+The 1999 [[references/cometa-report-1999|COMETA Report]] — a private French non-government UAP report — is also archived in NARA RG 255 (Records of NASA). This is a **second, structurally different role** for NASA in the corpus: not as originating agency, but as **receiving-and-archiving agency** for an externally-produced policy document hand-delivered by [[entities/carol-rosin|Carol Rosin]] in 2001 and addressed to **"Dan"** at NASA — almost certainly **Daniel Goldin**, NASA Administrator from April 1992 to November 2001. ^[inferred]
+
+The chain:
+
+```
+COMETA Committee (private, France)
+    → published as VSD magazine special issue (1999)
+    → Carol Rosin (private, US, undocumented sub-route)
+    → hand-delivered to NASA Administrator Daniel Goldin (May 2001) ^[inferred]
+    → archived in NARA RG 255
+```
+
+This is the corpus's first **non-governmental → US-civilian-agency** routing path for a UAP policy document. NASA functioned here as the **receiving institution** willing to accept and file an unsolicited policy report from a private foreign body — without (visibly in the source) generating any internal response document. ^[inferred]
+
+The function NASA performs in this routing is therefore **archival accessibility**: a private French document made findable to US researchers via NARA's RG 255 finding aid. Without this routing, COMETA might never have entered a US archive at all. ^[inferred]
+
 ## Open questions
 
 - Whether NASA's release-by-default posture in 1965 was **routinely consulted** with USAF intelligence before press release of mission tapes containing UAP-adjacent calls. ^[open]
@@ -61,6 +79,9 @@ The 1965 entry inverts the disclosure default. ^[inferred]
 - Whether **modern NASA UAP work** (the 2023 NASA Independent Study Team report on UAP) cited or addressed the GT-7 / GT-6 / GT-4 / MA-6 historical records. ^[open]
 - Locate any **NASA-internal correspondence** between Mission Control and PAO regarding the GT-7 bogey-call release decision. ^[open]
 - Identify the **specific MSC PAO officer** responsible for the T-00763(R1b) release. ^[open]
+- **NEW** — Whether Daniel Goldin or NASA staff acted on or even reviewed the COMETA Report Rosin delivered in May 2001. ^[open]
+- **NEW** — The exact NARA accession path that placed the COMETA Report in RG 255 — Goldin-administration-era deposit or later transfer. ^[open]
+- **NEW** — Whether the 2023 NASA Independent Study Team consulted the Hunter 1963 / COMETA 1999 policy-staff layer in scoping its own report. ^[open]
 
 ## See also
 
@@ -70,6 +91,9 @@ The 1965 entry inverts the disclosure default. ^[inferred]
 - [[entities/jim-lovell]]
 - [[references/nasa-pao-t-00763-r1b-gemini-7-1965]]
 - [[references/sighting-gemini-7-bogey-1965-12-04]]
+- [[references/cometa-report-1999]] — non-government policy paper archived via NARA RG 255.
+- [[entities/carol-rosin]] — courier of COMETA Report into NASA.
+- [[entities/cometa-committee]] — issuing body of the report.
 - [[concepts/orbital-uap-sighting]]
 - [[entities/aaro]] — closest modern functional analogue in disclosure posture.
 - [[projects/uap/uap]]

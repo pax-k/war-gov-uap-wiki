@@ -2,17 +2,17 @@
 title: Scientific vs. Saucer-Advocate Frame
 category: concepts
 tags: [uap, history, rhetoric, policy]
-sources: [sources/59_214434_sp_16_7.18.1963.json]
-summary: The mid-20th-century institutional posture in which UAP policy is written from a "neither saucer-advocate nor strict scientific dismissal" middle position, prepared-skepticism style.
+sources: [sources/59_214434_sp_16_7.18.1963.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json]
+summary: The mid-20th-century institutional posture in which UAP policy is written from a "neither saucer-advocate nor strict scientific dismissal" middle position, prepared-skepticism style. Recurs across 1948 USAF, 1963 Hunter, 1999 COMETA (Lebeau foreword), and 2026 AARO.
 provenance:
-  extracted: 0.5
-  inferred: 0.5
+  extracted: 0.45
+  inferred: 0.55
   ambiguous: 0.0
-base_confidence: 0.45
+base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T13:50:00Z
-updated: 2026-05-09T13:50:00Z
+updated: 2026-05-09T22:30:00Z
 ---
 
 # Scientific vs. Saucer-Advocate Frame
@@ -39,6 +39,7 @@ Hunter's exact words: *"In my own mind, I find it difficult to side with the fly
 ## Where this posture shows up elsewhere in the wiki
 
 - The 1948 USAF [[concepts/project-sign|Project SIGN]] material works similarly at the operational level: it collects reports, brackets the "phenomenon is real" question, and pursues conventional explanations ([[concepts/horten-flying-wing|Horten flying wings]], [[references/loedding-flying-disc|domestic disc concepts]]) while documenting witness testimony without endorsing it. ^[inferred]
+- The 1999 [[references/cometa-report-1999|COMETA Report]] foreword by [[entities/andre-lebeau|André Lebeau]] (former CNES chairman) inhabits this posture explicitly — *"stripping the UFO phenomenon of its irrational layer"*; *"a scientist's belief is not important to the results of his research nor does it have any effect on those results if he is rigorous."* But the report's *committee* takes a different step than Hunter did 36 years earlier: after grounding itself in the foreword's prepared-skepticism posture, it commits to the extraterrestrial hypothesis as "the best scientific hypothesis." This is the posture used as a *launchpad to assertion*, not as a final position. ^[inferred] See [[synthesis/policy-papers-uap-1963-vs-1999]].
 - Modern [[entities/aaro|AARO]]-handled material ([[references/western-us-event-2026]]) takes a structurally similar posture: collects sensor + multi-witness testimony, applies corrections (e.g. range/size underestimation), and resists asserting either "definitely UAP" or "definitely conventional."
 - The 2025 [[references/usper-statement-2025|intel-witness statement]] is interesting precisely **because** the witness — by virtue of being a senior intel official, not a saucer advocate — partially escapes this frame. The document's institutional weight comes from its narrator's pre-statement credibility. ^[inferred]
 
@@ -49,11 +50,16 @@ Within the wiki we'll call this **"prepared skepticism"**: the writer does not a
 ## Cross-links
 
 - [[references/hunter-1963-space-alien-race-memo]] — primary source.
+- [[references/cometa-report-1999]] — second policy-staff instantiation (Lebeau foreword).
 - [[concepts/space-alien-policy-question]]
 - [[concepts/three-class-alien-taxonomy]]
+- [[concepts/uap-state-knowledge-classes]]
 - [[entities/maxwell-w-hunter]]
+- [[entities/andre-lebeau]]
+- [[entities/cometa-committee]]
 - [[concepts/project-sign]] — analogous operational-track posture in 1948.
 - [[synthesis/early-uap-policy-vs-operational-track]]
+- [[synthesis/policy-papers-uap-1963-vs-1999]] — direct comparison of the posture's two policy-staff instantiations.
 - [[synthesis/federal-le-uap-witness-pattern]] — modern witness-credibility analog.
 
 ## Open

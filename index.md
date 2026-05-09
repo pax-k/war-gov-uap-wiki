@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T21:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-09T22:30:00Z*
 
 ## Concepts
 
@@ -15,8 +15,10 @@ title: Wiki Index
 - [[concepts/flak-bombe-hypothesis]] — A.D.I.(K) Felkin's 1945 candidate explanation pointing to A.D.I.(K) Report No. 562/1944 ( #uap #ww2 #intelligence)
 - [[concepts/flying-disc-reporting-protocol]] — The 10-element observational template Cabell mandated for all 1948 USAF disc-sighting reports ( #uap #history #protocol)
 - [[concepts/foo-fighter-phenomenon]] — WWII Allied aircrew name for unexplained nocturnal lights pacing combat aircraft ( #uap #ww2 #morphology)
+- [[concepts/four-phase-contact-strategy]] — COMETA 1999's observation/sampling/influence/direct-contact thought experiment for visitor strategy ( #uap #policy #contact #france)
 - [[concepts/fsr-200-4-reporting-regulation]] — USAF Flight Service Regulation 200-4 (2 Nov 1948) — codified the Cabell directive into a standing order; cited in nearly every 1949 sighting report ( #uap #usaf #protocol)
 - [[concepts/horten-flying-wing]] — German wartime tailless aircraft family, the leading 1948 conventional explanation for disc sightings ( #uap #aviation #ww2)
+- [[concepts/mhd-propulsion-uap]] — COMETA 1999 §8.1.1.1 magnetohydrodynamic propulsion physical model for UAP atmospheric flight characteristics ( #uap #france #policy #anomaly)
 - [[concepts/orb-flare-formation]] — Distinct UAP morphology: orbs flaring up sequentially in a line/stack, holding stationary, flaring down in reverse order ( #uap #morphology #pattern)
 - [[concepts/observer-suppression-behavior]] — Recurring pattern: third-party operator restricts witnesses' continued observation contemporaneous with a UAP sighting, indicating institutional awareness ( #uap #behavior #intelligence)
 - [[concepts/orb-phenomenon]] — Recurring UAP morphology of luminous spherical bodies, including "mother / daughter" launch patterns ( #uap #morphology #pattern)
@@ -27,6 +29,7 @@ title: Wiki Index
 - [[concepts/space-alien-policy-question]] — 1963 NASC framing of "what would US policy be if extraterrestrial intelligence were confirmed?" treated as a foreseeable diplomatic problem ( #uap #policy #contact)
 - [[concepts/three-class-alien-taxonomy]] — Hunter's 1963 chemical-rocket / nuclear-class / Einstein-violating classification of any contacted alien race ( #uap #policy #taxonomy)
 - [[concepts/transparent-uap]] — Witness-reported partial-transparency and beam-blocking UAP signature ( #uap #morphology #optical)
+- [[concepts/uap-state-knowledge-classes]] — COMETA 1999 §10.3 four-class state-side taxonomy (a/b/c/d) by UAP knowledge and investigative capacity ( #uap #policy #taxonomy #france)
 - [[concepts/uap-aircraft-engagement]] — UAP behavioral signature: orbs approaching, following, or breaking off from one aircraft to pursue another ( #uap #behavior #pattern)
 - [[concepts/usaira-reporting-channel]] — Distinct UAP-adjacent intake channel: US Air Attaché HUMINT routed via SECRET-track AF Form 112 IRs to HQ USAF D/I; anchored by 1955 IR 193-55 ( #uap #intelligence #institutional)
 
@@ -36,7 +39,12 @@ title: Wiki Index
 - [[entities/aaro]] — All-domain Anomaly Resolution Office; modern DoD UAP intake/assessment authority ( #usaf #organization #uap)
 - [[entities/amembassy-dushanbe]] — US Embassy in Dushanbe, Tajikistan; originating post of the 31 Jan 1994 DOS cable on the Tajik Air UAP encounter over Kazakhstan ( #state-department #embassy #organization)
 - [[entities/amembassy-port-moresby]] — US Embassy in Port Moresby, PNG; originating post of the 28 Jan 1985 DOS cable on PNG UAP overflights ( #state-department #embassy #organization)
+- [[entities/andre-lebeau]] — Former chairman of CNES; foreword author of the 1999 COMETA Report ( #uap #france #person #civil-agency)
 - [[entities/air-materiel-command]] — USAF command at Wright-Patterson AFB; designated central agency for 1948 Flying Disc reports ( #usaf #organization #history)
+- [[entities/carol-rosin]] — US space-policy advocate, former von Braun spokesperson; courier of the 1999 COMETA Report to NASA in 2001 ( #uap #person #civilian-research #policy)
+- [[entities/cometa-committee]] — Private French committee of retired senior officers + IHEDN auditors; produced the 1999 COMETA Report ( #uap #france #organization #policy)
+- [[entities/denis-letty]] — French Air Force General (2nd Section); chair of COMETA, who initiated the 1999 report ( #uap #france #person #military)
+- [[entities/gepan-sepra]] — French civilian-government UAP research program inside CNES (1977–onward); the only such agency in the world per COMETA ( #uap #france #organization #civil-agency)
 - [[entities/c-m-grierson]] — Air Commodore, A.C. of S. A-2, SHAEF Air Staff; routed the 1944–45 foo-fighter correspondence ( #uap #ww2 #person #raf)
 - [[entities/c-p-cabell]] — Maj Gen, signed the 1948 directive that established Project SIGN ( #usaf #person #intelligence)
 - [[entities/e-u-hathaway]] — Lt Col US Army; Senate Armed Services Committee staff officer; primary debriefer of the 4 Oct 1955 Trans-Caucasus disc sighting ( #person #witness #uap #us-army)
@@ -82,6 +90,7 @@ title: Wiki Index
 - [[references/fbi-detroit-100-26505-krasuski-1957]] — Declassified 15-page FBI Detroit file 100-26505 (NW 90290) — Nov 1957 WH-routed Krasuski interview about a 1944 Gut Alt Golssen observation, plus Oct 1966 OUFORA inquiry-and-USAF-redirect ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-drone-pilot-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the contractor drone-pilot witness for the Sept 2023 daylight sighting (serial-4) ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-serial-3-driver-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the lead-vehicle driver witness (serial-3) — sister artifact to serial-4, plus a co-temporal gate anomaly ( #uap #primary-source #fbi)
+- [[references/cometa-report-1999]] — 90-page private French COMETA report (Jul 1999) on UFOs and defense; archived in NARA RG 255 via Carol Rosin's 2001 NASA delivery ( #uap #primary-source #policy #france)
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
 - [[references/iaf-ir-193-55-russell-1955]] — Declassified 9-page SECRET (NOFORN) USAIRA Prague Air Intelligence Information Report (IR 193-55, 14 Oct 1955; TS Cont. # 3-2500) on Senator Russell's Trans-Caucasus flying-disc sighting ( #uap #primary-source #declassified #1955)
 - [[references/loedding-flying-disc]] — US AMC in-house disc-shaped aircraft concept (drawing LD-2), 1947 ( #uap #aviation #usaf)
@@ -125,6 +134,7 @@ title: Wiki Index
 - [[synthesis/federal-le-uap-witness-pattern]] — What multi-agent federal LE testimony does (and doesn't) buy you as evidence ( #uap #analysis #witness)
 - [[synthesis/foo-fighters-to-flying-discs]] — Continuity of the Allied UAP-reporting apparatus from WWII SHAEF (1944–45) through 1948 USAF Project SIGN ( #uap #analysis #history #ww2)
 - [[synthesis/horten-thesis-vs-disc-sightings]] — Cross-cutting analysis of the 1948 Horten conventional-explanation thesis ( #uap #analysis #history)
+- [[synthesis/policy-papers-uap-1963-vs-1999]] — Direct comparison of Hunter 1963 (US, EOP, conditional) and COMETA 1999 (France, private, declarative) ( #uap #policy #analysis #france)
 
 ## Journal
 
