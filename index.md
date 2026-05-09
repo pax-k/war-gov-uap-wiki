@@ -4,12 +4,13 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T15:25:29Z*
+*This index is automatically maintained. Last updated: 2026-05-09T18:00:00Z*
 
 ## Concepts
 
 - [[concepts/balls-of-fire-red]] — UK Air Ministry DDI2 filing term for the WWII night-light reports the USAAF called foo fighters ( #uap #ww2 #intelligence)
 - [[concepts/diplomatic-channel-uap-reporting]] — Umbrella institutional pattern for embassy-mediated UAP cables; two sub-patterns — foreign-liaison-inquiry (1985 PNG) and citizen-witness-relay (1994 Kazakhstan) ( #uap #policy #diplomatic)
+- [[concepts/engine-stall-phenomenon]] — Recurring UAP-adjacent physical-effect signature: vehicle / equipment failure coincident with UAP proximity; recovers normally on departure ( #uap #morphology #electromagnetic)
 - [[concepts/flak-bombe-hypothesis]] — A.D.I.(K) Felkin's 1945 candidate explanation pointing to A.D.I.(K) Report No. 562/1944 ( #uap #ww2 #intelligence)
 - [[concepts/flying-disc-reporting-protocol]] — The 10-element observational template Cabell mandated for all 1948 USAF disc-sighting reports ( #uap #history #protocol)
 - [[concepts/foo-fighter-phenomenon]] — WWII Allied aircrew name for unexplained nocturnal lights pacing combat aircraft ( #uap #ww2 #morphology)
@@ -33,17 +34,21 @@ title: Wiki Index
 - [[entities/air-materiel-command]] — USAF command at Wright-Patterson AFB; designated central agency for 1948 Flying Disc reports ( #usaf #organization #history)
 - [[entities/c-m-grierson]] — Air Commodore, A.C. of S. A-2, SHAEF Air Staff; routed the 1944–45 foo-fighter correspondence ( #uap #ww2 #person #raf)
 - [[entities/c-p-cabell]] — Maj Gen, signed the 1948 directive that established Project SIGN ( #usaf #person #intelligence)
-- [[entities/fbi]] — Federal Bureau of Investigation; intake authority across the corpus's 1958 (Detroit, citizen-call SF-64 routing memo) and 2023 (parallel FD-302 evidentiary interviews) UAP-adjacent records ( #fbi #organization #federal-le)
+- [[entities/fbi]] — Federal Bureau of Investigation; intake authority across 66 years — 1957 (Detroit, WH-routed Krasuski letter, sit-down interview), 1958 (Detroit, Weaver phone-in, SF-64 routing), 1966 (Detroit, OUFORA redirect to USAF), 2023 (parallel FD-302 interviews) ( #fbi #organization #federal-le)
+- [[entities/franciszek-grabowski]] — Polish co-witness named in the 1944 Gut Alt Golssen account; uncontactable by 1957; the only co-witness Krasuski could recall ( #person #witness #ww2)
 - [[entities/horten-brothers]] — German aircraft designers whose tailless wings were studied as a Flying Disc explanation ( #aviation #germany #ww2)
 - [[entities/maxwell-w-hunter]] — NASC Professional Staff member; authored the 1963 "Space Alien Race Question" memo ( #person #nasc #policy)
 - [[entities/military-air-transport-service]] — Joint USAF/Navy unified airlift command (1948); recurring 1949 routing-and-triage hub for Project SIGN reports alongside AMC ( #usaf #organization #history)
 - [[entities/national-aeronautics-and-space-council]] — Executive Office of the President advisory body; originating office of the 1963 alien-policy memo ( #organization #eop #policy)
+- [[entities/oklahoma-ufo-research-association]] — Mid-1960s civilian UFO research organization (Oklahoma City); 1966 inquirer to FBI Detroit, redirected to USAF Wright-Patterson ( #organization #civilian-research #uap)
 - [[entities/png-national-intelligence-organization]] — Papua New Guinea's national intelligence service; initiator of the 28 Jan 1985 inquiry to AMEMBASSY Port Moresby ( #intelligence #papua-new-guinea #organization)
+- [[entities/robert-cutler]] — Special Assistant to President Eisenhower for National Security Affairs; routing principal in the 1957 FBI 100-26505 Krasuski case ( #person #white-house #eisenhower)
 - [[entities/robert-f-packard]] — State Department / OISA officer; addressee of the 1963 NASC memo ( #person #state-department #policy)
 - [[entities/shaef-air-staff]] — Allied combined-air-forces intelligence/operations hub (1944–45) that routed the foo-fighter correspondence ( #uap #ww2 #organization)
 - [[entities/tajik-air]] — Tajikistan flag carrier; operator of the Boeing 747SP whose American crew reported the 27 Jan 1994 UAP encounter ( #airline #tajikistan #organization)
 - [[entities/uk-air-ministry-ddi2]] — UK Air Ministry intelligence branches (DDI2 + A.D.I.(K)) that handled the British-side reply ( #uap #ww2 #organization)
 - [[entities/uscincpac]] — US Commander-in-Chief Pacific (Honolulu); action addressee of the 28 Jan 1985 DOS cable on PNG overflights ( #usaf #organization #dod)
+- [[entities/wladyslaw-krasuski]] — Polish DP, Detroit brewery worker, ex-WWII POW at Gut Alt Golssen; FBI-interviewed witness in the 1957 100-26505 case ( #person #witness #uap #ww2)
 - [[entities/wright-patterson-afb]] — Dayton, OH base; physical hub of the 1948 USAF UFO collection effort ( #usaf #location #history)
 
 ## Skills
@@ -55,6 +60,7 @@ title: Wiki Index
 - [[references/dos-cable-kazakhstan-1994-01]] — Declassified 3-page UNCLAS US State Department cable (31 Jan 1994, DUSHANBE 00259) on Tajik Air pilots' UAP encounter at FL410 over Kazakhstan ( #uap #primary-source #state-department)
 - [[references/dos-cable-papua-new-guinea-1985-01]] — Declassified 3-page US State Department cable (28 Jan 1985, PORT M 00199) on PNG NIO inquiry into 24 Jan 1985 high-altitude overflights ( #uap #primary-source #state-department)
 - [[references/fbi-detroit-100-18221-serial-844-1958]] — Declassified one-page FBI Detroit Office Memorandum (SA Reynolds → SAC, 17 Apr 1958), serial 844 in file 100-18221, on the Weaver Detroit sighting ( #uap #primary-source #fbi)
+- [[references/fbi-detroit-100-26505-krasuski-1957]] — Declassified 15-page FBI Detroit file 100-26505 (NW 90290) — Nov 1957 WH-routed Krasuski interview about a 1944 Gut Alt Golssen observation, plus Oct 1966 OUFORA inquiry-and-USAF-redirect ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-drone-pilot-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the contractor drone-pilot witness for the Sept 2023 daylight sighting (serial-4) ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-serial-3-driver-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the lead-vehicle driver witness (serial-3) — sister artifact to serial-4, plus a co-temporal gate anomaly ( #uap #primary-source #fbi)
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
@@ -66,6 +72,7 @@ title: Wiki Index
 - [[references/sighting-fairfield-suisun-1948-12]] — AACS tower operators tracked a 30-inch luminous round object that hovered, climbed almost vertically to 20k ft (3 Dec 1948) ( #uap #sighting #california)
 - [[references/sighting-fbi-fd302-drone-pilot-2023-09]] — Sept 2023 daylight UAP sighting at ~07:15–07:30 by a contractor convoy in restricted airspace; documented by two parallel FBI FD-302s (driver + drone-pilot passenger) plus a co-temporal gate anomaly ( #uap #sighting #fbi)
 - [[references/sighting-fiery-orb-western-us]] — Two federal LE agents observe a 12–18 m glowing orange orb hovering near a rock pinnacle for ~1 min ( #uap #sighting #orb)
+- [[references/sighting-gut-alt-golssen-1944]] — 1944 wartime forced-labor witness account by Polish POW Krasuski of an ascending circular vehicle (~75–100 yd) from a tarpaulin enclosure ~30 mi east of Berlin; recorded by FBI 13 years later ( #uap #sighting #ww2 #germany)
 - [[references/sighting-helicopter-orb-encounter-2025]] — 2025 multi-hour helicopter orb encounter at a redacted facility, with FLIR + NVG + naked-eye corroboration ( #uap #sighting #intel-witness)
 - [[references/sighting-hobson-ohio-1948-05]] — Night-time multi-witness phosphorescent disc sighting by NY Central rail workers ( #uap #sighting #ohio)
 - [[references/sighting-japan-glow-1949-01]] — Six-station Japanese CMO multi-vantage glow phenomenon with delayed thunder-roar (25 Jan 1949) ( #uap #sighting #japan)

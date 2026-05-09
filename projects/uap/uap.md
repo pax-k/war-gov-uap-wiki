@@ -3,8 +3,8 @@ title: UAP
 category: project
 tags: [uap, history, intelligence, archive]
 source_path: _raw/ (declassified UAP archive volumes), sources/ (Mistral-OCR'd briefings and witness statements)
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json]
-summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN, a 1963 NASC policy memo, two 1985 + 1994 DOS diplomatic-channel cables, the 2026 AARO Western US event, a 2025 SECRET//NOFORN intel-official witness statement, and **two parallel 2023 FBI FD-302s** on the same Sept 2023 contractor-convoy UAP incident.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json]
+summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN, **two 1957–58 FBI Detroit files (100-26505 Krasuski + 100-18221 Weaver)**, a 1963 NASC policy memo, two 1985 + 1994 DOS diplomatic-channel cables, the 2026 AARO Western US event, a 2025 SECRET//NOFORN intel-official witness statement, and **two parallel 2023 FBI FD-302s** on the same Sept 2023 contractor-convoy UAP incident.
 provenance:
   extracted: 0.5
   inferred: 0.5
@@ -43,6 +43,14 @@ A research project distilling declassified primary-source archives on Unidentifi
 ### Modern AARO-handled material
 
 - [[references/western-us-event-2026]] — 4-slide briefing deck describing a multi-day cluster of UAP observations by federal LE agents USPER1–USPER7 in the Western U.S., with [[entities/aaro|AARO]] follow-up.
+
+### 1957 FBI Detroit File 100-26505 (Krasuski + 1966 OUFORA) (NEW)
+
+- [[references/fbi-detroit-100-26505-krasuski-1957]] — 15-page declassified Detroit field office case file (NW 90290 / DocId 34714592). Two structurally distinct artifacts ~9 years apart: **(a)** the **November 1957 Krasuski thread** — a White-House-routed citizen letter from [[entities/wladyslaw-krasuski|Wladyslaw Krasuski]] (Polish DP, ex-WWII POW at Gut Alt Golssen) to [[entities/robert-cutler|Robert Cutler]] (Eisenhower's Special Assistant) triggered an FBI Director URGENT teletype, leading to a sit-down interview by SA Cassius Rathbun on 7 Nov 1957 about a 1944 wartime UAP-adjacent observation (see [[references/sighting-gut-alt-golssen-1944]]); **(b)** the **October 1966 OUFORA thread** — [[entities/oklahoma-ufo-research-association|Oklahoma UFO Research Association]] director Kerry Liesch wrote to FBI Detroit asking for early-1966 sighting information; SAC Paul H. Stoddard redirected OUFORA to USAF Wright-Patterson AFB. **Now the earliest FBI-originated UAP-adjacent record in the corpus**, displacing the 1958 Weaver memo by ~5 months and confirming that file `100-26505` (the cross-reference on the Weaver memo) was a **prior UFO-adjacent case file** in the same Detroit office. ^[inferred] Corpus first: WH-routed citizen UFO letter; first FBI sit-down interview; first immigrant DP witness; first 1960s UAP record; first civilian-UFO-org → FBI inquiry.
+
+### 1958 FBI Detroit File 100-18221 Serial 844 (Weaver) (NEW)
+
+- [[references/fbi-detroit-100-18221-serial-844-1958]] — 17 April 1958 SF-64 Office Memorandum (SA Reynolds → SAC Detroit), serial 844 in file 100-18221, recording David Weaver's 0408-LT phone-in. Now the **second-earliest** FBI-originated UAP-adjacent record. Sister file to 100-26505 (and the "see also" cross-reference on this memo points back at the Krasuski file). The Weaver routing pattern (citizen phone-in → SF-64 → "advise USAF") is structurally distinct from the 1957 Krasuski WH-routed-letter pattern in the same field office ~5 months earlier — see [[entities/fbi]] for the cross-era pattern table. Consolidated sighting at [[references/sighting-detroit-1958-04-17]].
 
 ### 2023 FBI FD-302 Sept 2023 contractor-convoy incident (TWO parallel FD-302s)
 
@@ -89,7 +97,7 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 ## Modern institutional structures
 
 - [[entities/aaro|AARO]] — All-domain Anomaly Resolution Office; modern intake/assessment authority. Stub page; fills out as more AARO-handled material is ingested.
-- [[entities/fbi]] — Federal Bureau of Investigation; intake authority for the **two parallel 2023 redacted FD-302s** ([[references/fbi-fd302-drone-pilot-redacted-2023|serial-4]] + [[references/fbi-fd302-serial-3-driver-redacted-2023|serial-3]]) on the Sept 2023 contractor-convoy incident. Structurally distinct from AARO — uses a *judicially-aimed evidentiary form* rather than a briefing-deck format, and produces **one FD-302 per witness**, preserving cross-witness divergence. ^[inferred]
+- [[entities/fbi]] — Federal Bureau of Investigation; intake authority across **66 years** of UAP-adjacent records. Detroit field office: **Nov 1957** (WH-routed Krasuski letter, Director-driven sit-down interview, file 100-26505); **April 1958** (Weaver phone-in, SF-64 routing memo to USAF, file 100-18221 serial 844); **October 1966** (OUFORA inquiry redirected to USAF, file 100-26505 serial 6); and **2023** (parallel FD-302 evidentiary interviews on the contractor-convoy incident). The 1957-vs-1958 contrast in the same field office demonstrates that **entry path** (WH-routed letter vs. phone-in) determined whether the FBI investigated substantively or routed to USAF. ^[inferred]
 
 ## Diplomatic-channel layer (1985 PNG + 1994 Kazakhstan)
 
@@ -114,6 +122,16 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 - **W/Cdr S. D. Felkin** (A.D.I.(K)) — author of the 17 Feb 1945 Flak Bombe candidate-explanation reply.
 - **Group Captain E. D. M. Hopkins** (Air Ministry DDI2) — author of the 13 Mar 1945 "Balls of Fire — Red" reply.
 - **Capt F. B. Ringwald** ([[entities/415th-night-fighter-squadron|415th NFS]]) — Intelligence Officer who consolidated the December 1944 – January 1945 sortie-report extracts.
+- [[entities/wladyslaw-krasuski]] — Polish POW at Gut Alt Golssen, witness to the 1944 ascending-circular-vehicle observation (recorded by FBI 13 years later; see [[references/sighting-gut-alt-golssen-1944]]). **(NEW)**
+- [[entities/franciszek-grabowski]] — Krasuski's only named Polish-POW co-witness (~50y in 1944), uncontactable after 1945. **(NEW)**
+
+## Key people (1957–58 FBI track) (NEW)
+
+- [[entities/wladyslaw-krasuski]] — 1957 letter-writer / interviewee.
+- [[entities/robert-cutler]] — Eisenhower's Special Assistant for National Security Affairs; routing principal for Krasuski's WH letter.
+- **SA Cassius Rathbun** (FBI Detroit) — conducted the 7 Nov 1957 in-person interview.
+- **SA Robert Ross Reynolds** (FBI Detroit) — drafted the 17 April 1958 Weaver SF-64 Office Memorandum.
+- **SAC Paul H. Stoddard** (FBI Detroit) — signed the 11 Oct 1966 OUFORA-redirect letter.
 
 ## Key people (1948)
 
@@ -140,6 +158,7 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 ## UAP behavior
 
 - [[concepts/uap-aircraft-engagement]] — orb-class objects approaching/pursuing crewed aircraft, including apparent target switching across platforms. New from the 2025 statement.
+- [[concepts/engine-stall-phenomenon]] — recurring physical-effect signature: vehicle / equipment failure coincident with UAP proximity, recovery on departure. **(NEW)** Connects 1944 Krasuski (tractor stall) → 1957 Levelland TX (multi-vehicle cluster, the trigger for Krasuski's report) → 2023 FBI gate anomaly.
 
 ## Witness-class analysis
 
@@ -149,6 +168,7 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 
 | Date | Location | Witnesses | Page |
 |---|---|---|---|
+| 1944, month unrecalled | Swamp north of Gut Alt Golssen, Germany (~30 mi E of Berlin) | [[entities/wladyslaw-krasuski\|Krasuski]] (Polish POW) + 16–18-man crew incl. [[entities/franciszek-grabowski\|Grabowski]] | [[references/sighting-gut-alt-golssen-1944]] |
 | Dec 1944 – Jan 1945 (10 nights) | Alsace / Saar / Rhine sectors | [[entities/415th-night-fighter-squadron\|415th NFS]] aircrews | see [[references/foo-fighters-shaef-1944-1945]] |
 | 1 March 1945, 1030 hrs | Vicinity grid F-5710 | 67 TAC/R Group / 107 PR Squadron pilots | [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] |
 | 5–8 March 1948 | Bakersfield, CA | civilians + USAF | [[references/sighting-bakersfield-1948-03]] |
@@ -198,6 +218,15 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 - Cross-check Russian air-defense / Roscosmos / Kazakh civil-aviation records for any 27 Jan 1994 anomalous-track event in the 45°N 55°E area. ^[open]
 - Determine whether `TSAP` is the conventional DOS subject-tag for unidentified aerial phenomena reporting (alongside `EAIR`), or coincidental in the 1994 cable. ^[ambiguous]
 - ✅ Located / ingested **`sources/serial-3_redacted.json`** — see [[references/fbi-fd302-serial-3-driver-redacted-2023]]; **serial-1 and serial-2 still outstanding** in the same numbered release tranche. ^[open]
+- ✅ Located / ingested **`sources/65_hs1-101634279_100-de-26505.json`** (FBI Detroit file 100-26505 — Krasuski 1957 + OUFORA 1966) → [[references/fbi-detroit-100-26505-krasuski-1957]]. The cross-reference on the [[references/fbi-detroit-100-18221-serial-844-1958|1958 Weaver memo]] now resolves to a real file with both a 1957 sit-down interview and a 1966 civilian-research-org redirect.
+- Locate any **USAF / Project BLUE BOOK** parallel case file on the 1957 Krasuski account (BLUE BOOK opened 1952, closed 1969 — Krasuski falls squarely in BLUE BOOK era). ^[open]
+- Locate **Cutler / Eisenhower-administration** WH outgoing logs for 1957–58 UFO-adjacent citizen mail. ^[open]
+- Locate any **other Cutler-routed UAP-adjacent letters** in the 1957–58 window. ^[inferred]
+- Cross-check the **Levelland TX November 2–3, 1957** vehicle-engine-stall cluster — confirm it was the "rocket in Texas" Krasuski heard about on Polish radio. Then ingest a primary source for Levelland directly. ^[open]
+- Locate **OUFORA's follow-up correspondence** with USAF Wright-Patterson AFB after Stoddard's 1966 redirect. ^[open]
+- Identify **"Major Golser"** in the Krasuski file's handwritten notes (p. 4) — possibly the German civilian or "SS" officer present at the 1944 incident. ^[ambiguous]
+- Locate any **other serials in 100-26505** between `-4` (1957) and `-6` (1966); the gap implies at least one missing serial. ^[open]
+- Locate **Polish-government 1945–60 records / repatriation registries** for any of the 16–18 Polish/Russian/French POWs at Gut Alt Golssen who could corroborate Krasuski's 1944 account, particularly [[entities/franciszek-grabowski|Franciszek Grabowski]]. ^[open]
 - Identify the **FBI investigative file** the Sept 2023 FD-302s are associated with (file # is redacted on both); cross-reference any FBI Vault or FOIA-released UAP-adjacent material once located. ^[open]
 - Determine whether the FBI maintains a **standing UAP-adjacent intake protocol** or files such records under whatever substantive case category (counter-intelligence, counterterrorism, criminal) the underlying investigation belongs to. ^[inferred]
 - Resolve the **second-vehicle observation contradiction** — serial-3 (driver) records that "[REDACTED] in the second vehicle said he saw the object too" while serial-4 (drone pilot) records that the second-vehicle occupant tried-and-failed. A third FD-302 (a second-vehicle witness's own statement) would resolve. ^[open]

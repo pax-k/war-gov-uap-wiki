@@ -3,17 +3,17 @@ title: From Foo Fighters to Flying Discs — Continuity of the Allied UAP-Report
 category: synthesis
 tags: [uap, history, analysis, intelligence]
 aliases: [WWII to 1948 UAP continuity, Foo Fighters Flying Discs Bridge]
-sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, _raw/18_6369445_general_1948_vol_1.json]
+sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, _raw/18_6369445_general_1948_vol_1.json, fbi-detroit-100-26505-100-de-26505]
 summary: Cross-cutting analysis showing the WWII Allied foo-fighter file (1944–45 SHAEF) and the 1948 USAF Flying Disc effort share institutional structure, candidate-explanation logic, and a near-identical reporting template.
 provenance:
-  extracted: 0.32
-  inferred: 0.6
+  extracted: 0.3
+  inferred: 0.62
   ambiguous: 0.08
 base_confidence: 0.93
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T14:07:00Z
-updated: 2026-05-09T14:07:00Z
+updated: 2026-05-09T18:00:00Z
 ---
 
 # From Foo Fighters to Flying Discs — Continuity of the Allied UAP-Reporting Apparatus, 1944–1948
@@ -80,6 +80,7 @@ The institutional admission "we cannot fully explain these reports" is preserved
 
 - **Visual morphology**. The 1944–45 reports are dominated by *lights and luminous spheres* (foo fighters, "balls of fire"); the 1948 reports are dominated by *disc-shaped objects*. The candidate-explanation menus reflect this — Flak Bombe / flak rocket / Me 262 in the lights regime; flying-wing aircraft / disc-shaped aircraft in the disc regime. ^[inferred]
 - **The cylindrical-object thread** ([[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]]) is the single 1944–45 case that breaks both regimes: a hovering vertical 12-ft aluminium cylinder with fins and a mast that survives a strafing attack. It is structurally closer to a *modern* UAP report than to either the foo-fighter or Flying Disc class. ^[inferred]
+- **The Gut Alt Golssen thread** ([[references/sighting-gut-alt-golssen-1944]]) is a **second-order witness datum** — Polish POW Krasuski's 1944 ground-level account of a 75–100-yard ascending circular vehicle with a rotating mid-section, recorded by the FBI 13 years later in 1957 ([[references/fbi-detroit-100-26505-krasuski-1957]]). Like the cylindrical-object thread, it does not fit either the foo-fighter / balls-of-fire regime or the disc / flying-wing regime, and the candidate-explanation menus of both 1944–45 SHAEF and 1948 USAF do not naturally accommodate the morphology. Treat as supplementary witness recall, not as confirmation of any specific German-program hypothesis. ^[inferred]
 - **The political stakes**. In 1944–45 the candidate explanations are wartime German weapons; in 1948 they are Cold War Soviet weapons. The threat-attribution flips with the geopolitical environment, but the institutional behaviour does not change. ^[inferred]
 
 ## What this means for the corpus
@@ -106,4 +107,6 @@ The institutional admission "we cannot fully explain these reports" is preserved
 - [[entities/shaef-air-staff]]
 - [[entities/c-m-grierson]]
 - [[entities/c-p-cabell]]
+- [[references/sighting-gut-alt-golssen-1944]]
+- [[references/fbi-detroit-100-26505-krasuski-1957]]
 - [[projects/uap/uap]]

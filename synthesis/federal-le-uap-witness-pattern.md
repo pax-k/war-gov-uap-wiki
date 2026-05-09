@@ -2,7 +2,7 @@
 title: "Federal LE Agents as UAP Witnesses: a Witnessing Pattern"
 category: synthesis
 tags: [uap, analysis, witness, federal-le]
-sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json]
+sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, fbi-detroit-100-26505-100-de-26505]
 summary: Cross-cutting analysis of why trained government-affiliated witnesses (federal LE, intel officials, multi-sensor crews, contractor drone pilots, on-site test/range supervisors) sit structurally above typical civilian UAP reports as evidence — and where they still fail.
 provenance:
   extracted: 0.3
@@ -12,7 +12,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T13:33:54Z
-updated: 2026-05-09T13:41:53Z
+updated: 2026-05-09T18:00:00Z
 ---
 
 # Federal LE Agents as UAP Witnesses: a Witnessing Pattern
@@ -46,6 +46,18 @@ These are *generalizations*, not guarantees: ^[inferred]
 - **Range and size estimation in bare eye, especially at dusk and pre-dawn.** The [[references/sighting-fiery-orb-western-us|Fiery Orb]] event showed the witnesses underestimated range by ~half (500–600 m vs. AARO's ~1050 m) and underestimated diameter by ~5–6× ("small helicopter cockpit" vs. 12–18 m). Training does not fix human angular-size and atmospheric-perspective heuristics.
 - **3D shape inference from limited-aspect observation.** The [[references/sighting-dark-kite-western-us|Dark Kite]] event has three coexisting shape descriptors (thin line, rounded-edge kite, triangular) for **the same object** — see [[concepts/transparent-uap]] for why thin-aspect or partially transparent objects defeat shape inference.
 - **Causation of cross-event identity.** That events 1–4 happened in the same general area within a short window does not mean a single phenomenon produced all four. ^[inferred]
+
+## Sister case: 1957 Krasuski — when an FBI sit-down interview replaces FD-302
+
+The November 1957 [[references/fbi-detroit-100-26505-krasuski-1957|Krasuski case]] in FBI Detroit is structurally **adjacent** to the trained-observer pattern but **does not** belong in this synthesis's main argument: ^[inferred]
+
+- Krasuski was an **immigrant Displaced Person and brewery worker**, not a federal LE agent or contracted technical operator.
+- His observation was made under **forced wartime labor in 1944** and reported **13 years later** in 1957.
+- The witness class is closer to "civilian recall under post-war stable circumstances" than to "trained operator under live observation conditions."
+
+What the 1957 case adds to the synthesis is **not** corroboration of trained-observer credibility but rather a corroboration of **the FBI's intake apparatus**: when the entry path elevates the report (here, via [[entities/robert-cutler|Cutler]] in the Eisenhower White House → FBI Director URGENT teletype → SAC Detroit), the Bureau **substantively investigates** with an in-person interview on the next available day, indistinguishable in form from a 2023 FD-302 site visit. The witness's character is explicitly assessed by the SA ("no indication of irrational or otherwise abnormal behavior"); credit and indices checks are run; a 3-page narrative is produced and routed back to HQ in 5 enclosure copies. The 1957 → 2023 gap is therefore **not** an instrument transition (Blank Memo → FD-302) — it is an **entry-path transition** (WH-routed citizen letter → multi-agency intake pipeline). ^[inferred]
+
+This sharpens the cross-era pattern in [[entities/fbi]]: same agency, same field office, **two different routing/recording instruments active in 1957–58 alone** depending on entry path. The 2023 FD-302 era is one further point on the same axis.
 
 ## Comparison to the 1948 corpus
 
@@ -85,3 +97,8 @@ This synthesis page should be revisited every time a trained-observer-witnessed 
 - [[concepts/flying-disc-reporting-protocol]]
 - [[entities/aaro]]
 - [[entities/fbi]]
+- [[references/fbi-detroit-100-26505-krasuski-1957]] — sister 1957 FBI case (immigrant DP witness, 13-year-delayed recall, Director-driven sit-down interview)
+- [[entities/wladyslaw-krasuski]]
+- [[entities/robert-cutler]]
+- [[references/sighting-gut-alt-golssen-1944]]
+- [[concepts/engine-stall-phenomenon]]

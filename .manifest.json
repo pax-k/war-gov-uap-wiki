@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T15:25:29Z",
+  "updated": "2026-05-09T18:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -259,18 +259,45 @@
         "entities/fbi.md",
         "index.md"
       ]
+    },
+    "sources/65_hs1-101634279_100-de-26505.json": {
+      "ingested_at": "2026-05-09T18:00:00Z",
+      "size_bytes": 15466,
+      "modified_at": 1778332063,
+      "content_hash": "sha256:1cb9b67fc7f6141036307fbcf5786c630a61d46fcafc4d319c01fbb04c7f6561",
+      "source_id": "fbi-detroit-100-26505-100-de-26505",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/fbi-detroit-100-26505-krasuski-1957.md",
+        "references/sighting-gut-alt-golssen-1944.md",
+        "entities/wladyslaw-krasuski.md",
+        "entities/robert-cutler.md",
+        "entities/oklahoma-ufo-research-association.md",
+        "entities/franciszek-grabowski.md",
+        "concepts/engine-stall-phenomenon.md"
+      ],
+      "pages_updated": [
+        "entities/fbi.md",
+        "references/fbi-detroit-100-18221-serial-844-1958.md",
+        "synthesis/federal-le-uap-witness-pattern.md",
+        "synthesis/foo-fighters-to-flying-discs.md",
+        "projects/uap/uap.md",
+        "index.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T15:25:29Z",
-      "sources_ingested": 10
+      "last_ingested": "2026-05-09T18:00:00Z",
+      "sources_ingested": 11
     }
   },
   "stats": {
-    "total_sources_ingested": 11,
-    "total_pages": 71,
+    "total_sources_ingested": 12,
+    "total_pages": 78,
     "total_projects": 1,
     "last_full_rebuild": null
   }

@@ -19,7 +19,7 @@ updated: 2026-05-09T15:25:29Z
 
 A **one-page Standard Form No. 64 "Office Memorandum, UNITED STATES GOVERNMENT"** (carbon, declassification authority "FBI Automatic Declassification Guide, Issued May 24, 2007") from **Special Agent Robert Ross Reynolds** to **SAC, Detroit**, dated **17 April 1958**, subject "**UNIDENTIFIED FLYING OBJECTS**". The artifact is filed as **serial 844 of FBI file 100-18221** (Detroit field office), with a cross-reference to file `100-26505`. Screened by NARA (RF) on 11-25-2025 under FOIA #90288, document ID `34715588`.
 
-It is the **earliest FBI-originated UAP-adjacent record** in the wiki by ~65 years — predating the [[entities/fbi|FBI's]] [[references/fbi-fd302-drone-pilot-redacted-2023|2023 FD-302 pair]] on the Sept 2023 contractor-convoy incident, and the corpus's **first 1950s** artifact of any kind. ^[inferred]
+It is the **second-earliest FBI-originated UAP-adjacent record** in the wiki — predating the [[entities/fbi|FBI's]] [[references/fbi-fd302-drone-pilot-redacted-2023|2023 FD-302 pair]] on the Sept 2023 contractor-convoy incident, but **post-dating the [[references/fbi-detroit-100-26505-krasuski-1957|November 1957 Krasuski file (100-26505)]] by ~5 months**. ^[inferred] The cross-reference to file `100-26505` on this memo's footer points back at Krasuski's already-existing UFO-adjacent file in the same field office. ^[inferred]
 
 ## Document anatomy
 
@@ -63,7 +63,7 @@ A **citizen phone-in to the FBI Detroit field office** at **0408 hrs, 17 April 1
 
 ## Provenance and routing
 
-The memo's footer file marker `100-18221-844` shows that **at least 843 prior serials** existed in FBI Detroit file `100-18221` by 17 April 1958, and that this was filed as item 844 in the same case file. The cross-reference to `100-26505` indicates a **second related file** in Detroit's `100`-series caseload (the `100-` prefix is FBI's standard "Domestic Security" classification). ^[inferred] Whether file `100-18221` is itself a UFO-subject case or a broader security file under which UFO phone-ins were sub-filed is **unresolved** by this single serial. ^[inferred]
+The memo's footer file marker `100-18221-844` shows that **at least 843 prior serials** existed in FBI Detroit file `100-18221` by 17 April 1958, and that this was filed as item 844 in the same case file. The cross-reference to `100-26505` indicates a **second related file** in Detroit's `100`-series caseload (the `100-` prefix is FBI's standard "Domestic Security" classification). That second file has now been **located and ingested** as [[references/fbi-detroit-100-26505-krasuski-1957|the Krasuski file (Nov 1957 + 1966 OUFORA)]] — the cross-reference points at an **already-existing UFO-adjacent case** ~5 months prior to the Weaver memo. ^[inferred] Whether file `100-18221` is itself a UFO-subject case or a broader security file under which UFO phone-ins were sub-filed is **unresolved** by this single serial. ^[inferred]
 
 The receipt stamp uses Detroit's standard intake apparatus (`SEARCHED / INDEXED / SERIALIZED / FILED`) — the same routing skeleton seen on later FBI documents. The 1958 routing is structurally similar to the later [[entities/fbi|FBI]] FD-302 / case-file workflow: a **citizen contact → SA memo → SAC routing → external POC notification**. The form factor differs — a Standard Form 64 office memorandum is a *routing instrument*, not a *witness-interview evidentiary form* like the FD-302; consistent with the report being **the SA's secondhand summary of a phone call**, not a sit-down interview. ^[inferred]
 
@@ -73,17 +73,18 @@ This artifact occupies a **previously empty cell** in the wiki's UAP timeline:
 
 | Era | Existing corpus anchors | This artifact |
 |---|---|---|
-| 1944–45 | [[references/foo-fighters-shaef-1944-1945]], [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] | — |
+| 1944–45 | [[references/foo-fighters-shaef-1944-1945]], [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]], [[references/sighting-gut-alt-golssen-1944]] (delayed-13y witness recall) | — |
 | 1948 | [[references/usaf-flying-discs-1948]], [[references/sighting-bakersfield-1948-03]], [[references/sighting-hobson-ohio-1948-05]] | — |
 | 1949–50 | [[references/usaf-flying-discs-1949]] (~20 sightings) | — |
-| **1958** | *(empty before this artifact)* | **THIS** |
+| **Nov 1957** | [[references/fbi-detroit-100-26505-krasuski-1957]] (Krasuski) | — |
+| **17 Apr 1958** | *(empty before this artifact)* | **THIS** |
 | 1963 | [[references/hunter-1963-space-alien-race-memo]] (NASC policy memo) | — |
 | 1985, 1994 | [[references/dos-cable-papua-new-guinea-1985-01]], [[references/dos-cable-kazakhstan-1994-01]] | — |
 | 2023 | [[references/fbi-fd302-drone-pilot-redacted-2023]], [[references/fbi-fd302-serial-3-driver-redacted-2023]] (FBI FD-302 pair) | — |
 | 2025 | [[references/usper-statement-2025]] | — |
 | 2026 | [[references/western-us-event-2026]] | — |
 
-It is the **wiki's first 1950s** artifact, and the earliest FBI-originated UAP-adjacent record in the corpus. It also predates the 1963 [[references/hunter-1963-space-alien-race-memo|NASC policy memo]] by 5 years and falls **between** the 1948–50 USAF [[concepts/project-sign|Project SIGN]] era and the 1963 [[entities/national-aeronautics-and-space-council|NASC]] policy-staff layer — a window that historically corresponds to **Project BLUE BOOK** (1952–1969). ^[inferred]
+It is the **wiki's second 1950s** artifact (after [[references/fbi-detroit-100-26505-krasuski-1957|Krasuski Nov 1957]] in the same field office, ~5 months earlier). It predates the 1963 [[references/hunter-1963-space-alien-race-memo|NASC policy memo]] by 5 years and falls **between** the 1948–50 USAF [[concepts/project-sign|Project SIGN]] era and the 1963 [[entities/national-aeronautics-and-space-council|NASC]] policy-staff layer — a window that historically corresponds to **Project BLUE BOOK** (1952–1969). ^[inferred]
 
 ## What this serial *does* and *does not* establish
 
@@ -101,7 +102,7 @@ It is the **wiki's first 1950s** artifact, and the earliest FBI-originated UAP-a
 
 ## Cross-references
 
-- **First FBI-originated UAP-adjacent record** in the corpus → see [[entities/fbi]] (entity has been broadened to span 1958 → 2023).
+- **Second-earliest FBI-originated UAP-adjacent record** in the corpus → see [[entities/fbi]] (entity now spans 1957 → 2023). The earlier record is [[references/fbi-detroit-100-26505-krasuski-1957|the cross-referenced 100-26505 file]].
 - **Sighting page** for the Weaver observation: [[references/sighting-detroit-1958-04-17]].
 - **Selfridge Field** as a recurring citizen-recognised AF point of contact for UFO calls — track recurrence in future ingests. ^[open]
 - **Sister institutional layer**: this 1958 memo is to the late-Project-SIGN / early-BLUE-BOOK era what the [[references/dos-cable-papua-new-guinea-1985-01|1985 PNG cable]] is to the diplomatic-channel layer — a **routing instrument**, not an investigation report. ^[inferred]
@@ -109,7 +110,7 @@ It is the **wiki's first 1950s** artifact, and the earliest FBI-originated UAP-a
 ## Open threads
 
 - Locate / ingest **other serials in FBI Detroit file 100-18221** — the marker `100-18221-844` implies at least 843 prior items in the same file; only this single serial is in the corpus. ^[open]
-- Locate the cross-referenced file `100-26505` (Detroit). ^[open]
+- ✅ **Located / ingested** the cross-referenced file `100-26505` (Detroit) → [[references/fbi-detroit-100-26505-krasuski-1957]]. The 100-26505 file is a **prior UFO-adjacent case file** (Nov 1957 Krasuski + Oct 1966 OUFORA). The two files share Detroit's `100`-series Domestic Security caseload but have different routing patterns (WH-routed letter vs. citizen phone-in).
 - Confirm "**Lt. Col (Bermnie) E. Prater**" — likely a Selfridge Field officer; OCR'd as "Bermnie", probably "**Bernie**". ^[ambiguous]
 - Cross-check the **Project BLUE BOOK** master list for an April 1958 Detroit / Selfridge entry matching the Weaver morphology and 0408 LT track. ^[open]
 - Look for a corresponding **USAF / Selfridge** memo or BLUE BOOK case file referencing Weaver, the Lamphere Street track, or the 0408-LT phone call. ^[open]
