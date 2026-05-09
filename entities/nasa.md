@@ -3,8 +3,8 @@ title: NASA
 category: entities
 tags: [nasa, organization, civil-agency, uap]
 aliases: [National Aeronautics and Space Administration, Mission Control, MSC Houston, Manned Spacecraft Center]
-sources: [sources/255_t_763_r1b_transcripts.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json]
-summary: US civilian space agency. In the UAP corpus, NASA enters as originator of the 1965 GT-7 PAO bogey tape, the 1973 Apollo 17 Technical and Science crew-debriefing excerpts (both null), and as NARA RG 255 archival home for the 1999 COMETA Report.
+sources: [sources/255_t_763_r1b_transcripts.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json, sources/nasa-uap-d1-apollo-12-transcript-1969.json]
+summary: US civilian space agency. In the UAP corpus, NASA enters as originator of the 1965 GT-7 PAO bogey tape, the 1969 Apollo 12 voice-loop excerpt, the 1973 Apollo 17 Technical and Science crew-debriefing excerpts, and as NARA RG 255 archival home for the 1999 COMETA Report.
 provenance:
   extracted: 0.32
   inferred: 0.65
@@ -13,7 +13,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T19:30:00Z
-updated: 2026-05-10T18:00:00Z
+updated: 2026-05-10T20:00:00Z
 ---
 
 # NASA
@@ -37,12 +37,13 @@ This is the wiki's first **NASA-originated** UAP-adjacent record. It is institut
 | 1957–58 | FBI investigative file | SECRET / FOUO | decades-delayed | [[references/fbi-detroit-100-26505-krasuski-1957]] |
 | 1963 | NASC policy memo | OFFICIAL USE ONLY | decades-delayed | [[references/hunter-1963-space-alien-race-memo]] |
 | **1965** | **NASA Mission Control + PAO** | **none / public** | **same news cycle** | **[[references/nasa-pao-t-00763-r1b-gemini-7-1965]]** |
+| **1969** | **NASA Mission Control voice loop (Apollo 12 d1)** | **none visible** ^[inferred] | **multi-decade in practice (d-cluster 2026 review pull)** ^[inferred] | **[[references/nasa-uap-d1-apollo-12-transcript-1969]]** |
 | **1973** | **NASA MSC Training Office (technical debrief)** | **CONFIDENTIAL → 90-day auto-declass clause** | **multi-decade in practice (NASA hold + 2026 E.O. 13526 review pull)** | **[[references/nasa-apollo-17-technical-crew-debriefing-1973]]** |
 | **1973** | **NASA MSC Science Requirements Branch (science debrief)** | **none visible on cover** ^[ambiguous] | **multi-decade in practice (NASA hold + 2026 review pull)** | **[[references/nasa-apollo-17-science-debriefing-1973]]** |
 | 1985–94 | DOS embassy cables | UNCLAS or LIMDIS | medium-delayed (FOIA) | [[references/dos-cable-papua-new-guinea-1985-01]], [[references/dos-cable-kazakhstan-1994-01]] |
 | 2023–26 | FBI FD-302 / AARO briefing | various | months-to-years | [[references/fbi-fd302-drone-pilot-redacted-2023]], [[references/western-us-event-2026]] |
 
-The 1965 entry inverts the disclosure default. The 1973 entries are **different NASA channels** — internal investigative/training (technical debrief) and internal scientific (science debrief), neither press-facing — and demonstrate that **NASA is not a uniformly release-by-default agency** across its sub-offices. The MSC PAO (1965), MSC Training Office (1973 technical), and MSC Science Requirements Branch (1973 science) sit on a multi-point disclosure-posture gradient inside the same center: PAO at the release-by-default end, Training Office at the CONFIDENTIAL-with-auto-declass-but-not-released end, Science Requirements Branch at an apparently-unclassified-but-also-not-released middle position. ^[inferred] The d5 / d6 pair further establishes that **a single Apollo mission produced parallel documentation streams** routed to different sub-offices of the same center within days of each other.
+The 1965 entry inverts the disclosure default. The 1969 Apollo 12 d1 entry sits structurally adjacent to the 1965 PAO entry — same intake instrument (Mission Control voice loop), but the d1 OCR bundle does **not** preserve a PAO-narration commentary header, so whether the d1 segment was pushed through the MSC PAO release-by-default channel cannot be confirmed from the artifact alone. ^[inferred] The 1973 entries are **different NASA channels** — internal investigative/training (technical debrief) and internal scientific (science debrief), neither press-facing — and demonstrate that **NASA is not a uniformly release-by-default agency** across its sub-offices. The MSC PAO (1965), MSC voice loop (1969 d1), MSC Training Office (1973 technical), and MSC Science Requirements Branch (1973 science) sit on a multi-point disclosure-posture gradient inside the same center: PAO at the release-by-default end, Training Office at the CONFIDENTIAL-with-auto-declass-but-not-released end, Science Requirements Branch at an apparently-unclassified-but-also-not-released middle position. ^[inferred] The d5 / d6 pair establishes that **a single Apollo mission produced parallel documentation streams** routed to different sub-offices of the same center within days of each other; the d1 voice-loop entry establishes that **the same NASA intake instrument (Mission Control voice loop) produced both bogey-class (1965 GT-7) and partial-signal (1969 Apollo 12) UAP-adjacent records four years apart** — different polarity, same instrument. ^[inferred]
 
 ## Sub-entities (not yet stub-paged)
 
@@ -91,7 +92,11 @@ The function NASA performs in this routing is therefore **archival accessibility
 
 - [[entities/nasa-pao]]
 - [[entities/gemini-7]]
-- [[entities/apollo-17]] — Dec 1972 mission frame for the corpus's second NASA-originated artifact.
+- [[entities/apollo-12]] — Nov 1969 mission frame for the corpus's d1 voice-loop artifact (sub-class D, partial-signal).
+- [[entities/pete-conrad]] — Apollo 12 CDR; co-orbital-debris empirical-confirmation witness.
+- [[entities/dick-gordon]] — Apollo 12 CMP.
+- [[entities/alan-bean]] — Apollo 12 LMP; primary witness on the d1 AOT particle-flash observation.
+- [[entities/apollo-17]] — Dec 1972 mission frame for the corpus's third + fourth NASA-originated artifacts.
 - [[entities/frank-borman]]
 - [[entities/jim-lovell]]
 - [[entities/gene-cernan]] — Apollo 17 Commander.
@@ -99,6 +104,7 @@ The function NASA performs in this routing is therefore **archival accessibility
 - [[entities/harrison-schmitt]] — Apollo 17 Lunar Module Pilot.
 - [[references/nasa-pao-t-00763-r1b-gemini-7-1965]]
 - [[references/sighting-gemini-7-bogey-1965-12-04]]
+- [[references/nasa-uap-d1-apollo-12-transcript-1969]] — partial-signal voice-loop excerpt; corpus's first sub-class D entry; first non-GT-7 NASA Mission Control voice-loop artifact.
 - [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — null-content debriefing excerpt; corpus's first NASA artifact from a non-PAO sub-office.
 - [[references/nasa-apollo-17-science-debriefing-1973]] — null-content science debriefing excerpt; second NASA non-PAO sub-office (MSC Science Requirements Branch).
 - [[references/cometa-report-1999]] — non-government policy paper archived via NARA RG 255.

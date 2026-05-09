@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-10T19:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-10T20:00:00Z*
 
 ## Concepts
 
@@ -24,7 +24,7 @@ title: Wiki Index
 - [[concepts/orb-flare-formation]] — Distinct UAP morphology: orbs flaring up sequentially in a line/stack, holding stationary, flaring down in reverse order ( #uap #morphology #pattern)
 - [[concepts/observer-suppression-behavior]] — Recurring pattern: third-party operator restricts witnesses' continued observation contemporaneous with a UAP sighting, indicating institutional awareness ( #uap #behavior #intelligence)
 - [[concepts/orb-phenomenon]] — Recurring UAP morphology of luminous spherical bodies, including "mother / daughter" launch patterns ( #uap #morphology #pattern)
-- [[concepts/orbital-uap-sighting]] — Working concept for on-orbit astronaut-witness UAP-adjacent observations; structurally distinct from atmospheric / ground sightings; anchored by the 1965 Gemini 7 bogey call ( #uap #witness #pattern #nasa)
+- [[concepts/orbital-uap-sighting]] — Working concept for on-orbit astronaut-witness UAP-adjacent observations; four-instance class spanning four sub-classes (A 1965 GT-7 positive, D 1969 Apollo 12 partial-signal, B/C 1973 Apollo 17 ×2 null) ( #uap #witness #pattern #nasa)
 - [[concepts/project-sign]] — First official USAF program to collect and evaluate Flying Disc reports (1948) ( #uap #usaf #intelligence)
 - [[concepts/rotating-disc-morphology]] — Joint UAP signature: circular body with slowly rotating outer surface and stationary inner light points; anchored by the 1955 Trans-Caucasus sighting ( #uap #morphology #pattern)
 - [[concepts/scientific-vs-saucer-advocate-frame]] — Mid-20th-century institutional posture writing UAP policy from the middle ground between saucer advocates and strict scientific dismissers ( #uap #history #rhetoric)
@@ -44,6 +44,8 @@ title: Wiki Index
 - [[entities/amembassy-mexico]] — US Embassy in Mexico City; originating post of the 16 Sep 2023 MEXICO 2544 weekly political blotter cable whose ¶11 reported the Mexican Congress UAP hearing — sub-pattern C anchor of the diplomatic-channel umbrella ( #state-department #embassy #mexico #organization)
 - [[entities/amembassy-moscow]] — US Embassy in Moscow, Russia; originating post of the 30 Oct 2001 cable MOSCOW 13169 on Russian airspace-violation denials of Georgia (boundary case — figurative-UFO rhetoric) ( #state-department #embassy #russia #organization)
 - [[entities/amembassy-port-moresby]] — US Embassy in Port Moresby, PNG; originating post of the 28 Jan 1985 DOS cable on PNG UAP overflights ( #state-department #embassy #organization)
+- [[entities/alan-bean]] — USN naval aviator, NASA Group 3 astronaut, LMP Apollo 12; fourth person to walk on the Moon; primary witness on the d1 AOT particle-flash observation — corpus's first astronaut-self-attributed-conventional on-orbit ephemeral-light report ( #person #witness #uap #nasa #astronaut)
+- [[entities/apollo-12]] — NASA Apollo 12 (14–24 Nov 1969); second crewed lunar landing; mission frame for the wiki's first sub-class D (partial-signal) orbital-NASA artifact ( #nasa #mission #spacecraft #uap #1969)
 - [[entities/apollo-17]] — NASA Apollo 17 (7–19 Dec 1972); last crewed lunar landing; mission frame for the wiki's first null-content orbital-NASA artifact ( #nasa #mission #spacecraft #uap)
 - [[entities/alexander-vershbow]] — US Ambassador to Russia 2001–2005; signing officer of the 30 Oct 2001 MOSCOW 13169 cable ( #state-department #person #diplomacy #russia)
 - [[entities/andre-lebeau]] — Former chairman of CNES; foreword author of the 1999 COMETA Report ( #uap #france #person #civil-agency)
@@ -51,6 +53,7 @@ title: Wiki Index
 - [[entities/carol-rosin]] — US space-policy advocate, former von Braun spokesperson; courier of the 1999 COMETA Report to NASA in 2001 ( #uap #person #civilian-research #policy)
 - [[entities/cometa-committee]] — Private French committee of retired senior officers + IHEDN auditors; produced the 1999 COMETA Report ( #uap #france #organization #policy)
 - [[entities/denis-letty]] — French Air Force General (2nd Section); chair of COMETA, who initiated the 1999 report ( #uap #france #person #military)
+- [[entities/dick-gordon]] — USN naval aviator, NASA Group 3 astronaut, CMP Apollo 12; speaker on the d1 voice loop's rendezvous greetings and post-rendezvous sextant search for Intrepid ( #person #witness #uap #nasa #astronaut)
 - [[entities/gepan-sepra]] — French civilian-government UAP research program inside CNES (1977–onward); the only such agency in the world per COMETA ( #uap #france #organization #civil-agency)
 - [[entities/c-m-grierson]] — Air Commodore, A.C. of S. A-2, SHAEF Air Staff; routed the 1944–45 foo-fighter correspondence ( #uap #ww2 #person #raf)
 - [[entities/c-p-cabell]] — Maj Gen, signed the 1948 directive that established Project SIGN ( #usaf #person #intelligence)
@@ -73,6 +76,7 @@ title: Wiki Index
 - [[entities/nasa-pao]] — NASA Public Affairs Office; release-by-default press / commentary channel; intake-and-release node for the GT-7 PAO Tape T-00763(R1b) ( #nasa #organization #public-affairs)
 - [[entities/national-aeronautics-and-space-council]] — Executive Office of the President advisory body; originating office of the 1963 alien-policy memo ( #organization #eop #policy)
 - [[entities/oklahoma-ufo-research-association]] — Mid-1960s civilian UFO research organization (Oklahoma City); 1966 inquirer to FBI Detroit, redirected to USAF Wright-Patterson ( #organization #civilian-research #uap)
+- [[entities/pete-conrad]] — USN naval aviator, NASA Group 2 ("New Nine") astronaut, Cdr Apollo 12; on the d1 voice loop, speaker on the tracking-light burnout exchange that empirically confirms the corpus's "your own debris field" prior ( #person #witness #uap #nasa #astronaut)
 - [[entities/png-national-intelligence-organization]] — Papua New Guinea's national intelligence service; initiator of the 28 Jan 1985 inquiry to AMEMBASSY Port Moresby ( #intelligence #papua-new-guinea #organization)
 - [[entities/ronald-evans]] — USN naval aviator, NASA Group 5 astronaut, CMP Apollo 17; speaker of the Jan 1973 debriefing's reentry-plasma "tunnel with a bright spot" passage and the window-fog clarifying remark ( #person #witness #uap #nasa #astronaut)
 - [[entities/richard-russell]] — US Senator (D-GA); Chairman, Senate Armed Services Committee at the 4 Oct 1955 Trans-Caucasus disc sighting; first-witness of the first disc ( #person #senator #witness #uap)
@@ -116,6 +120,7 @@ title: Wiki Index
 - [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — 2-page Mistral-OCR'd excerpt (cover + transcript page 24-4) of MSC-07631 Apollo 17 Technical Crew Debriefing (4 Jan 1973); CONFIDENTIAL with auto-declass clause; corpus's first null-content orbital-NASA artifact (no UAP observation) ( #uap #primary-source #nasa #1973 #astronaut)
 - [[references/nasa-apollo-17-science-debriefing-1973]] — 3-page Mistral-OCR'd excerpt (cover + pages 119-120) of MSC-07632 Apollo 17 Crew Debriefing for Science (8 Jan 1973), prepared by MSC Science Requirements Branch; HENRY UV-astronomy testimony (Coma cluster Lyman-alpha non-detection, UV galactic background, OGO-5 follow-up); strongest null in corpus — zero UAP keywords ( #uap #primary-source #nasa #1973 #astronaut)
 - [[references/nasa-pao-t-00763-r1b-gemini-7-1965]] — 4-page NASA PAO release-commentary tape transcript (NARA RG 255) of the 4 Dec 1965 GT-7 air-to-ground voice loop containing Borman's "bogey at ten o'clock high" call ( #uap #primary-source #nasa #1965)
+- [[references/nasa-uap-d1-apollo-12-transcript-1969]] — 4-page Mistral-OCR'd Apollo 12 air-to-ground voice loop excerpt (Tapes 90/3-90/9 + 93/8, MET ~5d19h-6d00h, ~20 Nov 1969) covering LM/CSM rendezvous; Bean AOT particle-flash observation, Conrad debris-confirmation, AGS DEDA EMI anomaly; partial-signal sub-class D ( #uap #primary-source #nasa #1969 #astronaut)
 - [[references/nasa-uap-d3-gemini-7-transcript-1965]] — 3-page Mistral-OCR'd variant transcription of the same NASA PAO Tape T-00763(R1b); duplicate-source-only ingest; no new factual claims, only OCR-variant evidence ( #uap #primary-source #nasa #1965 #ocr)
 - [[references/project-sign-incident-summaries-1-100]] — 209-page bundle of 100 Incident Summary Sheets (May 1947 – Jan 1948), NARA RG 38 Box 7; founding bundle of the SIGN sequential-incident stream; preserves Arnold (Inc 17), Muroc cluster (Inc 1–4), Rhodes Phoenix photo (Inc 40), Cascade Mts EM-effect (Inc 68), and Mantell sequence (Inc 33+) ( #uap #primary-source #declassified #1947 #1948)
 - [[references/project-sign-incident-summaries-101-172]] — 178-page bundle of 66 Project SIGN incident summary sheets (Jan – Oct 1948), NARA RG 38 Box 7; predecessor to the 173–233 bundle; preserves the Chiles–Whitted, Gorman, Hamel MN landing, and Norcatur cases ( #uap #primary-source #declassified #1948)

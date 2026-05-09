@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T19:00:00Z",
+  "updated": "2026-05-10T20:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -616,6 +616,31 @@
         "hot.md"
       ]
     },
+    "sources/nasa-uap-d1-apollo-12-transcript-1969.json": {
+      "ingested_at": "2026-05-10T20:00:00Z",
+      "size_bytes": 6876,
+      "content_hash": "sha256:02f17c82ee80a64bfa22c6db06d2c59892d727f0ecc9669959ac45bdf8692003",
+      "source_id": "nasa-apollo-12-air-to-ground-voice-loop-tapes-90-93-1969-11-d1",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "signal_class": "partial-signal",
+      "pages_created": [
+        "references/nasa-uap-d1-apollo-12-transcript-1969.md",
+        "entities/apollo-12.md",
+        "entities/pete-conrad.md",
+        "entities/dick-gordon.md",
+        "entities/alan-bean.md"
+      ],
+      "pages_updated": [
+        "concepts/orbital-uap-sighting.md",
+        "entities/nasa.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
+    },
     "sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json": {
       "ingested_at": "2026-05-10T18:00:00Z",
       "size_bytes": 4047,
@@ -643,13 +668,13 @@
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T19:00:00Z",
-      "sources_ingested": 23
+      "last_ingested": "2026-05-10T20:00:00Z",
+      "sources_ingested": 24
     }
   },
   "stats": {
-    "total_sources_ingested": 25,
-    "total_pages": 151,
+    "total_sources_ingested": 26,
+    "total_pages": 156,
     "total_projects": 1,
     "last_full_rebuild": null
   }
