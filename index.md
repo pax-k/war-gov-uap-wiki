@@ -4,11 +4,12 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T15:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-09T16:15:00Z*
 
 ## Concepts
 
 - [[concepts/balls-of-fire-red]] — UK Air Ministry DDI2 filing term for the WWII night-light reports the USAAF called foo fighters ( #uap #ww2 #intelligence)
+- [[concepts/diplomatic-channel-uap-reporting]] — Foreign-intelligence-service inquiry routed through a US embassy to a US combatant command; distinct from operational and policy-staff intake patterns ( #uap #policy #diplomatic)
 - [[concepts/flak-bombe-hypothesis]] — A.D.I.(K) Felkin's 1945 candidate explanation pointing to A.D.I.(K) Report No. 562/1944 ( #uap #ww2 #intelligence)
 - [[concepts/flying-disc-reporting-protocol]] — The 10-element observational template Cabell mandated for all 1948 USAF disc-sighting reports ( #uap #history #protocol)
 - [[concepts/foo-fighter-phenomenon]] — WWII Allied aircrew name for unexplained nocturnal lights pacing combat aircraft ( #uap #ww2 #morphology)
@@ -27,6 +28,7 @@ title: Wiki Index
 
 - [[entities/415th-night-fighter-squadron]] — USAAF night-fighter unit whose Dec 1944 – Jan 1945 sortie reports introduced the term "foofighter" into official intelligence files ( #uap #ww2 #usaaf)
 - [[entities/aaro]] — All-domain Anomaly Resolution Office; modern DoD UAP intake/assessment authority ( #usaf #organization #uap)
+- [[entities/amembassy-port-moresby]] — US Embassy in Port Moresby, PNG; originating post of the 28 Jan 1985 DOS cable on PNG UAP overflights ( #state-department #embassy #organization)
 - [[entities/air-materiel-command]] — USAF command at Wright-Patterson AFB; designated central agency for 1948 Flying Disc reports ( #usaf #organization #history)
 - [[entities/c-m-grierson]] — Air Commodore, A.C. of S. A-2, SHAEF Air Staff; routed the 1944–45 foo-fighter correspondence ( #uap #ww2 #person #raf)
 - [[entities/c-p-cabell]] — Maj Gen, signed the 1948 directive that established Project SIGN ( #usaf #person #intelligence)
@@ -34,9 +36,11 @@ title: Wiki Index
 - [[entities/maxwell-w-hunter]] — NASC Professional Staff member; authored the 1963 "Space Alien Race Question" memo ( #person #nasc #policy)
 - [[entities/military-air-transport-service]] — Joint USAF/Navy unified airlift command (1948); recurring 1949 routing-and-triage hub for Project SIGN reports alongside AMC ( #usaf #organization #history)
 - [[entities/national-aeronautics-and-space-council]] — Executive Office of the President advisory body; originating office of the 1963 alien-policy memo ( #organization #eop #policy)
+- [[entities/png-national-intelligence-organization]] — Papua New Guinea's national intelligence service; initiator of the 28 Jan 1985 inquiry to AMEMBASSY Port Moresby ( #intelligence #papua-new-guinea #organization)
 - [[entities/robert-f-packard]] — State Department / OISA officer; addressee of the 1963 NASC memo ( #person #state-department #policy)
 - [[entities/shaef-air-staff]] — Allied combined-air-forces intelligence/operations hub (1944–45) that routed the foo-fighter correspondence ( #uap #ww2 #organization)
 - [[entities/uk-air-ministry-ddi2]] — UK Air Ministry intelligence branches (DDI2 + A.D.I.(K)) that handled the British-side reply ( #uap #ww2 #organization)
+- [[entities/uscincpac]] — US Commander-in-Chief Pacific (Honolulu); action addressee of the 28 Jan 1985 DOS cable on PNG overflights ( #usaf #organization #dod)
 - [[entities/wright-patterson-afb]] — Dayton, OH base; physical hub of the 1948 USAF UFO collection effort ( #usaf #location #history)
 
 ## Skills
@@ -45,6 +49,7 @@ title: Wiki Index
 
 ## References
 
+- [[references/dos-cable-papua-new-guinea-1985-01]] — Declassified 3-page US State Department cable (28 Jan 1985, PORT M 00199) on PNG NIO inquiry into 24 Jan 1985 high-altitude overflights ( #uap #primary-source #state-department)
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
 - [[references/loedding-flying-disc]] — US AMC in-house disc-shaped aircraft concept (drawing LD-2), 1947 ( #uap #aviation #usaf)
 - [[references/sighting-bakersfield-1948-03]] — Two falling-object observations near Bakersfield, CA in March 1948 ( #uap #sighting #california)
@@ -60,6 +65,7 @@ title: Wiki Index
 - [[references/sighting-medford-or-1949-08]] — 70-min theodolite + binoculars sighting of shiny high-altitude objects with detected wings (8 Aug 1949) ( #uap #sighting #oregon)
 - [[references/sighting-mountain-home-id-1949-07]] — Seven delta-wing objects in V-formation, unbanked 180° turn at 600+ mph, no sound (24 Jul 1949) ( #uap #sighting #idaho)
 - [[references/sighting-orbs-launching-orbs-western-us]] — Three federal LE teams independently see orange orbs launching red orbs over two days ( #uap #sighting #orb)
+- [[references/sighting-papua-new-guinea-1985-01-24]] — 24 Jan 1985 multi-vantage Papua New Guinea overflights (Air Niugini radar contact + multi-region contrails) reported via PNG NIO ( #uap #sighting #papua-new-guinea)
 - [[references/sighting-portland-or-1949-07]] — NWA Capt Thrush attempted 180° intercept of pacing 2-red/1-white-light object near Portland (30 Jul 1949) ( #uap #sighting #oregon)
 - [[references/sighting-seattle-1949-08]] — Multi-vantage 75–100 ft circular object plus separate F-84-track jet object (22 Aug 1949) ( #uap #sighting #washington)
 - [[references/sighting-transparent-kite-western-us]] — Pre-dawn kite-shaped object visible through NVGs and bare eye but not all witnesses; partially transparent ( #uap #sighting #transparent)
