@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T11:00:00Z",
+  "updated": "2026-05-10T12:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -562,18 +562,43 @@
         "_meta/taxonomy.md",
         "index.md"
       ]
+    },
+    "sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json": {
+      "ingested_at": "2026-05-10T12:00:00Z",
+      "size_bytes": 2744,
+      "modified_at": 1778332063,
+      "content_hash": "sha256:3a1b060b9e6155c16e43a6d8257e549aa68e134dc8d99aa8befd69a6bfbf5f01",
+      "source_id": "nasa-msc-07631-apollo-17-technical-crew-debriefing-1973-page-24-4",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/nasa-apollo-17-technical-crew-debriefing-1973.md",
+        "entities/apollo-17.md",
+        "entities/gene-cernan.md",
+        "entities/ronald-evans.md",
+        "entities/harrison-schmitt.md"
+      ],
+      "pages_updated": [
+        "concepts/orbital-uap-sighting.md",
+        "entities/nasa.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T18:00:00Z",
-      "sources_ingested": 20
+      "last_ingested": "2026-05-10T12:00:00Z",
+      "sources_ingested": 21
     }
   },
   "stats": {
-    "total_sources_ingested": 22,
-    "total_pages": 144,
+    "total_sources_ingested": 23,
+    "total_pages": 149,
     "total_projects": 1,
     "last_full_rebuild": null
   }

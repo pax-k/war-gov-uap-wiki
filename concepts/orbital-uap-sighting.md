@@ -3,17 +3,17 @@ title: Orbital UAP Sighting
 category: concepts
 tags: [uap, witness, pattern, nasa]
 aliases: [orbital sighting, on-orbit UAP, astronaut UAP witness, manned-spaceflight UAP]
-sources: [sources/255_t_763_r1b_transcripts.json]
-summary: A working concept page for UAP-adjacent observations made by crewmen of manned spacecraft on orbit; structurally distinct from atmospheric / ground sightings due to vantage, debris-field complexity, and intake channel.
+sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json]
+summary: A working concept page for UAP-adjacent observations made by crewmen of manned spacecraft on orbit; structurally distinct from atmospheric / ground sightings. Two corpus entries — GT-7 1965 (positive) and Apollo 17 1973 (null).
 provenance:
   extracted: 0.25
   inferred: 0.72
   ambiguous: 0.03
-base_confidence: 0.45
+base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T19:30:00Z
-updated: 2026-05-09T19:30:00Z
+updated: 2026-05-10T12:00:00Z
 ---
 
 # Orbital UAP Sighting
@@ -72,11 +72,14 @@ Optional additional features (frequent but not definitional):
 
 ## Instance set
 
-| Date | Mission | Witness | Wiki anchor |
-|---|---|---|---|
-| 4 Dec 1965, ~04h24m MET | [[entities/gemini-7\|Gemini 7]] | [[entities/frank-borman\|Borman]] (primary), [[entities/jim-lovell\|Lovell]] (booster only) | [[references/sighting-gemini-7-bogey-1965-12-04]] |
+| Date | Mission | Witness | Polarity | Wiki anchor |
+|---|---|---|---|---|
+| 4 Dec 1965, ~04h24m MET | [[entities/gemini-7\|Gemini 7]] | [[entities/frank-borman\|Borman]] (primary), [[entities/jim-lovell\|Lovell]] (booster only) | **Positive (UAP-adjacent)** — single-bearing, single-witness, no-morphology *"bogey at ten o'clock high"* call; bogey-vs-booster ambiguous in source. | [[references/sighting-gemini-7-bogey-1965-12-04]] |
+| 7–19 Dec 1972 (debriefed 4 Jan 1973) | [[entities/apollo-17\|Apollo 17]] | [[entities/gene-cernan\|Cernan]] + [[entities/ronald-evans\|Evans]] + [[entities/harrison-schmitt\|Schmitt]] | **Null (boundary case)** — three observations on excerpt page 24-4, all conventionally explained: reentry plasma (Evans), recovery-carrier window-fog misidentification (Cernan), cosmic-ray retinal light flashes / ALFMED experiment (Schmitt). No UAP report. | [[references/nasa-apollo-17-technical-crew-debriefing-1973]] |
 
-A single-instance class; the page exists to be ready for the second instance, not to claim a robust pattern. Watch for:
+A two-instance class with **one positive** (1965) and **one null/boundary** (1973). The Apollo 17 entry is structurally important: it is the orbital-class analogue of the [[concepts/figurative-ufo-rhetoric|figurative-UFO rhetoric]] boundary cases in the diplomatic-channel sub-corpus — material captured by FOIA / archival keyword match without UAP narrative payload. ^[inferred] Both polarities are tracked here because **the same intake mechanisms** (NASA-originated, mission-control / debriefing instrument, civilian-agency release path) produce both kinds of artifact, and downstream synthesis must not silently inflate the orbital-UAP count by counting null entries. ^[inferred]
+
+A still-young class; watch for:
 
 - **MA-6 (Glenn) "fireflies"** (Feb 1962) — would be the **earliest** instance in this class and would predate GT-7. Awaiting source ingest.
 - **MA-7 (Carpenter) observations** (May 1962). Awaiting source ingest.

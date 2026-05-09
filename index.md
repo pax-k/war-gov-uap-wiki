@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-10T08:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-10T12:00:00Z*
 
 ## Concepts
 
@@ -44,6 +44,7 @@ title: Wiki Index
 - [[entities/amembassy-mexico]] — US Embassy in Mexico City; originating post of the 16 Sep 2023 MEXICO 2544 weekly political blotter cable whose ¶11 reported the Mexican Congress UAP hearing — sub-pattern C anchor of the diplomatic-channel umbrella ( #state-department #embassy #mexico #organization)
 - [[entities/amembassy-moscow]] — US Embassy in Moscow, Russia; originating post of the 30 Oct 2001 cable MOSCOW 13169 on Russian airspace-violation denials of Georgia (boundary case — figurative-UFO rhetoric) ( #state-department #embassy #russia #organization)
 - [[entities/amembassy-port-moresby]] — US Embassy in Port Moresby, PNG; originating post of the 28 Jan 1985 DOS cable on PNG UAP overflights ( #state-department #embassy #organization)
+- [[entities/apollo-17]] — NASA Apollo 17 (7–19 Dec 1972); last crewed lunar landing; mission frame for the wiki's first null-content orbital-NASA artifact ( #nasa #mission #spacecraft #uap)
 - [[entities/alexander-vershbow]] — US Ambassador to Russia 2001–2005; signing officer of the 30 Oct 2001 MOSCOW 13169 cable ( #state-department #person #diplomacy #russia)
 - [[entities/andre-lebeau]] — Former chairman of CNES; foreword author of the 1999 COMETA Report ( #uap #france #person #civil-agency)
 - [[entities/air-materiel-command]] — USAF command at Wright-Patterson AFB; designated central agency for 1948 Flying Disc reports ( #usaf #organization #history)
@@ -57,8 +58,10 @@ title: Wiki Index
 - [[entities/fbi]] — Federal Bureau of Investigation; intake authority across 66 years — 1957 (Detroit, WH-routed Krasuski letter, sit-down interview), 1958 (Detroit, Weaver phone-in, SF-64 routing), 1966 (Detroit, OUFORA redirect to USAF), 2023 (parallel FD-302 interviews) ( #fbi #organization #federal-le)
 - [[entities/franciszek-grabowski]] — Polish co-witness named in the 1944 Gut Alt Golssen account; uncontactable by 1957; the only co-witness Krasuski could recall ( #person #witness #ww2)
 - [[entities/frank-borman]] — USAF test pilot, NASA "Next Nine" astronaut, Cdr Gemini 7; called "a bogey at ten o'clock high" on the 4 Dec 1965 GT-7 air-to-ground voice loop ( #person #witness #uap #nasa #astronaut)
+- [[entities/gene-cernan]] — USN naval aviator, NASA Group 3 astronaut, Cdr Apollo 17; speaker of the only "unusual sighting" line on the Jan 1973 debriefing — resolves to a recovery-aircraft-carrier misidentification, not a UAP report ( #person #witness #uap #nasa #astronaut)
 - [[entities/gemini-7]] — NASA GT-7 long-duration / rendezvous mission (4–18 Dec 1965); mission frame for the wiki's first orbital UAP-adjacent record ( #nasa #mission #spacecraft #uap)
 - [[entities/george-krol]] — POLMINCOUNS at AMEMBASSY Moscow in 2001; classifying officer of MOSCOW 13169; later US Ambassador to Belarus / Uzbekistan / Kazakhstan ( #state-department #person #diplomacy #russia)
+- [[entities/harrison-schmitt]] — PhD geologist, NASA Group 4 scientist-astronaut, LMP Apollo 17; only scientist to walk on the Moon during Apollo; speaker of the Jan 1973 debriefing's ALFMED cosmic-ray-light-flash passage ( #person #witness #uap #nasa #astronaut)
 - [[entities/horten-brothers]] — German aircraft designers whose tailless wings were studied as a Flying Disc explanation ( #aviation #germany #ww2)
 - [[entities/jaime-maussan]] — Mexican journalist and longstanding UAP/UFO public figure; presented two alleged "alien corpses" to the Mexican Congress on 12 Sep 2023 ( #uap #person #mexico #witness #public-affairs)
 - [[entities/j-w-hunt]] — Open-question stub for a cover-routing-slip name on the 1963 NASC alien-policy memo; possibly OCR misread of "M. W. Hunter" ( #uap #person #ambiguous #ocr)
@@ -71,6 +74,7 @@ title: Wiki Index
 - [[entities/national-aeronautics-and-space-council]] — Executive Office of the President advisory body; originating office of the 1963 alien-policy memo ( #organization #eop #policy)
 - [[entities/oklahoma-ufo-research-association]] — Mid-1960s civilian UFO research organization (Oklahoma City); 1966 inquirer to FBI Detroit, redirected to USAF Wright-Patterson ( #organization #civilian-research #uap)
 - [[entities/png-national-intelligence-organization]] — Papua New Guinea's national intelligence service; initiator of the 28 Jan 1985 inquiry to AMEMBASSY Port Moresby ( #intelligence #papua-new-guinea #organization)
+- [[entities/ronald-evans]] — USN naval aviator, NASA Group 5 astronaut, CMP Apollo 17; speaker of the Jan 1973 debriefing's reentry-plasma "tunnel with a bright spot" passage and the window-fog clarifying remark ( #person #witness #uap #nasa #astronaut)
 - [[entities/richard-russell]] — US Senator (D-GA); Chairman, Senate Armed Services Committee at the 4 Oct 1955 Trans-Caucasus disc sighting; first-witness of the first disc ( #person #senator #witness #uap)
 - [[entities/robert-cutler]] — Special Assistant to President Eisenhower for National Security Affairs; routing principal in the 1957 FBI 100-26505 Krasuski case ( #person #white-house #eisenhower)
 - [[entities/robert-f-packard]] — State Department / OISA officer; addressee of the 1963 NASC memo ( #person #state-department #policy)
@@ -109,6 +113,7 @@ title: Wiki Index
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
 - [[references/iaf-ir-193-55-russell-1955]] — Declassified 9-page SECRET (NOFORN) USAIRA Prague Air Intelligence Information Report (IR 193-55, 14 Oct 1955; TS Cont. # 3-2500) on Senator Russell's Trans-Caucasus flying-disc sighting ( #uap #primary-source #declassified #1955)
 - [[references/loedding-flying-disc]] — US AMC in-house disc-shaped aircraft concept (drawing LD-2), 1947 ( #uap #aviation #usaf)
+- [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — 2-page Mistral-OCR'd excerpt (cover + transcript page 24-4) of MSC-07631 Apollo 17 Technical Crew Debriefing (4 Jan 1973); CONFIDENTIAL with auto-declass clause; corpus's first null-content orbital-NASA artifact (no UAP observation) ( #uap #primary-source #nasa #1973 #astronaut)
 - [[references/nasa-pao-t-00763-r1b-gemini-7-1965]] — 4-page NASA PAO release-commentary tape transcript (NARA RG 255) of the 4 Dec 1965 GT-7 air-to-ground voice loop containing Borman's "bogey at ten o'clock high" call ( #uap #primary-source #nasa #1965)
 - [[references/project-sign-incident-summaries-1-100]] — 209-page bundle of 100 Incident Summary Sheets (May 1947 – Jan 1948), NARA RG 38 Box 7; founding bundle of the SIGN sequential-incident stream; preserves Arnold (Inc 17), Muroc cluster (Inc 1–4), Rhodes Phoenix photo (Inc 40), Cascade Mts EM-effect (Inc 68), and Mantell sequence (Inc 33+) ( #uap #primary-source #declassified #1947 #1948)
 - [[references/project-sign-incident-summaries-101-172]] — 178-page bundle of 66 Project SIGN incident summary sheets (Jan – Oct 1948), NARA RG 38 Box 7; predecessor to the 173–233 bundle; preserves the Chiles–Whitted, Gorman, Hamel MN landing, and Norcatur cases ( #uap #primary-source #declassified #1948)
