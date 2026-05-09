@@ -3,8 +3,8 @@ title: "Balls of Fire — Red"
 category: concepts
 tags: [uap, history, ww2, intelligence]
 aliases: [Balls of Fire Red, Red Balls of Fire, DDI2 file 111/45]
-sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/38_143685_box7_incident_summaries_173-233.json]
-summary: UK Air Ministry (DDI2) filing term for the same set of WWII unexplained-night-light reports the USAAF called "foo fighters"; canonicalises the British-side intelligence framing. Morphology persists into 1948 CONUS sightings.
+sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json]
+summary: UK Air Ministry (DDI2) filing term for the same set of WWII unexplained-night-light reports the USAAF called "foo fighters"; canonicalises the British-side intelligence framing. Morphology persists across multiple 1948 CONUS sightings.
 provenance:
   extracted: 0.78
   inferred: 0.2
@@ -58,11 +58,24 @@ This is a **near-perfect morphological match** to the 1944–45 DDI2 "Balls of F
 
 The associated [[references/project-sign-incident-summaries-173-233|Inc 184 Winona MN sighting]] (20 Oct 1948 0600 — "bunch of sparks with a tail" that broke up into bright particles, 25 ft × 8 ft, slow) is **the same morning, ~100 miles southeast** of the Hansen/Oliver sighting and likely the **same object class** in a later/more-fragmented phase. ^[inferred]
 
+## Sustained 1948 CONUS persistence — Inc 144 + 147 + 153 + 166 (NEW)
+
+The [[references/project-sign-incident-summaries-101-172|101–172 bundle]] preserves four additional 1948 CONUS sightings whose morphology overlaps the "Balls of Fire — Red" / red-flame-trail signature:
+
+- **Inc 144 (24 Jul 1948 0245 Montgomery AL)** — the [[references/sighting-chiles-whitted-1948-07|Chiles–Whitted EAL DC-3 case]]: 100-ft cigar with **red-orange flame** + **blue fluorescent glow running beneath the object**. The combined red-and-blue color profile is unique to this case but the red-orange flame trail is structurally consistent with the DDI2 "Balls of Fire — Red" signature. ^[extracted]
+- **Inc 147 (27 Jul 1948 2200 Springfield OH)** — "huge ball" round object with **bright red tail of fire**, jet-speed N, 3 sec; civilian housewife witness. ^[extracted]
+- **Inc 153 (5 Aug 1948 0100 Parrott→Richland GA)** — **blue-white "rocket-like" streak** at ~3600 mph estimated, **trail of sparks several miles long lasting 45–60 sec**; former AF pilot witness. ^[extracted]
+- **Inc 166 (30 Aug 1948 2000 Los Angeles CA)** — **V-2-rocket-fuselage shape larger than B-29**, silver, **blue exhaust trail**, 700+ mph, viewed through 8" lens of a German 88-mm artillery field glass. ^[extracted]
+
+Together with Inc 184 + 185 from the 173–233 bundle, these events show the wartime night-phenomena signature **persisted across the entire summer–fall 1948 CONUS theater** — not just the late October Minnesota cluster. The 101–172 bundle pushes the persistence window back to **late July 1948** and broadens it geographically (Alabama, Ohio, Georgia, California, Minnesota). ^[inferred]
+
 ## See also
 
 - [[concepts/foo-fighter-phenomenon]] — the US-side term
 - [[concepts/flak-bombe-hypothesis]] — A.D.I.(K)'s parallel candidate explanation
 - [[references/foo-fighters-shaef-1944-1945]] — primary source
-- [[references/project-sign-incident-summaries-173-233]] — 1948 CONUS persistence (Inc 184 + 185)
+- [[references/project-sign-incident-summaries-101-172]] — Jul–Aug 1948 CONUS persistence (Inc 144, 147, 153, 166)
+- [[references/project-sign-incident-summaries-173-233]] — Oct 1948 CONUS persistence (Inc 184 + 185)
+- [[references/sighting-chiles-whitted-1948-07]] — Inc 144 — red-orange flame trail + blue underbelly glow
 - [[entities/uk-air-ministry-ddi2]]
 - [[entities/shaef-air-staff]]

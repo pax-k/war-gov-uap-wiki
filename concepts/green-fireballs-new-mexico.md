@@ -3,24 +3,24 @@ title: Green Fireballs of New Mexico (Dec 1948)
 category: concepts
 tags: [uap, history, 1948, morphology, pattern]
 aliases: [Green Fireballs Dec 1948 NM, La Paz fireballs 1948, NM green flare wave 1948]
-sources: [sources/38_143685_box7_incident_summaries_173-233.json]
-summary: A wave of bright green fireball / flare events observed across central and northern New Mexico in early December 1948 — analyzed in real time by Dr Lincoln La Paz of UNM Institute of Meteoritics, who concluded they were not typical meteors.
+sources: [sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json]
+summary: A wave of bright green fireball / flare events observed across central and northern New Mexico in early December 1948 — analyzed in real time by Dr Lincoln La Paz of UNM Institute of Meteoritics, who concluded they were not typical meteors. Precedent green/blue-flame Scandinavian events appear earlier in 1948.
 provenance:
   extracted: 0.65
   inferred: 0.32
   ambiguous: 0.03
 base_confidence: 0.65
 lifecycle: draft
-lifecycle_changed: 2026-05-10
+lifecycle_changed: 2026-05-09
 created: 2026-05-10T02:00:00Z
-updated: 2026-05-10T02:00:00Z
+updated: 2026-05-09T18:00:00Z
 ---
 
 # Green Fireballs of New Mexico (Dec 1948)
 
 A working concept page for the **Dec 1948 New Mexico green fireball wave** as it appears in [[references/project-sign-incident-summaries-173-233|the Project SIGN 173–233 incident summaries bundle]]. The wave is a tightly-clustered set of high-luminosity green-colored fast-moving aerial events observed across the Albuquerque / Las Vegas (NM) / Sandia / Vaughn corridor between 5 and 13 December 1948, and analyzed in real time by **[[entities/lincoln-la-paz|Dr Lincoln La Paz]]** (Director, Institute of Meteoritics, University of New Mexico) — whose analytical memo on these events is preserved as part of Project SIGN Incident 227.
 
-This is the corpus's **first multi-event single-region UAP cluster** in the 1948–49 window.
+This is the corpus's **first multi-event single-region UAP cluster** in the 1948–49 window — although it has **demonstrable precursors** in the [[references/project-sign-incident-summaries-101-172|101–172 bundle]] (see "1948 precursors" below).
 
 ## Operational definition (working)
 
@@ -78,6 +78,19 @@ This rules out the most obvious conventional candidate (Holloman / White Sands e
 
 The 31 Dec 1948 Inc 211 telecon (a separate Bellfontaine OH event resolved as a Very-pistol flare from the ground) is sometimes confused with the NM cluster but is geographically and morphologically distinct. ^[inferred]
 
+## 1948 precursors (NEW)
+
+The [[references/project-sign-incident-summaries-101-172|101–172 bundle]] preserves three earlier 1948 events whose morphology overlaps the green-fireball signature but which were filed *before* the December 1948 wave clustered the phenomenon:
+
+- **Inc 149 (19 Jan 1948 0730 North Jutland Denmark)** — three "ball-saucer" rocket-like objects, **trail of green light**, "suddenly stopped, exploded and disappeared", E→W. Multi-vantage Scandinavian; ghost-rocket-era routing. ^[extracted]
+- **Inc 150 (~1 Mar 1948 0930 Swedish Coast)** — single projectile at 20,000 ft, **bluish-green flame**, no trail, 4-sec visibility, Norwegian pilot witness, with explicit institutional flag tying similar Norwegian observations to **heavy-water production at Rjuken**. ^[extracted]
+- **Inc 121 (9 Jan 1948 2330 Cartersville GA)** — **intense blue flame** circular pot-shaped object, 3000 ft, 400 mph, 175°M, EAL pilot. ^[extracted] Color profile is "light sky-blue" with intense blue flame on path crossing — close to but not identical to the Dec 1948 NM "fluorescent green" signature.
+- **Inc 146 (17 Jul 1948 1650 San Acacia Dam NM, 65 mi S Albuquerque)** — **7 metallic circular objects in formation** at ~1500 mph if at 20k ft, NW; same Kirtland-AFB witness pool ([[entities/air-materiel-command|428th AFBU]]) that surfaces in [[references/project-sign-incident-summaries-173-233|the Dec 1948 wave]]. **NM-formation precursor** to the December cluster — same airspace, same NCO pool, 5 months earlier. ^[extracted]
+
+The Scandinavian cases (149 + 150) extend the green/blue-flame morphology back to **early 1948**, with explicit institutional language tying them to ghost-rocket / heavy-water-facility surveillance concerns. The NM precursor (146) is the single strongest candidate for a "phase-zero" event of the December 1948 wave — same airspace, same institutional witness pool, 5 months earlier. ^[inferred]
+
+The 11 April 1948 La Paz letter (Inc 101n) preserved in the same 101–172 bundle shows La Paz had already been hedging the "or-not-meteorites" pattern across a 4-event sequence (29 Nov 1945, Four Corners, Norcatur, Ussuri) **8 months before** the December 1948 NM wave. La Paz's December 1948 SIGN-orbit analysis was therefore not his first SIGN-orbit engagement but the first cluster he could investigate **with first-person field access** (UNM is in Albuquerque). ^[inferred] See [[references/sighting-norcatur-ks-1948-02|the Norcatur dedicated page]] and [[entities/lincoln-la-paz|the La Paz entity page]].
+
 ## Relation to broader UAP history
 
 The December 1948 New Mexico green-fireball wave is the **proximate cause** for several subsequent USAF intelligence developments not documented in this bundle but well-attested in the broader literature: ^[inferred]
@@ -105,7 +118,9 @@ The 1948 sheet evaluators did not endorse any candidate identification. Standard
 
 ## See also
 
-- [[references/project-sign-incident-summaries-173-233]] — parent bundle
+- [[references/project-sign-incident-summaries-173-233]] — parent bundle (Dec 1948 wave)
+- [[references/project-sign-incident-summaries-101-172]] — bundle preserving 1948 precursor events
+- [[references/sighting-norcatur-ks-1948-02]] — Inc 101 / Inc 101n (La Paz Apr 1948 letter)
 - [[entities/lincoln-la-paz]] — UNM Institute of Meteoritics director, primary analyst
 - [[concepts/project-sign]] — the program these events fed
 - [[concepts/balls-of-fire-red]] — the British-side WWII analogue (red rather than green)

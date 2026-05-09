@@ -60,9 +60,21 @@ This is the **earliest primary-source bundle** in the UAP project for the 1948 S
 
 The 1948 routing apparatus this document establishes was carried into 1949 via [[concepts/fsr-200-4-reporting-regulation|Flight Service Regulation 200-4 (2 Nov 1948)]] — see [[references/usaf-flying-discs-1949]] for the **143-page sequel file** (NARA box 186 file 319.1) covering Oct 1948 – Jan 1950 with **20+ field sighting reports** filed in the EEI / 10-element template; the attention line evolved from `MCI` / `TSDIN` to `MCIAXO-3`; the new 1949 routing actor is the [[entities/military-air-transport-service|Military Air Transport Service]] alongside AMC.
 
-## Gap-filler: Sep 1948 – Jan 1949 incident-numbered stream (NEW)
+## Sequential-incident stream: Jan 1948 – Jan 1949 (UPDATED)
 
-Between this Feb–Jun 1948 startup file and the Oct 1948 – Jan 1950 continuation file, Project SIGN ran a **single sequential incident-numbered stream**. The 173–233 segment of that stream is preserved in [[references/project-sign-incident-summaries-173-233]] — a 144-page bundle of **58 incident summary sheets** routed AMC → D/I HQ USAF on 22 Mar 1949 under R/S S-02378. This bundle **closes the previously-empty Sep–Dec 1948 window** in the corpus and includes:
+The wiki now holds **continuous Project SIGN incident-numbered coverage** from **Inc 101 (18 Feb 1948)** through **Inc 233 (1 Jan 1949)** — 124 numbered cases over 13 months — preserved across **two NARA RG 38 Box 7 bundles** that mechanically extend this AFOIR-CO file:
+
+- **Incidents 101–172** (Jan – Oct 1948) — see [[references/project-sign-incident-summaries-101-172]]. **Overlaps this AFOIR file at Inc 106–109 (Bakersfield, original sighting in [[references/sighting-bakersfield-1948-03]]) and Inc 128 (Hobson OH, in [[references/sighting-hobson-ohio-1948-05]]).** Establishes that the 25-field "Check-List Unidentified Flying Objects" form was already operational at SIGN startup — Inc 101 (18 Feb 1948) uses the identical form less than a month after the [[entities/c-p-cabell|Cabell]] AFOIR-CO-5 directive.
+- **Incidents 173–233** (Sep 1948 – Jan 1949) — see [[references/project-sign-incident-summaries-173-233]]. The previously-empty Sep–Dec 1948 window in the corpus.
+
+The 173–233 bundle is described in detail below. The 101–172 bundle adds:
+
+- **Three 1948 engagement-class precedents to Inc 207 (Andrews)** — Chiles–Whitted Inc 144 (Jul 1948), Gorman Inc 172 (Oct 1948), and Andrews Inc 207 (Nov 1948). See [[concepts/uap-aircraft-engagement]].
+- **An 11 April 1948 Lincoln La Paz letter** (Inc 101n) — the corpus's earliest preserved La Paz SIGN-orbit engagement, 8 months before Inc 227. See [[entities/lincoln-la-paz]] and [[references/sighting-norcatur-ks-1948-02]].
+- **A 1948 child-witness physical-trace landing event** (Inc 162 Hamel MN, 11 Aug 1948) with agent-corroborated 2-ft ground depression. See [[references/sighting-hamel-mn-1948-08]].
+- **The earliest Pacific-theater Project SIGN incident** (Inc 167, 6 May 1948 between Kwajalein and Hickam Field) — predates the [[references/sighting-honolulu-1948-10|Inc 178 Honolulu]] sighting by 5 months.
+
+Highlights from the 173–233 bundle (also documented inline below):
 
 - The **December 1948 New Mexico green fireball wave** with [[entities/lincoln-la-paz|Dr Lincoln La Paz]]'s analytical memo as Inc 227 (see [[concepts/green-fireballs-new-mexico]]).
 - The **first 1948 engagement-class event** — Inc 207 Andrews AFB pursuit, [[references/sighting-andrews-1948-11]].
@@ -82,11 +94,16 @@ The implication for [[concepts/project-sign]]: **the 1948 routing apparatus was 
 
 ## See also
 
-- [[references/project-sign-incident-summaries-173-233]] — the Sep 1948 – Jan 1949 incident-numbered stream (gap-filler between this file and the 1949 continuation file)
+- [[references/project-sign-incident-summaries-101-172]] — the Jan – Oct 1948 incident-numbered stream (overlaps this file at Bakersfield + Hobson)
+- [[references/project-sign-incident-summaries-173-233]] — the Sep 1948 – Jan 1949 incident-numbered stream
 - [[references/usaf-flying-discs-1949]] — the 1949 continuation file (CONF/SECRET)
 - [[references/usafe-tt1524-1948-11]] — the parallel USAFE TS sub-track dispatch (Nov 1948)
+- [[references/sighting-chiles-whitted-1948-07]] — Inc 144 (1948 engagement-class precedent)
+- [[references/sighting-gorman-fargo-1948-10]] — Inc 172 (longest 1948 engagement-class case)
+- [[references/sighting-hamel-mn-1948-08]] — Inc 162 (1948 physical-trace landing)
+- [[references/sighting-norcatur-ks-1948-02]] — Inc 101 / Inc 101n (La Paz April 1948 letter)
 - [[concepts/fsr-200-4-reporting-regulation]] — the routing instrument that codified Cabell's directive
-- [[concepts/green-fireballs-new-mexico]] — the Dec 1948 NM cluster surfaced in the gap-filler
+- [[concepts/green-fireballs-new-mexico]] — the Dec 1948 NM cluster
 - [[projects/uap/uap]] — UAP project overview
 - [[synthesis/horten-thesis-vs-disc-sightings]] — analysis of the leading 1948 conventional explanation, updated for 1949 morphology diversification
 - [[concepts/project-sign]]

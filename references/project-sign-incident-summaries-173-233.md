@@ -70,7 +70,7 @@ The 58 incidents in the bundle, by date and location. Only a small subset get de
 | 175, 175a | 23 Sep 1948, 0930–0945 | Santa Fe, NM | ~100–150 ft white flat circular object, **15–20 min stationary** at ~30k ft | A. Ruble Angier (pilot) + Mr Fairchild | Two-witness sustained hover above Los Alamos approach |
 | 176 | 23 Sep 1948, ~1200 | Castro's Ranch, near San Pablo, CA | Translucent gray "amoeba-like" undulating object, 3 forward + 2 aft "appendages flapping or oscillating", spherical dark center; very fast, no sound | Col Horace Eakins (Ret, US Army) + Mr Bentham | **Unique morphology in the corpus** — see [[references/sighting-castro-ranch-1948-09]] |
 | 177 | 5 Sep 1948, 1500–1530 | Kentwood, LA | Object not seen — only an unusual sound at "terrific" speed, west | Mrs Elma McDaniel + daughter | Witnesses described as having "vivid imagination" by neighbors |
-| 178 | 18 Oct 1948, 1705–1715 HST | Honolulu, T.H., 158°W 21°5'N | Bright silver round/elliptical disc, 10–15 ft, ~10–15k ft, 200 MPH, 4 separate sightings over 10 min | **Maj Robert C. Drum** (USAF rated pilot) | First Pacific-theater multi-glimpse disc — see [[references/sighting-honolulu-1948-10]] |
+| 178 | 18 Oct 1948, 1705–1715 HST | Honolulu, T.H., 158°W 21°5'N | Bright silver round/elliptical disc, 10–15 ft, ~10–15k ft, 200 MPH, 4 separate sightings over 10 min | **Maj Robert C. Drum** (USAF rated pilot) | First **multi-glimpse** Pacific-theater disc — see [[references/sighting-honolulu-1948-10]]. **Note (2026-05-09):** the [[references/project-sign-incident-summaries-101-172\|101–172 bundle]] preserves an earlier (single-glimpse) Pacific-theater event — Inc 167 (6 May 1948 Kwajalein–Hickam) — by Capt Floyd Barnes / [[entities/military-air-transport-service\|MATS]] Pacific Division. Inc 178 remains the earliest **multi-glimpse** Pacific-theater datum, but is no longer the earliest Pacific-theater datum overall. |
 | 179 | ~Oct 1947 | San Francisco, CA (Golden Gate Park) | "Mysterious light" — observer felt "something like an electric arc" lower his hand "like a sack of shot"; bruising the next day | John E. Pruitt (aviation student) | OCR'd as `#1179`; **earliest physiological-effect claim in the corpus**. ^[ambiguous] |
 | 180 | (date N/S) | South Bend, IN | No report; cover sheet only | Mr White Smith (Studebaker Body Worker Mgr) | "No report on this as yet" |
 | 181 | 4 Oct 1948, 1430 | Near Dayton, OH | 3–4 silvery-white teardrop objects, 1.5 ft × 9", from C-47 cockpit | Maj C.M. Smartt (Hamilton AFB) | Pilot ducked to avoid collision; first report claimed 15–20 objects |
@@ -180,7 +180,8 @@ This file is the **single most consequential 1948 ingest** after [[references/us
 
 ## See also
 
-- [[references/usaf-flying-discs-1948]] — Feb–Jun 1948 SIGN startup file (immediate predecessor)
+- [[references/project-sign-incident-summaries-101-172]] — Jan – Oct 1948 incident-numbered stream (immediate predecessor in the SIGN sequential-incident chain)
+- [[references/usaf-flying-discs-1948]] — Feb–Jun 1948 SIGN startup file (AFOIR-CO field channel)
 - [[references/usaf-flying-discs-1949]] — Oct 1948 – Jan 1950 continuation file (immediate successor; overlaps at Inc 215 / 233 / 203)
 - [[references/usafe-tt1524-1948-11]] — parallel TS sub-track dispatch (Nov 1948), cross-references the late-Oct Neubiberg ~30-min hover
 - [[concepts/project-sign]] — the program these reports feed

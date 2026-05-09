@@ -3,22 +3,34 @@ title: Lincoln La Paz
 category: entities
 tags: [uap, person, 1948]
 aliases: [Dr Lincoln La Paz, La Paz UNM, Director Institute of Meteoritics]
-sources: [sources/38_143685_box7_incident_summaries_173-233.json]
-summary: American astronomer; Director of the Institute of Meteoritics at the University of New Mexico; provided the earliest professional astronomical analysis in the wiki's corpus of an unidentified-aerial-phenomena event cluster (Project SIGN Incident 227, December 1948).
+sources: [sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json]
+summary: American astronomer; Director of the Institute of Meteoritics at the University of New Mexico; first preserved SIGN-orbit engagement is an 11 April 1948 letter on the Norcatur Kansas case (Inc 101n); analyzed and witnessed the Dec 1948 NM green fireball wave (Inc 227).
 provenance:
-  extracted: 0.55
-  inferred: 0.42
+  extracted: 0.6
+  inferred: 0.37
   ambiguous: 0.03
-base_confidence: 0.55
+base_confidence: 0.65
 lifecycle: draft
-lifecycle_changed: 2026-05-10
+lifecycle_changed: 2026-05-09
 created: 2026-05-10T02:00:00Z
-updated: 2026-05-10T02:00:00Z
+updated: 2026-05-09T18:00:00Z
 ---
 
 # Lincoln La Paz
 
-American astronomer and Director of the **Institute of Meteoritics, University of New Mexico**, who in December 1948 became the first professional astronomer in the wiki's corpus to **investigate, witness, and analytically assess** a Project SIGN incident cluster — the [[concepts/green-fireballs-new-mexico|New Mexico green fireball wave]] of 5–13 December 1948. ^[extracted]
+American astronomer and Director of the **Institute of Meteoritics, University of New Mexico**. Engaged with Project SIGN-orbit material as early as **11 April 1948** (the Inc 101n letter on the Norcatur Kansas case), and in December 1948 became the first professional astronomer in the wiki's corpus to **investigate, witness, and analytically assess** a Project SIGN incident cluster — the [[concepts/green-fireballs-new-mexico|New Mexico green fireball wave]] of 5–13 December 1948. ^[extracted]
+
+## Earliest preserved SIGN-orbit engagement: April 1948 (Inc 101n)
+
+**Project SIGN Inc 101n** in [[references/project-sign-incident-summaries-101-172|the 101–172 bundle]] preserves an excerpt of La Paz's **11 April 1948 letter** to the **Deputy Executive Director, Committee on Geophysical Sciences, Research and Development Board**, responding to material on the [[references/sighting-norcatur-ks-1948-02|Norcatur Kansas 18 Feb 1948 fireball]] and to civilian "moon space-ship" theorist N.G. Markham of Pueblo CO. ^[extracted]
+
+The letter establishes three things about La Paz's posture **8 months before** Inc 227:
+
+1. La Paz already framed disc / "flying lenses" reports as **"99% hoax and imagination and 1% real"** — the corpus's earliest preserved La Paz hedge. ^[extracted]
+2. La Paz preserved the **meteoric explanation for Norcatur** but flagged that the recovered-material evidence was *not yet* in hand (the 109-lb achondrite was recovered 13 days later, 24 April 1948). ^[extracted]
+3. La Paz had been hedging the "or-not-meteorites" pattern across **a 4-event sequence** (29 Nov 1945 great fall, Four Corners, Norcatur, Ussuri) by April 1948 — **earlier than the December 1948 NM wave**. The Dec 1948 cluster was therefore not the cause of his SIGN-orbit engagement; it was the first cluster he could investigate **with first-person field access** because UNM is in Albuquerque. ^[inferred]
+
+This rewrites the prior wiki framing that anchored La Paz's first SIGN-orbit contact at Inc 227.
 
 ## Role in Project SIGN Incident 227
 
@@ -65,8 +77,12 @@ Three features distinguish La Paz's role in the wiki:
 ## See also
 
 - [[concepts/green-fireballs-new-mexico]] — the December 1948 NM cluster La Paz analyzed
-- [[references/project-sign-incident-summaries-173-233]] — parent bundle (Inc 227)
+- [[references/project-sign-incident-summaries-101-172]] — bundle preserving Inc 101n (11 Apr 1948 letter)
+- [[references/project-sign-incident-summaries-173-233]] — bundle preserving Inc 227 (Dec 1948 memo)
+- [[references/sighting-norcatur-ks-1948-02]] — Inc 101 / 101n Norcatur Kansas dedicated page
 - [[concepts/project-sign]] — the program incorporating La Paz's analysis
+- [[concepts/scientific-vs-saucer-advocate-frame]] — La Paz's "99% hoax / 1% real" is a clean 1948 example of the prepared-skepticism middle posture
+- [[concepts/eti-attribution-statements]] — La Paz's response to Markham's "space-ship from the moon" theory is a 1948 institutional dismissal of civilian ETI attribution
 - [[entities/air-materiel-command]] — the routing hub for Inc 227
 - [[entities/aaro]] — the modern institutional analogue of bringing trained civilian-expert witnesses into government UAP review
 - [[projects/uap/uap]]

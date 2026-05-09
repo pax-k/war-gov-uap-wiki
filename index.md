@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-10T02:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-09T18:00:00Z*
 
 ## Concepts
 
@@ -110,10 +110,12 @@ title: Wiki Index
 - [[references/iaf-ir-193-55-russell-1955]] — Declassified 9-page SECRET (NOFORN) USAIRA Prague Air Intelligence Information Report (IR 193-55, 14 Oct 1955; TS Cont. # 3-2500) on Senator Russell's Trans-Caucasus flying-disc sighting ( #uap #primary-source #declassified #1955)
 - [[references/loedding-flying-disc]] — US AMC in-house disc-shaped aircraft concept (drawing LD-2), 1947 ( #uap #aviation #usaf)
 - [[references/nasa-pao-t-00763-r1b-gemini-7-1965]] — 4-page NASA PAO release-commentary tape transcript (NARA RG 255) of the 4 Dec 1965 GT-7 air-to-ground voice loop containing Borman's "bogey at ten o'clock high" call ( #uap #primary-source #nasa #1965)
-- [[references/project-sign-incident-summaries-173-233]] — 144-page bundle of 58 Project SIGN incident summary sheets (Sep 1948 – Jan 1949), routed AMC → D/I HQ USAF on 22 Mar 1949; the gap-filler between the Feb–Jun 1948 startup file and the Oct 1948 – Jan 1950 continuation file ( #uap #primary-source #declassified #1948)
+- [[references/project-sign-incident-summaries-101-172]] — 178-page bundle of 66 Project SIGN incident summary sheets (Jan – Oct 1948), NARA RG 38 Box 7; predecessor to the 173–233 bundle; preserves the Chiles–Whitted, Gorman, Hamel MN landing, and Norcatur cases ( #uap #primary-source #declassified #1948)
+- [[references/project-sign-incident-summaries-173-233]] — 144-page bundle of 58 Project SIGN incident summary sheets (Sep 1948 – Jan 1949), routed AMC → D/I HQ USAF on 22 Mar 1949; bridge between the Feb–Jun 1948 startup file and the Oct 1948 – Jan 1950 continuation file ( #uap #primary-source #declassified #1948)
 - [[references/sighting-andrews-1948-11]] — 18 Nov 1948 multi-aircraft pursuit of an oval glowing object circling Andrews AFB for 15-18 min — the corpus's first 1948 documented UAP-aircraft engagement-class event (Project SIGN Inc 207) ( #uap #sighting #usaf #1948 #behavior)
 - [[references/sighting-bakersfield-1948-03]] — Two falling-object observations near Bakersfield, CA in March 1948 ( #uap #sighting #california)
 - [[references/sighting-castro-ranch-1948-09]] — 23 Sep 1948 daylight observation by Col Horace Eakins (US Army, Ret) of a translucent gray "amoeba-like" object with three forward and two aft flapping appendages near San Pablo CA — unique morphology in the corpus (Project SIGN Inc 176) ( #uap #sighting #california #1948 #morphology)
+- [[references/sighting-chiles-whitted-1948-07]] — 24 Jul 1948 02:45 close-approach of a 100-ft cigar with red-orange flame trail and blue underbelly glow toward an EAL DC-3 over Montgomery AL — Project SIGN Inc 144, earliest 1948 engagement-class precedent ( #uap #sighting #aviation #1948 #morphology)
 - [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] — 1 March 1945 USAAF reconnaissance pilot sighting of a 12-ft aluminium cylinder hovering vertically at 9,000 ft ( #uap #sighting #ww2)
 - [[references/sighting-dark-kite-western-us]] — Federal LE agents pursue what looks like a car; it lifts off the road, hovers, and reads as a thin dark kite/triangle ( #uap #sighting #federal-le)
 - [[references/sighting-detroit-1958-04-17]] — 0408-LT 17 Apr 1958 single-witness Detroit sighting (David Weaver) of a circular crystal-domed object NE-bound from SW; phoned in to FBI after Selfridge unreachable ( #uap #sighting #michigan)
@@ -121,7 +123,9 @@ title: Wiki Index
 - [[references/sighting-fbi-fd302-drone-pilot-2023-09]] — Sept 2023 daylight UAP sighting at ~07:15–07:30 by a contractor convoy in restricted airspace; documented by two parallel FBI FD-302s (driver + drone-pilot passenger) plus a co-temporal gate anomaly ( #uap #sighting #fbi)
 - [[references/sighting-fiery-orb-western-us]] — Two federal LE agents observe a 12–18 m glowing orange orb hovering near a rock pinnacle for ~1 min ( #uap #sighting #orb)
 - [[references/sighting-gemini-7-bogey-1965-12-04]] — 4 Dec 1965 ~04h24m MET — Cdr Borman calls "a bogey at ten o'clock high" on Gemini 7's air-to-ground voice loop alongside the booster (corroborated by Lovell) and a 90° cross-track particle stream ( #uap #sighting #1965 #nasa)
+- [[references/sighting-gorman-fargo-1948-10]] — 1 Oct 1948 27-minute mutual maneuvering between an Air NG F-51 piloted by George F. Gorman and a 6–8" clear-white round object over Fargo ND — Project SIGN Inc 172, longest-duration 1948 engagement-class case ( #uap #sighting #usaf #1948 #behavior)
 - [[references/sighting-gut-alt-golssen-1944]] — 1944 wartime forced-labor witness account by Polish POW Krasuski of an ascending circular vehicle (~75–100 yd) from a tarpaulin enclosure ~30 mi east of Berlin; recorded by FBI 13 years later ( #uap #sighting #ww2 #germany)
+- [[references/sighting-hamel-mn-1948-08]] — 11 Aug 1948 daylight close-encounter landing at Hamel MN — a 2-ft dull-gray metallic round object descended between two children, settled to ground with whistling acoustics, departed leaving a 2-ft agent-corroborated ground depression with leveled rocks (Project SIGN Inc 162) ( #uap #sighting #1948 #low-altitude #morphology)
 - [[references/sighting-helicopter-orb-encounter-2025]] — 2025 multi-hour helicopter orb encounter at a redacted facility, with FLIR + NVG + naked-eye corroboration ( #uap #sighting #intel-witness)
 - [[references/sighting-hobson-ohio-1948-05]] — Night-time multi-witness phosphorescent disc sighting by NY Central rail workers ( #uap #sighting #ohio)
 - [[references/sighting-holland-coast-1948-09-05]] — Three crews of USAF 307th BG track an unidentified high-performance jet off the Dutch coast at 30,000 ft during Op Daggar (5 Sep 1948, USAFE B-2 evaluation) ( #uap #sighting #1948 #netherlands)
@@ -134,6 +138,7 @@ title: Wiki Index
 - [[references/sighting-medford-or-1949-08]] — 70-min theodolite + binoculars sighting of shiny high-altitude objects with detected wings (8 Aug 1949) ( #uap #sighting #oregon)
 - [[references/sighting-mountain-home-id-1949-07]] — Seven delta-wing objects in V-formation, unbanked 180° turn at 600+ mph, no sound (24 Jul 1949) ( #uap #sighting #idaho)
 - [[references/sighting-neubiberg-1948-10]] — One-line referenced flying-saucer hover (~30 min) over Neubiberg AB, late October 1948 — surfaces in USAFE TT 1524 Item 14 ( #uap #sighting #1948 #germany)
+- [[references/sighting-norcatur-ks-1948-02]] — 18 Feb 1948 Norcatur KS — confirmed achondrite meteorite fall paired with Leland Sammons' "funnel-shape near hog-pen" close-encounter; preserves the 11 Apr 1948 Lincoln La Paz letter (Project SIGN Inc 101 / Inc 101n) ( #uap #sighting #1948 #kansas #ambiguous)
 - [[references/sighting-orbs-launching-orbs-western-us]] — Three federal LE teams independently see orange orbs launching red orbs over two days ( #uap #sighting #orb)
 - [[references/sighting-papua-new-guinea-1985-01-24]] — 24 Jan 1985 multi-vantage Papua New Guinea overflights (Air Niugini radar contact + multi-region contrails) reported via PNG NIO ( #uap #sighting #papua-new-guinea)
 - [[references/sighting-portland-or-1949-07]] — NWA Capt Thrush attempted 180° intercept of pacing 2-red/1-white-light object near Portland (30 Jul 1949) ( #uap #sighting #oregon)

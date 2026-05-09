@@ -2,17 +2,17 @@
 title: UAP–Aircraft Engagement
 category: concepts
 tags: [uap, behavior, military, pattern]
-sources: [sources/usper-statement-redacted.json, sources/38_143685_box7_incident_summaries_173-233.json]
-summary: A UAP behavioral signature in which orb-class objects approach, follow, or break off from one aircraft to pursue another — distinct from passive hover or lateral departure. Now documented in the corpus as early as 1948.
+sources: [sources/usper-statement-redacted.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json]
+summary: A UAP behavioral signature in which orb-class objects approach, follow, or break off from one aircraft to pursue another — distinct from passive hover or lateral departure. Now documented in the corpus as early as July 1948 (Chiles–Whitted Inc 144).
 provenance:
   extracted: 0.55
   inferred: 0.40
   ambiguous: 0.05
-base_confidence: 0.40
+base_confidence: 0.45
 lifecycle: draft
-lifecycle_changed: 2026-05-10
+lifecycle_changed: 2026-05-09
 created: 2026-05-09T13:41:53Z
-updated: 2026-05-10T02:00:00Z
+updated: 2026-05-09T18:00:00Z
 ---
 
 # UAP–Aircraft Engagement
@@ -48,8 +48,12 @@ In the 2025 redacted statement [[references/usper-statement-2025]] / [[reference
 ## Comparison to the broader corpus
 
 - The 1948 [[references/usaf-flying-discs-1948|USAF "Flying Disc" file]] (Feb–Jun 1948) does not document UAP-aircraft engagement of this kind; its sightings are largely passive, stationary, or unidirectional. ^[inferred]
-- **Correction (2026-05-10):** The Sep 1948 – Jan 1949 Project SIGN [[references/project-sign-incident-summaries-173-233|incident summaries 173–233 bundle]] **does** document an engagement-class event. **Project SIGN Incident 207 (18 Nov 1948, Andrews AFB)** records a 15–18 minute pursuit of an oval glowing object by an AFR pilot (2d Lt Kenwood Jackson + 2d Lt Glen Stalker) in a chase aircraft, corroborated from a separate aircraft by 2d Lt Henry Combs. The object's behavior matches **all four** operational criteria above — close approach, sustained co-location, target-following with vertical-axis evasion (climb vertically, drop behind from above to continue circling the field), and **sensor-stimulus response** (the object brightened when illuminated by the chase aircraft's landing light). ^[extracted] See [[references/sighting-andrews-1948-11]].
-- The 1948 Andrews event recasts the historical envelope: **engagement-class behavior is not a modern phenomenon** introduced by the drone era; it is a 1948-or-earlier datum. ^[inferred]
+- **Correction (2026-05-09):** The 1948 Project SIGN incident summary stream documents **three** distinct engagement-class events, in chronological order:
+    1. **Inc 144 — Chiles–Whitted EAL DC-3 (24 Jul 1948 Montgomery AL)** — see [[references/sighting-chiles-whitted-1948-07]]. **Earliest 1948 engagement-class precedent in the corpus.** A 100-ft cigar-shaped object with red-orange flame trail and blue underbelly glow closed on the DC-3, **pulled up sharply with a tremendous burst of flame**, and disappeared into a cloud. Independent corroboration from pilot Louis Feldwary 15 min earlier and 400–475 mi distant (Inc 144a). ^[extracted]
+    2. **Inc 172 — Gorman F-51 dogfight (1 Oct 1948 Fargo ND)** — see [[references/sighting-gorman-fargo-1948-10]]. **Longest-duration 1948 engagement-class case in the corpus.** A 6–8 inch clear-white round object engaged Gorman's F-51 for **27 minutes**, executing several left turns + one right turn + diving and climbing, operating across 1,000–14,000 ft, much faster than F-51, departing in a steep climb. ^[extracted]
+    3. **Inc 207 — Andrews AFB pursuit (18 Nov 1948)** — see [[references/sighting-andrews-1948-11]]. **First sensor-stimulus-response engagement-class event in the corpus.** A 15–18 minute pursuit of an oval glowing object by 2d Lt Kenwood Jackson + 2d Lt Glen Stalker, corroborated from a separate aircraft by 2d Lt Henry Combs. The object brightened when illuminated by the chase aircraft's landing light. ^[extracted]
+
+The combined 1948 record (Chiles–Whitted + Gorman + Andrews) recasts the historical envelope: **engagement-class behavior is not a modern phenomenon** introduced by the drone era; it is a **mid-1948-or-earlier datum, with three distinct sub-signatures** (close-approach + flame, sustained mutual maneuvering, and sensor-stimulus response) all documented inside Project SIGN's first 10 months. ^[inferred]
 - The 2026 [[references/western-us-event-2026|Western U.S. Event]] involves **ground-based federal LE witnesses**, not aircraft. The orb-class behaviors there (launching, hovering, briefly transparent) do not include cross-platform engagement.
 - The 2025 helicopter-orb encounter therefore is **not** the corpus's first engagement-class event — but it remains the **strongest multi-sensor (FLIR + NVG + naked eye)** documented case. ^[inferred]
 
@@ -71,7 +75,10 @@ In the 2025 redacted statement [[references/usper-statement-2025]] / [[reference
 - [[concepts/orb-flare-formation]]
 - [[references/usper-statement-2025]]
 - [[references/sighting-helicopter-orb-encounter-2025]]
-- [[references/sighting-andrews-1948-11]] — 1948 engagement-class precursor (Inc 207)
-- [[references/project-sign-incident-summaries-173-233]] — bundle preserving the Andrews event
+- [[references/sighting-chiles-whitted-1948-07]] — earliest 1948 engagement-class precursor (Inc 144)
+- [[references/sighting-gorman-fargo-1948-10]] — longest-duration 1948 engagement-class case (Inc 172, 27 min)
+- [[references/sighting-andrews-1948-11]] — first sensor-stimulus-response 1948 engagement-class event (Inc 207)
+- [[references/project-sign-incident-summaries-101-172]] — bundle preserving Inc 144 + Inc 172
+- [[references/project-sign-incident-summaries-173-233]] — bundle preserving Inc 207
 - [[synthesis/federal-le-uap-witness-pattern]]
 - [[projects/uap/uap]]

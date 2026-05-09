@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T01:00:00Z",
+  "updated": "2026-05-09T18:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -503,18 +503,48 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/38_143685_box7_incident_summaries_101-172.json": {
+      "ingested_at": "2026-05-09T18:00:00Z",
+      "size_bytes": 223346,
+      "modified_at": 1778332063,
+      "content_hash": "sha256:7ce18d127f738ff57bd1c16a9713a76186451b99536a7a985da80e0322a555f0",
+      "source_id": "nara-rg38-143685-box7-project-sign-incident-summaries-101-172",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/project-sign-incident-summaries-101-172.md",
+        "references/sighting-chiles-whitted-1948-07.md",
+        "references/sighting-gorman-fargo-1948-10.md",
+        "references/sighting-hamel-mn-1948-08.md",
+        "references/sighting-norcatur-ks-1948-02.md"
+      ],
+      "pages_updated": [
+        "concepts/project-sign.md",
+        "concepts/uap-aircraft-engagement.md",
+        "concepts/green-fireballs-new-mexico.md",
+        "concepts/balls-of-fire-red.md",
+        "entities/lincoln-la-paz.md",
+        "references/usaf-flying-discs-1948.md",
+        "references/project-sign-incident-summaries-173-233.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T02:00:00Z",
-      "sources_ingested": 19
+      "last_ingested": "2026-05-09T18:00:00Z",
+      "sources_ingested": 20
     }
   },
   "stats": {
-    "total_sources_ingested": 20,
-    "total_pages": 133,
+    "total_sources_ingested": 21,
+    "total_pages": 138,
     "total_projects": 1,
     "last_full_rebuild": null
   }
