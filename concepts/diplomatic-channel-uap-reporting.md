@@ -1,7 +1,7 @@
 ---
 title: Diplomatic-Channel UAP Reporting
 category: concepts
-tags: [uap, policy, intelligence, diplomatic, institutional]
+tags: [uap, policy, intelligence, diplomacy, institutional]
 aliases: [diplomatic UAP intake, embassy UAP reporting, foreign-government UAP inquiry, citizen-witness cable relay]
 sources: [sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/341_110677_numerical_file_5-2500.json]
 summary: An institutional pattern in which a US diplomatic post (embassy or air-attaché office) aggregates a UAP-adjacent narrative from outside the standard US-military intake stream and forwards it up its parent department. Sub-patterns now include foreign-liaison-inquiry, citizen-witness-relay, and (sibling) air-attaché HUMINT.

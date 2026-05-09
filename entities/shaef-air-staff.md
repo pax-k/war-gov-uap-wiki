@@ -1,7 +1,7 @@
 ---
 title: SHAEF Air Staff
 category: entities
-tags: [uap, ww2, military-org, intelligence]
+tags: [uap, ww2, military, intelligence]
 aliases: [Supreme Headquarters Allied Expeditionary Force Air Staff, SHAEF/Air, SHAEF Air Division, SHAEF A-2]
 sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json]
 summary: Air Staff of SHAEF — the Allied combined-air-forces intelligence and operations hub in NW Europe (1944–45) that routed the foo-fighter and cylindrical-object correspondence between US tactical commands and the UK Air Ministry.

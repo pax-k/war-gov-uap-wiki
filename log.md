@@ -23,3 +23,5 @@ title: Wiki Log
 - [2026-05-09T18:30:00Z] INGEST source="sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json" pages_created=7 pages_updated=8 mode=append project=uap source_type=document
 - [2026-05-09T19:00:00Z] INGEST source="sources/341_110677_numerical_file_5-2500.json" pages_created=10 pages_updated=3 mode=append project=uap source_type=document
 - [2026-05-09T19:30:00Z] INGEST source="sources/255_t_763_r1b_transcripts.json" pages_created=8 pages_updated=2 mode=append project=uap source_type=document
+- [2026-05-09T20:30:00Z] LINT issues_found=4 orphans=0 broken_links=3 stale=0 contradictions=0 prov_issues=0 missing_summary=57 fragmented_clusters=1 visibility_issues=0 promotion_candidates=0 synthesis_gaps=0 lifecycle_issues=0 stubs_created=2 links_repaired=1
+- [2026-05-09T21:30:00Z] TAG_TAXONOMY tags_before=93 tags_after=89 pages_modified=5 merges=3 removals=1 diacritic_fixes=0 five_tag_violations_resolved=0 visibility_pages=0 taxonomy_created=true

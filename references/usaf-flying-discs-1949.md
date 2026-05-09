@@ -13,7 +13,7 @@ base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T15:30:00Z
-updated: 2026-05-09T15:30:00Z
+updated: 2026-05-09T20:30:00Z
 ---
 
 # USAF Flying Discs Correspondence — NARA Box 186 / 319.1 (1948–1950)
@@ -56,7 +56,7 @@ A new institutional layer appears across 1949 that is largely absent from the 19
 - **Lt Col Harold O. Pedrazzini** — Commanding, Hamilton Flight Service Center; relays the 2 May 49 Elko, NV, sighting (three discs, civilian Marvin L. Small at CAA radio).
 - **Maj George W. Moxon** — Commanding, 6th Weather Squadron (Albrook AFB, Canal Zone); signs the 8 Feb 1949 San Andres Islands disc-over-ship report (S.S. Antigua) — three silver-sphere objects sighted at 1630 and 1700 hours on 6 Feb 1949 at 12°30'N 81°10'W in the Caribbean. Moxon's report explicitly speculates that the objects might have been free-flight balloon releases from two **Russian 300-ton sloops (Omar and Blesk)** that had transited the area en route from St. Thomas to Vladivostok via Honolulu — the only Cold War Soviet-vessel-as-source hypothesis in the 1949 file. ^[extracted]
 - **Capt Hathaway** — Chief, Intelligence Division, MATS — recurring addressee on AACS-routed material.
-- **Col Ernest S. Moon** — Asst Chief of Staff, Intelligence & Security, AACS HQ — signs the 2nd indorsement of the [[references/sighting-hickam-1949-01|Hickam 4 Jan 49]] AACS file forwarding it to AMC.
+- **Col Ernest S. Moon** — Asst Chief of Staff, Intelligence & Security, AACS HQ — signs the 2nd indorsement of the **Hickam 4 Jan 49** AACS file forwarding it to AMC. ^[open — no standalone sighting page yet in the corpus; placeholder pending source extraction]
 - **Col Stanley Q. Wentz** — Chief, Intelligence Division, AACS — signs the 17 Feb 1949 Project "Sign" XF5U-1 memorandum.
 - **Capt Charles C. Robinson** (AACS A-2) — author of the office-memo dismissing the Hickam sighting as cardboard lifted by cane-field updrafts. ^[extracted]
 

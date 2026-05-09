@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synthesis/horten-thesis-vs-disc-sightings.md",
+                "file": "projects/uap/uap.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "horten-thesis-vs-disc-sightings"
+              "title": "uap"
             }
           }
         ]
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "synthesis/horten-thesis-vs-disc-sightings.md",
+                "file": "projects/uap/uap.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -66,12 +66,12 @@
                   "repelStrength": 17.1796875,
                   "linkStrength": 1,
                   "linkDistance": 323,
-                  "scale": 0.7603390114434352,
+                  "scale": 1.3348562701219886,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of horten-thesis-vs-disc-sightings"
+              "title": "Graph of uap"
             }
           }
         ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "synthesis/horten-thesis-vs-disc-sightings.md",
+                "file": "projects/uap/uap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for horten-thesis-vs-disc-sightings"
+              "title": "Backlinks for uap"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "synthesis/horten-thesis-vs-disc-sightings.md",
+                "file": "projects/uap/uap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from horten-thesis-vs-disc-sightings"
+              "title": "Outgoing links from uap"
             }
           },
           {
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "synthesis/horten-thesis-vs-disc-sightings.md",
+                "file": "projects/uap/uap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of horten-thesis-vs-disc-sightings"
+              "title": "Outline of uap"
             }
           }
         ],
@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,34 +237,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "885f56727454e1ca",
+  "active": "053e2dc475aa63df",
   "lastOpenFiles": [
-    "synthesis/foo-fighters-to-flying-discs.md",
-    "synthesis/federal-le-uap-witness-pattern.md",
-    "synthesis/early-uap-policy-vs-operational-track.md",
-    "references/sighting-cylindrical-object-vicinity-f5710-1945-03-01.md",
-    "references/loedding-flying-disc.md",
-    "references/foo-fighters-shaef-1944-1945.md",
-    "references/fbi-fd302-drone-pilot-redacted-2023.md",
-    "references/fbi-detroit-100-18221-serial-844-1958.md",
-    "references/dos-cable-papua-new-guinea-1985-01.md",
-    "references/dos-cable-kazakhstan-1994-01.md",
-    "projects/uap/uap.md",
-    "concepts/balls-of-fire-red.md",
-    "entities/c-m-grierson.md",
-    "references/sighting-detroit-1958-04-17.md",
-    "references/fbi-fd302-serial-3-driver-redacted-2023.md",
-    "entities/fbi.md",
-    "references/sighting-fbi-fd302-drone-pilot-2023-09.md",
-    "entities/amembassy-dushanbe.md",
-    "entities/aaro.md",
-    "entities/415th-night-fighter-squadron.md",
-    "entities/tajik-air.md",
-    "references/sighting-kazakhstan-1994-01-27.md",
-    "concepts/diplomatic-channel-uap-reporting.md",
-    "entities/uscincpac.md",
-    "entities/png-national-intelligence-organization.md",
-    "entities/amembassy-port-moresby.md",
+    "_meta/taxonomy.md",
+    "entities/j-w-hunt.md",
+    "entities/state-department.md",
+    "concepts/orbital-uap-sighting.md",
+    "entities/nasa-pao.md",
+    "entities/nasa.md",
+    "entities/gemini-7.md",
+    "entities/jim-lovell.md",
+    "entities/frank-borman.md",
+    "references/sighting-gemini-7-bogey-1965-12-04.md",
+    "references/nasa-pao-t-00763-r1b-gemini-7-1965.md",
+    "concepts/rotating-disc-morphology.md",
+    "concepts/observer-suppression-behavior.md",
+    "concepts/usaira-reporting-channel.md",
+    "entities/usaira-prague.md",
+    "entities/thomas-s-ryan.md",
+    "entities/ruben-efron.md",
+    "entities/e-u-hathaway.md",
+    "entities/richard-russell.md",
+    "references/sighting-trans-caucasus-1955-10-04.md",
+    "references/iaf-ir-193-55-russell-1955.md",
+    "references/dos-cable-kazakhstan-1994-01.md.tmp.26524.7575d999763d",
+    "concepts/project-sign.md.tmp.26524.6a3d7f5b4aab",
+    "concepts/eti-attribution-statements.md",
+    "entities/usafe.md",
+    "entities/swedish-air-intelligence-service.md",
+    "references/sighting-holland-coast-1948-09-05.md",
+    "references/sighting-swedish-lake-crash-1948.md",
     "_raw",
     "sources/western_us_event_slides_5.08.2026.json",
     "sources/usper-statement-redacted.json",
@@ -271,8 +274,6 @@
     "sources/serial-3_redacted.json",
     "sources/nasa-uap-d7-skylab-technical-crew-debriefing-1973.json",
     "sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json",
-    "sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json",
-    "sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json",
-    "sources/nasa-uap-d3-gemini-7-transcript-1965.json"
+    "sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json"
   ]
 }

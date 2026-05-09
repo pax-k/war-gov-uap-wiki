@@ -4,12 +4,12 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T19:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-09T21:30:00Z*
 
 ## Concepts
 
 - [[concepts/balls-of-fire-red]] — UK Air Ministry DDI2 filing term for the WWII night-light reports the USAAF called foo fighters ( #uap #ww2 #intelligence)
-- [[concepts/diplomatic-channel-uap-reporting]] — Umbrella institutional pattern for embassy-mediated UAP cables; two sub-patterns — foreign-liaison-inquiry (1985 PNG) and citizen-witness-relay (1994 Kazakhstan) ( #uap #policy #diplomatic)
+- [[concepts/diplomatic-channel-uap-reporting]] — Umbrella institutional pattern for embassy-mediated UAP cables; two sub-patterns — foreign-liaison-inquiry (1985 PNG) and citizen-witness-relay (1994 Kazakhstan) ( #uap #policy #diplomacy)
 - [[concepts/engine-stall-phenomenon]] — Recurring UAP-adjacent physical-effect signature: vehicle / equipment failure coincident with UAP proximity; recovers normally on departure ( #uap #morphology #electromagnetic)
 - [[concepts/eti-attribution-statements]] — Cross-era pattern for tracking explicit ETI-origin attributions: institutional / foreign-liaison (1948 Swedish AIS) vs. witness-side (1994 Tajik Air) ( #uap #history #intelligence #pattern)
 - [[concepts/flak-bombe-hypothesis]] — A.D.I.(K) Felkin's 1945 candidate explanation pointing to A.D.I.(K) Report No. 562/1944 ( #uap #ww2 #intelligence)
@@ -45,6 +45,7 @@ title: Wiki Index
 - [[entities/frank-borman]] — USAF test pilot, NASA "Next Nine" astronaut, Cdr Gemini 7; called "a bogey at ten o'clock high" on the 4 Dec 1965 GT-7 air-to-ground voice loop ( #person #witness #uap #nasa #astronaut)
 - [[entities/gemini-7]] — NASA GT-7 long-duration / rendezvous mission (4–18 Dec 1965); mission frame for the wiki's first orbital UAP-adjacent record ( #nasa #mission #spacecraft #uap)
 - [[entities/horten-brothers]] — German aircraft designers whose tailless wings were studied as a Flying Disc explanation ( #aviation #germany #ww2)
+- [[entities/j-w-hunt]] — Open-question stub for a cover-routing-slip name on the 1963 NASC alien-policy memo; possibly OCR misread of "M. W. Hunter" ( #uap #person #ambiguous #ocr)
 - [[entities/jim-lovell]] — USN test pilot, NASA "Next Nine" astronaut, Pilot Gemini 7; co-witness on the GT-7 bogey exchange (booster only on the released transcript) ( #person #witness #uap #nasa #astronaut)
 - [[entities/maxwell-w-hunter]] — NASC Professional Staff member; authored the 1963 "Space Alien Race Question" memo ( #person #nasc #policy)
 - [[entities/military-air-transport-service]] — Joint USAF/Navy unified airlift command (1948); recurring 1949 routing-and-triage hub for Project SIGN reports alongside AMC ( #usaf #organization #history)
@@ -58,6 +59,7 @@ title: Wiki Index
 - [[entities/robert-f-packard]] — State Department / OISA officer; addressee of the 1963 NASC memo ( #person #state-department #policy)
 - [[entities/ruben-efron]] — Senate Armed Services Committee Consultant; co-witness and contemporaneous note-keeper for the 4 Oct 1955 Trans-Caucasus disc sighting ( #person #witness #uap #senate-staff)
 - [[entities/shaef-air-staff]] — Allied combined-air-forces intelligence/operations hub (1944–45) that routed the foo-fighter correspondence ( #uap #ww2 #organization)
+- [[entities/state-department]] — US Department of State; parent agency of all American embassies and the cable-traffic backbone of the corpus's diplomatic-channel UAP intake pattern ( #state-department #organization #diplomacy)
 - [[entities/swedish-air-intelligence-service]] — Swedish Air Force intelligence branch; source of the 1948 institutional "outside the earth" assessment relayed via USAFE TT 1524 ( #intelligence #sweden #organization)
 - [[entities/tajik-air]] — Tajikistan flag carrier; operator of the Boeing 747SP whose American crew reported the 27 Jan 1994 UAP encounter ( #airline #tajikistan #organization)
 - [[entities/thomas-s-ryan]] — Lt Col USAF; US Air Attaché Prague (USAIRA Czechoslovakia) in October 1955; drafter of IR 193-55 ( #person #usaf #intelligence #attache)

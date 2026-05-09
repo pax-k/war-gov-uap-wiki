@@ -1,7 +1,7 @@
 ---
 title: 415th Night Fighter Squadron
 category: entities
-tags: [uap, ww2, usaaf, military-unit]
+tags: [uap, ww2, usaaf, military]
 aliases: [415th NFS, 415 Night Fighter Squadron]
 sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json]
 summary: USAAF night-fighter squadron whose December 1944 – January 1945 sortie reports first surfaced the term "foofighter" in an official military intelligence file.

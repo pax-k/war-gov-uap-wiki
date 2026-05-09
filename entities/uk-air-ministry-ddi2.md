@@ -1,7 +1,7 @@
 ---
 title: UK Air Ministry — DDI2 / A.D.I.(K)
 category: entities
-tags: [uap, ww2, military-org, intelligence]
+tags: [uap, ww2, military, intelligence]
 aliases: [Air Ministry DDI2, Deputy Directorate of Intelligence (Foreign), A.D.I.(K), Air Intelligence Directorate K]
 sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json]
 summary: UK Air Ministry intelligence branches that received and replied to SHAEF's WWII foo-fighter routing — DDI2 issued the "Balls of Fire — Red" file, A.D.I.(K) offered the Flak Bombe candidate.
