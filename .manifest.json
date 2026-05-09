@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T19:00:00Z",
+  "updated": "2026-05-09T19:30:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -342,18 +342,42 @@
         "concepts/diplomatic-channel-uap-reporting.md",
         "index.md"
       ]
+    },
+    "sources/255_t_763_r1b_transcripts.json": {
+      "ingested_at": "2026-05-09T19:30:00Z",
+      "size_bytes": 5842,
+      "modified_at": 1778332063,
+      "content_hash": "sha256:515391793d924cf67c259f2c8809f184de31c6941bf933287914ebe2839fc53e",
+      "source_id": "nara-rg255-t-00763-r1b-gemini-7-pao-1965-12-04",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/nasa-pao-t-00763-r1b-gemini-7-1965.md",
+        "references/sighting-gemini-7-bogey-1965-12-04.md",
+        "entities/frank-borman.md",
+        "entities/jim-lovell.md",
+        "entities/gemini-7.md",
+        "entities/nasa.md",
+        "entities/nasa-pao.md",
+        "concepts/orbital-uap-sighting.md"
+      ],
+      "pages_updated": [
+        "projects/uap/uap.md",
+        "index.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T19:00:00Z",
-      "sources_ingested": 13
+      "last_ingested": "2026-05-09T19:30:00Z",
+      "sources_ingested": 14
     }
   },
   "stats": {
-    "total_sources_ingested": 14,
-    "total_pages": 95,
+    "total_sources_ingested": 15,
+    "total_pages": 103,
     "total_projects": 1,
     "last_full_rebuild": null
   }

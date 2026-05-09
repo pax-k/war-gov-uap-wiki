@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T19:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-09T19:30:00Z*
 
 ## Concepts
 
@@ -20,6 +20,7 @@ title: Wiki Index
 - [[concepts/orb-flare-formation]] — Distinct UAP morphology: orbs flaring up sequentially in a line/stack, holding stationary, flaring down in reverse order ( #uap #morphology #pattern)
 - [[concepts/observer-suppression-behavior]] — Recurring pattern: third-party operator restricts witnesses' continued observation contemporaneous with a UAP sighting, indicating institutional awareness ( #uap #behavior #intelligence)
 - [[concepts/orb-phenomenon]] — Recurring UAP morphology of luminous spherical bodies, including "mother / daughter" launch patterns ( #uap #morphology #pattern)
+- [[concepts/orbital-uap-sighting]] — Working concept for on-orbit astronaut-witness UAP-adjacent observations; structurally distinct from atmospheric / ground sightings; anchored by the 1965 Gemini 7 bogey call ( #uap #witness #pattern #nasa)
 - [[concepts/project-sign]] — First official USAF program to collect and evaluate Flying Disc reports (1948) ( #uap #usaf #intelligence)
 - [[concepts/rotating-disc-morphology]] — Joint UAP signature: circular body with slowly rotating outer surface and stationary inner light points; anchored by the 1955 Trans-Caucasus sighting ( #uap #morphology #pattern)
 - [[concepts/scientific-vs-saucer-advocate-frame]] — Mid-20th-century institutional posture writing UAP policy from the middle ground between saucer advocates and strict scientific dismissers ( #uap #history #rhetoric)
@@ -41,9 +42,14 @@ title: Wiki Index
 - [[entities/e-u-hathaway]] — Lt Col US Army; Senate Armed Services Committee staff officer; primary debriefer of the 4 Oct 1955 Trans-Caucasus disc sighting ( #person #witness #uap #us-army)
 - [[entities/fbi]] — Federal Bureau of Investigation; intake authority across 66 years — 1957 (Detroit, WH-routed Krasuski letter, sit-down interview), 1958 (Detroit, Weaver phone-in, SF-64 routing), 1966 (Detroit, OUFORA redirect to USAF), 2023 (parallel FD-302 interviews) ( #fbi #organization #federal-le)
 - [[entities/franciszek-grabowski]] — Polish co-witness named in the 1944 Gut Alt Golssen account; uncontactable by 1957; the only co-witness Krasuski could recall ( #person #witness #ww2)
+- [[entities/frank-borman]] — USAF test pilot, NASA "Next Nine" astronaut, Cdr Gemini 7; called "a bogey at ten o'clock high" on the 4 Dec 1965 GT-7 air-to-ground voice loop ( #person #witness #uap #nasa #astronaut)
+- [[entities/gemini-7]] — NASA GT-7 long-duration / rendezvous mission (4–18 Dec 1965); mission frame for the wiki's first orbital UAP-adjacent record ( #nasa #mission #spacecraft #uap)
 - [[entities/horten-brothers]] — German aircraft designers whose tailless wings were studied as a Flying Disc explanation ( #aviation #germany #ww2)
+- [[entities/jim-lovell]] — USN test pilot, NASA "Next Nine" astronaut, Pilot Gemini 7; co-witness on the GT-7 bogey exchange (booster only on the released transcript) ( #person #witness #uap #nasa #astronaut)
 - [[entities/maxwell-w-hunter]] — NASC Professional Staff member; authored the 1963 "Space Alien Race Question" memo ( #person #nasc #policy)
 - [[entities/military-air-transport-service]] — Joint USAF/Navy unified airlift command (1948); recurring 1949 routing-and-triage hub for Project SIGN reports alongside AMC ( #usaf #organization #history)
+- [[entities/nasa]] — National Aeronautics and Space Administration; civilian space agency; first NASA-originating UAP-adjacent record in the corpus (1965 GT-7 PAO tape) ( #nasa #organization #civil-agency)
+- [[entities/nasa-pao]] — NASA Public Affairs Office; release-by-default press / commentary channel; intake-and-release node for the GT-7 PAO Tape T-00763(R1b) ( #nasa #organization #public-affairs)
 - [[entities/national-aeronautics-and-space-council]] — Executive Office of the President advisory body; originating office of the 1963 alien-policy memo ( #organization #eop #policy)
 - [[entities/oklahoma-ufo-research-association]] — Mid-1960s civilian UFO research organization (Oklahoma City); 1966 inquirer to FBI Detroit, redirected to USAF Wright-Patterson ( #organization #civilian-research #uap)
 - [[entities/png-national-intelligence-organization]] — Papua New Guinea's national intelligence service; initiator of the 28 Jan 1985 inquiry to AMEMBASSY Port Moresby ( #intelligence #papua-new-guinea #organization)
@@ -77,6 +83,7 @@ title: Wiki Index
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
 - [[references/iaf-ir-193-55-russell-1955]] — Declassified 9-page SECRET (NOFORN) USAIRA Prague Air Intelligence Information Report (IR 193-55, 14 Oct 1955; TS Cont. # 3-2500) on Senator Russell's Trans-Caucasus flying-disc sighting ( #uap #primary-source #declassified #1955)
 - [[references/loedding-flying-disc]] — US AMC in-house disc-shaped aircraft concept (drawing LD-2), 1947 ( #uap #aviation #usaf)
+- [[references/nasa-pao-t-00763-r1b-gemini-7-1965]] — 4-page NASA PAO release-commentary tape transcript (NARA RG 255) of the 4 Dec 1965 GT-7 air-to-ground voice loop containing Borman's "bogey at ten o'clock high" call ( #uap #primary-source #nasa #1965)
 - [[references/sighting-bakersfield-1948-03]] — Two falling-object observations near Bakersfield, CA in March 1948 ( #uap #sighting #california)
 - [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] — 1 March 1945 USAAF reconnaissance pilot sighting of a 12-ft aluminium cylinder hovering vertically at 9,000 ft ( #uap #sighting #ww2)
 - [[references/sighting-dark-kite-western-us]] — Federal LE agents pursue what looks like a car; it lifts off the road, hovers, and reads as a thin dark kite/triangle ( #uap #sighting #federal-le)
@@ -84,6 +91,7 @@ title: Wiki Index
 - [[references/sighting-fairfield-suisun-1948-12]] — AACS tower operators tracked a 30-inch luminous round object that hovered, climbed almost vertically to 20k ft (3 Dec 1948) ( #uap #sighting #california)
 - [[references/sighting-fbi-fd302-drone-pilot-2023-09]] — Sept 2023 daylight UAP sighting at ~07:15–07:30 by a contractor convoy in restricted airspace; documented by two parallel FBI FD-302s (driver + drone-pilot passenger) plus a co-temporal gate anomaly ( #uap #sighting #fbi)
 - [[references/sighting-fiery-orb-western-us]] — Two federal LE agents observe a 12–18 m glowing orange orb hovering near a rock pinnacle for ~1 min ( #uap #sighting #orb)
+- [[references/sighting-gemini-7-bogey-1965-12-04]] — 4 Dec 1965 ~04h24m MET — Cdr Borman calls "a bogey at ten o'clock high" on Gemini 7's air-to-ground voice loop alongside the booster (corroborated by Lovell) and a 90° cross-track particle stream ( #uap #sighting #1965 #nasa)
 - [[references/sighting-gut-alt-golssen-1944]] — 1944 wartime forced-labor witness account by Polish POW Krasuski of an ascending circular vehicle (~75–100 yd) from a tarpaulin enclosure ~30 mi east of Berlin; recorded by FBI 13 years later ( #uap #sighting #ww2 #germany)
 - [[references/sighting-helicopter-orb-encounter-2025]] — 2025 multi-hour helicopter orb encounter at a redacted facility, with FLIR + NVG + naked-eye corroboration ( #uap #sighting #intel-witness)
 - [[references/sighting-hobson-ohio-1948-05]] — Night-time multi-witness phosphorescent disc sighting by NY Central rail workers ( #uap #sighting #ohio)

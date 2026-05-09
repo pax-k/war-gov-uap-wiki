@@ -3,8 +3,8 @@ title: UAP
 category: project
 tags: [uap, history, intelligence, archive]
 source_path: _raw/ (declassified UAP archive volumes), sources/ (Mistral-OCR'd briefings and witness statements)
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/341_110677_numerical_file_5-2500.json]
-summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN (two-track AFOIR + USAFE TS), 1955 USAIRA Prague Russell sighting, 1957–58 FBI Detroit files, 1963 NASC, 1985 + 1994 DOS cables, 2025 intel statement, 2023 FBI FD-302 pair, and 2026 AARO Western US slides.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/341_110677_numerical_file_5-2500.json, sources/255_t_763_r1b_transcripts.json]
+summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN (two-track AFOIR + USAFE TS), 1955 USAIRA Prague Russell sighting, 1957–58 FBI Detroit files, 1963 NASC, 1965 NASA GT-7 PAO bogey tape, 1985 + 1994 DOS cables, 2025 intel statement, 2023 FBI FD-302 pair, and 2026 AARO Western US slides.
 provenance:
   extracted: 0.48
   inferred: 0.5
@@ -13,7 +13,7 @@ base_confidence: 0.72
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T19:00:00Z
+updated: 2026-05-09T19:30:00Z
 ---
 
 # UAP
@@ -47,6 +47,10 @@ A research project distilling declassified primary-source archives on Unidentifi
 ### 1955 USAIRA Prague IR 193-55 — Russell Trans-Caucasus sighting (NEW)
 
 - [[references/iaf-ir-193-55-russell-1955]] — 9-page Mistral-OCR'd declassified SECRET (NOFORN) USAF Air Intelligence Information Report (IR 193-55, Lt Col [[entities/thomas-s-ryan|Thomas S. Ryan]], [[entities/usaira-prague|USAIRA Prague]], 14 Oct 1955; TS Control # 3-2500; **NW 38537 / DocID 5916784**) on **[[references/sighting-trans-caucasus-1955-10-04|Senator Richard Russell's 4 Oct 1955 Trans-Caucasus flying-disc sighting]]**. The wiki's first 1955-era artifact and first **USAIRA HUMINT-channel** record of any kind — see [[concepts/usaira-reporting-channel]]. Two flying discs ascend almost vertically with **slowly rotating outer surfaces** and **two stationary inner lights** ("revolving slowly" during ascent → "whirring" at high-speed level cruise on a northerly heading at 6000 ft), seen by Russell + [[entities/e-u-hathaway|Lt Col E. U. Hathaway]] (US Army, Senate Armed Services Committee staff) + [[entities/ruben-efron|Mr. Ruben Efron]] (Committee Consultant) from a USSR rail leg between ATJATY and ADZHLJABUL (Azerbaijan SSR), with **two operating searchlights pointing near-vertical** at the ground take-off area 1–2 miles south of the rail line. Soviet trainmen immediately closed window curtains and refused further observation — see [[concepts/observer-suppression-behavior]]. **Corpus firsts** anchored by this source: first 1950s-era artifact (closes the 1950–56 gap); first US-witnessed UAP sighting **physically inside the USSR**; first Senatorial-class witness; first USAIRA-originated UAP record; first witnessed **ground-level launch installation** alongside a sighting; first contemporaneous **observer-suppression** datum; first joint **rotating-disc + stationary-inner-lights** morphology in the corpus (see [[concepts/rotating-disc-morphology]]). Ryan's USAIRA institutional comment — *"The significance of this report... is remarkable and lends credence to many 'saucer' reports"* — is the wiki's first explicit USAF-side endorsement of a witness sighting from inside the SECRET-track intake apparatus. ^[inferred]
+
+### 1965 NASA Gemini 7 — PAO Tape T-00763(R1b) (NEW)
+
+- [[references/nasa-pao-t-00763-r1b-gemini-7-1965]] — 4-page Mistral-OCR'd NASA Public Affairs Office release-commentary tape transcript (NARA RG 255 / item `255_t_763_r1b`). Records the **4 Dec 1965 Gemini 7 air-to-ground voice loop** at ~04h24m MET in which **[[entities/frank-borman|Cdr Frank Borman]]** calls *"a bogey at ten o'clock high"* on the open press loop, alongside two other in-frame objects: the spent Titan-II second-stage **booster** (corroborated by **[[entities/jim-lovell|Lovell]]** at "two o'clock"; *"brilliant body in the sun against a black background with trillions of particles on it"*) and a separately-observed **cross-track 90° particle stream** 3–4 mi off the left side. Single-event sighting page at [[references/sighting-gemini-7-bogey-1965-12-04]]. **Corpus firsts**: first **orbital / outside-atmosphere observation**, first **astronaut-class witness**, first **NASA-originating** record, first **release-by-default intake channel** ([[entities/nasa-pao|NASA PAO]] same-news-cycle press tape replay, opposite the SECRET / TS / NOFORN / OUO defaults of every prior corpus channel), first **mission-control voice-loop** primary instrument, first **aviation-jargon "bogey"** terminology. The bogey-vs-booster distinction is **ambiguous in the source itself** — Houston offers booster-or-natural-sighting as the dichotomy, Borman doesn't choose between them, and PAO's later commentary calls it a third object beyond booster and particles, but PAO has primary-source weight equal to the witnesses' own. ^[ambiguous] On the strict transcript, the bogey is a **single-bearing, single-witness, no-morphology** call; the structurally interesting institutional first ([[entities/nasa-pao]] release-by-default) holds independent of how the bogey resolves. ^[inferred] Closes the **1955–1965 witness-side gap** in the corpus.
 
 ### Modern AARO-handled material
 
@@ -110,9 +114,16 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 - [[entities/thomas-s-ryan]] — Lt Col USAF, Air Attaché Prague; drafter of IR 193-55 and signer of TS cable C-103.
 - [[concepts/usaira-reporting-channel]] — distinct UAP-adjacent intake channel: **air-attaché HUMINT** at overseas posts, structurally distinct from AFOIR-CO field-installation, USAFE TS major-command, State-Department cable, and FBI investigative channels.
 
+## NASA / civilian-agency layer (1965) (NEW)
+
+- [[entities/nasa]] — National Aeronautics and Space Administration; civilian space agency; first NASA-originating UAP-adjacent record in the corpus.
+- [[entities/nasa-pao]] — NASA Public Affairs Office; **release-by-default** intake-and-release channel that played the GT-7 bogey tape on the press loop the same news cycle as the event. Institutional posture inverts the SECRET/TS-default of every other corpus channel except modern AARO.
+- [[entities/gemini-7]] — GT-7 mission frame (Borman + Lovell, 4–18 Dec 1965).
+- [[concepts/orbital-uap-sighting]] — orbital / outside-atmosphere witness pattern; currently single-instance, anchored by the GT-7 bogey call.
+
 ## Modern institutional structures
 
-- [[entities/aaro|AARO]] — All-domain Anomaly Resolution Office; modern intake/assessment authority. Stub page; fills out as more AARO-handled material is ingested.
+- [[entities/aaro|AARO]] — All-domain Anomaly Resolution Office; modern intake/assessment authority. Stub page; fills out as more AARO-handled material is ingested. The closest functional analogue in the corpus to NASA PAO on disclosure posture (release-attentive rather than classification-default). ^[inferred]
 - [[entities/fbi]] — Federal Bureau of Investigation; intake authority across **66 years** of UAP-adjacent records. Detroit field office: **Nov 1957** (WH-routed Krasuski letter, Director-driven sit-down interview, file 100-26505); **April 1958** (Weaver phone-in, SF-64 routing memo to USAF, file 100-18221 serial 844); **October 1966** (OUFORA inquiry redirected to USAF, file 100-26505 serial 6); and **2023** (parallel FD-302 evidentiary interviews on the contractor-convoy incident). The 1957-vs-1958 contrast in the same field office demonstrates that **entry path** (WH-routed letter vs. phone-in) determined whether the FBI investigated substantively or routed to USAF. ^[inferred]
 
 ## Diplomatic-channel layer (1985 PNG + 1994 Kazakhstan)
@@ -131,6 +142,11 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 - [[concepts/three-class-alien-taxonomy]] — chemical-rocket / nuclear-class / Einstein-violating classification used to drive sharply different US postures.
 - [[concepts/scientific-vs-saucer-advocate-frame]] — the "prepared skepticism" rhetorical posture Hunter inhabits and that recurs across decades in this corpus.
 - [[synthesis/early-uap-policy-vs-operational-track]] — places the 1963 memo against the 1948 operational track and the 2025–2026 modern track.
+
+## Key people (1965 NASA GT-7 track) (NEW)
+
+- [[entities/frank-borman]] — Cdr, Gemini 7 Command Pilot; called *"a bogey at ten o'clock high"* on the GT-7 air-to-ground voice loop, 4 Dec 1965. First astronaut-class witness in the corpus.
+- [[entities/jim-lovell]] — Pilot, Gemini 7; co-witness on the same exchange; corroborated the booster from his "two o'clock" vantage but does **not** corroborate the bogey on the released transcript.
 
 ## Key people (1955 USAIRA Prague track) (NEW)
 
@@ -216,6 +232,7 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 | 22 August 1949, 1845P | Seattle, WA | 3 NCO controllers (143rd NG ACW Sqdn) + 2 ARTC controllers | [[references/sighting-seattle-1949-08]] |
 | 6 January 1950, night | Kansas City KS / Olathe KS | 2 Bendix Aviation employees (1 pilot) | [[references/sighting-kansas-city-1950-01]] |
 | 4 October 1955, 1910 local | Trans-Caucasus USSR (Azerbaijan SSR), rail line ATJATY → ADZHLJABUL | [[entities/richard-russell\|Sen. Russell]] + [[entities/e-u-hathaway\|Lt Col Hathaway]] (US Army) + [[entities/ruben-efron\|Mr. Efron]] (Senate ASC Consultant) | [[references/sighting-trans-caucasus-1955-10-04]] |
+| 4 December 1965, ~04h24m MET (~2354Z) | On orbit, [[entities/gemini-7\|Gemini 7]] | [[entities/frank-borman\|Cdr Borman]] (bogey + particles) + [[entities/jim-lovell\|Pilot Lovell]] (booster only) | [[references/sighting-gemini-7-bogey-1965-12-04]] |
 | 24 January 1985, evening (~1900 + 2200 local) | Papua New Guinea (Wewak / Angoram / various) | Air Niugini commercial pilot (radar) + Wewak residents + multi-vantage contrail witnesses | [[references/sighting-papua-new-guinea-1985-01-24]] |
 | 27 January 1994, ~dark + sunrise | Over Kazakhstan (~45°N 55°E), FL410 | Tajik Air Capt Ed Rhodes + 2 American ex-PanAm crew on Boeing 747SP | [[references/sighting-kazakhstan-1994-01-27]] |
 | 2025, single night, ~22:00–23:20 | Redacted US facility | Senior US intel official + state-org pilots + LP/OP team (FLIR + NVG + naked eye) | [[references/sighting-helicopter-orb-encounter-2025]] |
@@ -224,6 +241,10 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 | Unspecified, recent (≤2026) | Western U.S. | federal LE USPER5, USPER6 | [[references/sighting-fiery-orb-western-us]] |
 | Unspecified, recent (≤2026) | Western U.S. | federal LE USPER5, USPER6 | [[references/sighting-dark-kite-western-us]] |
 | Unspecified, recent (≤2026) | Western U.S. | federal LE USPER5, USPER6 (USPER7 absent) | [[references/sighting-transparent-kite-western-us]] |
+
+## UAP morphology (cross-era) — orbital track (NEW)
+
+- [[concepts/orbital-uap-sighting]] — currently single-instance class for **on-orbit / outside-atmosphere** astronaut-witness records; anchored by the GT-7 bogey call. Awaiting MA-6 Glenn "fireflies" (Feb 1962), GT-4 McDivitt "cylinder" (Jun 1965), GT-11 Conrad / Gordon (1966), and Apollo-era ingest sources to populate the instance set. ^[inferred]
 
 ## Open threads
 
@@ -283,6 +304,15 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 - Cross-check whether IR 193-55 was forwarded into **Project BLUE BOOK** (1952–69) as a case file; the cover sheet specifies USAF / USAFE / USAIRA Moscow but not MCIAXO / Wright-Patterson. ^[inferred]
 - Identify the **Soviet 1955 VTOL / tailsitter test programs** (if any of public record) that could match the Trans-Caucasus disc morphology. ^[open]
 - Locate **Czech State Security (StB)** records of any 12–13 Oct 1955 surveillance of the Russell party at the Wilson Station / Residency / Army-Attaché office. ^[inferred]
+- Resolve **bogey vs. booster** on the GT-7 4 Dec 1965 voice loop using the **NASA Mission Control master tape** and onboard recorder transcripts (NTRS / NARA RG 255). ^[open]
+- Locate **Borman's and Lovell's post-mission debrief statements** on the bogey-particle-booster sequence (NASA JSC oral histories; *Countdown* autobiography). ^[open]
+- Locate the **GT-7 onboard 16 mm DAC film** for any frames near 04h24m MET. ^[open]
+- Cross-check whether **Project BLUE BOOK** opened a case file on the GT-7 bogey call (BLUE BOOK active 1952–1969). ^[open]
+- Identify the **specific MSC PAO commentator** voice on T-00763(R1b) — candidate: **Paul Haney**. ^[ambiguous]
+- Locate **other PAO tapes in the T-00763 series** (the R1b suffix implies a revision; what was R1a?). ^[inferred]
+- Ingest the larger **`sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json`** — companion item in the same NARA RG 255 cluster, expected to deepen the policy / civilian-agency layer. ^[open]
+- Acquire **MA-6 (Glenn, Feb 1962)**, **GT-4 (McDivitt, Jun 1965)**, **GT-11 (Conrad / Gordon, 1966)** primary sources to populate the [[concepts/orbital-uap-sighting]] instance set. ^[open]
+- Cross-reference the **2023 NASA Independent Study Team report on UAP** for any treatment of historical Gemini / Mercury / Apollo orbital records. ^[open]
 
 ## See also
 
