@@ -2,8 +2,8 @@
 title: "Engine-Stall Phenomenon"
 category: concepts
 tags: [uap, morphology, electromagnetic, pattern]
-sources: [fbi-detroit-100-26505-100-de-26505, fbi-fd302-serial-3-2023-09-redacted]
-summary: Recurring UAP-adjacent phenomenology — internal-combustion or electrical equipment fails coincident with a UAP observation, then resumes normal operation when the object departs or its acoustic signature stops.
+sources: [fbi-detroit-100-26505-100-de-26505, fbi-fd302-serial-3-2023-09-redacted, sources/38_143685_box7_incident_summaries_1-100.json]
+summary: Recurring UAP-adjacent phenomenology — instrument / engine / electrical equipment behaves anomalously coincident with a UAP observation, recovering normally on departure. Earliest corpus anchor: 24 Jun 1947 Cascade Mts (Inc 68 Fred Johnson, compass-and-watch deflection).
 provenance:
   extracted: 0.4
   inferred: 0.55
@@ -31,17 +31,18 @@ The pattern is typically: ^[inferred]
 
 The engine failure is therefore **selective in time** (coincides with the proximity) and **non-destructive** (no permanent damage), distinguishing the pattern from ordinary mechanical failures.
 
-## Anchor cases in the corpus
+## Anchor cases in the corpus (UPDATED)
 
 | Date | Location | Observed by | Phenomenology | Source |
 |---|---|---|---|---|
-| **1944, month unrecalled** | Swamp north of Gut Alt Golssen, Germany | [[entities/wladyslaw-krasuski|Krasuski]] (Polish POW) + ~16 work-crew co-witnesses | Tractor engine stalls **twice** during the same workday; high-pitched generator-like whine on first stall; lower-pitched whine during second stall (vehicle visually observed); engine restarts normally each time once the noise stops | [[references/sighting-gut-alt-golssen-1944]] |
+| **1944, month unrecalled** | Swamp north of Gut Alt Golssen, Germany | [[entities/wladyslaw-krasuski\|Krasuski]] (Polish POW) + ~16 work-crew co-witnesses | Tractor engine stalls **twice** during the same workday; high-pitched generator-like whine on first stall; lower-pitched whine during second stall (vehicle visually observed); engine restarts normally each time once the noise stops | [[references/sighting-gut-alt-golssen-1944]] |
+| **24 Jun 1947, afternoon** | Cascade Mountains, OR (~5,000 ft above sea level) | **Fred M. Johnson** (prospector, 40 yr Pacific NW experience) | **Combination compass-and-watch instrument** "**reacted in a very peculiar manner, the hand waving from one side to the other**" during disc passage at 1,000 ft overhead; "**corrected itself immediately after the discs had passed out of sight**". Same day as Arnold (Inc 17), ~150 mi N. | [[references/sighting-cascade-mts-johnson-1947-06-24]] (Inc 68) |
 | **2–3 Nov 1957** | Levelland, TX (US) | Multiple independent vehicle drivers | Multi-vehicle engine-stall cluster, recorded in news at the time but not yet ingested into the wiki ^[inferred] | (not yet ingested) |
 | **Sept 2023, ~07:15–07:30** | Restricted-airspace range, redacted US location | Lead-vehicle driver (range/test-site authority) | Co-temporal **gate anomaly**: a sliding security gate that **closed 3 times in a row** before the sighting, **then opened normally on attempt 4**; explicit no-prior-no-after baseline on the same equipment from the witness | [[references/fbi-fd302-serial-3-driver-redacted-2023]] |
 
-The 2023 case is structurally a **physical-effect cousin** rather than an engine stall per se — a security gate's PLC control, not a combustion engine — but the **selective-in-time + non-destructive + on-baseline-equipment** pattern is identical. ^[inferred]
+The 1947 Inc 68 case is the corpus's **earliest preserved direct EM-effect witness record** in a SIGN file. ^[extracted] It establishes that the EM-effect signature was **operationally present at the earliest moment of formal UAP observation** in the post-WWII apparatus. ^[inferred] The 2023 gate-anomaly case is structurally a **physical-effect cousin** rather than an engine stall per se — a security gate's PLC control, not a combustion engine — but the **selective-in-time + non-destructive + on-baseline-equipment** pattern is identical. ^[inferred]
 
-The wiki's **earliest engine-stall record** is now the **1944 Gut Alt Golssen** account (witness recall preserved 13 years later in FBI 100-26505), predating the **November 1957 Levelland TX cluster** by ~13 years and the **2023 gate anomaly** by ~79 years. ^[inferred]
+**The corpus's EM-effect chronology is now**: 1944 Gut Alt Golssen (witness recall) → **1947 Cascade Mts Inc 68 (contemporaneous SIGN intake)** → 1957 Levelland → 2023 gate. ^[inferred] The previous mid-anchor at the 1948 [[references/project-sign-incident-summaries-101-172|101–172 bundle]] (Hamel MN Inc 162 physical-trace landing) is now the corpus's **first 1948** EM-effect-adjacent event, but the chronology extends back **14 months** to Inc 68. ^[extracted]
 
 ## Why the pattern matters as evidence
 
@@ -64,6 +65,7 @@ This makes Krasuski's account a **pre-Levelland-witness post-Levelland-report**:
 ## Cross-references
 
 - [[references/sighting-gut-alt-golssen-1944]] — earliest corpus instance
+- [[references/sighting-cascade-mts-johnson-1947-06-24]] — earliest contemporaneously-filed EM-effect SIGN record (Inc 68)
 - [[references/fbi-fd302-serial-3-driver-redacted-2023]] — 2023 gate-anomaly variant
 - [[references/sighting-fbi-fd302-drone-pilot-2023-09]] — consolidated multi-witness narrative
 - [[concepts/uap-aircraft-engagement]] — overlapping morphology category for aircraft-targeted events

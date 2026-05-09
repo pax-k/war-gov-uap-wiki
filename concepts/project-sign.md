@@ -3,8 +3,8 @@ title: Project SIGN
 category: concepts
 tags: [uap, history, usaf, intelligence, 1948]
 aliases: [Project Sign, Sign (USAF), AMC Flying Disc Project]
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json]
-summary: The first official US Air Force program (1948–49) to systematically collect, evaluate, and distribute information on "Flying Discs", run by Air Materiel Command at Wright-Patterson AFB. Two-track routing — AFOIR-CO field-installation channel + parallel USAFE TS foreign-liaison channel.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/38_143685_box7_incident_summaries_1-100.json]
+summary: The first official US Air Force program (1948–49) to systematically collect, evaluate, and distribute information on "Flying Discs", run by Air Materiel Command at Wright-Patterson AFB. The 25-field Incident Summary Sheet form pre-dates SIGN by ~7 months — operational at AMC T-2 from July 1947.
 provenance:
   extracted: 0.7
   inferred: 0.28
@@ -66,16 +66,35 @@ The AFOIR-CO disposition slip on USAFE TT 1524 (8 Nov 1948) **bridges** the two 
 
 The parallel TS sub-track is what carried the wiki's earliest **institutional / foreign-liaison** [[concepts/eti-attribution-statements|ETI-adjacent attribution]] (Swedish AIS, 4 Nov 1948) into US hands. The AFOIR-CO field-installation channel never carried such material — none of the 1948 or 1949 AFOIR file reports preserve an ETI-adjacent institutional attribution. ^[inferred]
 
-## Jan 1948 – Jan 1949 incident-summary stream (UPDATED)
+## Jul 1947 – Jan 1949 incident-summary stream (UPDATED)
 
-Between the [[references/usaf-flying-discs-1948|Feb–Jun 1948 AFOIR-CO startup file]] and [[references/usaf-flying-discs-1949|the Oct 1948 – Jan 1950 continuation file]], Project SIGN operated a **single sequential incident-numbered stream** for all flying-disc reports. The wiki now holds **continuous coverage of incidents 101 through 233** (124 numbered incidents over 13 months, Jan 1948 – Jan 1949) preserved across two NARA RG 38 Box 7 bundles:
+The [[references/project-sign-incident-summaries-1-100|1–100 bundle]] (May 1947 – Jan 1948) materially extends the SIGN sequential-incident stream backward by **6 months before SIGN's formal stand-up**, completing **continuous numbered coverage from Inc 1 (8 Jul 1947 [[references/sighting-muroc-1947-07-08|Muroc AAF cluster]]) through Inc 233 (1 Jan 1949 Jackson MS)** — **233 numbered incidents over ~18 months** preserved across three NARA RG 38 Box 7 bundles:
 
+- **Incidents 1–100** (May 1947 – Jan 1948) — see [[references/project-sign-incident-summaries-1-100]]. 209 OCR pages, 100 incidents, cover stamp **001863** "**S 78-1 (126) / D20249 30014 / Incl 194**".
 - **Incidents 101–172** (Jan – Oct 1948) — see [[references/project-sign-incident-summaries-101-172]]. 178 OCR pages, 66 incidents, cover routing **EXHIBIT 8530, Op 51, Serial 00196957 R/S, S-06200 dated 4-23-49**, filed 9-27-50 (JUDGE).
 - **Incidents 173–233** (Sep 1948 – Jan 1949) — see [[references/project-sign-incident-summaries-173-233]]. 144 OCR pages, 58 incidents, cover routing **R/S S-02378 of 3-9-49**, filed 22 Mar 1949.
 
-The two bundles are mechanically continuous: the same 25-field "Check-List Unidentified Flying Objects" intake form, the same NARA archival placement (RG 38, File 143685, Box 7), the same JUDGE/JONES filing-line stamps. ^[extracted]
+The three bundles are mechanically continuous: the same 25-field "Check-List Unidentified Flying Objects" intake form, the same NARA archival placement (RG 38, File 143685, Box 7), the same JUDGE/JONES filing-line stamps. ^[extracted]
 
-**Correction (2026-05-09):** The 173–233 page implied the 25-field Check-List form was a later development that emerged within Project SIGN's first months. The 101–172 bundle proves the form was **already operational at SIGN startup** — Inc 101 (18 February 1948) uses the identical 25-field form, less than a month after the 27 Feb 1948 [[entities/c-p-cabell|Cabell]] AFOIR-CO-5 directive. ^[extracted] The most economical reading is that the form pre-existed Cabell's directive and was carried into SIGN's standardized intake by AMC T-2's earlier 1947 pre-SIGN intake apparatus. ^[inferred]
+**Correction (2026-05-10):** The 25-field Check-List form is now confirmed **operational from Inc 1 (8 Jul 1947 Muroc)** — **~7 months before** the [[entities/c-p-cabell|Cabell]] AFOIR-CO-5 directive of 27 Feb 1948. The 101–172 page hedged this as "most economical reading"; the 1–100 bundle promotes the claim from `^[inferred]` to **`^[extracted]`**: AMC T-2's pre-1948 intake apparatus carried the form into SIGN at SIGN's stand-up. ^[extracted] The form is **a 1947 instrument**, not a 1948 product. The Cabell directive **codified an apparatus that was already running**. ^[inferred]
+
+### The pre-SIGN founding events (1–100 bundle)
+
+The bundle's ~18-month window covers:
+
+- **Earliest event-date in any of the three bundles**: Inc 31 (Dec 1946, K. D. Wood, Univ Colorado, Route 66 N Arizona — vapor trail only). ^[extracted]
+- **Earliest event-date filed contemporaneously**: Inc 79 (Apr 1947, Mr Minozewski + Miss Baron, Weather Bureau pibal observer, Richmond VA — 3–4 sightings over 6 months, **earliest weather-theodolite-observed UAP datum**). ^[extracted]
+- **Founding 1947 wave events**: Inc 17 ([[references/sighting-arnold-mt-rainier-1947-06-24|Kenneth Arnold Mt Rainier 24 Jun 1947]]), Inc 1/1c/1e/2/3/4 ([[references/sighting-muroc-1947-07-08|Muroc cluster 7–8 Jul 1947]] including **Capt John Paul Stapp**), Inc 40 ([[references/sighting-rhodes-phoenix-1947-07-07|William Rhodes Phoenix photo 7 Jul 1947]] — **first photographic evidence**), Inc 68 ([[references/sighting-cascade-mts-johnson-1947-06-24|Fred Johnson Cascade Mts 24 Jun 1947]] — **first EM-effect datum**). ^[extracted]
+- **Mantell sequence**: 17+ correlated sub-incidents (Inc 30/30a–c, 32, 33/33a–g, 48/48a–d) covering a 12-hour cross-state (IL→KY→OH) phenomenon on 7 Jan 1948, ending in **the corpus's first UAP-attributed pursuit fatality** ([[references/sighting-mantell-godman-1948-01-07|Capt Thomas F. Mantell]]). ^[extracted]
+
+### What's NOT in the 1–100 bundle
+
+Two cases the corpus's downstream historiography emphasizes are **absent** from the SIGN sequential-incident stream as preserved:
+
+- **Roswell, NM (~early Jul 1947)** — no incident-numbered sheet, no cross-reference, no JUDGE/JONES filing-line. ^[extracted]
+- **Maury Island, WA (21 Jun 1947)** — also absent. ^[extracted]
+
+This is itself a structural finding: the most-cited 1947 events in modern UAP discourse are **not** the events SIGN's intake apparatus emphasized. The 1947 cases SIGN tracked instead were the **Muroc AAF cluster** (Inc 1–4) and the **Pacific Northwest patrolman wave** (Inc 5–16, 4 Jul 1947 Portland OR / Vancouver WA). ^[inferred] Whether Roswell/Maury Island were handled in adjacent unfiled correspondence at NARA RG 38 or routed outside the AMC T-2 intake apparatus through CIC/FBI/AFSWP channels is open.
 
 Three SIGN-internal artifacts are documented in this segment for the first time:
 
@@ -105,15 +124,16 @@ These events move the wiki's 1948 picture from "single witness with corroboratin
 
 The 173–233 bundle contains the **earliest SIGN-coordinated investigation** of a multi-event single-region UAP cluster — the [[concepts/green-fireballs-new-mexico|New Mexico green fireball wave]] of 5–13 December 1948. Incident 227's second sheet is **[[entities/lincoln-la-paz|Dr Lincoln La Paz]]'s analytical memo** "Significant Differences between the Fireballs Observed in the Interval Dec 5–13 and Typical Meteors" — the **earliest preserved professional-astronomy assessment** of a UAP event cluster in the corpus. La Paz's role marks the corpus's first instance of a civilian academic expert pulled inside Project SIGN's evaluation loop. ^[inferred]
 
-### The 1948 engagement-class precedent (UPDATED)
+### The 1947–48 engagement-class chronology (CORRECTED)
 
-The 101–172 bundle pushes the **engagement-class precedent** earlier and broader than the Andrews Inc 207 case. The 1948 SIGN intake stream now documents **three distinct engagement-class events**, in chronological order:
+The 1–100 bundle pushes the **engagement-class precedent** even earlier than the 1948 Chiles–Whitted Inc 144 case. The SIGN sequential-incident stream now documents **four distinct engagement-class sub-signatures**, in chronological order:
 
-1. **Inc 144 — Chiles–Whitted EAL DC-3 (24 Jul 1948 Montgomery AL)** — see [[references/sighting-chiles-whitted-1948-07]]. 100-ft cigar-shaped object with red-orange flame trail and blue underbelly glow closed on the DC-3 and pulled up sharply. **Earliest 1948 engagement-class event in the corpus** — 5 months before Andrews. ^[extracted]
-2. **Inc 172 — Gorman F-51 dogfight (1 Oct 1948 Fargo ND)** — see [[references/sighting-gorman-fargo-1948-10]]. 27 minutes of mutual maneuvering between an Air NG F-51 and a 6–8 inch round white object across 1,000–14,000 ft. **Longest-duration 1948 engagement-class event in the corpus** — 7 weeks before Andrews. ^[extracted]
+0. **Inc 33 — Mantell / Godman pursuit (7 Jan 1948 Godman Field KY → multi-state cluster)** — see [[references/sighting-mantell-godman-1948-01-07]]. 4 P-51s ordered to investigate "**metallic of tremendous size**" object via Godman tower; flight leader Capt Thomas F. Mantell ascends past 20,000 ft, last radio contact, **crashes and is killed**. **Corpus's first UAP-attributed pursuit fatality**, 6+ months before Chiles–Whitted, structurally distinct as a **fatal-pursuit sub-signature**. ^[extracted]
+1. **Inc 144 — Chiles–Whitted EAL DC-3 (24 Jul 1948 Montgomery AL)** — see [[references/sighting-chiles-whitted-1948-07]]. 100-ft cigar-shaped object with red-orange flame trail and blue underbelly glow closed on the DC-3 and pulled up sharply. **Earliest 1948 close-approach + flame engagement in the corpus**. ^[extracted]
+2. **Inc 172 — Gorman F-51 dogfight (1 Oct 1948 Fargo ND)** — see [[references/sighting-gorman-fargo-1948-10]]. 27 minutes of mutual maneuvering between an Air NG F-51 and a 6–8 inch round white object across 1,000–14,000 ft. **Longest-duration 1948 engagement-class event in the corpus**. ^[extracted]
 3. **Inc 207 — Andrews AFB pursuit (18 Nov 1948)** — see [[references/sighting-andrews-1948-11]]. 15–18 minute pursuit with sensor-stimulus response to landing-light illumination. **First 1948 engagement-class event with sensor-stimulus response in the corpus**. ^[extracted]
 
-These three events directly contradict the prior wiki claim that 1948 SIGN reports were uniformly passive — and show that **all three engagement sub-signatures** (close-approach + flame, sustained mutual maneuvering, sensor-stimulus response) appear inside Project SIGN's first 10 months. See [[concepts/uap-aircraft-engagement]] for the corrected analysis.
+The **four sub-signatures** — fatal pursuit (Mantell), close-approach + flame (Chiles–Whitted), sustained mutual maneuvering (Gorman), sensor-stimulus response (Andrews) — all appear inside the SIGN intake stream's **first 11 months of formal operation** (Jan–Nov 1948), with Mantell preceding SIGN's formal stand-up by ~3 weeks but inside the same intake apparatus. See [[concepts/uap-aircraft-engagement]] for the corrected analysis.
 
 ### The April 1948 La Paz first engagement (NEW)
 
@@ -139,8 +159,14 @@ SIGN was not Allied air intelligence's first attempt to consolidate unexplained-
 ## See also
 
 - [[references/usaf-flying-discs-1948]]
+- [[references/project-sign-incident-summaries-1-100]] — the May 1947 – Jan 1948 incident-numbered intake stream (founding bundle)
 - [[references/project-sign-incident-summaries-101-172]] — the Jan – Oct 1948 incident-numbered intake stream
 - [[references/project-sign-incident-summaries-173-233]] — the Sep 1948 – Jan 1949 incident-numbered intake stream
+- [[references/sighting-arnold-mt-rainier-1947-06-24]] — Inc 17 (1947 founding event)
+- [[references/sighting-muroc-1947-07-08]] — Inc 1/1c/1e/2/4 (founding AAF-base cluster, 8 Jul 1947)
+- [[references/sighting-rhodes-phoenix-1947-07-07]] — Inc 40 (first photographic evidence, 7 Jul 1947)
+- [[references/sighting-cascade-mts-johnson-1947-06-24]] — Inc 68 (first EM-effect datum, 24 Jun 1947)
+- [[references/sighting-mantell-godman-1948-01-07]] — Inc 33+ (first UAP-attributed fatality, 7 Jan 1948)
 - [[references/sighting-chiles-whitted-1948-07]] — Inc 144 (1948 engagement-class precedent)
 - [[references/sighting-gorman-fargo-1948-10]] — Inc 172 (longest-duration 1948 engagement-class case)
 - [[references/sighting-hamel-mn-1948-08]] — Inc 162 (corpus's first 1948 physical-trace landing)

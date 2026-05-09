@@ -3,8 +3,8 @@ title: From Foo Fighters to Flying Discs — Continuity of the Allied UAP-Report
 category: synthesis
 tags: [uap, history, analysis, intelligence]
 aliases: [WWII to 1948 UAP continuity, Foo Fighters Flying Discs Bridge]
-sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, _raw/18_6369445_general_1948_vol_1.json, fbi-detroit-100-26505-100-de-26505, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json]
-summary: Cross-cutting analysis showing the WWII Allied foo-fighter file (1944–45 SHAEF) and the 1948 USAF Flying Disc effort share institutional structure, candidate-explanation logic, and a near-identical reporting template — with a parallel USAFE-Swedish AIS TS sub-track active in late 1948.
+sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, _raw/18_6369445_general_1948_vol_1.json, fbi-detroit-100-26505-100-de-26505, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/38_143685_box7_incident_summaries_1-100.json]
+summary: Cross-cutting analysis tracing institutional continuity from the WWII Allied foo-fighter apparatus (1944–45 SHAEF) through the AMC T-2 1947 pre-SIGN intake (the founding 1947 Flying Disc wave) into formal Project SIGN (1948) — same five-step loop, same hedged candidate-explanation logic, same intake form across three years.
 provenance:
   extracted: 0.28
   inferred: 0.65
@@ -18,16 +18,17 @@ updated: 2026-05-09T18:30:00Z
 
 # From Foo Fighters to Flying Discs — Continuity of the Allied UAP-Reporting Apparatus, 1944–1948
 
-## Two bundles, three years apart, the same structure
+## Three bundles, four years, the same apparatus (UPDATED)
 
-The wiki now holds two adjacent primary-source bundles on Allied air-force handling of unexplained aerial phenomena:
+The wiki now holds **three adjacent primary-source bundles** on Allied air-force handling of unexplained aerial phenomena. The 1947 1–100 bundle **closes the previously-empty Mar 1945 – Feb 1948 gap** and shows that the same five-step institutional loop ran continuously across the gap:
 
-| Bundle | Date range | Issuing org | Reporting unit | Candidate explanations |
-|---|---|---|---|---|
-| [[references/foo-fighters-shaef-1944-1945]] | Dec 1944 – Mar 1945 | [[entities/shaef-air-staff|SHAEF Air Staff]] + [[entities/uk-air-ministry-ddi2|Air Ministry DDI2]] | [[entities/415th-night-fighter-squadron|415th NFS]], 67 TAC/R | [[concepts/flak-bombe-hypothesis|Flak Bombe]], Me 262, flak rockets |
-| [[references/usaf-flying-discs-1948]] | Feb – Jun 1948 | USAF AFOIR / [[entities/air-materiel-command|AMC]] | All ZI installations + Alaska | [[concepts/horten-flying-wing|Horten flying wing]], Soviet Horten derivatives, [[references/loedding-flying-disc|Loedding LD-2]] |
+| Bundle | Date range | Issuing org | Reporting unit | Intake form | Candidate explanations |
+|---|---|---|---|---|---|
+| [[references/foo-fighters-shaef-1944-1945]] | Dec 1944 – Mar 1945 | [[entities/shaef-air-staff\|SHAEF Air Staff]] + [[entities/uk-air-ministry-ddi2\|Air Ministry DDI2]] | [[entities/415th-night-fighter-squadron\|415th NFS]], 67 TAC/R | Squadron-level free-text sortie reports + Boykin questionnaire | [[concepts/flak-bombe-hypothesis\|Flak Bombe]], Me 262, flak rockets |
+| **[[references/project-sign-incident-summaries-1-100]]** | **May 1947 – Jan 1948** | **AMC T-2 (pre-SIGN)** | **AAF/USAF officers, civilian pilots, civilians, police** | **25-field "Check-List Unidentified Flying Objects" form** | (none institutionalized; agent-level case-by-case) |
+| [[references/usaf-flying-discs-1948]] + [[references/project-sign-incident-summaries-101-172]] + [[references/project-sign-incident-summaries-173-233]] | Feb 1948 – Jan 1949 | USAF AFOIR / [[entities/air-materiel-command\|AMC]] (Project SIGN) | All ZI installations + Alaska + worldwide | Same 25-field form (carried over) | [[concepts/horten-flying-wing\|Horten flying wing]], Soviet Horten derivatives, [[references/loedding-flying-disc\|Loedding LD-2]] |
 
-Three years separate them — but the institutional structure, the typology of candidate explanations, and even the *prose register* of the closing memos are nearly identical. This synthesis page draws the threads together.
+The 1947 bundle is the **bridge artifact** — the one that proves the SHAEF→SIGN apparatus continuity is not a coincidence. AMC T-2's pre-SIGN intake was running the **identical 25-field intake form** from 8 Jul 1947 (Inc 1 [[references/sighting-muroc-1947-07-08|Muroc cluster]]) through 7 Jan 1948 ([[references/sighting-mantell-godman-1948-01-07|Mantell sequence]]) and on into formal Project SIGN at the 27 Feb 1948 Cabell directive **without any change in form, routing, or analytical posture**. ^[extracted] The Cabell directive **codified** the apparatus that had been running for ~7 months. ^[inferred]
 
 ## The shared institutional pattern
 
@@ -40,6 +41,12 @@ Each bundle implements the same five-step loop: ^[inferred]
 5. **The file is closed without satisfactory resolution; the loop persists.**
 
 The similarity is not coincidence. The 1948 USAF intelligence apparatus inherited its structure (and many of its officers) directly from the wartime SHAEF / USSTAF combined-air-forces apparatus. ^[inferred]
+
+### The 1947 bridge — the apparatus operates with no external war
+
+The 1–100 bundle directly resolves the question of how this institutional loop survived demobilization. AMC T-2 began running the **identical 25-field intake form** at Muroc on 8 Jul 1947 (Inc 1) — **2 years and 4 months after the 13 March 1945 DDI2 reply** that closed the wartime foo-fighter file. ^[extracted] The 1947 bundle's witness pool — AAF officers (McHenry, Wise, Stapp, Shoop), civilian commercial pilots (UAL Capt Smith, PAA Capt Griffin), trained scientific observers (Wood, Stapp, NRL Rocket Sonde scientists Kauke/Zohn/Rockwood), and police officers (Portland City PD private-pilot patrolmen) — is **structurally identical** to the wartime foo-fighter witness pool minus the aircrew-in-active-combat element. ^[inferred] The form, the routing, the agent-narrative summary, the credibility-evaluation conventions are unchanged.
+
+The Mantell sequence (Inc 33+, 7 Jan 1948) **is the apparatus's first operational stress-test in peacetime** — a 12-hour cross-state phenomenon producing 17+ correlated witness sheets, a fatal pursuit, and a Venus rationalization explicitly questioned in real-time by the original investigators. ^[extracted] The fact that the apparatus produced this depth of cross-correlated record on a peacetime continental-US event proves the apparatus had been running through 1947 with operational discipline, **not in standby**. ^[inferred]
 
 ## The shared candidate-explanation logic
 
@@ -58,13 +65,26 @@ In both cases the cited primary intelligence document is **retained by the techn
 
 The structural role is identical: name a candidate, point at a sealed report, hedge the identification, do not actually settle the question. ^[inferred] See [[concepts/flak-bombe-hypothesis]] and [[concepts/horten-flying-wing]].
 
-## The shared reporting-template lineage
+## The shared reporting-template lineage (UPDATED)
 
 The 30 January 1945 First Tactical Air Force questionnaire to the [[entities/415th-night-fighter-squadron|415th NFS]] (Maj S. V. Boykin's "more complete information" request) asks for: ^[extracted]
 
 > *"colors of the lights, their intensity, size, duration, and at what altitudes seen; also if the lights are observed at any specific hours. Do subject lights cross Allied lines and in what direction are they seen to travel? Also, has it been noted on what part of the aircraft are they carried, i.e. wing, tail, prop; and how close do they approach our aircraft?"*
 
-This is the same observational template that becomes the **[[concepts/flying-disc-reporting-protocol|10-element 1948 Flying Disc reporting template]]**: shape, size, colour, number, formation, direction, altitude, duration, distance from observer, manner of disappearance. ^[inferred] The wartime version is squadron-level and ad-hoc; the 1948 version is institutional and standardised — but the questionnaire bones are the same.
+This wartime free-text questionnaire **becomes** the **25-field "Check-List Unidentified Flying Objects" form** that AMC T-2 was using by **8 Jul 1947** (Inc 1 Muroc). ^[extracted] Cabell's [[concepts/flying-disc-reporting-protocol|10-element 1948 Flying Disc reporting template]] is **a doctrine-level summary of the form's existing 25 fields**, not a new instrument. ^[inferred]
+
+The form's 25 fields, traceable to Boykin's wartime questionnaire bones:
+
+| Wartime Boykin field | 1947+ Form field |
+|---|---|
+| color of lights, intensity | Field 17 (Color), Field 21 (Exhaust trails) |
+| size, duration | Field 16 (Size), Field 10 (Time in sight) |
+| altitudes | Field 11 (Altitude) |
+| direction of travel | Field 13 (Direction of flight) |
+| close-approach geometry | Field 9 (Distance), Field 14 (Tactics) |
+| (new in 1947+) | Fields 18 (Shape), 22 (Weather), 23 (Effect on clouds), 24 (Sketches/photographs), 25 (Manner of disappearance), 26 (Remarks) |
+
+The 1947+ form's **shape**, **photograph**, and **effect on clouds** fields are the structural additions reflecting the post-foo-fighter (post-luminous-only) morphology expansion to discs / spheres / cigars / triangular formations. ^[inferred] The form **predates SIGN's formal stand-up by 7 months**, was already operational at AMC T-2 during the 1947 Flying Disc wave, and was carried into SIGN unchanged. ^[extracted]
 
 ## The persistent admission of unknowns
 
@@ -99,10 +119,13 @@ The fact that this break enters the apparatus via a **foreign-allied AIS** rathe
 - **The Gut Alt Golssen thread** ([[references/sighting-gut-alt-golssen-1944]]) is a **second-order witness datum** — Polish POW Krasuski's 1944 ground-level account of a 75–100-yard ascending circular vehicle with a rotating mid-section, recorded by the FBI 13 years later in 1957 ([[references/fbi-detroit-100-26505-krasuski-1957]]). Like the cylindrical-object thread, it does not fit either the foo-fighter / balls-of-fire regime or the disc / flying-wing regime, and the candidate-explanation menus of both 1944–45 SHAEF and 1948 USAF do not naturally accommodate the morphology. Treat as supplementary witness recall, not as confirmation of any specific German-program hypothesis. ^[inferred]
 - **The political stakes**. In 1944–45 the candidate explanations are wartime German weapons; in 1948 they are Cold War Soviet weapons. The threat-attribution flips with the geopolitical environment, but the institutional behaviour does not change. ^[inferred]
 
-## What this means for the corpus
+## What this means for the corpus (UPDATED)
 
-- The wiki's **earliest UAP-adjacent operational record** is now the WWII SHAEF file, not the 1948 USAF file.
+- The wiki's **earliest UAP-adjacent operational record** is the WWII SHAEF file (Dec 1944).
+- The **continuity from foo-fighters to Flying Discs is no longer a structural inference** — it is a **direct primary-source observation**. The same 25-field intake form, descended from Boykin's 1945 wartime questionnaire, was running at AMC T-2 by 8 Jul 1947 and went unchanged into Project SIGN at the 27 Feb 1948 Cabell directive. ^[extracted]
 - The "[[concepts/horten-flying-wing|Horten thesis]]" of 1948 is best read **not** as a postwar discovery but as the **continuation** of a wartime candidate-explanation discipline that had already produced the [[concepts/flak-bombe-hypothesis|Flak Bombe]] and the Me 262 / flak-rocket attributions. ^[inferred]
+- The **fatal-pursuit engagement-class sub-signature** — currently anchored only at the 7 Jan 1948 [[references/sighting-mantell-godman-1948-01-07|Mantell event]] — sits inside this continuity. ^[inferred] The sub-signature does **not** appear in the 1944–45 foo-fighter file (no aircrew were lost pursuing foo fighters), and does **not** recur in the 1948 SIGN data (Chiles–Whitted, Gorman, Andrews all end with intact aircrew). The Mantell event is the **single fatal-pursuit datum** in the entire 1944–1949 reporting-apparatus continuity — making it structurally singular within the apparatus. ^[inferred]
+- The **EM-effect signature** — anchored at [[references/sighting-cascade-mts-johnson-1947-06-24|Inc 68 Fred Johnson]] (24 Jun 1947 Cascade Mts, compass-and-watch deflection during disc passage) — was **operationally present at the earliest moment of formal UAP observation**, but was not recognized as a research lead by the apparatus. ^[inferred] See [[concepts/engine-stall-phenomenon]].
 - Modern AARO's procedural reporting structure ([[entities/aaro]], [[references/western-us-event-2026]]) inherits — through SIGN, GRUDGE, BLUE BOOK and the post-Robertson-Panel Cold War regime — the WWII SHAEF/Air Ministry routing template. ^[inferred]
 
 ## Related synthesis
@@ -114,6 +137,12 @@ The fact that this break enters the apparatus via a **foreign-allied AIS** rathe
 ## See also
 
 - [[references/foo-fighters-shaef-1944-1945]]
+- [[references/project-sign-incident-summaries-1-100]] — **the bridge file** (May 1947 – Jan 1948)
+- [[references/sighting-arnold-mt-rainier-1947-06-24]]
+- [[references/sighting-muroc-1947-07-08]]
+- [[references/sighting-rhodes-phoenix-1947-07-07]]
+- [[references/sighting-cascade-mts-johnson-1947-06-24]]
+- [[references/sighting-mantell-godman-1948-01-07]]
 - [[references/usaf-flying-discs-1948]]
 - [[concepts/foo-fighter-phenomenon]]
 - [[concepts/balls-of-fire-red]]

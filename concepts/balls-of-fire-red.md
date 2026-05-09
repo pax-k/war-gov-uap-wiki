@@ -3,7 +3,7 @@ title: "Balls of Fire — Red"
 category: concepts
 tags: [uap, history, ww2, intelligence]
 aliases: [Balls of Fire Red, Red Balls of Fire, DDI2 file 111/45]
-sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json]
+sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/38_143685_box7_incident_summaries_1-100.json]
 summary: UK Air Ministry (DDI2) filing term for the same set of WWII unexplained-night-light reports the USAAF called "foo fighters"; canonicalises the British-side intelligence framing. Morphology persists across multiple 1948 CONUS sightings.
 provenance:
   extracted: 0.78
@@ -58,6 +58,18 @@ This is a **near-perfect morphological match** to the 1944–45 DDI2 "Balls of F
 
 The associated [[references/project-sign-incident-summaries-173-233|Inc 184 Winona MN sighting]] (20 Oct 1948 0600 — "bunch of sparks with a tail" that broke up into bright particles, 25 ft × 8 ft, slow) is **the same morning, ~100 miles southeast** of the Hansen/Oliver sighting and likely the **same object class** in a later/more-fragmented phase. ^[inferred]
 
+## Continuity from late 1947 (NEW)
+
+The [[references/project-sign-incident-summaries-1-100|1–100 bundle]] establishes that the "Balls of Fire — Red" morphology was **sustained from the wartime SHAEF apparatus into the 1947 Flying Disc wave without gap**:
+
+- **Inc 35 (12 Nov 1947 early, 40 mi S Cape Blanco OR — 20 mi offshore)** — 2nd Officer Claude Lee Williamson (tanker Ticonderoga) reports **two flying discs trailing jet-like streams of fire**, 700–900 mph, in a long low arc out of the north horizon. ^[extracted] **First maritime-witness "balls-of-fire" datum in the corpus**; first paired-fireball observation since the 1944–45 file.
+- **Inc 56 (6 Jul 1947 2045 Birmingham AL)** — S/Sgt Ira L. Livingston observes **7–10 round 2-ft glow objects** producing dim luminous trail in vertical-then-arc trajectory, 500–600 mph SE. ^[extracted]
+- **Inc 98 (2 Nov 1947 before sunrise, Anderson Rd Houston TX)** — Mr & Mrs Brimberry (DOJ Immigration) report a **26–30-inch fireball with 20-ft tail** spinning earthward, "**suddenly went out before reaching earth**" near an 18-acre adjacent field. ^[extracted]
+- **Inc 50 + 50a (10 Jan 1948 2200 EST Wildwood NJ)** — Mrs Ethel Evans + Mrs Krueger observe a **yellow / red / amber-colored ovular tear-drop object** descending and splitting into two pieces falling into the sea. ^[extracted]
+- **Inc 94 + 95 + 96 + 97 (30 Dec 1947 1925 PST, multi-state CA/NV/OR-CA border simultaneous)** — 4-station correlation of an object **trailing intense green and blue flames**, descending vertically, exploding mid-air with a **subsequent 2 hr 18 min ground fire** at 38°50'N 121°02'W (Inc 95 Rosedale CA). ^[extracted] **First post-1944–45 Western-US ground-fire-correlated descent in the corpus.**
+
+The SIGN-stream 1947 cases preserve the wartime night-phenomena signature **continuously from 6 Jul 1947 through 10 Jan 1948** — the gap between DDI2's 13 March 1945 reply and the 1948 Minneapolis Inc 185 cluster is therefore **closed by 18 months of intermediate corpus data**. ^[inferred]
+
 ## Sustained 1948 CONUS persistence — Inc 144 + 147 + 153 + 166 (NEW)
 
 The [[references/project-sign-incident-summaries-101-172|101–172 bundle]] preserves four additional 1948 CONUS sightings whose morphology overlaps the "Balls of Fire — Red" / red-flame-trail signature:
@@ -74,8 +86,10 @@ Together with Inc 184 + 185 from the 173–233 bundle, these events show the war
 - [[concepts/foo-fighter-phenomenon]] — the US-side term
 - [[concepts/flak-bombe-hypothesis]] — A.D.I.(K)'s parallel candidate explanation
 - [[references/foo-fighters-shaef-1944-1945]] — primary source
+- [[references/project-sign-incident-summaries-1-100]] — Jul 1947 – Jan 1948 CONUS persistence (Inc 35, 50, 56, 94–97, 98)
 - [[references/project-sign-incident-summaries-101-172]] — Jul–Aug 1948 CONUS persistence (Inc 144, 147, 153, 166)
 - [[references/project-sign-incident-summaries-173-233]] — Oct 1948 CONUS persistence (Inc 184 + 185)
 - [[references/sighting-chiles-whitted-1948-07]] — Inc 144 — red-orange flame trail + blue underbelly glow
+- [[references/sighting-mantell-godman-1948-01-07]] — Mantell-cluster Wilmington flaming-cone signature (Inc 48/48a–d)
 - [[entities/uk-air-ministry-ddi2]]
 - [[entities/shaef-air-staff]]

@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T18:00:00Z",
+  "updated": "2026-05-10T11:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -102,7 +102,7 @@
         "projects/uap/uap.md"
       ]
     },
-    "sources/331_120752_numeric_files_1944\u20131945_37153_german_armament_equipment_documents.json": {
+    "sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json": {
       "ingested_at": "2026-05-09T14:07:00Z",
       "size_bytes": 24313,
       "modified_at": "2026-05-09T13:07:43Z",
@@ -533,6 +533,35 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/38_143685_box7_incident_summaries_1-100.json": {
+      "ingested_at": "2026-05-10T11:00:00Z",
+      "size_bytes": 245817,
+      "modified_at": 1778332063,
+      "content_hash": "sha256:b1fdd39248eb8e23cf4340199eef4ae8f75325b6c5bb95dc1f853c01b177f603",
+      "source_id": "nara-rg38-143685-box7-project-sign-incident-summaries-1-100",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/project-sign-incident-summaries-1-100.md",
+        "references/sighting-arnold-mt-rainier-1947-06-24.md",
+        "references/sighting-mantell-godman-1948-01-07.md",
+        "references/sighting-muroc-1947-07-08.md",
+        "references/sighting-rhodes-phoenix-1947-07-07.md",
+        "references/sighting-cascade-mts-johnson-1947-06-24.md"
+      ],
+      "pages_updated": [
+        "concepts/project-sign.md",
+        "synthesis/foo-fighters-to-flying-discs.md",
+        "concepts/foo-fighter-phenomenon.md",
+        "concepts/balls-of-fire-red.md",
+        "concepts/uap-aircraft-engagement.md",
+        "concepts/engine-stall-phenomenon.md",
+        "references/project-sign-incident-summaries-101-172.md",
+        "_meta/taxonomy.md",
+        "index.md"
+      ]
     }
   },
   "projects": {
@@ -543,8 +572,8 @@
     }
   },
   "stats": {
-    "total_sources_ingested": 21,
-    "total_pages": 138,
+    "total_sources_ingested": 22,
+    "total_pages": 144,
     "total_projects": 1,
     "last_full_rebuild": null
   }

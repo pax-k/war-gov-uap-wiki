@@ -50,9 +50,13 @@ DDI2 explicitly conceded: "*The whole affair is still something of a mystery and
 - Whether any subsequent technical evaluation (Mr Robertson / Scientific Investigation Division, USSTAF Tech Intelligence, Col Bradley) ever produced an answer beyond the DDI2 reply. ^[ambiguous]
 - Whether the parallel cylindrical-object thread is the same phenomenon or a distinct one. The file routes them under the same SHAEF reference (37153) but the morphology differs sharply. ^[inferred]
 
-## Place in the larger UAP picture
+## Place in the larger UAP picture (UPDATED)
 
-The foo-fighter case is the **WWII operational precedent** for every later institutional UAP-collection regime: aircrew report unexplained objects, the chain of command treats them seriously enough to escalate, the technical-intelligence apparatus offers conventional explanations that don't fully fit, and the matter is closed without resolution. ^[inferred] The structural parallel to [[concepts/project-sign|Project SIGN]] (1948), the modern [[entities/aaro|AARO]] intake (2026 — see [[references/western-us-event-2026]]), and the 2025 intelligence-witness statement is striking. See [[synthesis/foo-fighters-to-flying-discs]].
+The foo-fighter case is the **WWII operational precedent** for every later institutional UAP-collection regime: aircrew report unexplained objects, the chain of command treats them seriously enough to escalate, the technical-intelligence apparatus offers conventional explanations that don't fully fit, and the matter is closed without resolution. ^[inferred]
+
+The 1947 [[references/project-sign-incident-summaries-1-100|1–100 SIGN bundle]] **closes the previously-empty gap** between the 13 March 1945 DDI2 reply (which closed the wartime foo-fighter file) and the 27 February 1948 Cabell directive (which formally established Project SIGN). AMC T-2's pre-SIGN intake apparatus was running the **identical 25-field "Check-List Unidentified Flying Objects" form** by 8 Jul 1947 (Inc 1 [[references/sighting-muroc-1947-07-08|Muroc cluster]]) — descended directly from Boykin's 30 Jan 1945 questionnaire to the 415th NFS. ^[extracted] The institutional loop did not pause at war's end; it merely shifted reporting bodies and morphology vocabulary (lights → discs / spheres / cigars). ^[inferred]
+
+The structural parallel to [[concepts/project-sign|Project SIGN]] (1948), the modern [[entities/aaro|AARO]] intake (2026 — see [[references/western-us-event-2026]]), and the 2025 intelligence-witness statement is now anchored to a **continuous primary-source apparatus** rather than to inferred institutional similarity. See [[synthesis/foo-fighters-to-flying-discs]].
 
 ## See also
 
