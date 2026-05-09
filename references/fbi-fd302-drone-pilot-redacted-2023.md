@@ -12,12 +12,12 @@ base_confidence: 0.45
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T17:00:00Z
-updated: 2026-05-09T17:00:00Z
+updated: 2026-05-09T17:30:00Z
 ---
 
 # FBI FD-302: Drone-Pilot UAP Witness (Sept 2023, redacted)
 
-A 2-page redacted Mistral-OCR'd [[entities/fbi|FBI]] FD-302 form (Rev. 5-8-10) recording a single witness interview about a September 2023 UAP sighting. The interview was conducted via FaceTime by an FBI Special Agent (with one observer) in late September 2023; the form was drafted 2 October 2023. The single sighting narrative is at [[references/sighting-fbi-fd302-drone-pilot-2023-09]].
+A 2-page redacted Mistral-OCR'd [[entities/fbi|FBI]] FD-302 form (Rev. 5-8-10) recording **the contractor drone-pilot witness interview** — one of **at least two FD-302s** drafted 2 October 2023 about the same September 2023 UAP incident. The interview was conducted via FaceTime by an FBI Special Agent (with one observer) in late September 2023; the form was drafted 2 October 2023. The **sister FD-302** for the lead-vehicle driver of the same convoy is at [[references/fbi-fd302-serial-3-driver-redacted-2023]] (serial-3 — recovered after this artifact was first ingested as serial-4). The consolidated multi-witness sighting narrative is at [[references/sighting-fbi-fd302-drone-pilot-2023-09]].
 
 ## Provenance
 
@@ -65,14 +65,15 @@ The FD-302 is the standard FBI narrative interview form. Key distinguishing feat
 
 ## Open threads
 
-- Locate / ingest **`sources/serial-3_redacted.json`** and any other numbered serial-N records in the same release tranche. The numbering implies ≥4 documents in this serial set. ^[open]
+- ✅ Located / ingested **`sources/serial-3_redacted.json`** — see [[references/fbi-fd302-serial-3-driver-redacted-2023]]. **serial-1 and serial-2 still outstanding**; the numbering implies ≥4 documents in this serial set. ^[open]
 - Identify the **FBI investigative file** this FD-302 is associated with (file # is redacted) — file structure and field office may be inferable from any companion documents in the same serial release.
 - Determine the **release authority** (FOIA office? AARO public release? Vault library?) — this affects how to weight redactions and whether unredacted variants exist elsewhere.
 - Cross-check whether the **LiDAR test contractor** can be identified from public records — the date window (Sept 2023) and "drone pilot + three other contractors" team configuration may narrow the candidate set. (No exfiltration; record-only.) ^[open]
 
 ## See also
 
-- [[references/sighting-fbi-fd302-drone-pilot-2023-09]] — the sighting narrative
+- [[references/sighting-fbi-fd302-drone-pilot-2023-09]] — the consolidated multi-witness sighting narrative
+- [[references/fbi-fd302-serial-3-driver-redacted-2023]] — sister FD-302 (lead-vehicle driver, serial-3)
 - [[entities/fbi]] — agency entity
 - [[synthesis/federal-le-uap-witness-pattern]]
 - [[projects/uap/uap]]

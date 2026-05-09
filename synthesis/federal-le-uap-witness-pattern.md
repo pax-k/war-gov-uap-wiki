@@ -2,8 +2,8 @@
 title: "Federal LE Agents as UAP Witnesses: a Witnessing Pattern"
 category: synthesis
 tags: [uap, analysis, witness, federal-le]
-sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/serial-4-redacted_redacted.json]
-summary: Cross-cutting analysis of why trained government-affiliated witnesses (federal LE, intel officials, multi-sensor crews, contractor drone pilots) sit structurally above typical civilian UAP reports as evidence — and where they still fail.
+sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json]
+summary: Cross-cutting analysis of why trained government-affiliated witnesses (federal LE, intel officials, multi-sensor crews, contractor drone pilots, on-site test/range supervisors) sit structurally above typical civilian UAP reports as evidence — and where they still fail.
 provenance:
   extracted: 0.3
   inferred: 0.65
@@ -25,9 +25,9 @@ This page started as an analysis of federal **law enforcement** witnesses (the 2
 |---|---|---|---|
 | [[references/western-us-event-2026]] | 7 federal LE special agents (USPER1–USPER7) | `USPERn` | NVG + naked eye |
 | [[references/usper-statement-2025]] | Senior US intel officials + state-org helicopter pilots + LP/OP team | `[WITNESS N]`, `[FEDERAL PARTNER N]` | FLIR + NVG + naked eye |
-| [[references/fbi-fd302-drone-pilot-redacted-2023]] | Single contractor drone pilot in deconflicted-airspace LiDAR field test, interviewed by FBI Special Agent | All identifiers `[REDACTED]` on FD-302 | Naked eye through windshield |
+| [[references/fbi-fd302-drone-pilot-redacted-2023]] + [[references/fbi-fd302-serial-3-driver-redacted-2023]] | Two parallel-FD-302 lead-vehicle witnesses (contractor drone pilot **+** range/test-site driver) in deconflicted-airspace LiDAR field test, both interviewed by FBI Special Agents on the same drafting date | All identifiers `[REDACTED]` on both FD-302s | Naked eye through windshield (both) + co-temporal gate anomaly recorded by driver |
 
-The 2026 deck concentrates **seven federal law enforcement special agents (USPER1–USPER7)** as primary witnesses across four sightings in two days. The 2025 statement concentrates **one senior intel official + two NVG-equipped pilots + a FLIR-equipped LP/OP team** on a single multi-hour event with cross-sensor confirmation of the same time-stamped observations. The 2023 FBI FD-302 case is at the **opposite extreme**: a single trained-observer witness, daylight, naked-eye-only, no instrumented capture — a structural lower bound for the same witness-class argument. ^[inferred]
+The 2026 deck concentrates **seven federal law enforcement special agents (USPER1–USPER7)** as primary witnesses across four sightings in two days. The 2025 statement concentrates **one senior intel official + two NVG-equipped pilots + a FLIR-equipped LP/OP team** on a single multi-hour event with cross-sensor confirmation of the same time-stamped observations. The 2023 FBI FD-302 case (initially a single-witness lower bound) is **upgraded** by the serial-3 ingest to **two parallel FD-302s on the same incident** — two trained-observer witnesses in the same lead vehicle, plus a contested second-vehicle observation. The intake pipeline produces **one FD-302 per witness**, which preserves cross-witness divergence (cigar-vs-linear shape, bronze-vs-gray color, "saw it" vs "tried-and-failed" on the second-vehicle observation) for downstream analysis rather than rolling them into a single narrative. ^[inferred]
 
 ## Why this witness class is structurally stronger than baseline UAP testimony
 
@@ -39,6 +39,7 @@ These are *generalizations*, not guarantees: ^[inferred]
 - **Career penalty for fabrication** — even anonymized (USPER tokens, `[WITNESS N]` brackets), on-the-record statements within a federal investigative chain carry institutional consequences for inventing detail. ^[inferred]
 - **Familiar with structured statement-taking** — the level of granularity in both anchor sources (lighting position, height above ground, range estimates, NVG vs. bare-eye, timestamps to the minute) maps to professional incident-report habits. ^[inferred]
 - **Multi-sensor cross-channel correlation** — the 2025 statement adds a structural strength the 2026 deck doesn't have: the same time-stamped events confirmed across **FLIR, NVG, and naked eye** simultaneously. This is much harder to attribute to a single observer's perception artifact. ^[inferred]
+- **Independent-FD-302 parallel-witness recording** (NEW from the 2023 FBI case) — when the FBI takes one FD-302 per witness rather than rolling multiple accounts into a single narrative, **disagreements survive into the record** (e.g., the serial-3 driver's "cigar / metallic bronze / almost hovering" vs. the serial-4 drone pilot's "linear / metallic gray / parallel motion" of the same object). This is structurally preferable to a single rolled-up statement, because it lets a downstream analyst see *which* features are stable across observers and *which* are not. ^[inferred] It is also the **first explicit social-cost-of-reporting record** in the modern corpus — the serial-3 witness reported being mocked by co-workers afterward, raising the prior that what is reported was not casually invented.
 
 ## Where federal LE testimony does *not* carry extra weight
 
@@ -75,6 +76,7 @@ This synthesis page should be revisited every time a trained-observer-witnessed 
 - [[references/usper-statement-2025]]
 - [[references/sighting-helicopter-orb-encounter-2025]]
 - [[references/fbi-fd302-drone-pilot-redacted-2023]]
+- [[references/fbi-fd302-serial-3-driver-redacted-2023]]
 - [[references/sighting-fbi-fd302-drone-pilot-2023-09]]
 - [[concepts/orb-phenomenon]]
 - [[concepts/orb-flare-formation]]

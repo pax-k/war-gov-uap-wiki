@@ -3,8 +3,8 @@ title: UAP
 category: project
 tags: [uap, history, intelligence, archive]
 source_path: _raw/ (declassified UAP archive volumes), sources/ (Mistral-OCR'd briefings and witness statements)
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json]
-summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN, a 1963 NASC policy memo, two 1985 + 1994 DOS diplomatic-channel cables, the 2026 AARO Western US event, a 2025 SECRET//NOFORN intel-official witness statement, and a 2023 FBI FD-302 drone-pilot witness interview.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json]
+summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN, a 1963 NASC policy memo, two 1985 + 1994 DOS diplomatic-channel cables, the 2026 AARO Western US event, a 2025 SECRET//NOFORN intel-official witness statement, and **two parallel 2023 FBI FD-302s** on the same Sept 2023 contractor-convoy UAP incident.
 provenance:
   extracted: 0.5
   inferred: 0.5
@@ -13,7 +13,7 @@ base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T16:30:00Z
+updated: 2026-05-09T17:30:00Z
 ---
 
 # UAP
@@ -44,9 +44,14 @@ A research project distilling declassified primary-source archives on Unidentifi
 
 - [[references/western-us-event-2026]] — 4-slide briefing deck describing a multi-day cluster of UAP observations by federal LE agents USPER1–USPER7 in the Western U.S., with [[entities/aaro|AARO]] follow-up.
 
-### 2023 FBI FD-302 drone-pilot witness interview (NEW)
+### 2023 FBI FD-302 Sept 2023 contractor-convoy incident (TWO parallel FD-302s)
 
-- [[references/fbi-fd302-drone-pilot-redacted-2023]] — 2-page redacted FBI FD-302 (Rev. 5-8-10) drafted 2 Oct 2023 recording a Sept 2023 contractor drone-pilot daylight UAP sighting (linear metallic object with super-bright white light at ~5,000 ft AGL during a LiDAR field test). Single sighting narrative at [[references/sighting-fbi-fd302-drone-pilot-2023-09]]. The wiki's **first FBI-originated UAP-adjacent record** ^[inferred] and first *judicially-aimed evidentiary form* (FD-302) in the corpus. Source filename `serial-4-redacted_redacted.json` plus a sibling `serial-3_redacted.json` in `sources/` imply a numbered serial release of related FBI records. ^[inferred]
+The Sept 2023 incident is now documented across **two parallel FD-302s** drafted on the **same date (2 Oct 2023)** by FBI Special Agents:
+
+- [[references/fbi-fd302-drone-pilot-redacted-2023]] — serial-4. Front-passenger / contractor drone pilot witness, FaceTime interview.
+- [[references/fbi-fd302-serial-3-driver-redacted-2023]] — serial-3. **NEW** ingest. Lead-vehicle driver / range or test-site authority, **in-person** interview at her office, with the witness's supervisor sitting in.
+
+Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302-drone-pilot-2023-09]] — same lead vehicle, two seats, two FD-302s, plus a contested second-vehicle observation (one FD-302 says yes, the other says no). The two morphology descriptions agree on east-to-west motion, single intense white light on the eastern end, helicopter-class length, and silence — and **diverge** on cigar (driver) vs linear (drone pilot) shape, metallic bronze (driver) vs metallic gray (drone pilot) color, and "almost hovering" (driver) vs "moving parallel" (drone pilot). The serial-3 record also adds a **co-temporal gate anomaly** (3 close-cycles + 4th attempt opens normally; explicit no-prior-no-after baseline) — the corpus's first modern bounded co-temporal physical-effect entry. ^[inferred] The wiki's **first FBI-originated UAP-adjacent record** ^[inferred] and first *judicially-aimed evidentiary form* (FD-302) in the corpus. The numbered-serial release tranche still has **serial-1 and serial-2 outstanding**; numbering implies ≥4 documents. ^[inferred]
 
 ### 2025 redacted intel-official statement
 
@@ -84,7 +89,7 @@ A research project distilling declassified primary-source archives on Unidentifi
 ## Modern institutional structures
 
 - [[entities/aaro|AARO]] — All-domain Anomaly Resolution Office; modern intake/assessment authority. Stub page; fills out as more AARO-handled material is ingested.
-- [[entities/fbi]] — Federal Bureau of Investigation; intake authority for the 2023 redacted FD-302 drone-pilot interview. Structurally distinct from AARO — uses a *judicially-aimed evidentiary form* rather than a briefing-deck format. ^[inferred] (NEW)
+- [[entities/fbi]] — Federal Bureau of Investigation; intake authority for the **two parallel 2023 redacted FD-302s** ([[references/fbi-fd302-drone-pilot-redacted-2023|serial-4]] + [[references/fbi-fd302-serial-3-driver-redacted-2023|serial-3]]) on the Sept 2023 contractor-convoy incident. Structurally distinct from AARO — uses a *judicially-aimed evidentiary form* rather than a briefing-deck format, and produces **one FD-302 per witness**, preserving cross-witness divergence. ^[inferred]
 
 ## Diplomatic-channel layer (1985 PNG + 1994 Kazakhstan)
 
@@ -159,7 +164,7 @@ A research project distilling declassified primary-source archives on Unidentifi
 | 24 January 1985, evening (~1900 + 2200 local) | Papua New Guinea (Wewak / Angoram / various) | Air Niugini commercial pilot (radar) + Wewak residents + multi-vantage contrail witnesses | [[references/sighting-papua-new-guinea-1985-01-24]] |
 | 27 January 1994, ~dark + sunrise | Over Kazakhstan (~45°N 55°E), FL410 | Tajik Air Capt Ed Rhodes + 2 American ex-PanAm crew on Boeing 747SP | [[references/sighting-kazakhstan-1994-01-27]] |
 | 2025, single night, ~22:00–23:20 | Redacted US facility | Senior US intel official + state-org pilots + LP/OP team (FLIR + NVG + naked eye) | [[references/sighting-helicopter-orb-encounter-2025]] |
-| Sept 2023, ~07:30 local | Redacted United States | Contractor drone pilot (LiDAR test convoy) — interviewed by FBI on FD-302 | [[references/sighting-fbi-fd302-drone-pilot-2023-09]] |
+| Sept 2023, ~07:15–07:30 local | Redacted United States (range / restricted airspace) | Lead-vehicle driver (range or test-site authority) + lead-vehicle passenger (contractor drone pilot) — both interviewed by FBI on parallel FD-302s; contested second-vehicle observation | [[references/sighting-fbi-fd302-drone-pilot-2023-09]] |
 | Unspecified, recent (≤2026) | Western U.S. | federal LE USPER1–USPER6 | [[references/sighting-orbs-launching-orbs-western-us]] |
 | Unspecified, recent (≤2026) | Western U.S. | federal LE USPER5, USPER6 | [[references/sighting-fiery-orb-western-us]] |
 | Unspecified, recent (≤2026) | Western U.S. | federal LE USPER5, USPER6 | [[references/sighting-dark-kite-western-us]] |
@@ -192,9 +197,11 @@ A research project distilling declassified primary-source archives on Unidentifi
 - Locate the **photos** Capt Ed Rhodes took with the pocket Olympus camera on 27 Jan 1994, and any **Tajikistan-Desk (Lowry Taylor)** follow-on traffic. ^[open]
 - Cross-check Russian air-defense / Roscosmos / Kazakh civil-aviation records for any 27 Jan 1994 anomalous-track event in the 45°N 55°E area. ^[open]
 - Determine whether `TSAP` is the conventional DOS subject-tag for unidentified aerial phenomena reporting (alongside `EAIR`), or coincidental in the 1994 cable. ^[ambiguous]
-- Locate / ingest **`sources/serial-3_redacted.json`** and any other numbered serial-N records in the same FBI release tranche; the numbering implies ≥4 documents. ^[open]
-- Identify the **FBI investigative file** the Sept 2023 FD-302 is associated with (file # is redacted); cross-reference any FBI Vault or FOIA-released UAP-adjacent material once located. ^[open]
+- ✅ Located / ingested **`sources/serial-3_redacted.json`** — see [[references/fbi-fd302-serial-3-driver-redacted-2023]]; **serial-1 and serial-2 still outstanding** in the same numbered release tranche. ^[open]
+- Identify the **FBI investigative file** the Sept 2023 FD-302s are associated with (file # is redacted on both); cross-reference any FBI Vault or FOIA-released UAP-adjacent material once located. ^[open]
 - Determine whether the FBI maintains a **standing UAP-adjacent intake protocol** or files such records under whatever substantive case category (counter-intelligence, counterterrorism, criminal) the underlying investigation belongs to. ^[inferred]
+- Resolve the **second-vehicle observation contradiction** — serial-3 (driver) records that "[REDACTED] in the second vehicle said he saw the object too" while serial-4 (drone pilot) records that the second-vehicle occupant tried-and-failed. A third FD-302 (a second-vehicle witness's own statement) would resolve. ^[open]
+- Determine whether the **co-temporal gate anomaly** recorded in serial-3 (3 close-cycles, 4th attempt opens normally) was logged through facility security/maintenance channels, and whether the FBI checked. ^[open]
 
 ## See also
 

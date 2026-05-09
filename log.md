@@ -16,3 +16,4 @@ title: Wiki Log
 - [2026-05-09T16:15:00Z] INGEST source="sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json" pages_created=5 pages_updated=1 mode=append project=uap source_type=document
 - [2026-05-09T16:30:00Z] INGEST source="sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json" pages_created=4 pages_updated=2 mode=append project=uap source_type=document
 - [2026-05-09T17:00:00Z] INGEST source="sources/serial-4-redacted_redacted.json" pages_created=3 pages_updated=3 mode=append project=uap source_type=document
+- [2026-05-09T17:30:00Z] INGEST source="sources/serial-3_redacted.json" pages_created=1 pages_updated=6 mode=append project=uap source_type=document

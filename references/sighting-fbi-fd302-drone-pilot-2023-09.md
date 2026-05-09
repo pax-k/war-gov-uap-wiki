@@ -1,92 +1,123 @@
 ---
-title: "Sighting: Drone-Pilot Linear Object with Bright Light (Sept 2023)"
+title: "Sighting: Lead-Vehicle UAP Encounter, Sept 2023 (FBI FD-302 corroborated)"
 category: references
 tags: [uap, sighting, fbi, drone-pilot]
-sources: [sources/serial-4-redacted_redacted.json]
-summary: September 2023 daylight sighting by a contractor drone pilot of a linear metallic object with a super-bright white light at ~5000 ft AGL during a LiDAR test, recorded by FBI on FD-302.
+sources: [sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json]
+summary: September 2023 daylight UAP sighting at ~07:15–07:30 by a contractor convoy; documented by two redacted FBI FD-302 forms — front-passenger drone pilot (serial-4) and lead-vehicle driver (serial-3) — with a co-temporal gate anomaly.
 provenance:
-  extracted: 0.85
-  inferred: 0.10
+  extracted: 0.78
+  inferred: 0.17
   ambiguous: 0.05
-base_confidence: 0.45
+base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T17:00:00Z
-updated: 2026-05-09T17:00:00Z
+updated: 2026-05-09T17:30:00Z
 ---
 
-# Sighting: Drone-Pilot Linear Object with Bright Light (Sept 2023)
+# Sighting: Lead-Vehicle UAP Encounter, Sept 2023 (FBI FD-302 corroborated)
 
-A daylight UAP sighting recorded by an [[entities/fbi|FBI]] Special Agent on form [[references/fbi-fd302-drone-pilot-redacted-2023|FD-302]] on 2 October 2023, describing a witness encounter from September 2023 during a contractor LiDAR field test. The witness was an experienced drone pilot. Source: [[references/fbi-fd302-drone-pilot-redacted-2023]].
+A daylight UAP sighting at a redacted United States location in **September 2023**, at approximately **07:15–07:30 local**, recorded across **two redacted FBI FD-302 forms** ([[references/fbi-fd302-drone-pilot-redacted-2023|serial-4]] — front-seat passenger / contractor drone pilot, FaceTime interview; and [[references/fbi-fd302-serial-3-driver-redacted-2023|serial-3]] — female lead-vehicle driver and apparent range/test authority, in-person interview), both drafted **2 October 2023**.
 
 ## Quick facts
 
 | Field | Value |
 |---|---|
-| Date | September 2023 (specific day redacted) |
-| Time | ~07:30 local — sun in east, clear sky, good visibility |
-| Location | Redacted United States location |
-| Witness | Single named witness — contractor drone pilot, ~10–15 hrs as drone pilot ^[extracted]; ≥4 other contractors in convoy ^[extracted] |
-| Interview | FaceTime video, conducted by FBI Special Agent + 1 other (also redacted) |
-| Air space | Restricted for the planned drone tests ^[extracted] |
-| Sensor | Naked eye, through vehicle windshield |
+| Date | September 2023 (specific day redacted; serial-3 narrows to *between 7:15 and 7:30 am* approaching the gate) |
+| Time | ~07:15–07:30 local — sun in east, clear sky, good visibility |
+| Location | Redacted United States location (range / restricted airspace) |
+| Convoy | 3 vehicles, 5+ contractors total; lead vehicle = driver + front-seat passenger; vehicles 2 + 3 each had at least one contractor ^[extracted] |
+| Witnesses | Two FD-302 deponents (lead-vehicle driver, lead-vehicle passenger) + a contested second-vehicle observation ^[ambiguous] |
+| Air space | Restricted by witness-driver for the planned tests ^[extracted] |
+| Sensor | Naked eye through windshield (driver) + naked eye through windshield (passenger). No instrumented capture. |
+| Co-temporal anomaly | Lead-vehicle gate cycled open-closed 3 times then opened normally on attempt 4; no prior or subsequent gate problems ^[extracted, serial-3] |
 
-## Description (verbatim-near, redactions retained)
+## Convoy and pre-sighting sequence
 
-The witness was the front-seat passenger in the lead vehicle of a three-vehicle convoy driving south at ~07:30 for a [REDACTED] LiDAR test. The convoy had stopped at a gate that "was giving [REDACTED] trouble." Looking up "at about three quarters of the windshield up," the witness saw:
+- **07:02 local** — contractors received the base's standard brief, boarded three vehicles, and drove toward the test site (serial-3).
+- The **lead vehicle** carried the female witness ([REDACTED] / [REDACTED] at the site for [REDACTED] years) as **driver** and the contractor drone pilot as **front passenger**.
+- Vehicles 2 and 3 carried additional contractors.
+- **07:15–07:30 local** — the convoy reached a gate that restricted access to part of the [REDACTED]. The driver tried to open it remotely with a fob; the gate **opened slightly and then closed** on three separate attempts. **On the fourth attempt** the gate opened completely and stayed open. The witness explicitly notes "no prior operational problems with that particular gate and… no operating issues with the gate after September [REDACTED]" — co-temporal anomaly with explicit before/after baselines. ^[extracted, serial-3]
+- As the lead vehicle drove through the now-open gate, the driver **looked up** and saw the object. The drone pilot, in the front passenger seat, also saw the object — through the windshield, "at about three quarters of the windshield up." ^[extracted, serial-4]
 
-- A **linear object** with a **super-bright white light on the east side** of the object.
-- The light was bright enough that the witness could "**see bands within the light**."
-- The object body was **metallic / gray** in color.
-- **No wings, no exhaust.**
-- **Smaller than a 737**, "**one to two Blackhawk helicopters in length**," and "**definitely bigger than a drone**."
-- **Approximately 5,000 ft above ground level.**
-- **Moving east-to-west, parallel to the ground.**
-- Visible for **5–10 seconds**, after which "the light went out and the object vanished."
-- The sky was clear; the witness could not re-acquire the object after disappearance.
+## Object description (consolidated across the two FD-302s)
 
-The object kept constant size and constant light intensity for the full visible window. Aside from the lead vehicle, only one other person — in the second vehicle — attempted to look but was unsuccessful. There was **no observed interference with the convoy's vehicles**.
+The two witnesses describe the same object from the same vehicle, looking up through the same windshield, at the same moment. Their accounts agree on multiple structural features and diverge on others.
+
+| Feature | Lead-vehicle DRIVER (serial-3) | Lead-vehicle PASSENGER / drone pilot (serial-4) |
+|---|---|---|
+| Body shape | **"cigar shaped"** | **linear** ("no wings, no exhaust"); cylindrical in family ^[inferred] |
+| Body color | **"metallic bronze"** | **metallic / gray** |
+| Length (Blackhawk units) | **"two or three Blackhawk helicopters lined up nose to tail"** | **"one to two Blackhawk helicopters in length"** |
+| Width | **"one and a half Blackhawks"** (hard to determine due to light) | not specified |
+| Light position | **eastern end** of the object | **east side** of the object |
+| Light character | **"intense diamond white light with what appeared to be a ring around the light"**; "looking at it was like looking into the sun"; pointing south-east | **super-bright white**, "bands within the light" visible |
+| Smaller-than reference | not given | "smaller than a 737"; "definitely bigger than a drone" |
+| Altitude | **"approximately 500 to 3000 feet above the nearest tree line"** (tree line ~1 mile southwest) ^[extracted] | **~5,000 ft AGL** ^[extracted] |
+| Motion | **"almost hovering, slowly moving from east to west"** | **moving east-to-west, parallel to the ground** |
+| Sound | **"completely silent"** ^[extracted] | not explicitly noted |
+| Disappearance | not detailed in serial-3 OCR | **"the light went out and the object vanished"**; visible 5–10 sec |
+
+**The two descriptions describe the same object** (same time, same direction of motion, same single bright light on the eastern end, same Blackhawk-length-class scale, same silence implied) — but **diverge sharply on shape (cigar vs linear), color (metallic bronze vs metallic gray), and motion mode (almost hovering vs moving parallel)**. This is a **classic multi-vantage morphology divergence** of the same kind already in the corpus for the [[references/sighting-dark-kite-western-us|2026 Dark Kite]] (where the same object reads as "thin line", "ill-defined dark kite", and "triangular" to different LE witnesses). ^[inferred]
+
+The **altitude estimates also diverge**: serial-3 says 500–3000 ft above the tree line (i.e., low end ~600 ft AGL, high end ~3000 ft AGL); serial-4 says ~5000 ft AGL. The drone pilot's altitude estimate carries more weight as a trained observer of altitude — but per the [[references/sighting-fiery-orb-western-us|Fiery Orb]] AARO correction, even trained observers systematically underestimate range/altitude by factors of ~2–6×. ^[inferred]
+
+## Cross-witness contradiction (vehicle 2)
+
+**Serial-3** (driver): "[REDACTED] in the second vehicle said he saw the object too."
+
+**Serial-4** (drone pilot): the second-vehicle occupant **attempted to look but was unsuccessful**.
+
+These are **not strictly compatible without auxiliary assumptions**. ^[ambiguous] Candidate reconciliations:
+
+1. Two different second-vehicle occupants (e.g., driver yes, passenger no) — both statements true, but referring to different people.
+2. The second-vehicle witness saw the object briefly *before* the moment serial-4 captures.
+3. One FD-302 records the second-vehicle account incorrectly.
+
+The corpus preserves both verbatim and does not adjudicate.
 
 ## Witness aftermath
 
-- The lead-vehicle driver was reportedly **annoyed** at the sighting because the airspace had been deconflicted for the drone tests they were about to conduct.
-- That night, a storm came through and "**the TV went out in [the] hotel room**." The witness was "still freaked out" and went downstairs to confirm the outage was building-wide, not just their room.
-- The witness reported "**weird dreams**" and **trouble sleeping** for the first two nights after the sighting.
-
-The aftermath details are extracted as the witness framed them — the FD-302 records them but does not endorse them as anomalous, and they are not load-bearing for any physical claim about the object. ^[inferred]
+- The **driver** was initially **annoyed** because the airspace had been deconflicted for the tests; she then realized the object "**was not an aircraft or drone**." (serial-3) ^[extracted]
+- The driver said she "**would not have reported the object if she had seen it by herself**" — i.e., she relied on the front-passenger's confirmation as a reporting threshold. ^[extracted, serial-3]
+- "**Several of her co-workers subsequently made fun of her due to her report.**" (serial-3) — first explicit corpus-level evidence of social cost-of-reporting in the contractor community. ^[extracted]
+- That night, the **drone pilot** (serial-4) reported a TV outage during a storm and — "still freaked out" — went downstairs to confirm it was building-wide; **weird dreams** and **2-night sleep difficulty**. ^[extracted, serial-4]
+- **No photos or video** were taken (both FD-302s).
 
 ## Provenance and credibility
 
-- **Witness class** — a contractor drone pilot operating in deconflicted restricted airspace fits comfortably inside the trained-observer witness class analyzed in [[synthesis/federal-le-uap-witness-pattern]]. Drone pilots in particular have ground-truthed familiarity with what crewed and uncrewed aircraft look like at altitude, including small drones (which the witness explicitly excluded) and helicopters (which served as a length reference). ^[inferred]
-- **Single witness for the object itself** — the second-vehicle attempt did not succeed, so this is **not** a multi-vantage corroborated sighting. Range and size estimates rest on a single observation through a windshield from a stationary vehicle.
-- **Range/size caveats from the wiki's broader pattern** — the [[references/sighting-fiery-orb-western-us|Fiery Orb]] case showed that even trained federal LE witnesses systematically underestimate UAP range and size by factors of 2–6×; the same caveat applies here. The "1–2 Blackhawk helicopters in length" comparison is a useful anchor for human-scale, not a dimensional measurement. ^[inferred]
-- **No instrumented capture** — no FLIR/NVG/radar/photographic record is mentioned. The drone test instruments were not yet deployed.
+- **Witness class** — both witnesses fit the trained-observer pattern in [[synthesis/federal-le-uap-witness-pattern]]: a long-tenured site authority with airspace-restriction power (driver) and a contractor drone pilot (passenger). ^[inferred]
+- **Multi-vantage corroboration** — same vehicle, two seats, two FD-302s. This is **lateral** corroboration (same windshield), not **multi-vantage** in the strong sense (different vehicles or different sensors). The contested second-vehicle observation is the only candidate for genuinely independent vantage. ^[inferred]
+- **No instrumented capture** — naked eye only. Drone test instruments were not deployed.
+- **Range/size caveats** — see [[references/sighting-fiery-orb-western-us|Fiery Orb]]; the "Blackhawk length" comparison is a human-scale anchor, not a dimensional measurement. The **two-Blackhawk vs. three-Blackhawk** divergence is consistent with the documented witness underestimation problem.
+- **Co-temporal gate anomaly** is the wiki's first modern-corpus instance of a **bounded co-temporal physical effect** with explicit before/after baselines on the same equipment. The FD-302 records it without endorsing it as causal. ^[inferred]
 
-## Morphology notes
+## Morphology placement
 
-The "linear object with bright light on the east side" is morphologically distinct from the four shape classes already in the wiki's modern corpus:
+The object is morphologically distinct from the modern-corpus shape classes:
 
-- Not a luminous **sphere** ([[concepts/orb-phenomenon]]) — the body is described as linear, not spherical.
-- Not a **kite/triangle** ([[references/sighting-dark-kite-western-us]], [[references/sighting-transparent-kite-western-us]]) — no kite/wedge shape called out.
-- Not an **engagement-class orb** ([[concepts/uap-aircraft-engagement]]) — the object did not approach any aircraft (none aloft yet).
-- Closer in family to **flash-orb / sustained-glow orb** in *behavior* (sudden disappearance after a few seconds) but with a body shape closer to the cylindrical class (cf. the 1 March 1945 [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01|F-5710 cylinder]]). ^[inferred]
+- Not a luminous **sphere** ([[concepts/orb-phenomenon]]).
+- Not a **kite/triangle** ([[references/sighting-dark-kite-western-us]], [[references/sighting-transparent-kite-western-us]]).
+- Closer to the **cylindrical / cigar** family (cf. the 1 March 1945 [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01|F-5710 cylinder]]) — but with the modern variant being **larger** (Blackhawk-class vs the F-5710 12-foot cylinder) and **luminous** (intense single white light, not a bare aluminium body). ^[inferred]
+- The discrete "light went out and the object vanished" termination (serial-4) against a clear daylight sky is the signature of a **state-change disappearance** — emission cessation plus body invisibility, not resolvable as departure-at-speed vs. ceasing-to-be-optically-present. ^[ambiguous]
 
-The discrete "light went out and the object vanished" termination — observed against a clear sky in good daylight visibility — is the signature of a **state-change disappearance**, where the object stops emitting light and the body itself is no longer trackable. Whether the body departed at high speed during the cessation, or simply ceased to be optically present, is not resolvable from the source. ^[ambiguous]
+## Source artifacts
 
-## Source artifact
+The Sept 2023 incident is documented across **two FD-302 forms** in the same FBI release tranche:
 
-The FD-302 form (Rev. 5-8-10) is a 2-page redacted FBI document, drafted 2 October 2023, recording an interview conducted in September 2023 via FaceTime. The witness, the interviewing FBI Special Agent, and the location are all redacted. The file number is redacted. See [[references/fbi-fd302-drone-pilot-redacted-2023]] for the artifact-level page.
+- [[references/fbi-fd302-drone-pilot-redacted-2023]] — serial-4 (front-passenger drone pilot, FaceTime interview).
+- [[references/fbi-fd302-serial-3-driver-redacted-2023]] — serial-3 (lead-vehicle driver / range authority, in-person interview).
 
-This is the **wiki's first FBI-originated UAP-adjacent record**. ^[inferred]
-
-## Sources
-
-- [[references/fbi-fd302-drone-pilot-redacted-2023]] — the FD-302 artifact
+Both forms drafted 2 October 2023 by FBI Special Agents at separate interviews. The numbering implies **at least two more documents** in the same serial release tranche (serial-1, serial-2). ^[inferred]
 
 ## See also
 
+- [[references/fbi-fd302-drone-pilot-redacted-2023]] — drone-pilot FD-302 (serial-4)
+- [[references/fbi-fd302-serial-3-driver-redacted-2023]] — driver FD-302 (serial-3, NEW)
 - [[entities/fbi]]
 - [[synthesis/federal-le-uap-witness-pattern]]
 - [[concepts/orb-phenomenon]]
 - [[concepts/uap-aircraft-engagement]]
+- [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] — earliest cylindrical-class corpus member
+- [[references/sighting-dark-kite-western-us]] — precedent for multi-vantage morphology divergence on a single object
 - [[projects/uap/uap]]
