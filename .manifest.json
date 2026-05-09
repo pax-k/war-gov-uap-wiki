@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T22:00:00Z",
+  "updated": "2026-05-10T23:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -694,18 +694,52 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/nasa-uap-d7-skylab-technical-crew-debriefing-1973.json": {
+      "ingested_at": "2026-05-10T23:00:00Z",
+      "size_bytes": 14216,
+      "content_hash": "sha256:5326609007376496b1b8fd3243d099d475398bb1ec9af039a26e01e289a4e1dc",
+      "source_id": "nasa-skylab-technical-crew-debriefings-jsc08053-jsc08478-jsc08809-1973-1974-d7",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "signal_class": "ground-floor-uap",
+      "mechanism_class": "F",
+      "pages_created": [
+        "references/nasa-uap-d7-skylab-technical-crew-debriefing-1973.md",
+        "references/sighting-skylab-3-red-object-1973-09.md",
+        "entities/skylab.md",
+        "entities/joseph-kerwin.md",
+        "entities/paul-weitz.md",
+        "entities/owen-garriott.md",
+        "entities/jack-lousma.md",
+        "entities/gerald-carr.md",
+        "entities/edward-gibson.md",
+        "entities/william-pogue.md"
+      ],
+      "pages_updated": [
+        "concepts/orbital-uap-sighting.md",
+        "concepts/cosmic-ray-light-flashes.md",
+        "entities/alan-bean.md",
+        "entities/pete-conrad.md",
+        "entities/nasa.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T22:00:00Z",
-      "sources_ingested": 25
+      "last_ingested": "2026-05-10T23:00:00Z",
+      "sources_ingested": 26
     }
   },
   "stats": {
-    "total_sources_ingested": 27,
-    "total_pages": 165,
+    "total_sources_ingested": 28,
+    "total_pages": 175,
     "total_projects": 1,
     "last_full_rebuild": null
   }

@@ -3,17 +3,17 @@ title: NASA
 category: entities
 tags: [nasa, organization, civil-agency, uap]
 aliases: [National Aeronautics and Space Administration, Mission Control, MSC Houston, Manned Spacecraft Center]
-sources: [sources/255_t_763_r1b_transcripts.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json, sources/nasa-uap-d1-apollo-12-transcript-1969.json, sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json]
-summary: US civilian space agency. In the UAP corpus, NASA enters as originator of the 1965 GT-7 PAO bogey tape, the 1969 Apollo 11 + Apollo 12 technical/voice-loop artifacts, the 1973 Apollo 17 Technical and Science crew-debriefing excerpts, and as NARA RG 255 archival home for the 1999 COMETA Report.
+sources: [sources/255_t_763_r1b_transcripts.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json, sources/nasa-uap-d1-apollo-12-transcript-1969.json, sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json, sources/nasa-uap-d7-skylab-technical-crew-debriefing-1973.json]
+summary: US civilian space agency. In the UAP corpus, NASA enters as originator of the 1965 GT-7 PAO bogey tape, the 1969 Apollo 11 + Apollo 12 artifacts, the 1973 Apollo 17 Technical/Science debriefs, the 1973–74 Skylab SL-2/3/4 technical debriefs, and as NARA RG 255 archival home for the 1999 COMETA Report.
 provenance:
   extracted: 0.32
   inferred: 0.65
   ambiguous: 0.03
-base_confidence: 0.6
+base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T19:30:00Z
-updated: 2026-05-10T22:00:00Z
+updated: 2026-05-10T23:00:00Z
 ---
 
 # NASA
@@ -41,6 +41,7 @@ This is the wiki's first **NASA-originated** UAP-adjacent record. It is institut
 | **1969 (Nov)** | **NASA Mission Control voice loop (Apollo 12 d1)** | **none visible** ^[inferred] | **multi-decade in practice (d-cluster 2026 review pull)** ^[inferred] | **[[references/nasa-uap-d1-apollo-12-transcript-1969]]** |
 | **1973** | **NASA MSC Training Office (technical debrief)** | **CONFIDENTIAL → 90-day auto-declass clause** | **multi-decade in practice (NASA hold + 2026 E.O. 13526 review pull)** | **[[references/nasa-apollo-17-technical-crew-debriefing-1973]]** |
 | **1973** | **NASA MSC Science Requirements Branch (science debrief)** | **none visible on cover** ^[ambiguous] | **multi-decade in practice (NASA hold + 2026 review pull)** | **[[references/nasa-apollo-17-science-debriefing-1973]]** |
+| **1973–74** | **NASA JSC Training Office (Skylab technical debriefs SL-2/3/4)** | **FOIA-controlled but no classification stamp** (5 U.S.C. 552 + NASA Policy Directive 1382.2) ^[extracted] | **multi-decade in practice** ^[inferred] | **[[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973]]** |
 | 1985–94 | DOS embassy cables | UNCLAS or LIMDIS | medium-delayed (FOIA) | [[references/dos-cable-papua-new-guinea-1985-01]], [[references/dos-cable-kazakhstan-1994-01]] |
 | 2023–26 | FBI FD-302 / AARO briefing | various | months-to-years | [[references/fbi-fd302-drone-pilot-redacted-2023]], [[references/western-us-event-2026]] |
 
@@ -103,6 +104,14 @@ The function NASA performs in this routing is therefore **archival accessibility
 - [[entities/dick-gordon]] — Apollo 12 CMP.
 - [[entities/alan-bean]] — Apollo 12 LMP; primary witness on the d1 AOT particle-flash observation.
 - [[entities/apollo-17]] — Dec 1972 mission frame for the corpus's third + fourth NASA-originated artifacts.
+- [[entities/skylab]] — 1973–74 mission frame for the corpus's fifth+sixth+seventh NASA-originated artifacts (d7 SL-2/3/4 technical debriefs).
+- [[entities/joseph-kerwin]] — SL-2 SP; cosmic-ray-flash SAA-correlation witness.
+- [[entities/paul-weitz]] — SL-2 PLT.
+- [[entities/owen-garriott]] — SL-3 SP; primary articulator of the d7 SL-3 sub-class F range derivation.
+- [[entities/jack-lousma]] — SL-3 PLT; SL-3 red-object initial spotter.
+- [[entities/gerald-carr]] — SL-4 CDR; sub-class D 2nd-instance primary articulator.
+- [[entities/edward-gibson]] — SL-4 SP.
+- [[entities/william-pogue]] — SL-4 PLT.
 - [[entities/frank-borman]]
 - [[entities/jim-lovell]]
 - [[entities/gene-cernan]] — Apollo 17 Commander.
@@ -115,6 +124,8 @@ The function NASA performs in this routing is therefore **archival accessibility
 - [[references/nasa-uap-d1-apollo-12-transcript-1969]] — partial-signal voice-loop excerpt; corpus's first sub-class D entry; first non-GT-7 NASA Mission Control voice-loop artifact.
 - [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — null-content debriefing excerpt; corpus's first NASA artifact from a non-PAO sub-office.
 - [[references/nasa-apollo-17-science-debriefing-1973]] — null-content science debriefing excerpt; second NASA non-PAO sub-office (MSC Science Requirements Branch).
+- [[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — Skylab SL-2/3/4 technical debriefings; sub-class F + sub-class D extension + cosmic-ray-flash LEO baseline; corpus's first FOIA-controlled-but-unclassified NASA artifact.
+- [[references/sighting-skylab-3-red-object-1973-09]] — sub-class F sighting-anchor.
 - [[references/cometa-report-1999]] — non-government policy paper archived via NARA RG 255.
 - [[entities/carol-rosin]] — courier of COMETA Report into NASA.
 - [[entities/cometa-committee]] — issuing body of the report.

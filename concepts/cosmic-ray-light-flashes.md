@@ -2,18 +2,18 @@
 title: Cosmic-Ray Light Flashes (in-cabin / retinal)
 category: concepts
 tags: [nasa, astronaut, anomaly, pattern]
-aliases: [cosmic-ray retinal flashes, ALFMED phenomenon, in-cabin light flashes, charged-particle retinal flash]
-sources: [sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json]
-summary: Charged-particle-on-retina light flashes observed by Apollo crews in cislunar space. Aldrin partially modeled the phenomenon on Apollo 11 (1969); Apollo 17 ALFMED (1972) instrumented the investigation. Not a UAP phenomenon, but produces UAP-keyword false-positives in transcripts.
+aliases: [cosmic-ray retinal flashes, ALFMED phenomenon, in-cabin light flashes, charged-particle retinal flash, SAA cosmic-ray flash]
+sources: [sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d7-skylab-technical-crew-debriefing-1973.json]
+summary: Charged-particle-on-retina light flashes observed by Apollo crews in cislunar space and by Skylab crews in LEO inside-magnetosphere. Aldrin (1969 Apollo 11) modeled it; Schmitt (1972 Apollo 17 ALFMED) instrumented it; Kerwin/Conrad/Weitz (1973 Skylab 2) extended to LEO with SAA hypothesis. Not UAP; produces UAP-keyword false-positives.
 provenance:
-  extracted: 0.55
-  inferred: 0.42
+  extracted: 0.60
+  inferred: 0.37
   ambiguous: 0.03
-base_confidence: 0.65
+base_confidence: 0.75
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T22:00:00Z
-updated: 2026-05-10T22:00:00Z
+updated: 2026-05-10T23:00:00Z
 ---
 
 # Cosmic-Ray Light Flashes (in-cabin / retinal)
@@ -22,14 +22,47 @@ The **transient luminous flash phenomenon** experienced by Apollo crewmen during
 
 ## Corpus instances
 
-The wiki has **two primary-source documentations** of the phenomenon, both from MSC technical crew debriefings:
+The wiki has **three primary-source documentations** of the phenomenon, all from JSC/MSC technical crew debriefings — spanning the **cislunar coast** environment (Apollo 11 / Apollo 17) and the **LEO inside-magnetosphere** environment (Skylab 2):
 
-| Year | Mission | Witness(es) | Document | Phenomenology preserved |
+| Year | Mission | Orbital regime | Witness(es) | Document | Phenomenology preserved |
+|---|---|---|---|---|---|
+| **Jul 1969** | **[[entities/apollo-11\|Apollo 11]]** | **Cislunar coast** (outside magnetosphere) | **[[entities/buzz-aldrin\|Aldrin]]** primary; **[[entities/neil-armstrong\|Armstrong]]** corroborating on last night | [[references/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969\|d4]] (Vol I §6 pp 6-37 to 6-39) | Single flashes ~1/min; double flashes separated by ~1 ft (chord-track); "line with no direction of motion"; correlated with sun-direction; ruled out static electricity; Aldrin proposes *"some sort of penetration ... entry and then impact on something such as the struts"*; Armstrong's closing line *"a neutron or some kind of an atomic particle that would be in the visible spectrum"* |
+| **Jun 1973** *(NEW)* | **[[entities/skylab\|Skylab 2]]** | **LEO inside magnetosphere** (~435 km, traverses SAA) | **[[entities/joseph-kerwin\|Kerwin]]** primary; **[[entities/pete-conrad\|Conrad]] + [[entities/paul-weitz\|Weitz]]** corroborating | [[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973\|d7]] (SL-2 §23 pp 23-20 to 23-21) | **Rate 2–3/min at peak**; **wax-and-wane frequency** consistent with orbital-period SAA modulation; **explicit South Atlantic Anomaly correlation hypothesis** offered by Kerwin; **single-eye localization** (Weitz "primarily in the left eye"; Conrad confirmed possible with concentration); **sunburst-vs-streak two-class morphology** (Conrad — streaks rarer than bursts); **peripheral-vs-central visual field bias** (Conrad — most in periphery); **entrance-streak / exit-streak double events** (Weitz "bing-bing ... one side of the eyeball, and then the other side"; Conrad "in and out - or across the eye") **directly confirming** Aldrin's 1969 chord-track model |
+| **Dec 1972** | **[[entities/apollo-17\|Apollo 17]]** | **Cislunar coast** (outside magnetosphere) | **[[entities/harrison-schmitt\|Schmitt]]** primary; **[[entities/gene-cernan\|Cernan]] + [[entities/ronald-evans\|Evans]]** corroborating | [[references/nasa-apollo-17-technical-crew-debriefing-1973\|d6]] (page 24-4) | Light flashes "just about continuously during the whole flight when we were dark adapted"; one *"flash on the lunar surface"* candidate; **[[entities/alfmed-experiment\|ALFMED]]** experimental blindfolded interval suppressed flashes; resumed that evening after the experiment ^[extracted] |
+
+The **3.5-year arc** from Aldrin's first-principles characterization to the Schmitt ALFMED instrumented investigation documents **NASA's response to an astronaut-reported phenomenon** evolving from "we should investigate this" (1969) to "we have instrumented an experiment to characterize this" (1972). ^[inferred] The **d7 Skylab 2 ingest extends the corpus** by adding the **LEO inside-magnetosphere baseline** (1973) — completing a **two-orbital-regime, three-mission witness set** spanning four years and **eight independent astronauts** (Aldrin, Armstrong, Cernan, Evans, Schmitt, Kerwin, Conrad, Weitz). ^[inferred]
+
+## Two orbital-regime structure (NEW)
+
+The d7 Skylab 2 ingest establishes that **the cosmic-ray retinal flash phenomenon is observable in two structurally distinct orbital regimes**:
+
+| Regime | Particle source | Modulation | Rate (peak) | Mission |
 |---|---|---|---|---|
-| **Jul 1969** | **[[entities/apollo-11\|Apollo 11]]** | **[[entities/buzz-aldrin\|Aldrin]]** primary; **[[entities/neil-armstrong\|Armstrong]]** corroborating on last night | [[references/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969\|d4]] (Vol I §6 pp 6-37 to 6-39) | Single flashes ~1/min; double flashes separated by ~1 ft; "line with no direction of motion"; correlated with sun-direction; ruled out static electricity; Aldrin proposes *"some sort of penetration ... entry and then impact on something such as the struts"*; Armstrong's closing line *"a neutron or some kind of an atomic particle that would be in the visible spectrum"* |
-| **Dec 1972** | **[[entities/apollo-17\|Apollo 17]]** | **[[entities/harrison-schmitt\|Schmitt]]** primary; **[[entities/gene-cernan\|Cernan]] + [[entities/ronald-evans\|Evans]]** corroborating | [[references/nasa-apollo-17-technical-crew-debriefing-1973\|d6]] (page 24-4) | Light flashes "just about continuously during the whole flight when we were dark adapted"; one *"flash on the lunar surface"* candidate; **[[entities/alfmed-experiment\|ALFMED]]** experimental blindfolded interval suppressed flashes; resumed that evening after the experiment ^[extracted] |
+| **Cislunar coast** (outside magnetosphere) | Galactic cosmic rays + occasional solar protons; nearly isotropic | None at orbital timescales; only solar-event-driven over days | **~1/min** (Aldrin d4) | Apollo 11, Apollo 17 |
+| **LEO inside magnetosphere** (Skylab altitude ~435 km, ~50° inclination) | **Trapped charged particles in the inner Van Allen belt that dip into atmosphere via the [South Atlantic Anomaly](https://en.wikipedia.org/wiki/South_Atlantic_Anomaly)** | **Strong** — orbital-period modulation as ground track passes through SAA several times per day | **~2–3/min at peak** (Kerwin d7) | Skylab 2 |
 
-The **3.5-year arc** from Aldrin's first-principles characterization to the Schmitt ALFMED instrumented investigation is structurally important: it documents **NASA's response to an astronaut-reported phenomenon** evolving from "we should investigate this" (1969) to "we have instrumented an experiment to characterize this" (1972). ^[inferred]
+The **Skylab regime peak rate is 2–3× higher** than the cislunar-coast rate. ^[inferred] This is the **opposite** of the naive "outside the magnetosphere has more particles" expectation, and is **physically consistent** with the SAA's locally-elevated trapped-particle flux at relevant altitudes. ^[inferred] The **wax-and-wane** pattern Kerwin reports is **the expected signature** of a phenomenon whose flux is modulated by repeated SAA traversal during a multi-day orbital occupation — at SL-2's altitude and inclination, the SAA region is crossed several times per day, with each pass producing locally elevated flux. ^[inferred]
+
+The **SAA hypothesis** is **physically correct** for the Skylab regime: the inner Van Allen belt's trapped-proton population dips to ~200–500 km altitude over the South Atlantic, dumping a locally-enhanced charged-particle flux on spacecraft passing through that region. The phenomenology Kerwin and Weitz report — wax-and-wane, peak rates significantly higher than cislunar baseline — is **consistent with this mechanism**. ^[inferred]
+
+## SL-2 phenomenology refinements (NEW)
+
+The d7 SL-2 §23 testimony adds **four phenomenology refinements** not present in the d4 / d6 cislunar-coast records:
+
+1. **Single-eye localization with experimental verification.** Weitz reported **left-eye preference** (*"primarily in the left eye for some reason"*); Conrad confirmed that single-eye localization is **achievable with concentration** (*"You have to concentrate but you can determine they are in one eye"*); Kerwin reported he **could not localize** but flagged this as an observational gap rather than a contradiction. ^[extracted] The single-eye character is **directly consistent** with single-particle-traversing-one-eye chord-track physics, which the d4 / d6 records hadn't disambiguated. The Weitz left-eye preference is structurally interesting but unexplained — possibly random per-event accumulation, possibly a visual-acuity asymmetry. ^[inferred]
+2. **Sunburst-vs-streak two-class morphology.** Conrad: *"some of them to me were a spot or sunbursts. Some were streaks. The streaks, in my case, were less frequent than the bursts."* ^[extracted] The two morphology classes correspond to **(a) end-on retinal entry / termination of the particle track ("sunburst")** and **(b) chord traversal of the retina ("streak")**. ^[inferred] The streak-rarer-than-burst observation is **physically plausible**: chord traversal requires the particle to enter the retina at low angle, which is geometrically less likely than perpendicular entry that produces a localized burst. ^[inferred]
+3. **Peripheral-vs-central visual field bias.** Conrad: *"Most of them were in my peripheral visual field. Very few in the central visual field."* ^[extracted] Consistent with **rod-dominated peripheral retina being more sensitive to single-photon stimulation** than cone-dominated foveal retina. ^[inferred] First astronaut-class observation of this bias in the corpus.
+4. **Entrance-streak / exit-streak double events confirming Aldrin's 1969 chord-track model.** Weitz: *"I saw an entrance streak and an exit streak ... bing-bing, it seemed like it was one side of the eyeball, and then the other side."* Conrad: *"there was a long shot then it was blank then there was a long shot in rapid succession ... very definitely in and out - or across the eye."* ^[extracted] **Independent astronauts on a different mission in a different orbital regime observed the same single-particle-two-events chord-track structure** that Aldrin's 1969 d4 testimony described. ^[inferred] This is **strong cross-validation** of the underlying physical mechanism.
+
+## Operational deferral and astronaut-corps lore (NEW)
+
+A structurally important Skylab-era observation: **Kerwin's framing that the crew chose not to interrupt operations** to report the flashes in real time:
+
+> **KERWIN (d7 §23)**: *"We didn't feel it was operationally necessary for anybody to know about it right now."* ^[extracted]
+
+This contrasts with [[entities/buzz-aldrin|Aldrin]]'s 1969 d4 testimony, where Aldrin **did** raise the in-cabin flashes during transearth coast and discussed them with [[entities/neil-armstrong|Armstrong]] over multiple nights. The Apollo 11 → Skylab 2 transition implies that **by 1973, the cosmic-ray-flash phenomenon was already established lore in the astronaut corps** — Aldrin's 1969 first-principles characterization, the 1972 [[entities/alfmed-experiment|ALFMED]] instrumented experiment, and the resulting astronaut-training context had created enough prior knowledge that the SL-2 crew **did not need to raise it as an unusual observation in real time**. ^[inferred] They knew what they were seeing.
+
+This **maturation of astronaut-corps observational lore** is a structurally interesting datum: the cosmic-ray-flash phenomenon traces a **4-year arc** from "we don't know what this is, but we should investigate" (Aldrin 1969) to "we have instrumented an experiment to characterize it" (Schmitt 1972) to "we recognize the phenomenology, we have a working mechanism hypothesis (SAA), we don't interrupt operations to report it" (Kerwin/Conrad/Weitz 1973). ^[inferred]
 
 ## The physical model (modern understanding)
 
@@ -77,21 +110,30 @@ The phenomenon is **not a UAP observation**. It is in the corpus because:
 - Locate the **ALFMED experiment final report** (post-Apollo 17 debrief publication) and the **track-vs-flash correlation analysis**. ^[open]
 - Cross-reference **MA-7 Carpenter (1962) and Apollo 8 / 10 / 12 / 13 / 14 / 15 / 16 crew testimonies** for any additional cosmic-ray-flash characterization between Apollo 11 and Apollo 17. ^[open] If 8–16 are silent or omit, the d4-to-d6 arc is the primary corpus span; if 8–16 contain testimony, the arc widens.
 - Identify **whether Project SIGN, Project BLUE BOOK, or any USAF/AFOSI office opened a file on Aldrin's 1969 in-cabin flash testimony** during the BLUE BOOK terminal months (Apollo 11 splashdown 24 Jul; BLUE BOOK closure 17 Dec 1969). ^[open]
-- Cross-reference any **modern ISS / Skylab / Apollo-Soyuz** crew testimony on cosmic-ray retinal flashes for a low-Earth-orbit (inside the magnetosphere) baseline rate. ^[open]
+- ~~Cross-reference any **modern ISS / Skylab / Apollo-Soyuz** crew testimony on cosmic-ray retinal flashes for a low-Earth-orbit (inside the magnetosphere) baseline rate.~~ — **PARTIALLY RESOLVED via d7 ingest**: SL-2 §23 testimony provides the corpus's first LEO-inside-magnetosphere baseline (Kerwin/Conrad/Weitz, 2–3/min peak, SAA-correlated). Skylab 3 and Skylab 4 d7 sections do **not** preserve cosmic-ray-flash testimony in the OCR excerpt — whether the parent debriefings outside the d7 excerpt contain such material is open, but the SL-2 record alone establishes the LEO regime. ^[partially-resolved]
+- Cross-reference **Apollo–Soyuz Test Project (Jul 1975) crew debriefing** — Stafford / Slayton / Brand — for any cosmic-ray-flash testimony, given ASTP's continuation of the SAA-traversing LEO regime. ^[open]
+- Cross-reference **modern ISS-era cosmic-ray-flash documentation** (>200 long-duration crewmen since 2000) for any continuity with the Skylab 2 phenomenology. ^[open]
 - Resolve whether **Apollo 11 on-mission voice loop** preserves any real-time crew exchange about the flashes (the d4 excerpt is from the post-flight debriefing, not the contemporaneous air-to-ground tape). ^[open]
+- Resolve **why Weitz's left-eye preference** appeared on SL-2 — random per-event accumulation, visual-acuity asymmetry, or some other physical / observational-conditions cause. ^[open]
+- Locate **NASA-internal Skylab-era cosmic-ray-flash dosimetry** that may correlate Kerwin's qualitative *"in conjunction with the South Atlantic anomaly"* hypothesis with quantitative SAA-passage flux measurements. ^[open]
 
 ## See also
 
-- [[references/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969]] — primary source for the 1969 first-principles characterization.
-- [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — primary source for the 1972 ALFMED-instrumented testimony.
+- [[references/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969]] — primary source for the 1969 first-principles characterization (cislunar coast).
+- [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — primary source for the 1972 ALFMED-instrumented testimony (cislunar coast).
+- [[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — primary source for the 1973 LEO-inside-magnetosphere baseline (Skylab 2 §23).
 - [[entities/buzz-aldrin]] — primary 1969 witness; offers the penetration / entry-impact / static-rule-out characterization.
 - [[entities/neil-armstrong]] — 1969 corroborating witness; offers the "neutron or atomic particle in the visible spectrum" model statement.
 - [[entities/harrison-schmitt]] — primary 1972 witness; ALFMED experimental subject.
 - [[entities/gene-cernan]] — 1972 corroborating witness.
 - [[entities/ronald-evans]] — 1972 corroborating witness.
-- [[concepts/orbital-uap-sighting]] — parent pattern; this concept is a **sub-class boundary** that helps distinguish genuine on-orbit UAP observations from cosmic-ray-flash false-positives.
-- [[concepts/figurative-ufo-rhetoric]] — typology of non-UAP-payload material in keyword-driven corpora; cosmic-ray flashes are the orbital-class structural analogue.
+- [[entities/joseph-kerwin]] — primary 1973 SL-2 witness; SAA correlation hypothesis and *"not an hallucination"* observational discipline.
+- [[entities/pete-conrad]] — 1973 SL-2 corroborating witness; sunburst-vs-streak morphology distinction and peripheral-field bias.
+- [[entities/paul-weitz]] — 1973 SL-2 corroborating witness; left-eye preference and entrance-streak / exit-streak chord-track confirmation.
 - [[entities/apollo-11]]
 - [[entities/apollo-17]]
+- [[entities/skylab]]
 - [[entities/nasa]]
+- [[concepts/orbital-uap-sighting]] — parent pattern; this concept is a **sub-class boundary** that helps distinguish genuine on-orbit UAP observations from cosmic-ray-flash false-positives.
+- [[concepts/figurative-ufo-rhetoric]] — typology of non-UAP-payload material in keyword-driven corpora; cosmic-ray flashes are the orbital-class structural analogue.
 - [[projects/uap/uap]]

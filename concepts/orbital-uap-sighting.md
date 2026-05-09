@@ -3,17 +3,17 @@ title: Orbital UAP Sighting
 category: concepts
 tags: [uap, witness, pattern, nasa]
 aliases: [orbital sighting, on-orbit UAP, astronaut UAP witness, manned-spaceflight UAP]
-sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json, sources/nasa-uap-d1-apollo-12-transcript-1969.json, sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json]
-summary: Working concept page for on-orbit astronaut-witness UAP-adjacent observations. Five corpus entries spanning five sub-classes — GT-7 1965 (A positive), Apollo 11 1969 (E strong-positive), Apollo 12 1969 (D partial-signal), Apollo 17 1973 d6 (B null+keyword), Apollo 17 1973 d5 (C null+no-keyword).
+sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json, sources/nasa-uap-d3-gemini-7-transcript-1965.json, sources/nasa-uap-d1-apollo-12-transcript-1969.json, sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json, sources/nasa-uap-d7-skylab-technical-crew-debriefing-1973.json]
+summary: Working concept page for on-orbit astronaut-witness UAP-adjacent observations. Seven corpus entries spanning six sub-classes — A positive (GT-7 1965), E strong-positive (Apollo 11 1969), D partial-signal (Apollo 12 1969 + Skylab 4 1974), B null+keyword (Apollo 17 d6 1973), C null+no-keyword (Apollo 17 d5 1973), F multi-witness range-data unresolved (Skylab 3 1973).
 provenance:
   extracted: 0.28
   inferred: 0.69
   ambiguous: 0.03
-base_confidence: 0.60
+base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-09T19:30:00Z
-updated: 2026-05-10T22:00:00Z
+updated: 2026-05-10T23:00:00Z
 ---
 
 # Orbital UAP Sighting
@@ -79,22 +79,41 @@ Optional additional features (frequent but not definitional):
 | ~20 Nov 1969, ~MET 5d 19h 27m | [[entities/apollo-12\|Apollo 12]] | [[entities/alan-bean\|Bean]] (primary, AOT particle-flash); [[entities/pete-conrad\|Conrad]] (secondary, co-orbital-debris empirical confirmation) | **Partial-signal (UAP-adjacent, weak)** — Bean's spontaneous *"particles of light, flashes of light ... escaping the Moon"* AOT observation, with Bean self-attributing to water-boiler effluent / lunar outgassing in the same transmission. Single CC *"Roger"* response. Conrad's tracking-light / co-orbital-debris exchange is **non-UAP** but is the corpus's first **empirical confirmation** of the "your own debris field" prior. | **D — Partial-signal (astronaut-spontaneous + astronaut-self-attributed conventional)** | [[references/nasa-uap-d1-apollo-12-transcript-1969]] |
 | 7–19 Dec 1972 (debriefed 4 Jan 1973) | [[entities/apollo-17\|Apollo 17]] | [[entities/gene-cernan\|Cernan]] + [[entities/ronald-evans\|Evans]] + [[entities/harrison-schmitt\|Schmitt]] | **Null (boundary case)** — three observations on excerpt page 24-4, all conventionally explained: reentry plasma (Evans), recovery-carrier window-fog misidentification (Cernan), cosmic-ray retinal light flashes / ALFMED experiment (Schmitt). No UAP report; UAP-keyword-false-positive mechanism (lex match on "fireball"/"sighting"/"flash" without UAP semantic content). | **B — Null with UAP-keyword false-positive** | [[references/nasa-apollo-17-technical-crew-debriefing-1973]] |
 | 7–19 Dec 1972 (debriefed 8 Jan 1973) | [[entities/apollo-17\|Apollo 17]] | **HENRY** (PI on Apollo 17 SIM-bay UV photometer; not a flight crewman) ^[inferred] | **Null (stronger boundary case)** — UV / X-ray / gamma-ray astronomy testimony covering Coma cluster Lyman-alpha non-detection, UV galactic background, OGO-5 follow-up, Earth UV spectrum. **No UAP-domain keyword whatsoever** in the 3-page excerpt; whole-document-inclusion mechanism (the parent doc was pulled by document-series ID, not by keyword search). | **C — Null without UAP-keyword (whole-document inclusion)** | [[references/nasa-apollo-17-science-debriefing-1973]] |
+| **~Sep 1973** *(NEW)* | **[[entities/skylab\|Skylab 3]]** | **[[entities/alan-bean\|Bean]] + [[entities/owen-garriott\|Garriott]] + [[entities/jack-lousma\|Lousma]]** (three-witness simultaneous; Lousma initial spotter) | **Positive (UAP-adjacent)** — multi-witness ~10-min observation of a bright reddish co-orbital object at ~30–50 NM range with 10-second rotation period; morphology unresolved across all instruments; conventional candidate ("another satellite") is the crew's own working hypothesis, **not eliminated** but **not externally identified** either. **First witness-side range derivation in the corpus** (sunset-shadow timing). | **F — Positive (multi-witness, range-constrained, persistent, morphology-unresolved, conventional-candidate-not-eliminated) (NEW)** | [[references/sighting-skylab-3-red-object-1973-09]] |
+| **~Dec 1973 – Feb 1974** *(NEW)* | **[[entities/skylab\|Skylab 4]]** | **[[entities/gerald-carr\|Carr]]** (primary articulator); [[entities/edward-gibson\|Gibson]] + [[entities/william-pogue\|Pogue]] §7 co-witnesses | **Partial-signal** — *"lights flashing outside with very a definite motion relative to ours ... two or three sightings of that kind"*; astronaut-self-attributed in the same transmission to *"other pieces of Skylab, or possibly other satellites"*. **Multi-event, real-time-reported on the dump tapes**; observational-discipline-driven non-overinterpretation (*"we have no special comments concerning them"*). | **D — Partial-signal (2nd instance)** | [[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973]] §7 |
 
-A **five-instance class** spanning **five structurally distinct sub-classes (A / B / C / D / E)** — two positive (1965 A, 1969 E), one partial-signal (1969 D), and two null/boundary (1973 ×2). The class now mirrors and extends the [[concepts/figurative-ufo-rhetoric|diplomatic-channel figurative-UFO rhetoric typology]] (Type 1 referential / Type 2 figurative): the orbital sub-corpus has reached **five-mechanism resolution** to the diplomatic sub-corpus's three. ^[inferred] All polarities are tracked here because **the same intake mechanisms** (NASA-originated, mission-control / debriefing instrument, civilian-agency release path) produce all kinds of artifact, and downstream synthesis must not silently inflate the orbital-UAP count by counting null or partial-signal entries as positives. ^[inferred]
+A **seven-instance class** spanning **six structurally distinct sub-classes (A / B / C / D / E / F)** — three positive (1965 A, 1969 E, 1973 F), two partial-signal (1969 D + 1973–74 D), and two null/boundary (1973 ×2). The class continues to mirror and extend the [[concepts/figurative-ufo-rhetoric|diplomatic-channel figurative-UFO rhetoric typology]]: the orbital sub-corpus has now reached **six-mechanism resolution**. ^[inferred] All polarities are tracked here because **the same intake mechanisms** (NASA-originated, mission-control / debriefing instrument, civilian-agency release path) produce all kinds of artifact, and downstream synthesis must not silently inflate the orbital-UAP count by counting null or partial-signal entries as positives. ^[inferred]
 
-## D-cluster typology (five sub-classes)
+## D-cluster typology (six sub-classes)
 
 | Sub-class | Definition | Anchor |
 |---|---|---|
 | **A** — **Positive (canonical bogey-class call)** | Astronaut-spontaneous report with bogey-class terminology, no astronaut self-correction in the same transmission, with PAO / institutional third-object framing layered over the voice loop. **Single-witness, no morphology, no instrument-mediated optical resolution.** Conventional candidate (booster) is *internally consistent* with the source record. | GT-7 1965 ([[references/sighting-gemini-7-bogey-1965-12-04]]) |
 | **B** — **Null with UAP-keyword false-positive** | Lexically present UAP-domain keyword(s) (*fireball / sighting / flash*) used in non-UAP semantic context (reentry plasma, fogged-window misidentification, cosmic-ray retinal flash). Astronaut-conversational self-correction across multiple radio beats. FOIA pull explained by transcript-keyword match. | Apollo 17 d6 1973 ([[references/nasa-apollo-17-technical-crew-debriefing-1973]]) |
 | **C** — **Null without UAP-keyword (whole-document inclusion)** | Zero UAP-domain keyword content. Non-astronaut PI testimony or ground-investigator-side material. FOIA pull explained by document-series whole-bundle inclusion, not keyword match. | Apollo 17 d5 1973 ([[references/nasa-apollo-17-science-debriefing-1973]]) |
-| **D** — **Partial-signal (astronaut-spontaneous + astronaut-self-attributed conventional)** | Astronaut-spontaneous observation with UAP-adjacent lexical markers (*lights / flashes / escaping*), but **astronaut-supplied conventional explanation in the same transmission** (water-boiler effluent / outgassing). Single-beat astronaut-self-correction. CAPCOM single-*Roger* response without follow-up. | Apollo 12 d1 1969 ([[references/nasa-uap-d1-apollo-12-transcript-1969]]) |
-| **E** *(NEW)* — **Strong-positive (multi-witness, instrument-mediated, alternative-eliminated, morphology-resolved)** | Multi-witness simultaneous observation. Instrument-mediated optical resolution at multiple magnifications and focal settings (cabin window → monocular → sextant). Conventional candidate(s) explicitly eliminated — including by **independent ranging data from Mission Control**. Morphology resolved across optical configurations; crew self-identifies instrument artifacts. **Crew self-rules-out conventional explanations without offering a confident alternative.** | **Apollo 11 d4 1969 ([[references/sighting-apollo-11-cylinder-1969-07]])** |
+| **D** — **Partial-signal (astronaut-spontaneous + astronaut-self-attributed conventional)** | Astronaut-spontaneous observation with UAP-adjacent lexical markers (*lights / flashes / motion*), but **astronaut-supplied conventional explanation in the same transmission** (water-boiler / outgassing / Skylab debris / other satellites). **Now a 2-instance class.** | Apollo 12 d1 1969 ([[references/nasa-uap-d1-apollo-12-transcript-1969]]) + **Skylab 4 d7 1973–74 ([[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973]] §7)** |
+| **E** — **Strong-positive (multi-witness, instrument-mediated, alternative-eliminated, morphology-resolved)** | Multi-witness simultaneous observation. Instrument-mediated optical resolution at multiple magnifications and focal settings (cabin window → monocular → sextant). Conventional candidate(s) explicitly eliminated — including by **independent ranging data from Mission Control**. Morphology resolved across optical configurations; crew self-identifies instrument artifacts. **Crew self-rules-out conventional explanations without offering a confident alternative.** | Apollo 11 d4 1969 ([[references/sighting-apollo-11-cylinder-1969-07]]) |
+| **F** *(NEW)* — **Positive (multi-witness, range-constrained, persistent, morphology-unresolved, conventional-candidate-not-eliminated)** | Multi-witness simultaneous observation of an unidentified body on co-orbital trajectory. Range, rotation period, and angular drift derived from witness-side timing alone (no Mission Control ranging). Morphology unresolved across all available optical instruments. Conventional candidate (typically: another satellite or piece of orbital debris) is the crew's own prior; it is **not internally eliminated** but is **not externally identified** either. Crew explicitly request post-flight identification; identification is not received in the source record. | **Skylab 3 d7 1973 ([[references/sighting-skylab-3-red-object-1973-09]])** |
 
 The **B/C distinction** is itself analytically significant: B is null-with-UAP-keyword (lexically attractive to a keyword-driven FOIA pull), C is null-without-UAP-keyword (must be in the corpus by whole-document inclusion in the same NASA-debrief release tranche). The **D distinction** adds a third mechanism: lexical-presence-with-astronaut-supplied-conventional-attribution in real-time — a structurally distinct path by which the orbital-class sub-corpus accumulates ambiguous-polarity material that downstream synthesis must not silently treat as positive. ^[inferred]
 
-The **E vs A distinction** is the corpus's most important polarity refinement. GT-7's "bogey at ten o'clock high" is **single-witness Borman**, no morphology, no instrument-mediated resolution; the **Titan-II booster hypothesis is internally consistent** with the source record. ^[inferred] Apollo 11 d4 §6's cylinder is **multi-witness (Armstrong + Aldrin + Collins, three-witness simultaneous via PTC rotation)**, has morphology (open-suitcase / two-rings / hollow-cylinder, with focus-dependent ambiguity self-identified by the crew), has instrument-mediated optical resolution at three magnifications (window / monocular / sextant), and the **booster hypothesis is explicitly eliminated by Mission Control range data** (6,000 mi away). ^[inferred] The A/E distinction matters because **downstream synthesis must not silently treat all "positive" entries as equivalent** — sub-class A admits the booster-misidentification reading; sub-class E does not. ^[inferred]
+The **E vs A distinction** is one of the corpus's most important polarity refinements. GT-7's "bogey at ten o'clock high" is **single-witness Borman**, no morphology, no instrument-mediated resolution; the **Titan-II booster hypothesis is internally consistent** with the source record. ^[inferred] Apollo 11 d4 §6's cylinder is **multi-witness (Armstrong + Aldrin + Collins, three-witness simultaneous via PTC rotation)**, has morphology (open-suitcase / two-rings / hollow-cylinder, with focus-dependent ambiguity self-identified by the crew), has instrument-mediated optical resolution at three magnifications (window / monocular / sextant), and the **booster hypothesis is explicitly eliminated by Mission Control range data** (6,000 mi away). ^[inferred] The A/E distinction matters because **downstream synthesis must not silently treat all "positive" entries as equivalent** — sub-class A admits the booster-misidentification reading; sub-class E does not. ^[inferred]
+
+The **F vs A vs E distinction (NEW)** is the corpus's third positive-class refinement. Skylab 3's red object differs from sub-class A (GT-7) on **multi-witness + range-constrained + persistent + rotation-period axes** (GT-7 has none of these); it differs from sub-class E (Apollo 11 d4) on **morphology-resolved + conventional-candidate-eliminated axes** (the SL-3 red object has neither — morphology was tried with all instruments and failed; the candidate "another satellite" is the crew's own prior, not eliminated). The **epistemic position of sub-class F is "the crew describe the object well enough to know what it is *not* (a star, a planet, a normal-trajectory body), but cannot resolve enough to know what it *is*"** — distinct from both **A (could be the booster — not eliminated)** and **E (was not the booster — eliminated)**. ^[inferred] **All three positive sub-classes (A, E, F) are now anchored to a single primary corpus instance**, allowing downstream synthesis to **disambiguate "positive UAP-adjacent" entries by epistemic structure** rather than treating them as equivalent. ^[inferred]
+
+## Multi-mission witness pattern (NEW)
+
+The d7 ingest surfaces the corpus's **first multi-mission astronaut witnesses** — astronauts who appear in multiple corpus mission frames on structurally different observations:
+
+| Witness | Missions | Sub-classes | Pattern |
+|---|---|---|---|
+| **[[entities/buzz-aldrin\|Aldrin]]** | Apollo 11 (single mission) | E (Day-3 cylinder) + cosmic-ray-flash conventional resolution | Same observer; same mission; two structurally different observations (sub-class E unresolved + cosmic-ray-flash conventional) |
+| **[[entities/alan-bean\|Bean]]** *(NEW)* | Apollo 12 + Skylab 3 | D (Apollo 12 AOT) + F (Skylab 3 red object) | Same observer; **two missions**; two structurally different sub-classes (D and F) |
+| **[[entities/pete-conrad\|Conrad]]** *(NEW)* | Apollo 12 + Skylab 2 | Non-UAP empirical-debris confirmation (Apollo 12) + cosmic-ray-flash co-witness (Skylab 2) | Same observer; **two missions**; both **infrastructure-strengthening non-UAP** observations |
+
+The **Aldrin and Bean patterns** are the corpus's **two cleanest examples of astronaut observational discipline**: in both cases, the same observer's reports separate cleanly into "conventionally resolved" and "unresolved" categories without ambiguity. ^[inferred] Aldrin's Apollo 11 cylinder vs in-cabin flashes split (sub-class E vs cosmic-ray-flash) and Bean's Apollo 12 AOT vs Skylab 3 red object split (sub-class D vs sub-class F) demonstrate that **the same observer can produce both polarities of corpus entry** and **the source record's structural features (multi-witness vs single-witness, range data vs no range data, morphology resolved vs unresolved) are the polarity discriminators — not the observer's pedigree alone**. ^[inferred] This is the **strongest within-observer methodological argument** the corpus has for its polarity-discrimination framework. ^[inferred]
+
+The **Conrad pattern** is structurally different: both of his corpus observations are **non-UAP** but both **strengthen the corpus's epistemic infrastructure** — the Apollo 12 d1 line empirically confirms the co-orbital-debris baseline; the Skylab 2 d7 §23 testimony substantively answers the [[concepts/cosmic-ray-light-flashes|cosmic-ray-flash]] concept page's LEO-baseline open question. ^[inferred] Conrad is the corpus's **infrastructure-strengthening multi-mission witness**, distinct from Bean's **observational-discipline-demonstrating multi-mission** role. ^[inferred]
 
 ## Watch-for (still-young class)
 
@@ -105,7 +124,7 @@ The **E vs A distinction** is the corpus's most important polarity refinement. G
 - ~~**Apollo 11 "ice in the urine line" / Aldrin observation** (1969)~~ — **RESOLVED via d4 ingest**: the d4 Apollo 11 Technical Crew Debriefing contains the canonical Day-3 cylinder/two-rings/open-suitcase observation by all three crewmen ([[references/sighting-apollo-11-cylinder-1969-07]]) — sub-class E strong-positive — but the popular "ice in the urine line" framing **does not appear** in either the Vol I §6 or Vol II §21 sections preserved in the d4 OCR excerpt. The phrase may exist elsewhere in the parent debriefing (Vol I is 251 pp, Vol II is 216 pp; the d4 excerpt is 11 pp) or only in popular literature. ^[ambiguous]
 - **STS-era / ISS-era video records** of unidentified orbital objects.
 
-The class will grow rapidly when other RG 255 / NASA mission-record sources enter the corpus. ^[inferred] The **d-cluster (d1–d7)** ingest pipeline alone has three pending sister files (d2 Apollo 17 transcript, d4 Apollo 11, d7 Skylab) that may extend the typology further. ^[inferred]
+The class will grow rapidly when other RG 255 / NASA mission-record sources enter the corpus. ^[inferred] The **d-cluster (d1–d7)** ingest pipeline now has **only one pending sister file** (d2 Apollo 17 transcript) — d4 Apollo 11 (sub-class E) and d7 Skylab (sub-classes D + F + cosmic-ray-flash LEO baseline) have both been ingested. ^[extracted]
 
 ## Why the class is "UAP-adjacent" and not unambiguously "UAP"
 
@@ -136,7 +155,9 @@ In other words: **the class is in the corpus because of intake-channel structure
 - [[references/nasa-pao-t-00763-r1b-gemini-7-1965]] — sub-class A primary source.
 - [[references/sighting-apollo-11-cylinder-1969-07]] — sub-class E anchor (Jul 1969).
 - [[references/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969]] — sub-class E primary source.
-- [[references/nasa-uap-d1-apollo-12-transcript-1969]] — sub-class D anchor (Nov 1969).
+- [[references/nasa-uap-d1-apollo-12-transcript-1969]] — sub-class D 1st-instance anchor (Nov 1969).
+- [[references/sighting-skylab-3-red-object-1973-09]] — **sub-class F anchor (NEW, ~Sep 1973).**
+- [[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — sub-class F primary source + sub-class D 2nd-instance source + cosmic-ray-flash LEO baseline source.
 - [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — sub-class B anchor (1973).
 - [[references/nasa-apollo-17-science-debriefing-1973]] — sub-class C anchor (1973).
 - [[entities/frank-borman]]
@@ -146,10 +167,18 @@ In other words: **the class is in the corpus because of intake-channel structure
 - [[entities/neil-armstrong]] — Apollo 11 CDR; sub-class E witness.
 - [[entities/buzz-aldrin]] — Apollo 11 LMP; sub-class E primary observer.
 - [[entities/michael-collins]] — Apollo 11 CMP; sub-class E witness.
-- [[entities/apollo-12]] — sub-class D mission frame.
-- [[entities/pete-conrad]] — Apollo 12 CDR; co-orbital-debris empirical-confirmation witness.
+- [[entities/apollo-12]] — sub-class D 1st-instance mission frame.
+- [[entities/pete-conrad]] — Apollo 12 CDR + SL-2 CDR; corpus's first multi-mission infrastructure-strengthening witness.
 - [[entities/dick-gordon]] — Apollo 12 CMP.
-- [[entities/alan-bean]] — Apollo 12 LMP; primary witness on the AOT particle-flash observation.
+- [[entities/alan-bean]] — Apollo 12 LMP + SL-3 CDR; corpus's first multi-mission multi-sub-class observationally-disciplined witness (D + F).
+- [[entities/skylab]] — sub-class F + sub-class D 2nd-instance mission frame.
+- [[entities/joseph-kerwin]] — SL-2 SP; cosmic-ray-flash SAA-correlation witness.
+- [[entities/paul-weitz]] — SL-2 PLT; left-eye preference + chord-track confirmation witness.
+- [[entities/owen-garriott]] — SL-3 SP; primary articulator of the SL-3 sub-class F range derivation.
+- [[entities/jack-lousma]] — SL-3 PLT; SL-3 red-object initial spotter; primary morphology-unresolved articulator.
+- [[entities/gerald-carr]] — SL-4 CDR; sub-class D 2nd-instance primary articulator.
+- [[entities/edward-gibson]] — SL-4 SP.
+- [[entities/william-pogue]] — SL-4 PLT.
 - [[entities/apollo-17]] — sub-classes B + C mission frame.
 - [[entities/nasa]]
 - [[entities/nasa-pao]]

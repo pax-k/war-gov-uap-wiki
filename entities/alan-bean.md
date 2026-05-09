@@ -3,24 +3,29 @@ title: Alan L. Bean
 category: entities
 tags: [person, witness, uap, nasa, astronaut]
 aliases: [Al Bean, Bean, Capt Alan L. Bean USN, Cdr Alan Bean]
-sources: [sources/nasa-uap-d1-apollo-12-transcript-1969.json]
-summary: USN naval aviator and NASA "Fourteen" astronaut; Lunar Module Pilot of Apollo 12 (Nov 1969); fourth person to walk on the Moon. Primary witness on the d1 AOT particle-flash observation — corpus's first astronaut-self-attributed-conventional on-orbit ephemeral-light report.
+sources: [sources/nasa-uap-d1-apollo-12-transcript-1969.json, sources/nasa-uap-d7-skylab-technical-crew-debriefing-1973.json]
+summary: USN naval aviator and NASA "Fourteen" astronaut; Lunar Module Pilot of Apollo 12 (Nov 1969) — fourth on the Moon — and Commander of Skylab 3 (Jul–Sep 1973). Witness on the Apollo 12 d1 AOT particle-flash (sub-class D) and the Skylab 3 d7 multi-witness "red object" (sub-class F) — corpus's first multi-mission, multi-sub-class astronaut witness.
 provenance:
-  extracted: 0.30
-  inferred: 0.68
+  extracted: 0.32
+  inferred: 0.66
   ambiguous: 0.02
-base_confidence: 0.40
+base_confidence: 0.50
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T20:00:00Z
-updated: 2026-05-10T20:00:00Z
+updated: 2026-05-10T23:00:00Z
 ---
 
 # Alan L. Bean
 
-**Alan LaVern Bean** (1932–2018) — **US Navy naval aviator** and **NASA Astronaut Group 3** ("the Fourteen", 1963 — same group as **[[entities/dick-gordon|Dick Gordon]]** and **[[entities/gene-cernan|Gene Cernan]]**), Lunar Module Pilot of **[[entities/apollo-12|Apollo 12]]** (14–24 Nov 1969), and **the fourth person to walk on the Moon**. ^[inferred]
+**Alan LaVern Bean** (1932–2018) — **US Navy naval aviator** and **NASA Astronaut Group 3** ("the Fourteen", 1963 — same group as **[[entities/dick-gordon|Dick Gordon]]** and **[[entities/gene-cernan|Gene Cernan]]**), Lunar Module Pilot of **[[entities/apollo-12|Apollo 12]]** (14–24 Nov 1969) — **the fourth person to walk on the Moon** — and **Commander of [[entities/skylab|Skylab 3]]** (28 Jul – 25 Sep 1973). ^[inferred]
 
-In the wiki's UAP corpus, Bean enters as the **primary witness** on the **[[references/nasa-uap-d1-apollo-12-transcript-1969|d1 Apollo 12 air-to-ground voice loop excerpt]]**'s **AOT particle-flash observation** — the corpus's **first astronaut-self-attributed-conventional on-orbit ephemeral-light report**. ^[inferred] Bean is also the corpus's first witness on a **navigation-instrument-mediated** observation (the AOT, a sextant-class periscope), distinct from prior corpus witnesses' rendezvous-window observations. ^[inferred]
+Bean is the wiki's UAP corpus's **first multi-mission, multi-sub-class astronaut witness**: ^[inferred]
+
+- **As Apollo 12 LMP** on the **[[references/nasa-uap-d1-apollo-12-transcript-1969|d1 air-to-ground voice loop excerpt]]**, Bean is the **primary witness** on the **AOT particle-flash observation** — the corpus's first **sub-class D** entry (astronaut-spontaneous + same-transmission self-attribution to water-boiler effluent / lunar outgassing). First **navigation-instrument-mediated** UAP-adjacent observation in the corpus.
+- **As Skylab 3 CDR** on the **[[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973|d7 Skylab Technical Crew Debriefing]]**, Bean is one of the **three witnesses** on the **multi-minute "red object" co-orbital sighting** — the corpus's first **sub-class F** entry (multi-witness, range-constrained, persistent, morphology-unresolved, conventional-candidate-not-eliminated). See [[references/sighting-skylab-3-red-object-1973-09]].
+
+**Bean's two corpus observations occupy two structurally different sub-classes** (D and F) — paralleling [[entities/buzz-aldrin|Aldrin]]'s d4 cylinder-vs-flashes split (sub-class E vs cosmic-ray-flash). The same observer's two reports separating cleanly into two different epistemic positions is **observational-discipline data** that strengthens both observations. ^[inferred]
 
 ## Apollo 12 d1 transcript line (Tape 90/4)
 
@@ -47,14 +52,41 @@ This is the **only** UAP-adjacent observation on the d1 excerpt. Its corpus sign
 
 CAPCOM (with **Fredo**) confirms the phenomenon was **observed during ground testing at Grumman's Bethpage plant** on most LM spacecraft and identifies it as **electromagnetic interference (EMI)**. ^[extracted] Not a UAP observation — included here as evidence of Bean's **observational discipline** (he flags an unusual visual signature, gets a known-mechanism explanation, and moves on without overinterpretation). ^[inferred]
 
+## Skylab 3 d7 testimony — multi-witness "red object" sighting (NEW)
+
+Bean's second corpus appearance is on the **[[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973|d7 Skylab Technical Crew Debriefing]]** SL-3 §7 / §20.0 — as **CDR of the SL-3 mission and one of three witnesses** to the **bright reddish co-orbital object** observed for ~10 minutes from the Skylab wardroom window approximately a week before splashdown (~Sep 1973). The full transcript and observation properties are documented at [[references/sighting-skylab-3-red-object-1973-09]]. Bean's contributions:
+
+> **BEAN**: *"You bet. We never saw it again. You'd think we would have seen it the next night or it would cycle by another time. Maybe it did and we weren't looking out the window."* ^[extracted]
+
+> **BEAN**: *"We tried monitors and everything on it but we could never make it into anything other than a bright light."* ^[extracted]
+
+The substantive content for the corpus:
+
+1. **Multi-instrument failure to resolve morphology** — *"we tried monitors and everything on it but we could never make it into anything other than a bright light"*. ^[extracted] Bean's first-person account of **failed morphology resolution across all available optical instruments** is the central evidence placing the SL-3 observation in **sub-class F (morphology-unresolved)** rather than **sub-class E (morphology-resolved across optical configurations like Apollo 11 d4)**. ^[inferred]
+2. **Single-occurrence observation** — *"We never saw it again. You'd think we would have seen it the next night"* — Bean's expectation that a co-orbital body should reappear weakens the simple co-launched-debris reading and is the crew's own datum that the observation is anomalous. ^[extracted]
+3. **Cross-mission witness corroboration with [[entities/owen-garriott|Garriott]] and [[entities/jack-lousma|Lousma]]** — Bean joins Garriott (range-and-rotation-period analysis) and Lousma (initial spotter, morphology-unresolved characterization) as a **three-witness simultaneous observer**.
+
+The **structural significance** for Bean's witness footprint:
+
+**Bean is the corpus's first multi-mission, multi-sub-class astronaut witness.** ^[inferred] His two observations occupy two different sub-classes:
+
+| Mission | Sub-class | Witness role | Conventional explanation |
+|---|---|---|---|
+| **[[entities/apollo-12\|Apollo 12]] d1** (Nov 1969) | **D** — Partial-signal | Primary articulator | **Self-attributed** in same transmission to water-boiler effluent / lunar outgassing |
+| **[[entities/skylab\|Skylab 3]] d7** (~Sep 1973) | **F** — Multi-witness range-constrained morphology-unresolved | Co-witness; primary speaker on morphology-unresolved characterization | **Crew's own working hypothesis** ("obviously a satellite") not eliminated and not confirmed |
+
+The **D vs F distinction within Bean's own observational record** is **structurally significant**: Bean's Apollo 12 AOT report **succumbs to conventional explanation** that Bean himself supplies; Bean's Skylab 3 red-object report **does not succumb** to conventional explanation in the source record (the working hypothesis exists but is unidentified). The two reports separate cleanly into **"conventionally-resolvable"** (Apollo 12) and **"unresolved-identification, multi-witness, range-constrained"** (Skylab 3) — paralleling the structural pattern [[entities/buzz-aldrin|Aldrin]] established on the d4 Apollo 11 ingest (Apollo 11 cylinder sub-class E vs in-cabin cosmic-ray flashes conventional). ^[inferred]
+
+**Bean and Aldrin together are the corpus's two most observationally-disciplined astronaut witnesses** under this metric — both have multiple corpus observations that separate cleanly into "conventionally resolved" and "unresolved" categories without ambiguity. ^[inferred]
+
 ## Mission record (UAP-relevant only)
 
 | Mission | Role | UAP-adjacent record |
 |---|---|---|
-| **[[entities/apollo-12\|Apollo 12]]** (14–24 Nov 1969) | Lunar Module Pilot | Speaker on [[references/nasa-uap-d1-apollo-12-transcript-1969]] |
-| **Skylab 3** (Jul–Sep 1973) | Commander. Not currently in the wiki's UAP corpus. ^[inferred] | — |
+| **[[entities/apollo-12\|Apollo 12]]** (14–24 Nov 1969) | Lunar Module Pilot | Primary witness on [[references/nasa-uap-d1-apollo-12-transcript-1969]] AOT particle-flash (sub-class D) |
+| **[[entities/skylab\|Skylab 3]]** (28 Jul – 25 Sep 1973) | Commander | Co-witness on [[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973]] / [[references/sighting-skylab-3-red-object-1973-09]] (sub-class F) |
 
-Bean's later commands and post-NASA roles (commercial space-themed painter; substantial body of work depicting Apollo missions) are not currently relevant to the UAP corpus and are out of scope. (See [[entities/frank-borman|Borman entity]] for the precedent on this scoping decision.) Bean's **paintings** are notable as they include depictions of Apollo 12 EVAs — whether any depict the AOT particle-flash observation is unverified. ^[inferred]
+Bean's post-NASA roles (commercial space-themed painter; substantial body of work depicting Apollo missions) are not currently relevant to the UAP corpus and are out of scope. (See [[entities/frank-borman|Borman entity]] for the precedent on this scoping decision.) Bean's **paintings** include depictions of Apollo 12 EVAs — whether any depict the AOT particle-flash observation is unverified. ^[inferred] Whether any depict the SL-3 red-object observation is also unverified — and is structurally interesting because Bean's CDR role on SL-3 made the red-object observation a multi-day shared experience with [[entities/owen-garriott|Garriott]] and [[entities/jack-lousma|Lousma]] that Bean's painterly memory may have preserved. ^[open]
 
 ## Witness pedigree
 
@@ -76,29 +108,41 @@ His radio language on the d1 tape is **descriptively rich** (*"particles of ligh
 
 ## Cross-references in the corpus
 
-- [[references/nasa-uap-d1-apollo-12-transcript-1969]] — source artifact.
-- [[entities/apollo-12]] — the mission.
-- [[entities/pete-conrad]] — Apollo 12 CDR.
+- [[references/nasa-uap-d1-apollo-12-transcript-1969]] — Apollo 12 source artifact (sub-class D).
+- [[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — Skylab source artifact (sub-class F).
+- [[references/sighting-skylab-3-red-object-1973-09]] — Skylab 3 sighting-anchor.
+- [[entities/apollo-12]] — Apollo 12 mission frame.
+- [[entities/skylab]] — Skylab orbital-station mission frame.
+- [[entities/pete-conrad]] — Apollo 12 CDR; SL-2 CDR — corpus's other multi-mission witness.
 - [[entities/dick-gordon]] — Apollo 12 CMP.
+- [[entities/owen-garriott]] — SL-3 SP; co-witness on the SL-3 red-object observation.
+- [[entities/jack-lousma]] — SL-3 PLT; initial spotter on the SL-3 red-object observation.
 - [[entities/nasa]] — employing agency.
-- [[concepts/orbital-uap-sighting]] — Bean's d1 observation is the corpus's first sub-class D entry.
+- [[concepts/orbital-uap-sighting]] — Bean's d1 observation defines sub-class D; Bean's d7 observation is in the first sub-class F entry.
 
 ## Open questions
 
 - Locate **Bean's full Apollo 12 debriefing testimony** for any treatment of the AOT particle-flash observation. ^[open] (The d1 OCR excerpt is a voice-loop fragment, not a debrief.)
-- Cross-reference Bean's **Skylab 3 mission transcripts** for any analogous on-orbit ephemeral-light observations. ^[open]
-- Cross-reference Bean's **autobiography** (*My Life as an Astronaut*, 1988) for any retrospective commentary on the AOT observation. ^[open]
-- Cross-reference **Bean's paintings** for any visual depiction of the AOT particle-flash phenomenology, which would convert his "extracted" verbal report into a multi-decade-later "inferred" visual reconstruction. ^[open]
+- Locate **Bean's Skylab 3 medical / behavioral debrief** for any clinical assessment of the red-object observation. ^[open]
+- Cross-reference Bean's **autobiography** (*My Life as an Astronaut*, 1988) for any retrospective commentary on either the AOT observation or the SL-3 red object. ^[open]
+- Cross-reference **Bean's paintings** for any visual depiction of the AOT particle-flash phenomenology or the SL-3 red object, which would convert his "extracted" verbal reports into multi-decade-later "inferred" visual reconstructions. ^[open]
 - Cross-check whether **Project BLUE BOOK** — active until 17 Dec 1969 — opened a case file on Bean's AOT particle-flash observation; the temporal proximity (BLUE BOOK closure within weeks) makes this notable. ^[open]
+- Cross-reference whether Bean's **Apollo 12 BLUE BOOK awareness** (had it occurred) shaped his SL-3 d7 observational discipline 4 years later. ^[open]
 
 ## See also
 
-- [[entities/apollo-12]] — mission frame.
-- [[entities/pete-conrad]] — Apollo 12 CDR.
+- [[entities/apollo-12]] — Apollo 12 mission frame.
+- [[entities/skylab]] — Skylab orbital-station mission frame.
+- [[entities/pete-conrad]] — Apollo 12 CDR + SL-2 CDR — the corpus's other multi-mission witness.
 - [[entities/dick-gordon]] — Apollo 12 CMP.
+- [[entities/owen-garriott]] — SL-3 SP; SL-3 red-object co-witness.
+- [[entities/jack-lousma]] — SL-3 PLT; SL-3 red-object initial spotter.
 - [[entities/nasa]]
-- [[references/nasa-uap-d1-apollo-12-transcript-1969]]
-- [[concepts/orbital-uap-sighting]] — Bean's observation defines sub-class D.
+- [[references/nasa-uap-d1-apollo-12-transcript-1969]] — Apollo 12 d1.
+- [[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — Skylab d7.
+- [[references/sighting-skylab-3-red-object-1973-09]] — SL-3 sighting-anchor.
+- [[concepts/orbital-uap-sighting]] — Bean's d1 defines sub-class D; Bean's d7 anchors sub-class F.
+- [[entities/buzz-aldrin]] — corpus's other multi-observation observationally-disciplined astronaut witness; same self-correction structural pattern (Apollo 11 cylinder sub-class E vs in-cabin cosmic-ray flashes conventional).
 - [[entities/frank-borman]] — predecessor astronaut-class UAP witness in the corpus (Group 2; positive UAP-adjacent call, 1965).
 - [[entities/gene-cernan]] — Group-3 cohort-mate; successor Apollo-program corpus witness (1973).
 - [[entities/harrison-schmitt]] — successor scientist-astronaut witness (Apollo 17 LMP, 1973).
