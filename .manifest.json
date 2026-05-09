@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T17:30:00Z",
+  "updated": "2026-05-09T15:25:29Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -241,18 +241,36 @@
         "projects/uap/uap.md",
         "index.md"
       ]
+    },
+    "sources/65_hs1-101634279_100-de-18221_serial_844.json": {
+      "ingested_at": "2026-05-09T15:25:29Z",
+      "size_bytes": 1901,
+      "modified_at": 1778332063,
+      "content_hash": "sha256:35f0b2ce6c24b7040a2c07b090ec8be2669d2c58d4f8facf487659d0d17cb3c9",
+      "source_id": "fbi-detroit-100-18221-serial-844-1958-04-17",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/fbi-detroit-100-18221-serial-844-1958.md",
+        "references/sighting-detroit-1958-04-17.md"
+      ],
+      "pages_updated": [
+        "entities/fbi.md",
+        "index.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T17:30:00Z",
-      "sources_ingested": 9
+      "last_ingested": "2026-05-09T15:25:29Z",
+      "sources_ingested": 10
     }
   },
   "stats": {
-    "total_sources_ingested": 10,
-    "total_pages": 69,
+    "total_sources_ingested": 11,
+    "total_pages": 71,
     "total_projects": 1,
     "last_full_rebuild": null
   }

@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T17:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-09T15:25:29Z*
 
 ## Concepts
 
@@ -33,7 +33,7 @@ title: Wiki Index
 - [[entities/air-materiel-command]] — USAF command at Wright-Patterson AFB; designated central agency for 1948 Flying Disc reports ( #usaf #organization #history)
 - [[entities/c-m-grierson]] — Air Commodore, A.C. of S. A-2, SHAEF Air Staff; routed the 1944–45 foo-fighter correspondence ( #uap #ww2 #person #raf)
 - [[entities/c-p-cabell]] — Maj Gen, signed the 1948 directive that established Project SIGN ( #usaf #person #intelligence)
-- [[entities/fbi]] — Federal Bureau of Investigation; intake authority for two parallel 2023 redacted FD-302 UAP interviews (serial-3 driver + serial-4 drone-pilot, same Sept 2023 incident) ( #fbi #organization #federal-le)
+- [[entities/fbi]] — Federal Bureau of Investigation; intake authority across the corpus's 1958 (Detroit, citizen-call SF-64 routing memo) and 2023 (parallel FD-302 evidentiary interviews) UAP-adjacent records ( #fbi #organization #federal-le)
 - [[entities/horten-brothers]] — German aircraft designers whose tailless wings were studied as a Flying Disc explanation ( #aviation #germany #ww2)
 - [[entities/maxwell-w-hunter]] — NASC Professional Staff member; authored the 1963 "Space Alien Race Question" memo ( #person #nasc #policy)
 - [[entities/military-air-transport-service]] — Joint USAF/Navy unified airlift command (1948); recurring 1949 routing-and-triage hub for Project SIGN reports alongside AMC ( #usaf #organization #history)
@@ -54,6 +54,7 @@ title: Wiki Index
 
 - [[references/dos-cable-kazakhstan-1994-01]] — Declassified 3-page UNCLAS US State Department cable (31 Jan 1994, DUSHANBE 00259) on Tajik Air pilots' UAP encounter at FL410 over Kazakhstan ( #uap #primary-source #state-department)
 - [[references/dos-cable-papua-new-guinea-1985-01]] — Declassified 3-page US State Department cable (28 Jan 1985, PORT M 00199) on PNG NIO inquiry into 24 Jan 1985 high-altitude overflights ( #uap #primary-source #state-department)
+- [[references/fbi-detroit-100-18221-serial-844-1958]] — Declassified one-page FBI Detroit Office Memorandum (SA Reynolds → SAC, 17 Apr 1958), serial 844 in file 100-18221, on the Weaver Detroit sighting ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-drone-pilot-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the contractor drone-pilot witness for the Sept 2023 daylight sighting (serial-4) ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-serial-3-driver-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the lead-vehicle driver witness (serial-3) — sister artifact to serial-4, plus a co-temporal gate anomaly ( #uap #primary-source #fbi)
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
@@ -61,6 +62,7 @@ title: Wiki Index
 - [[references/sighting-bakersfield-1948-03]] — Two falling-object observations near Bakersfield, CA in March 1948 ( #uap #sighting #california)
 - [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] — 1 March 1945 USAAF reconnaissance pilot sighting of a 12-ft aluminium cylinder hovering vertically at 9,000 ft ( #uap #sighting #ww2)
 - [[references/sighting-dark-kite-western-us]] — Federal LE agents pursue what looks like a car; it lifts off the road, hovers, and reads as a thin dark kite/triangle ( #uap #sighting #federal-le)
+- [[references/sighting-detroit-1958-04-17]] — 0408-LT 17 Apr 1958 single-witness Detroit sighting (David Weaver) of a circular crystal-domed object NE-bound from SW; phoned in to FBI after Selfridge unreachable ( #uap #sighting #michigan)
 - [[references/sighting-fairfield-suisun-1948-12]] — AACS tower operators tracked a 30-inch luminous round object that hovered, climbed almost vertically to 20k ft (3 Dec 1948) ( #uap #sighting #california)
 - [[references/sighting-fbi-fd302-drone-pilot-2023-09]] — Sept 2023 daylight UAP sighting at ~07:15–07:30 by a contractor convoy in restricted airspace; documented by two parallel FBI FD-302s (driver + drone-pilot passenger) plus a co-temporal gate anomaly ( #uap #sighting #fbi)
 - [[references/sighting-fiery-orb-western-us]] — Two federal LE agents observe a 12–18 m glowing orange orb hovering near a rock pinnacle for ~1 min ( #uap #sighting #orb)
