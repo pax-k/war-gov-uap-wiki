@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
+  "created": "2026-05-09T12:50:15Z",
+  "updated": "2026-05-09T12:58:46Z",
+  "sources": {
+    "_raw/18_6369445_general_1948_vol_1.json": {
+      "ingested_at": "2026-05-09T12:58:46Z",
+      "size_bytes": 35050,
+      "modified_at": "2026-05-09T12:53:21Z",
+      "content_hash": "sha256:9bcf610473a73faaf1cf2a8ec2c3f1c238399be6443a07d513c002c66f3bd4cb",
+      "source_id": "usaf-1948-flying-discs-vol-1-doc-18",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "promoted_from_raw": true,
+      "deleted_after_promotion": true,
+      "pages_created": [
+        "projects/uap/uap.md",
+        "concepts/project-sign.md",
+        "concepts/horten-flying-wing.md",
+        "concepts/flying-disc-reporting-protocol.md",
+        "entities/air-materiel-command.md",
+        "entities/c-p-cabell.md",
+        "entities/horten-brothers.md",
+        "entities/wright-patterson-afb.md",
+        "references/usaf-flying-discs-1948.md",
+        "references/loedding-flying-disc.md",
+        "references/sighting-bakersfield-1948-03.md",
+        "references/sighting-hobson-ohio-1948-05.md",
+        "synthesis/horten-thesis-vs-disc-sightings.md"
+      ],
+      "pages_updated": []
+    }
+  },
+  "projects": {
+    "uap": {
+      "vault_path": "projects/uap",
+      "last_ingested": "2026-05-09T12:58:46Z",
+      "sources_ingested": 1
+    }
+  },
+  "stats": {
+    "total_sources_ingested": 1,
+    "total_pages": 13,
+    "total_projects": 1,
+    "last_full_rebuild": null
+  }
+}

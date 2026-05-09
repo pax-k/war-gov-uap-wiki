@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "b24c613f45b20a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "b23df90b2b1aca89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "885f56727454e1ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "synthesis/horten-thesis-vs-disc-sightings.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "horten-thesis-vs-disc-sightings"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e05ba9908132e977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "053e2dc475aa63df",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "synthesis/horten-thesis-vs-disc-sightings.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of horten-thesis-vs-disc-sightings"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c94b8aba69bb0d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6f2d1a7b131066c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c9fa8a4cadaa70d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "06c1047df3bc820c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f27a915221622c5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfaec18f6b81ce29",
+    "type": "split",
+    "children": [
+      {
+        "id": "e926eebc5899a2f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba62f37557b64df9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "synthesis/horten-thesis-vs-disc-sightings.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for horten-thesis-vs-disc-sightings"
+            }
+          },
+          {
+            "id": "b7c5c7d33c4a7541",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "synthesis/horten-thesis-vs-disc-sightings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from horten-thesis-vs-disc-sightings"
+            }
+          },
+          {
+            "id": "50c43619f53dd564",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bea6176b340df7a6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "42f65177edd4fbed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "synthesis/horten-thesis-vs-disc-sightings.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of horten-thesis-vs-disc-sightings"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "885f56727454e1ca",
+  "lastOpenFiles": [
+    "concepts/flying-disc-reporting-protocol.md",
+    "entities/horten-brothers.md",
+    "entities/c-p-cabell.md",
+    "entities/air-materiel-command.md",
+    "projects/uap/uap.md",
+    "references/usaf-flying-discs-1948.md",
+    "references/sighting-hobson-ohio-1948-05.md",
+    "references/sighting-bakersfield-1948-03.md",
+    "references/loedding-flying-disc.md",
+    "synthesis/horten-thesis-vs-disc-sightings.md",
+    "_raw/western_us_event_slides_5.08.2026.json",
+    "_raw/usper-statement-redacted.json",
+    "_raw/serial-4-redacted_redacted.json",
+    "_raw/serial-3_redacted.json",
+    "_raw/nasa-uap-d7-skylab-technical-crew-debriefing-1973.json",
+    "_raw/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json",
+    "_raw/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json",
+    "_raw/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json",
+    "_raw/nasa-uap-d3-gemini-7-transcript-1965.json",
+    "_raw/nasa-uap-d2-apollo-17-transcript-1972.json",
+    "entities/wright-patterson-afb.md",
+    "concepts/horten-flying-wing.md",
+    "concepts/project-sign.md",
+    "hot.md",
+    "log.md",
+    "index.md"
+  ]
+}
