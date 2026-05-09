@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T13:41:53Z*
+*This index is automatically maintained. Last updated: 2026-05-09T13:50:00Z*
 
 ## Concepts
 
@@ -13,6 +13,9 @@ title: Wiki Index
 - [[concepts/orb-flare-formation]] — Distinct UAP morphology: orbs flaring up sequentially in a line/stack, holding stationary, flaring down in reverse order ( #uap #morphology #pattern)
 - [[concepts/orb-phenomenon]] — Recurring UAP morphology of luminous spherical bodies, including "mother / daughter" launch patterns ( #uap #morphology #pattern)
 - [[concepts/project-sign]] — First official USAF program to collect and evaluate Flying Disc reports (1948) ( #uap #usaf #intelligence)
+- [[concepts/scientific-vs-saucer-advocate-frame]] — Mid-20th-century institutional posture writing UAP policy from the middle ground between saucer advocates and strict scientific dismissers ( #uap #history #rhetoric)
+- [[concepts/space-alien-policy-question]] — 1963 NASC framing of "what would US policy be if extraterrestrial intelligence were confirmed?" treated as a foreseeable diplomatic problem ( #uap #policy #contact)
+- [[concepts/three-class-alien-taxonomy]] — Hunter's 1963 chemical-rocket / nuclear-class / Einstein-violating classification of any contacted alien race ( #uap #policy #taxonomy)
 - [[concepts/transparent-uap]] — Witness-reported partial-transparency and beam-blocking UAP signature ( #uap #morphology #optical)
 - [[concepts/uap-aircraft-engagement]] — UAP behavioral signature: orbs approaching, following, or breaking off from one aircraft to pursue another ( #uap #behavior #pattern)
 
@@ -22,6 +25,9 @@ title: Wiki Index
 - [[entities/air-materiel-command]] — USAF command at Wright-Patterson AFB; designated central agency for 1948 Flying Disc reports ( #usaf #organization #history)
 - [[entities/c-p-cabell]] — Maj Gen, signed the 1948 directive that established Project SIGN ( #usaf #person #intelligence)
 - [[entities/horten-brothers]] — German aircraft designers whose tailless wings were studied as a Flying Disc explanation ( #aviation #germany #ww2)
+- [[entities/maxwell-w-hunter]] — NASC Professional Staff member; authored the 1963 "Space Alien Race Question" memo ( #person #nasc #policy)
+- [[entities/national-aeronautics-and-space-council]] — Executive Office of the President advisory body; originating office of the 1963 alien-policy memo ( #organization #eop #policy)
+- [[entities/robert-f-packard]] — State Department / OISA officer; addressee of the 1963 NASC memo ( #person #state-department #policy)
 - [[entities/wright-patterson-afb]] — Dayton, OH base; physical hub of the 1948 USAF UFO collection effort ( #usaf #location #history)
 
 ## Skills
@@ -38,12 +44,14 @@ title: Wiki Index
 - [[references/sighting-hobson-ohio-1948-05]] — Night-time multi-witness phosphorescent disc sighting by NY Central rail workers ( #uap #sighting #ohio)
 - [[references/sighting-orbs-launching-orbs-western-us]] — Three federal LE teams independently see orange orbs launching red orbs over two days ( #uap #sighting #orb)
 - [[references/sighting-transparent-kite-western-us]] — Pre-dawn kite-shaped object visible through NVGs and bare eye but not all witnesses; partially transparent ( #uap #sighting #transparent)
+- [[references/hunter-1963-space-alien-race-memo]] — 6-page declassified OFFICIAL USE ONLY memo (NASC, 18 Jul 1963) framing US policy options for first contact ( #uap #primary-source #policy)
 - [[references/usaf-flying-discs-1948]] — Declassified 28-page USAF inter-office correspondence, Feb–Jun 1948 ( #uap #primary-source #declassified)
 - [[references/usper-statement-2025]] — Redacted SECRET//NOFORN witness statement by a senior US intelligence official describing a 2025 helicopter orb encounter ( #uap #primary-source #intel-witness)
 - [[references/western-us-event-2026]] — 4-slide briefing deck on the multi-event Western U.S. federal LE UAP cluster, with AARO follow-up ( #uap #primary-source #federal-le)
 
 ## Synthesis
 
+- [[synthesis/early-uap-policy-vs-operational-track]] — Three-layer institutional split (operational / EOP-policy / modern-multi-track) across the wiki's 1948–2026 corpus ( #uap #analysis #policy)
 - [[synthesis/federal-le-uap-witness-pattern]] — What multi-agent federal LE testimony does (and doesn't) buy you as evidence ( #uap #analysis #witness)
 - [[synthesis/horten-thesis-vs-disc-sightings]] — Cross-cutting analysis of the 1948 Horten conventional-explanation thesis ( #uap #analysis #history)
 

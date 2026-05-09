@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T13:41:53Z",
+  "updated": "2026-05-09T13:50:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -78,18 +78,41 @@
         "references/western-us-event-2026.md",
         "entities/aaro.md"
       ]
+    },
+    "sources/59_214434_sp_16_7.18.1963.json": {
+      "ingested_at": "2026-05-09T13:50:00Z",
+      "size_bytes": 13980,
+      "modified_at": "2026-05-09T22:14:23Z",
+      "content_hash": "sha256:08e4fd558dc7891f09d9f271c68bd6ff87ee6a48fe98716420bf44be7c52f801",
+      "source_id": "nasc-sp-16-hunter-1963-07-18",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/hunter-1963-space-alien-race-memo.md",
+        "entities/maxwell-w-hunter.md",
+        "entities/national-aeronautics-and-space-council.md",
+        "entities/robert-f-packard.md",
+        "concepts/space-alien-policy-question.md",
+        "concepts/three-class-alien-taxonomy.md",
+        "concepts/scientific-vs-saucer-advocate-frame.md",
+        "synthesis/early-uap-policy-vs-operational-track.md"
+      ],
+      "pages_updated": [
+        "projects/uap/uap.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T13:41:53Z",
-      "sources_ingested": 3
+      "last_ingested": "2026-05-09T13:50:00Z",
+      "sources_ingested": 4
     }
   },
   "stats": {
-    "total_sources_ingested": 3,
-    "total_pages": 26,
+    "total_sources_ingested": 4,
+    "total_pages": 34,
     "total_projects": 1,
     "last_full_rebuild": null
   }

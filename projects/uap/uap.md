@@ -3,17 +3,17 @@ title: UAP
 category: project
 tags: [uap, history, intelligence, archive]
 source_path: _raw/ (declassified UAP archive volumes), sources/ (Mistral-OCR'd briefings and witness statements)
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json]
-summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans 1948 USAF Project SIGN material, the 2026 AARO-handled Western US event, and a 2025 SECRET//NOFORN intel-official witness statement.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json]
+summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans 1948 USAF Project SIGN material, a 1963 NASC policy memo, the 2026 AARO-handled Western US event, and a 2025 SECRET//NOFORN intel-official witness statement.
 provenance:
   extracted: 0.5
   inferred: 0.5
   ambiguous: 0.0
-base_confidence: 0.69
+base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T13:41:53Z
+updated: 2026-05-09T13:50:00Z
 ---
 
 # UAP
@@ -40,6 +40,10 @@ A research project distilling declassified primary-source archives on Unidentifi
 
 - [[references/usper-statement-2025]] — Three-page redacted SECRET//NOFORN witness statement by a senior US intelligence official describing a multi-hour helicopter-borne orb encounter at a redacted facility. Distinct from the 2026 Western U.S. event (different anonymization scheme, different witness class, different sensor configuration). The single sighting narrative is at [[references/sighting-helicopter-orb-encounter-2025]].
 
+### 1963 NASC policy memo
+
+- [[references/hunter-1963-space-alien-race-memo]] — 6-page declassified OFFICIAL USE ONLY memo (NND 937051), dated 18 July 1963, from [[entities/maxwell-w-hunter|Maxwell W. Hunter II]] (Member, Professional Staff, [[entities/national-aeronautics-and-space-council|NASC]]) to [[entities/robert-f-packard|Robert F. Packard]] at State/OISA. The wiki's first **policy-staff-layer** UAP-adjacent artifact — articulates US policy options for first contact rather than reporting a sighting.
+
 ## Key institutional structures (1948)
 
 - [[concepts/project-sign]] — first official US Air Force investigative program.
@@ -50,10 +54,23 @@ A research project distilling declassified primary-source archives on Unidentifi
 
 - [[entities/aaro|AARO]] — All-domain Anomaly Resolution Office; modern intake/assessment authority. Stub page; fills out as more AARO-handled material is ingested.
 
+## Policy-staff layer (EOP, 1963)
+
+- [[entities/national-aeronautics-and-space-council|NASC]] — Executive Office of the President advisory body; originating office of the 1963 alien-policy memo.
+- [[concepts/space-alien-policy-question]] — Hunter's framing of "what should US policy be if contact is confirmed?"
+- [[concepts/three-class-alien-taxonomy]] — chemical-rocket / nuclear-class / Einstein-violating classification used to drive sharply different US postures.
+- [[concepts/scientific-vs-saucer-advocate-frame]] — the "prepared skepticism" rhetorical posture Hunter inhabits and that recurs across decades in this corpus.
+- [[synthesis/early-uap-policy-vs-operational-track]] — places the 1963 memo against the 1948 operational track and the 2025–2026 modern track.
+
 ## Key people (1948)
 
 - [[entities/c-p-cabell]] — signed the foundational SIGN directive.
 - [[entities/horten-brothers]] — under US/G-2 interrogation as part of the investigation.
+
+## Key people (1963 policy track)
+
+- [[entities/maxwell-w-hunter]] — NASC Professional Staff; authored the 18 Jul 1963 alien-policy memo.
+- [[entities/robert-f-packard]] — State Department, Office of International Scientific Affairs; addressee of the 1963 memo.
 
 ## Working hypotheses
 
@@ -91,6 +108,10 @@ A research project distilling declassified primary-source archives on Unidentifi
 
 - Locate / ingest other volumes in the "general_1948_vol_X" series. ^[inferred]
 - Add Project GRUDGE and Project BLUE BOOK source bundles for chronological continuity.
+- Locate other NASC SP-series memos (the 1963 file marker is **SP 16**, implying ≥15 prior SP memos in that series — at least some may touch related topics). ^[inferred]
+- Acquire 1953 Robertson Panel and 1968 Condon Report sources to flesh out the policy-staff layer between 1963 and the modern AARO era.
+- Resolve the "J. W. Hunt / A. Hunt" cover-routing ambiguity on the 1963 memo (OCR misread of "M. W. Hunter," or distinct routing staffer?). ^[ambiguous]
+- Look for a Packard / State / OISA reply to the Hunter 1963 memo. ^[open]
 - Pull the actual T-2 report F-SU-1110-HD ("German Flying Wings Designed by Horten Brothers") if a declassified copy is available.
 - Identify "Loedding" definitively (likely Alfred Loedding, AMC aerodynamicist). ^[inferred]
 - Track the recurrence of named officers ([[entities/c-p-cabell|Cabell]], McCoy, Garrett, Taylor) into later programs.
