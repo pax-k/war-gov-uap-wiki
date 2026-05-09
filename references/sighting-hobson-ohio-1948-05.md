@@ -13,7 +13,7 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T12:58:46Z
+updated: 2026-05-09T13:13:27Z
 ---
 
 # Sighting — Hobson, OH (8 May 1948)
@@ -51,7 +51,7 @@ Addresses listed as unknown to the originating headquarters. ^[extracted]
 ## Routing
 
 - 11th Air Force → Chief of Staff, USAF (Director of Intelligence) — 14 June 1948
-- Forwarded to AMC, Wright-Patterson, Attn: MCI — 16 June 1948 (1st Ind, AFGIR-CO-5, "L-6-29")
+- Forwarded to [[entities/air-materiel-command|AMC]], [[entities/wright-patterson-afb|Wright-Patterson]], Attn: MCI — 16 June 1948 (1st Ind, AFGIR-CO-5, "L-6-29")
 - Copies sent to Hq AMC and Hq Air Defense Command per ADC Letter 45-5, ¶1a (25 March 1948).
 - Marked **CONFIDENTIAL**.
 

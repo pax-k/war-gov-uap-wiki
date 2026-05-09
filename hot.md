@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-09T12:58:46Z
+updated: 2026-05-09T13:13:27Z
 ---
 
 # Hot Cache
@@ -9,6 +9,7 @@ updated: 2026-05-09T12:58:46Z
 
 ## Recent Activity
 
+- [2026-05-09T13:13:27Z] CROSS_LINK — Added 7 missing wikilinks across 6 pages. Wired `Wright-Patterson AFB` mentions into 4 pages (protocol, Cabell, Bakersfield, Hobson, synthesis), `AMC` into 2 sighting refs, `Horten Brothers` into the AMC entity page, and `Cabell` into the UAP project page. No orphans remain; vault is fully connected.
 - [2026-05-09T12:58:46Z] INGEST (raw mode) — Promoted `_raw/18_6369445_general_1948_vol_1.json` (a Mistral-OCR'd 1948 USAF correspondence file on "Flying Discs"). Created **13 pages** under the new **`uap` project**: project overview, 3 concepts (`project-sign`, `horten-flying-wing`, `flying-disc-reporting-protocol`), 4 entities (`air-materiel-command`, `c-p-cabell`, `horten-brothers`, `wright-patterson-afb`), 4 references (`usaf-flying-discs-1948`, `loedding-flying-disc`, `sighting-bakersfield-1948-03`, `sighting-hobson-ohio-1948-05`), and 1 synthesis (`horten-thesis-vs-disc-sightings`).
 - [2026-05-09T12:50:15Z] INIT — vault created at /Users/pax/Documents/Obsidian/obsidian-wiki
 

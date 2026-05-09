@@ -13,7 +13,7 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T12:58:46Z
+updated: 2026-05-09T13:13:27Z
 ---
 
 # Sighting — Bakersfield, CA (March 1948)
@@ -46,7 +46,7 @@ The cross-service distribution shows that even routine "falling object" reports 
 
 ## Filed under
 
-The forwarding cover sheet is classified `CONFIDENTIAL` and bears the endorsement of [[entities/c-p-cabell|C. P. Cabell]] via 1st Indorsement (12 April 1948, AFOIR-CO-5). Routed to AMC Wright-Patterson, Attn: MCI, under file `X333.5 Mcc`. ^[extracted]
+The forwarding cover sheet is classified `CONFIDENTIAL` and bears the endorsement of [[entities/c-p-cabell|C. P. Cabell]] via 1st Indorsement (12 April 1948, AFOIR-CO-5). Routed to [[entities/air-materiel-command|AMC]] [[entities/wright-patterson-afb|Wright-Patterson]], Attn: MCI, under file `X333.5 Mcc`. ^[extracted]
 
 ## Open questions
 

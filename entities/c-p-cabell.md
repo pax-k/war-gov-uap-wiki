@@ -13,7 +13,7 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T12:58:46Z
+updated: 2026-05-09T13:13:27Z
 ---
 
 # C. P. Cabell
@@ -34,7 +34,7 @@ Cabell's 27 February 1948 disposition form (AFOIR-CO-5) is the foundational char
 - Authorized AMC to contact installations directly during follow-up.
 - Codified the [[concepts/flying-disc-reporting-protocol|10-element observational template]].
 
-Without this directive, the bottom-up flow of sighting reports up to Wright-Patterson would not have been formalized. ^[inferred]
+Without this directive, the bottom-up flow of sighting reports up to [[entities/wright-patterson-afb|Wright-Patterson]] would not have been formalized. ^[inferred]
 
 ## Later career (background)
 

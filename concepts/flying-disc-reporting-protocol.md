@@ -13,7 +13,7 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T12:58:46Z
+updated: 2026-05-09T13:13:27Z
 ---
 
 # Flying Disc Reporting Protocol (1948)
@@ -42,7 +42,7 @@ e. **Object sighted** — itemized:
 
 g. **General remarks** (item "f" appears to have been folded into "e" in the original; the 10-element subsection is the canonical part). ^[ambiguous]
 
-The Cabell directive routed all completed reports to the Commanding General, [[entities/air-materiel-command|Air Materiel Command]], Wright-Patterson AFB, Attn: MCI. ^[extracted]
+The Cabell directive routed all completed reports to the Commanding General, [[entities/air-materiel-command|Air Materiel Command]], [[entities/wright-patterson-afb|Wright-Patterson AFB]], Attn: MCI. ^[extracted]
 
 ## Field examples in the source
 

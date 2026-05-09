@@ -13,7 +13,7 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T12:58:46Z
+updated: 2026-05-09T13:13:27Z
 ---
 
 # UAP
@@ -62,7 +62,7 @@ Currently ingested:
 - Add Project GRUDGE and Project BLUE BOOK source bundles for chronological continuity.
 - Pull the actual T-2 report F-SU-1110-HD ("German Flying Wings Designed by Horten Brothers") if a declassified copy is available.
 - Identify "Loedding" definitively (likely Alfred Loedding, AMC aerodynamicist). ^[inferred]
-- Track the recurrence of named officers (Cabell, McCoy, Garrett, Taylor) into later programs.
+- Track the recurrence of named officers ([[entities/c-p-cabell|Cabell]], McCoy, Garrett, Taylor) into later programs.
 
 ## See also
 

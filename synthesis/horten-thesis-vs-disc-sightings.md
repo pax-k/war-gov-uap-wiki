@@ -13,7 +13,7 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T12:58:46Z
+updated: 2026-05-09T13:13:27Z
 ---
 
 # The Horten Thesis vs. 1948 Flying-Disc Sightings
@@ -28,7 +28,7 @@ German wartime tailless flying-wing aircraft (Horten Parabola, VIII, IX) had a l
 
 - **Visual ambiguity**: a flying wing seen edge-on or oblique is plausibly described as round/disc-shaped by an unprepared observer. ^[inferred]
 - **Institutional alignment**: USAF intelligence had a pre-existing surveillance interest in Soviet airframes; routing every disc report through [[entities/air-materiel-command|AMC]]'s technical-intelligence (T-2) division made the Horten thesis the natural lens. ^[inferred]
-- **US parallel program**: the [[references/loedding-flying-disc|Loedding Flying Disc (LD-2)]] shows that disc-shaped aircraft engineering was active at Wright-Patterson, normalising the basic concept. ^[extracted]
+- **US parallel program**: the [[references/loedding-flying-disc|Loedding Flying Disc (LD-2)]] shows that disc-shaped aircraft engineering was active at [[entities/wright-patterson-afb|Wright-Patterson]], normalising the basic concept. ^[extracted]
 
 ## Where the thesis strains
 

@@ -13,7 +13,7 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T12:58:46Z
+updated: 2026-05-09T13:13:27Z
 ---
 
 # Air Materiel Command (AMC)
@@ -42,7 +42,7 @@ The "T-2" prefix on AMC reports refers to its intelligence (technical-intelligen
 
 ## Key personnel mentioned
 
-- **Col H. M. McCoy** — Deputy Commanding General, Intelligence (T-2). Retained the T-2 report "German Flying Wings Designed by Horten Brothers" (F-SU-1110-HD).
+- **Col H. M. McCoy** — Deputy Commanding General, Intelligence (T-2). Retained the T-2 report "German Flying Wings Designed by [[entities/horten-brothers|Horten Brothers]]" (F-SU-1110-HD).
 - **Col Robert Taylor (III)** — appears as coordinating officer on multiple disc-related routing slips into AMC.
 
 ## AMC's stance during 1948
