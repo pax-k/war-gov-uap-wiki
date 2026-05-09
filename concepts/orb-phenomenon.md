@@ -2,17 +2,17 @@
 title: Orb Phenomenon
 category: concepts
 tags: [uap, morphology, sighting, pattern]
-sources: [sources/western_us_event_slides_5.08.2026.json]
-summary: Recurring UAP morphology — small to medium luminous spherical bodies (often colored), sometimes hovering with "zero resistance," sometimes briefly emitting/launching smaller orbs.
+sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json]
+summary: Recurring UAP morphology — small to medium luminous spherical bodies (often colored), with sub-classes including flash-orbs, sustained hovers, "mother / daughter" launches, and sequential flare formations.
 provenance:
   extracted: 0.55
   inferred: 0.4
   ambiguous: 0.05
-base_confidence: 0.45
+base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T13:33:54Z
-updated: 2026-05-09T13:33:54Z
+updated: 2026-05-09T13:41:53Z
 ---
 
 # Orb Phenomenon
@@ -35,6 +35,8 @@ A UAP report is consistent with the *orb* morphology when the witness account in
 | Brief flash-orb | [[references/sighting-orbs-launching-orbs-western-us]] (orange) | 1–2 s visibility; appears, emits/launches, disappears |
 | Sustained-glow orb | [[references/sighting-fiery-orb-western-us]] | ~1 min hover near terrain feature; 12–18 m diameter (AARO) |
 | "Daughter" orb | Red orbs in [[references/sighting-orbs-launching-orbs-western-us]] | Smaller, launched in groups of 2–4, varied trajectories |
+| Flare formation | [[references/sighting-helicopter-orb-encounter-2025]] | Multiple orbs flare up sequentially in line/stack, hold stationary, flare down in reverse — see [[concepts/orb-flare-formation]] |
+| Engagement-class orb | [[references/sighting-helicopter-orb-encounter-2025]] | Close approach to crewed aircraft, target-switching across platforms — see [[concepts/uap-aircraft-engagement]] |
 
 ## Open hypotheses (not endorsed)
 
@@ -53,9 +55,12 @@ A UAP report is consistent with the *orb* morphology when the witness account in
 - How often does a "mother orb / daughter orb" pattern recur across the public corpus?
 - Is the "zero resistance" hover descriptor a stable diagnostic, or is it a witness-language artifact picked up across decades of UAP discourse? ^[inferred]
 - Do the brief orange flash-orbs and the sustained-glow orange orb in [[references/western-us-event-2026]] share a common physical origin? Same color is suggestive but not conclusive. ^[inferred]
+- Are orange-with-white/yellow-center orbs (2025 helicopter encounter) the same class as the orange "mother" orbs in [[references/sighting-orbs-launching-orbs-western-us]]? Color and behavioral notes overlap, but the **flare-up/flare-down** vs. **launch-and-disperse** mechanics differ. ^[inferred]
 
 ## See also
 
 - [[projects/uap/uap]]
 - [[concepts/transparent-uap]]
+- [[concepts/orb-flare-formation]]
+- [[concepts/uap-aircraft-engagement]]
 - [[synthesis/federal-le-uap-witness-pattern]]

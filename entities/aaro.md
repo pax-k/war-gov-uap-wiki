@@ -45,8 +45,10 @@ AARO is the most recent in a lineage that includes the early-Cold-War USAF progr
 - What is AARO's exact statutory basis and reporting chain? (Not addressed in any currently-ingested source.)
 - What instrumentation/methodology does AARO use for the kind of range/size revisions seen in the Western U.S. event?
 - Is the USPER1–USPER7 anonymization convention an AARO-mandated witness protection scheme? ^[inferred]
+- Does AARO's mandate cover incidents at federal facilities like the one in [[references/usper-statement-2025]]? That source uses a **different anonymization scheme** (`[WITNESS N]` rather than `USPERn`) and never names AARO — suggesting separate intake pipelines for separate domains. ^[inferred]
 
 ## See also
 
 - [[projects/uap/uap]]
 - [[references/western-us-event-2026]]
+- [[references/usper-statement-2025]]

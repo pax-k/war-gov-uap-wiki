@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T13:33:54Z",
+  "updated": "2026-05-09T13:41:53Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -55,18 +55,41 @@
       "pages_updated": [
         "projects/uap/uap.md"
       ]
+    },
+    "sources/usper-statement-redacted.json": {
+      "ingested_at": "2026-05-09T13:41:53Z",
+      "size_bytes": 8054,
+      "modified_at": "2026-05-09T16:07:44Z",
+      "content_hash": "sha256:eb6230f40f49e5ec3b871af483af11072695dc0f318c1d348fc5e4d2c111a162",
+      "source_id": "usper-statement-helicopter-2025",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/usper-statement-2025.md",
+        "references/sighting-helicopter-orb-encounter-2025.md",
+        "concepts/orb-flare-formation.md",
+        "concepts/uap-aircraft-engagement.md"
+      ],
+      "pages_updated": [
+        "projects/uap/uap.md",
+        "concepts/orb-phenomenon.md",
+        "synthesis/federal-le-uap-witness-pattern.md",
+        "references/western-us-event-2026.md",
+        "entities/aaro.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T13:33:54Z",
-      "sources_ingested": 2
+      "last_ingested": "2026-05-09T13:41:53Z",
+      "sources_ingested": 3
     }
   },
   "stats": {
-    "total_sources_ingested": 2,
-    "total_pages": 22,
+    "total_sources_ingested": 3,
+    "total_pages": 26,
     "total_projects": 1,
     "last_full_rebuild": null
   }

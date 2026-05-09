@@ -12,7 +12,7 @@ base_confidence: 0.45
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T13:33:54Z
-updated: 2026-05-09T13:33:54Z
+updated: 2026-05-09T13:41:53Z
 ---
 
 # Western US Event Slides (May 2026)
@@ -48,7 +48,13 @@ See [[concepts/orb-phenomenon]] and [[concepts/transparent-uap]] for the morphol
 - Witness count (7) and the multi-vantage-point structure of Event 1 raise the credibility floor, but all four events remain **eyewitness-based**.
 - The deck is a derivative briefing artifact — not the underlying interview transcripts. ^[inferred]
 
+## Related incidents
+
+- [[references/usper-statement-2025]] — A 2025 multi-hour orb encounter at a redacted facility, observed by a senior US intelligence official with helicopter pilots and an LP/OP team on FLIR + NVG. **Different intake pipeline** (no `USPERn` anonymization, no AARO mention) and **different witness class** (intel officials + state-org pilots, not federal LE), but overlaps on orb morphology and "trained witness in restricted zone" framing. See [[synthesis/federal-le-uap-witness-pattern]] for the comparative analysis.
+
 ## See also
 
 - [[projects/uap/uap]]
 - [[entities/aaro]]
+- [[references/usper-statement-2025]]
+- [[references/sighting-helicopter-orb-encounter-2025]]
