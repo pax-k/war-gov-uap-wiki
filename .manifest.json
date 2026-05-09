@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T14:07:00Z",
+  "updated": "2026-05-09T15:30:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -129,18 +129,48 @@
         "concepts/project-sign.md",
         "synthesis/horten-thesis-vs-disc-sightings.md"
       ]
+    },
+    "sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json": {
+      "ingested_at": "2026-05-09T15:30:00Z",
+      "size_bytes": 169788,
+      "modified_at": "2026-05-09T16:07:44Z",
+      "content_hash": "sha256:8b65e73dfd302237291741d89b7bff40c107cea1bf26ea7016141c46214f3fe0",
+      "source_id": "nara-box186-319.1-usaf-flying-discs-1948-1950",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/usaf-flying-discs-1949.md",
+        "concepts/fsr-200-4-reporting-regulation.md",
+        "entities/military-air-transport-service.md",
+        "references/sighting-fairfield-suisun-1948-12.md",
+        "references/sighting-japan-glow-1949-01.md",
+        "references/sighting-kodiak-alaska-1949-04.md",
+        "references/sighting-mountain-home-id-1949-07.md",
+        "references/sighting-portland-or-1949-07.md",
+        "references/sighting-medford-or-1949-08.md",
+        "references/sighting-seattle-1949-08.md",
+        "references/sighting-kansas-city-1950-01.md"
+      ],
+      "pages_updated": [
+        "references/usaf-flying-discs-1948.md",
+        "concepts/project-sign.md",
+        "entities/air-materiel-command.md",
+        "synthesis/horten-thesis-vs-disc-sightings.md",
+        "projects/uap/uap.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T14:07:00Z",
-      "sources_ingested": 5
+      "last_ingested": "2026-05-09T15:30:00Z",
+      "sources_ingested": 6
     }
   },
   "stats": {
-    "total_sources_ingested": 5,
-    "total_pages": 44,
+    "total_sources_ingested": 6,
+    "total_pages": 55,
     "total_projects": 1,
     "last_full_rebuild": null
   }

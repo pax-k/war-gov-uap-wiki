@@ -3,17 +3,17 @@ title: The Horten Thesis vs. 1948 Flying-Disc Sightings
 category: synthesis
 tags: [uap, history, analysis, intelligence, 1948]
 aliases: [Horten conventional explanation thesis]
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json]
-summary: Cross-cutting analysis of how 1948 USAF intelligence used the Horten flying-wing lineage as a conventional explanation for Flying Disc sightings — and where that thesis fits or fails.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json]
+summary: Cross-cutting analysis of how 1948 USAF intelligence used the Horten flying-wing lineage as a conventional explanation for Flying Disc sightings — and where that thesis fits or fails. Updated with 1949 morphology diversification.
 provenance:
   extracted: 0.3
   inferred: 0.65
   ambiguous: 0.05
-base_confidence: 0.78
+base_confidence: 0.83
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T14:07:00Z
+updated: 2026-05-09T15:30:00Z
 ---
 
 # The Horten Thesis vs. 1948 Flying-Disc Sightings
@@ -45,6 +45,18 @@ German wartime tailless flying-wing aircraft (Horten Parabola, VIII, IX) had a l
 ## Implication for the larger UAP picture
 
 The 1948 file shows a concerted, technically literate effort to explain disc sightings within the conventional aviation frame. That effort partly succeeded (some reports were almost certainly conventional) and partly didn't (signatures like phosphorescent trails at extreme altitude resist that frame). The mixed verdict is the recurring structure of every subsequent UAP-evaluation regime — [[concepts/project-sign|SIGN]], GRUDGE, BLUE BOOK, modern AARO. ^[inferred]
+
+## 1949 evolution — the thesis under strain
+
+The [[references/usaf-flying-discs-1949|1949 USAF Flying Disc file (NARA box 186 / 319.1)]] continues the same intake stream for another 14 months. By mid-1949 the morphology drift in incoming reports was actively eroding the Horten thesis as a *general* explanation:
+
+- **The morphology that *fits* the thesis best** ([[references/sighting-mountain-home-id-1949-07|Mountain Home ID 24 Jul 49]] — seven delta-wing objects in V-formation, dirty white, 600+ mph, dark cockpit-like ventral structure, larger than F-51) **also breaks the thesis** at the same time: the same report describes an **unbanked 180° turn** and **complete absence of sound** at 8,500–10,000 ft. No flying-wing airframe of any era performs unbanked yaw reversals or moves silently. ^[inferred]
+- **Pacing-and-evading** behavior ([[references/sighting-portland-or-1949-07|Portland OR 30 Jul 49]] — Capt Thrush's failed M-202 intercept of a 2-red-1-white-light object that easily out-accelerated him) and the AACS theodolite-confirmed [[references/sighting-medford-or-1949-08|Medford OR 8 Aug 49]] report (objects with detected "wings" maneuvering horizontally but not vertically, reflecting sun only) are **not** explainable by a Soviet-derivative airframe — the implied flight envelope is wrong.
+- **Pure luminous-orb signatures** ([[references/sighting-fairfield-suisun-1948-12|Fairfield-Suisun 3 Dec 48]] — 30-inch round white light, almost-vertical climb to ~20,000 ft from 3,000 ft, no sound, no exhaust; [[references/sighting-kansas-city-1950-01|Kansas City 6 Jan 50]] — two motionless brilliant-white spheres flashing orange and red) are **categorically outside** the flying-wing class. The Horten thesis cannot accommodate hovering objects without lift surfaces.
+- **"Ball of fire" / luminous-energy signatures** ([[references/sighting-kodiak-alaska-1949-04|Kodiak 8 Apr 49]] — multi-witness greenish-blue object at 1,500 mph at 2,500 ft; [[references/sighting-japan-glow-1949-01|Japan 25 Jan 49]] — six-station JCMO observation) are routed under a **separate explanatory frame** (meteor / atmospheric phenomena), tacitly conceding that the "Flying Disc" interpretive bracket does not cover everything coming through the [[concepts/fsr-200-4-reporting-regulation|FSR 200-4]] intake. ^[inferred]
+- **Cylindrical morphology** ([[references/usaf-flying-discs-1949|Boston MA 10 Jun 49]] — 100-ft tubular object at 30,000 ft over a USAF T-6 pilot; [[references/usaf-flying-discs-1949|Jackson MS 1 Jan 49]] — 60-ft cigar-like dark blue object accelerating from 200 to 500 mph) connects directly to the WWII [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01|F-5710 cylindrical-object engagement]] in the SHAEF file — a **trans-era persistent morphology** that the Horten thesis never addressed.
+
+The 1949 evidence does **not** falsify the Horten thesis as an explanation for *some specific reports*; it falsifies the thesis as a **frame** that covers the institutional intake stream. By late 1949 the field reports show the [[entities/air-materiel-command|AMC]] / [[entities/military-air-transport-service|MATS]] dual-hub system collecting at least five distinct morphology classes (disc, cylinder, V-formation delta-wing, luminous orb, ball-of-fire) — one of which (delta-wing) was on-thesis, four of which were not. This drift sets up the institutional disenchantment that drove the 1950 transition to Project GRUDGE. ^[inferred]
 
 ## Wartime precursor
 

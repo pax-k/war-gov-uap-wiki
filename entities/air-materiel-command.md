@@ -3,17 +3,17 @@ title: Air Materiel Command (AMC)
 category: entities
 tags: [usaf, military, organization, history]
 aliases: [AMC, Air Materiel Command, MCI, TSDIN]
-sources: [_raw/18_6369445_general_1948_vol_1.json]
-summary: USAF command at Wright-Patterson AFB designated in 1948 as the central agency to collect, collate, evaluate, and distribute all Flying Disc / unusual phenomena reports — the operational hub of Project SIGN.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json]
+summary: USAF command at Wright-Patterson AFB designated in 1948 as the central agency to collect, collate, evaluate, and distribute all Flying Disc / unusual phenomena reports — the operational hub of Project SIGN through 1949.
 provenance:
   extracted: 0.85
   inferred: 0.15
   ambiguous: 0.0
-base_confidence: 0.62
+base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T13:13:27Z
+updated: 2026-05-09T15:30:00Z
 ---
 
 # Air Materiel Command (AMC)
@@ -35,10 +35,15 @@ This made AMC the operational hub of [[concepts/project-sign]]. ^[extracted]
 | Symbol | Meaning |
 |---|---|
 | `MCI` | Initial attention line on AMC inbound mail (1948) |
-| `TSDIN` | Later attention line, also at AMC |
+| `TSDIN` | Later attention line, also at AMC (1948) |
+| `MCIAXO-3` | 1949 standard attention line on all FSR-200-4-routed sighting reports — the office where Project SIGN intake landed by mid-1949 |
 | `TSNAD-2B` | Office that drafted the [[references/loedding-flying-disc|Loedding Flying Disc]] memo |
 
 The "T-2" prefix on AMC reports refers to its intelligence (technical-intelligence) division. ^[inferred]
+
+## 1949 dual-hub architecture
+
+The 1948 file showed AMC as the **single** UAP hub. The [[references/usaf-flying-discs-1949|1949 file (NARA box 186 / 319.1)]] shows AMC operating in a **dual-hub** configuration with [[entities/military-air-transport-service|MATS]] (Andrews AFB) — every sighting report carbon-copied to MATS A-2 (Capt Hathaway) and CO Flight Service. AMC retained the **final analysis & retention** role; MATS handled **transport-network triage** for AACS-originated reports out of Hawaii, Newfoundland, Alberta, Canal Zone, and the Pacific. ^[extracted]
 
 ## Key personnel mentioned
 

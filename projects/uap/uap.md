@@ -3,8 +3,8 @@ title: UAP
 category: project
 tags: [uap, history, intelligence, archive]
 source_path: _raw/ (declassified UAP archive volumes), sources/ (Mistral-OCR'd briefings and witness statements)
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json]
-summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948 USAF Project SIGN, a 1963 NASC policy memo, the 2026 AARO Western US event, and a 2025 SECRET//NOFORN intel-official witness statement.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json]
+summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN, a 1963 NASC policy memo, the 2026 AARO Western US event, and a 2025 SECRET//NOFORN intel-official witness statement.
 provenance:
   extracted: 0.5
   inferred: 0.5
@@ -13,7 +13,7 @@ base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T14:07:00Z
+updated: 2026-05-09T15:30:00Z
 ---
 
 # UAP
@@ -36,6 +36,10 @@ A research project distilling declassified primary-source archives on Unidentifi
 
 - [[references/usaf-flying-discs-1948]] — 28-page Mistral-OCR'd USAF correspondence file (Feb–Jun 1948, "general_1948_vol_1" item 18). The file naming suggests there are more volumes to come.
 
+### 1948–1950 USAF "Flying Disc" continuation file (NEW)
+
+- [[references/usaf-flying-discs-1949]] — 143-page Mistral-OCR'd USAF correspondence file (NARA box 186, file 319.1; Oct 1948 – Jan 1950). Direct sequel to the 1948 file. ~20 distinct field sighting reports filed in the EEI / 10-element template; the 1948 routing apparatus carried into 1949 via [[concepts/fsr-200-4-reporting-regulation|Flight Service Regulation 200-4 (2 Nov 1948)]]; the attention line shifted from `MCI` / `TSDIN` to `MCIAXO-3`; geographic scope extended from CONUS + Alaska to **all sightings worldwide** by a 26 Oct 1948 Hq USAF TWX (signed for Maj Gen Kuter); and a new dual-hub architecture emerged with [[entities/military-air-transport-service|MATS]] (Andrews AFB) alongside AMC.
+
 ### Modern AARO-handled material
 
 - [[references/western-us-event-2026]] — 4-slide briefing deck describing a multi-day cluster of UAP observations by federal LE agents USPER1–USPER7 in the Western U.S., with [[entities/aaro|AARO]] follow-up.
@@ -57,11 +61,13 @@ A research project distilling declassified primary-source archives on Unidentifi
 - [[concepts/balls-of-fire-red]] — the Air Ministry's parallel filing term.
 - [[concepts/flak-bombe-hypothesis]] — A.D.I.(K)'s WWII candidate explanation pointing at A.D.I.(K) Report No. 562/1944 ¶128–129.
 
-## Key institutional structures (1948)
+## Key institutional structures (1948–49)
 
 - [[concepts/project-sign]] — first official US Air Force investigative program.
 - [[concepts/flying-disc-reporting-protocol]] — the 10-element observational template that prefigures every later UAP report schema.
-- [[entities/air-materiel-command]] @ [[entities/wright-patterson-afb]] — the operational hub.
+- [[concepts/fsr-200-4-reporting-regulation]] — the 2 Nov 1948 Flight Service Regulation that codified the Cabell directive into a standing FSR order, cited in nearly every 1949 report.
+- [[entities/air-materiel-command]] @ [[entities/wright-patterson-afb]] — the operational hub (1948); attention line evolved from `MCI` / `TSDIN` (1948) to `MCIAXO-3` (1949).
+- [[entities/military-air-transport-service]] @ Andrews AFB — the **second institutional hub** that emerges in 1949 alongside AMC, handling AACS- and Flight-Service-originated reports.
 
 ## Modern institutional structures
 
@@ -120,6 +126,14 @@ A research project distilling declassified primary-source archives on Unidentifi
 | 1 March 1945, 1030 hrs | Vicinity grid F-5710 | 67 TAC/R Group / 107 PR Squadron pilots | [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] |
 | 5–8 March 1948 | Bakersfield, CA | civilians + USAF | [[references/sighting-bakersfield-1948-03]] |
 | 8 May 1948 (night) | Hobson, OH | NY Central rail workers | [[references/sighting-hobson-ohio-1948-05]] |
+| 3 December 1948, 2015 PST | Fairfield-Suisun AFB, CA | AACS tower operators (PFC McFarland AGCT 143 + Sgt DeLafayette) | [[references/sighting-fairfield-suisun-1948-12]] |
+| 25 January 1949, ~1950 JST | Fukushima/Iida/Suwa/Nagano/Takayama/Gifu, Japan | Japanese CMO weather stations (6 stations) | [[references/sighting-japan-glow-1949-01]] |
+| 8 April 1949, ~2030–2045 | Kodiak, Alaska | USN Lt Cdr Shepard + USMS dep marshal Herbing + 2 civilians | [[references/sighting-kodiak-alaska-1949-04]] |
+| 24 July 1949, 1205 MST | NW of Mountain Home, ID | Harry Clark (airport mgr, Ritchie Field) | [[references/sighting-mountain-home-id-1949-07]] |
+| 30 July 1949, 2110P | Portland / Troutdale / Mt Hood, OR | NWA Capt Thrush (M-202) + 2 CAA Tower ops + civilian instructor pilot | [[references/sighting-portland-or-1949-07]] |
+| 8 August 1949, 1120–1230P | E/SE of Medford, OR | 7 AACS/CAA personnel; theodolite + binoculars | [[references/sighting-medford-or-1949-08]] |
+| 22 August 1949, 1845P | Seattle, WA | 3 NCO controllers (143rd NG ACW Sqdn) + 2 ARTC controllers | [[references/sighting-seattle-1949-08]] |
+| 6 January 1950, night | Kansas City KS / Olathe KS | 2 Bendix Aviation employees (1 pilot) | [[references/sighting-kansas-city-1950-01]] |
 | 2025, single night, ~22:00–23:20 | Redacted US facility | Senior US intel official + state-org pilots + LP/OP team (FLIR + NVG + naked eye) | [[references/sighting-helicopter-orb-encounter-2025]] |
 | Unspecified, recent (≤2026) | Western U.S. | federal LE USPER1–USPER6 | [[references/sighting-orbs-launching-orbs-western-us]] |
 | Unspecified, recent (≤2026) | Western U.S. | federal LE USPER5, USPER6 | [[references/sighting-fiery-orb-western-us]] |

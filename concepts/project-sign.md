@@ -3,17 +3,17 @@ title: Project SIGN
 category: concepts
 tags: [uap, history, usaf, intelligence, 1948]
 aliases: [Project Sign, Sign (USAF), AMC Flying Disc Project]
-sources: [_raw/18_6369445_general_1948_vol_1.json]
-summary: The first official US Air Force program (1948) to systematically collect, evaluate, and distribute information on "Flying Discs", run by Air Materiel Command at Wright-Patterson AFB.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json]
+summary: The first official US Air Force program (1948–49) to systematically collect, evaluate, and distribute information on "Flying Discs", run by Air Materiel Command at Wright-Patterson AFB.
 provenance:
   extracted: 0.7
   inferred: 0.28
   ambiguous: 0.02
-base_confidence: 0.62
+base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T14:07:00Z
+updated: 2026-05-09T15:30:00Z
 ---
 
 # Project SIGN
@@ -53,9 +53,18 @@ The 1948 correspondence shows SIGN's intelligence officers actively pursuing a c
 
 See [[synthesis/horten-thesis-vs-disc-sightings]] for the cross-cutting analysis.
 
+## Operational maturation through 1949
+
+Through 1949 the SIGN intake apparatus operated continuously under [[concepts/fsr-200-4-reporting-regulation|Flight Service Regulation 200-4 (2 Nov 1948)]], which propagated the 1948 Cabell directive into Flight Service Center operating procedure. The 1949 file ([[references/usaf-flying-discs-1949]]) shows three notable evolutions:
+
+- **Attention line shift**: `MCI` / `TSDIN` (1948) → `MCIAXO-3` (1949 standard).
+- **Geographic expansion**: a 26 Oct 1948 Hq USAF TWX (signed for Maj Gen Kuter) extended reporting from CONUS + Alaska to **all sightings worldwide**, with "special emphasis on photographic evidence". 1949 reports come in from Canada, Caribbean, Canal Zone, mid-Pacific, Japan, and Alaska. ^[extracted]
+- **Dual-hub architecture**: [[entities/military-air-transport-service|MATS]] (Andrews AFB) emerged as the **second institutional hub** alongside AMC — AACS units route through MATS A-2 (Capt Hathaway) before reaching AMC. ^[inferred]
+- **Morphology drift**: by mid-1949, sighting reports diversify away from the disc that gave the program its name into cylinders ([[references/usaf-flying-discs-1949|Boston 10 Jun 49, Jackson MS 1 Jan 49]]), V-formation delta-wings ([[references/sighting-mountain-home-id-1949-07|Mountain Home ID]]), pacing-and-evading lights ([[references/sighting-portland-or-1949-07|Portland OR]]), spheroid balls of fire ([[references/sighting-kodiak-alaska-1949-04|Kodiak]]), pure luminous orbs ([[references/sighting-fairfield-suisun-1948-12|Fairfield-Suisun]]), and meteor-class glow phenomena ([[references/sighting-japan-glow-1949-01|Japan]]).
+
 ## Successor programs
 
-Project SIGN was succeeded by Project GRUDGE (1949) and then Project BLUE BOOK (1952–1969). ^[inferred] *(The 1948 file does not name successors; this is general historical background.)*
+Project SIGN was succeeded by Project GRUDGE (formal stand-up early 1950, roughly aligned with the **11 Jan 1950 rescission** of the 26 Oct 1948 worldwide-reporting TWX visible in the 1949 file) and then Project BLUE BOOK (1952–1969). ^[inferred] *(The 1948 and 1949 files do not name successors; this is general historical background.)*
 
 ## Wartime precursor
 
@@ -64,9 +73,12 @@ SIGN was not Allied air intelligence's first attempt to consolidate unexplained-
 ## See also
 
 - [[references/usaf-flying-discs-1948]]
+- [[references/usaf-flying-discs-1949]]
 - [[references/foo-fighters-shaef-1944-1945]]
+- [[concepts/fsr-200-4-reporting-regulation]]
 - [[projects/uap/uap]]
 - [[entities/air-materiel-command]]
+- [[entities/military-air-transport-service]]
 - [[entities/wright-patterson-afb]]
 - [[concepts/flying-disc-reporting-protocol]]
 - [[concepts/foo-fighter-phenomenon]]

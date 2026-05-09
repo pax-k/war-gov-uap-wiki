@@ -3,17 +3,17 @@ title: USAF Flying Discs Correspondence — 1948 Vol 1, Doc 18
 category: references
 tags: [uap, history, primary-source, declassified, 1948]
 aliases: [Project SIGN 1948 correspondence, USAF 1948 Flying Discs Vol 1]
-sources: [_raw/18_6369445_general_1948_vol_1.json]
-summary: Declassified 28-page USAF correspondence file (Feb–Jun 1948) routing flying-disc sighting reports between USAF Intelligence, Air Materiel Command, and field commands during Project SIGN's first months.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json]
+summary: Declassified 28-page USAF correspondence file (Feb–Jun 1948) routing flying-disc sighting reports between USAF Intelligence, Air Materiel Command, and field commands during Project SIGN's first months. Continuation in 1949 file.
 provenance:
   extracted: 0.85
   inferred: 0.13
   ambiguous: 0.02
-base_confidence: 0.62
+base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T12:58:46Z
+updated: 2026-05-09T15:30:00Z
 ---
 
 # USAF Flying Discs Correspondence — 1948 Vol 1, Doc 18
@@ -54,10 +54,16 @@ The Mistral OCR pass preserves the "CONFIDENTIAL" / "SECRET" / "RESTRICTED" clas
 
 ## Why this matters for the wiki
 
-This is the **earliest primary-source bundle** in the UAP project. Everything ingested later about Project SIGN, the Horten thesis, or USAF reporting protocol should cross-reference this document.
+This is the **earliest primary-source bundle** in the UAP project for the 1948 SIGN-startup year. Everything ingested later about Project SIGN, the Horten thesis, or USAF reporting protocol should cross-reference this document.
+
+## Continuation: 1949
+
+The 1948 routing apparatus this document establishes was carried into 1949 via [[concepts/fsr-200-4-reporting-regulation|Flight Service Regulation 200-4 (2 Nov 1948)]] — see [[references/usaf-flying-discs-1949]] for the **143-page sequel file** (NARA box 186 file 319.1) covering Oct 1948 – Jan 1950 with **20+ field sighting reports** filed in the EEI / 10-element template; the attention line evolved from `MCI` / `TSDIN` to `MCIAXO-3`; the new 1949 routing actor is the [[entities/military-air-transport-service|Military Air Transport Service]] alongside AMC.
 
 ## See also
 
+- [[references/usaf-flying-discs-1949]] — the 1949 continuation file
+- [[concepts/fsr-200-4-reporting-regulation]] — the routing instrument that codified Cabell's directive
 - [[projects/uap/uap]] — UAP project overview
-- [[synthesis/horten-thesis-vs-disc-sightings]] — analysis of the leading 1948 conventional explanation
+- [[synthesis/horten-thesis-vs-disc-sightings]] — analysis of the leading 1948 conventional explanation, updated for 1949 morphology diversification
 - [[concepts/project-sign]]
