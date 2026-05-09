@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T16:30:00Z",
+  "updated": "2026-05-09T17:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -200,18 +200,38 @@
         "concepts/diplomatic-channel-uap-reporting.md",
         "projects/uap/uap.md"
       ]
+    },
+    "sources/serial-4-redacted_redacted.json": {
+      "ingested_at": "2026-05-09T17:00:00Z",
+      "size_bytes": 3544,
+      "modified_at": "2026-05-09T16:07:44Z",
+      "content_hash": "sha256:31a7d5f76e49b93bb782d41e1e602393afe7ba4d463dcfc9d5ce442bae0fc82a",
+      "source_id": "fbi-fd302-serial-4-2023-09-redacted",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/fbi-fd302-drone-pilot-redacted-2023.md",
+        "references/sighting-fbi-fd302-drone-pilot-2023-09.md",
+        "entities/fbi.md"
+      ],
+      "pages_updated": [
+        "projects/uap/uap.md",
+        "synthesis/federal-le-uap-witness-pattern.md",
+        "index.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T16:15:00Z",
-      "sources_ingested": 7
+      "last_ingested": "2026-05-09T17:00:00Z",
+      "sources_ingested": 8
     }
   },
   "stats": {
-    "total_sources_ingested": 8,
-    "total_pages": 65,
+    "total_sources_ingested": 9,
+    "total_pages": 68,
     "total_projects": 1,
     "last_full_rebuild": null
   }

@@ -2,8 +2,8 @@
 title: "Federal LE Agents as UAP Witnesses: a Witnessing Pattern"
 category: synthesis
 tags: [uap, analysis, witness, federal-le]
-sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json]
-summary: Cross-cutting analysis of why trained government-affiliated witnesses (federal LE, intel officials, multi-sensor crews) sit structurally above typical civilian UAP reports as evidence — and where they still fail.
+sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/serial-4-redacted_redacted.json]
+summary: Cross-cutting analysis of why trained government-affiliated witnesses (federal LE, intel officials, multi-sensor crews, contractor drone pilots) sit structurally above typical civilian UAP reports as evidence — and where they still fail.
 provenance:
   extracted: 0.3
   inferred: 0.65
@@ -19,14 +19,15 @@ updated: 2026-05-09T13:41:53Z
 
 This page started as an analysis of federal **law enforcement** witnesses (the 2026 [[references/western-us-event-2026|Western U.S. Event]] cluster) but the 2025 [[references/usper-statement-2025|helicopter orb encounter]] forces a slight broadening: the relevant class is **trained, government-affiliated, often multi-sensor witnesses** — federal LE in one source, senior US intelligence officials with state-org pilots and a FLIR/NVG ground team in the other. The structural argument below applies to both. ^[inferred]
 
-## Two anchor cases
+## Three anchor cases
 
 | Source | Witness class | Anonymization | Sensor coverage |
 |---|---|---|---|
 | [[references/western-us-event-2026]] | 7 federal LE special agents (USPER1–USPER7) | `USPERn` | NVG + naked eye |
 | [[references/usper-statement-2025]] | Senior US intel officials + state-org helicopter pilots + LP/OP team | `[WITNESS N]`, `[FEDERAL PARTNER N]` | FLIR + NVG + naked eye |
+| [[references/fbi-fd302-drone-pilot-redacted-2023]] | Single contractor drone pilot in deconflicted-airspace LiDAR field test, interviewed by FBI Special Agent | All identifiers `[REDACTED]` on FD-302 | Naked eye through windshield |
 
-The 2026 deck concentrates **seven federal law enforcement special agents (USPER1–USPER7)** as primary witnesses across four sightings in two days. The 2025 statement concentrates **one senior intel official + two NVG-equipped pilots + a FLIR-equipped LP/OP team** on a single multi-hour event with cross-sensor confirmation of the same time-stamped observations.
+The 2026 deck concentrates **seven federal law enforcement special agents (USPER1–USPER7)** as primary witnesses across four sightings in two days. The 2025 statement concentrates **one senior intel official + two NVG-equipped pilots + a FLIR-equipped LP/OP team** on a single multi-hour event with cross-sensor confirmation of the same time-stamped observations. The 2023 FBI FD-302 case is at the **opposite extreme**: a single trained-observer witness, daylight, naked-eye-only, no instrumented capture — a structural lower bound for the same witness-class argument. ^[inferred]
 
 ## Why this witness class is structurally stronger than baseline UAP testimony
 
@@ -73,9 +74,12 @@ This synthesis page should be revisited every time a trained-observer-witnessed 
 - [[references/western-us-event-2026]]
 - [[references/usper-statement-2025]]
 - [[references/sighting-helicopter-orb-encounter-2025]]
+- [[references/fbi-fd302-drone-pilot-redacted-2023]]
+- [[references/sighting-fbi-fd302-drone-pilot-2023-09]]
 - [[concepts/orb-phenomenon]]
 - [[concepts/orb-flare-formation]]
 - [[concepts/uap-aircraft-engagement]]
 - [[concepts/transparent-uap]]
 - [[concepts/flying-disc-reporting-protocol]]
 - [[entities/aaro]]
+- [[entities/fbi]]

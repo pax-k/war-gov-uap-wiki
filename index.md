@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T16:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-09T17:00:00Z*
 
 ## Concepts
 
@@ -33,6 +33,7 @@ title: Wiki Index
 - [[entities/air-materiel-command]] — USAF command at Wright-Patterson AFB; designated central agency for 1948 Flying Disc reports ( #usaf #organization #history)
 - [[entities/c-m-grierson]] — Air Commodore, A.C. of S. A-2, SHAEF Air Staff; routed the 1944–45 foo-fighter correspondence ( #uap #ww2 #person #raf)
 - [[entities/c-p-cabell]] — Maj Gen, signed the 1948 directive that established Project SIGN ( #usaf #person #intelligence)
+- [[entities/fbi]] — Federal Bureau of Investigation; intake authority for the 2023 redacted FD-302 drone-pilot UAP interview ( #fbi #organization #federal-le)
 - [[entities/horten-brothers]] — German aircraft designers whose tailless wings were studied as a Flying Disc explanation ( #aviation #germany #ww2)
 - [[entities/maxwell-w-hunter]] — NASC Professional Staff member; authored the 1963 "Space Alien Race Question" memo ( #person #nasc #policy)
 - [[entities/military-air-transport-service]] — Joint USAF/Navy unified airlift command (1948); recurring 1949 routing-and-triage hub for Project SIGN reports alongside AMC ( #usaf #organization #history)
@@ -53,12 +54,14 @@ title: Wiki Index
 
 - [[references/dos-cable-kazakhstan-1994-01]] — Declassified 3-page UNCLAS US State Department cable (31 Jan 1994, DUSHANBE 00259) on Tajik Air pilots' UAP encounter at FL410 over Kazakhstan ( #uap #primary-source #state-department)
 - [[references/dos-cable-papua-new-guinea-1985-01]] — Declassified 3-page US State Department cable (28 Jan 1985, PORT M 00199) on PNG NIO inquiry into 24 Jan 1985 high-altitude overflights ( #uap #primary-source #state-department)
+- [[references/fbi-fd302-drone-pilot-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording a Sept 2023 contractor drone-pilot daylight UAP sighting ( #uap #primary-source #fbi)
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
 - [[references/loedding-flying-disc]] — US AMC in-house disc-shaped aircraft concept (drawing LD-2), 1947 ( #uap #aviation #usaf)
 - [[references/sighting-bakersfield-1948-03]] — Two falling-object observations near Bakersfield, CA in March 1948 ( #uap #sighting #california)
 - [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] — 1 March 1945 USAAF reconnaissance pilot sighting of a 12-ft aluminium cylinder hovering vertically at 9,000 ft ( #uap #sighting #ww2)
 - [[references/sighting-dark-kite-western-us]] — Federal LE agents pursue what looks like a car; it lifts off the road, hovers, and reads as a thin dark kite/triangle ( #uap #sighting #federal-le)
 - [[references/sighting-fairfield-suisun-1948-12]] — AACS tower operators tracked a 30-inch luminous round object that hovered, climbed almost vertically to 20k ft (3 Dec 1948) ( #uap #sighting #california)
+- [[references/sighting-fbi-fd302-drone-pilot-2023-09]] — Sept 2023 daylight sighting by a contractor drone pilot of a linear metallic object with a super-bright white light at ~5,000 ft AGL during a LiDAR test ( #uap #sighting #fbi)
 - [[references/sighting-fiery-orb-western-us]] — Two federal LE agents observe a 12–18 m glowing orange orb hovering near a rock pinnacle for ~1 min ( #uap #sighting #orb)
 - [[references/sighting-helicopter-orb-encounter-2025]] — 2025 multi-hour helicopter orb encounter at a redacted facility, with FLIR + NVG + naked-eye corroboration ( #uap #sighting #intel-witness)
 - [[references/sighting-hobson-ohio-1948-05]] — Night-time multi-witness phosphorescent disc sighting by NY Central rail workers ( #uap #sighting #ohio)
