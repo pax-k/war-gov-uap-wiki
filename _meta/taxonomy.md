@@ -59,7 +59,7 @@ The subject matter axis — what the page is about.
 
 | Tag | Use for |
 |---|---|
-| `france`, `germany`, `japan`, `kazakhstan`, `netherlands`, `papua-new-guinea`, `sweden`, `tajikistan`, `ussr` | Country of source-event or affiliation. |
+| `france`, `germany`, `japan`, `kazakhstan`, `netherlands`, `papua-new-guinea`, `sweden`, `tajikistan`, `turkmenistan`, `ussr` | Country of source-event or affiliation. |
 | `alaska`, `california`, `idaho`, `kansas`, `michigan`, `ohio`, `oregon`, `washington` | US state of source-event. Add when sighting/event is geographically anchored. |
 
 ### Institutional / agency

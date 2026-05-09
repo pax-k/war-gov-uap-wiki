@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T22:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-09T23:30:00Z*
 
 ## Concepts
 
@@ -37,6 +37,7 @@ title: Wiki Index
 
 - [[entities/415th-night-fighter-squadron]] — USAAF night-fighter unit whose Dec 1944 – Jan 1945 sortie reports introduced the term "foofighter" into official intelligence files ( #uap #ww2 #usaaf)
 - [[entities/aaro]] — All-domain Anomaly Resolution Office; modern DoD UAP intake/assessment authority ( #usaf #organization #uap)
+- [[entities/amembassy-ashgabat]] — US Embassy in Ashgabat, Turkmenistan; originating post of the 12 Nov 2004 DOS cable on the Union of UFOlogists NGO; boundary-case post outside the diplomatic-channel UAP umbrella ( #state-department #embassy #organization)
 - [[entities/amembassy-dushanbe]] — US Embassy in Dushanbe, Tajikistan; originating post of the 31 Jan 1994 DOS cable on the Tajik Air UAP encounter over Kazakhstan ( #state-department #embassy #organization)
 - [[entities/amembassy-port-moresby]] — US Embassy in Port Moresby, PNG; originating post of the 28 Jan 1985 DOS cable on PNG UAP overflights ( #state-department #embassy #organization)
 - [[entities/andre-lebeau]] — Former chairman of CNES; foreword author of the 1999 COMETA Report ( #uap #france #person #civil-agency)
@@ -75,6 +76,7 @@ title: Wiki Index
 - [[entities/usaira-prague]] — US Air Attaché office, US Embassy Prague, Czechoslovakia; originating post of IR 193-55 (14 Oct 1955) on the Russell Trans-Caucasus disc sighting ( #usaf #organization #attache #intelligence)
 - [[entities/uk-air-ministry-ddi2]] — UK Air Ministry intelligence branches (DDI2 + A.D.I.(K)) that handled the British-side reply ( #uap #ww2 #organization)
 - [[entities/uscincpac]] — US Commander-in-Chief Pacific (Honolulu); action addressee of the 28 Jan 1985 DOS cable on PNG overflights ( #usaf #organization #dod)
+- [[entities/union-of-ufologists-turkmenabat]] — Turkmen civil-society NGO founded 1992 with UFO-themed origins; pivoted to NGO-registration / humanitarian work; USAID-considered grant recipient by 2004 ( #uap #turkmenistan #organization #civilian-research)
 - [[entities/wladyslaw-krasuski]] — Polish DP, Detroit brewery worker, ex-WWII POW at Gut Alt Golssen; FBI-interviewed witness in the 1957 100-26505 case ( #person #witness #uap #ww2)
 - [[entities/wright-patterson-afb]] — Dayton, OH base; physical hub of the 1948 USAF UFO collection effort ( #usaf #location #history)
 
@@ -86,6 +88,7 @@ title: Wiki Index
 
 - [[references/dos-cable-kazakhstan-1994-01]] — Declassified 3-page UNCLAS US State Department cable (31 Jan 1994, DUSHANBE 00259) on Tajik Air pilots' UAP encounter at FL410 over Kazakhstan ( #uap #primary-source #state-department)
 - [[references/dos-cable-papua-new-guinea-1985-01]] — Declassified 3-page US State Department cable (28 Jan 1985, PORT M 00199) on PNG NIO inquiry into 24 Jan 1985 high-altitude overflights ( #uap #primary-source #state-department)
+- [[references/dos-cable-turkmenistan-2004-11]] — Declassified 5-page UNCLAS/SBU US State Department cable (12 Nov 2004, ASHGABAT 1028) on the Union of UFOlogists NGO; boundary case — not a UAP-sighting cable ( #uap #primary-source #state-department #turkmenistan)
 - [[references/fbi-detroit-100-18221-serial-844-1958]] — Declassified one-page FBI Detroit Office Memorandum (SA Reynolds → SAC, 17 Apr 1958), serial 844 in file 100-18221, on the Weaver Detroit sighting ( #uap #primary-source #fbi)
 - [[references/fbi-detroit-100-26505-krasuski-1957]] — Declassified 15-page FBI Detroit file 100-26505 (NW 90290) — Nov 1957 WH-routed Krasuski interview about a 1944 Gut Alt Golssen observation, plus Oct 1966 OUFORA inquiry-and-USAF-redirect ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-drone-pilot-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the contractor drone-pilot witness for the Sept 2023 daylight sighting (serial-4) ( #uap #primary-source #fbi)

@@ -3,17 +3,17 @@ title: Diplomatic-Channel UAP Reporting
 category: concepts
 tags: [uap, policy, intelligence, diplomacy, institutional]
 aliases: [diplomatic UAP intake, embassy UAP reporting, foreign-government UAP inquiry, citizen-witness cable relay]
-sources: [sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/341_110677_numerical_file_5-2500.json]
-summary: An institutional pattern in which a US diplomatic post (embassy or air-attaché office) aggregates a UAP-adjacent narrative from outside the standard US-military intake stream and forwards it up its parent department. Sub-patterns now include foreign-liaison-inquiry, citizen-witness-relay, and (sibling) air-attaché HUMINT.
+sources: [sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/341_110677_numerical_file_5-2500.json, sources/059uap00012.json]
+summary: An institutional pattern in which a US diplomatic post (embassy or air-attaché office) aggregates a UAP-adjacent narrative from outside the standard US-military intake stream and forwards it up its parent department. Sub-patterns now include foreign-liaison-inquiry, citizen-witness-relay, and (sibling) air-attaché HUMINT. Negative-anchor: 2004 Ashgabat NGO cable.
 provenance:
-  extracted: 0.35
+  extracted: 0.34
   inferred: 0.62
-  ambiguous: 0.03
+  ambiguous: 0.04
 base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T16:15:00Z
-updated: 2026-05-09T19:00:00Z
+updated: 2026-05-09T23:30:00Z
 ---
 
 # Diplomatic-Channel UAP Reporting
@@ -43,6 +43,18 @@ This pattern is **distinct** from the four other UAP-reporting institutional pat
 | **Diplomatic-channel** *(this concept)* — 1985 PNG, 1994 Kazakhstan | **Non-DoD-stream witness** (foreign service or US-citizen aircrew) | **US embassy** → **State Department** ± combatant command | **No UAP determination; ad-hoc disposition** |
 
 The diplomatic-channel pattern is structurally **the most asymmetric** of the five: the US embassy aggregates without analyzing, forwards without resolving, and the interpretive layer never closes inside the artifact itself.
+
+## Negative anchor — 2004 Ashgabat NGO cable
+
+The wiki holds a third UAP-keyword-matched DOS cable that **does not** instantiate this umbrella: [[references/dos-cable-turkmenistan-2004-11|ASHGABAT 1028 (12 Nov 2004)]] from [[entities/amembassy-ashgabat|AMEMBASSY Ashgabat]]. Its subject — *"TURKMENISTAN, CIVIL SOCIETY AND UFOS"* — refers not to a UAP narrative but to an NGO whose name is the [[entities/union-of-ufologists-turkmenabat|Union of UFOlogists of Turkmenabat]]. The cable is a USAID grant-assessment record; the only UAP-substantive line is UOU President Ovezberdy Muradov's uncorroborated, self-serving, and internally contradictory claim that *"the Turkmen military and government authorities had consulted him about mysterious occurrences in Turkmen airspace, but he said there had been no confirmed sightings of UFOs in Turkmenistan."* ^[ambiguous]
+
+This cable is the umbrella's **negative anchor**: it shows that the FOIA-release universe of UAP-keyword DOS cables is not coextensive with the diplomatic-channel UAP intake pattern. FOIA selects on keyword (including the cable's *name* / *subject-line text*); the umbrella selects on **payload** (a UAP narrative being aggregated and forwarded). One does not imply the other. ^[inferred]
+
+Implications:
+
+- **Do not infer a sub-pattern C from this cable.** No UAP narrative is forwarded; no foreign service is in the loop; no US-citizen aircrew is the witness; no asset query, witness probe, or interpretive question is posed. The cable does not share the umbrella's defining payload.
+- **Cross-corpus tag-schema observation strengthens.** The 2004 Ashgabat cable carries TAGS `AORC, TSPA, PREL, PGOV, EAID, OSCI, TX` — no `UFO` tag. The schema's substantive-routing principle (UAP matters route under their substantive bureau, not under a UAP-specific tag) holds even in cases where "UFO" appears in the cable's subject-line text. Now 3-of-3.
+- **Downstream synthesis must not silently inflate the diplomatic-channel UAP-cable count.** Pages that reference this concept should cite the 1985 PNG and 1994 Kazakhstan cables as the substantive corpus and treat the 2004 Ashgabat cable as a boundary case.
 
 ## Sub-patterns
 
@@ -110,12 +122,13 @@ The institutional **family** is still "UAP-adjacent reports gathered by a US dip
 |---|---|---|---|---|---|---|
 | [[references/dos-cable-papua-new-guinea-1985-01\|PORT M 00199]] | 28 Jan 1985 | [[entities/png-national-intelligence-organization\|PNG NIO]] | [[entities/amembassy-port-moresby\|AMEMBASSY Port Moresby]] | EAP/PIA + PM/RSA | [[entities/uscincpac\|USCINCPAC]] J3 + POLAD (action) | "No US aircraft in PNG airspace 24 Jan 1985." Reply not in corpus. ^[open] |
 | [[references/dos-cable-kazakhstan-1994-01\|DUSHANBE 00259]] | 31 Jan 1994 | US-citizen Tajik Air aircrew (Capt Ed Rhodes + 2) | [[entities/amembassy-dushanbe\|AMEMBASSY Dushanbe]] | OES/S | none on action; CIA + DIA on INFO | "We have no opinion and report the above for what it may be worth." Follow-on photos / Tajikistan-Desk traffic not in corpus. ^[open] |
+| [[references/dos-cable-turkmenistan-2004-11\|ASHGABAT 1028]] *(boundary case — outside umbrella)* | 12 Nov 2004 | NGO president (no UAP narrative) | [[entities/amembassy-ashgabat\|AMEMBASSY Ashgabat]] | EUR/CACEN | none (info to CIA, DIA, NSC, USCENTCOM, SECDEF, JS) | NGO grant assessment: *"Crazy? Like a fox; and worthy of USG attention and support."* No UAP determination because no UAP narrative. ^[extracted] |
 
-This table is expected to grow as more 1970s–1990s State Department UAP releases are ingested.
+This table is expected to grow as more 1970s–1990s State Department UAP releases are ingested. The boundary-case row is included to make the umbrella's limit explicit.
 
 ## Cross-corpus structural observations
 
-- **Two-of-two `UFO`-tag absence**: neither cable carries `UFO` as a subject TAG. The 1985 cable carries `MARR`/`PP`; the 1994 cable carries `TSAP, EAIR, KZ, TI, TAJIK AIR, (RHODES, ED)`. The DOS subject-indexing schema appears to **route UAP-adjacent matters under their *substantive* category** (military overflights; space-and-aviation phenomena) rather than under a UAP-specific tag. ^[inferred]
+- **Three-of-three `UFO`-tag absence**: neither substantive cable carries `UFO` as a subject TAG, and neither does the boundary-case 2004 Ashgabat NGO cable. The 1985 cable carries `MARR`/`PP`; the 1994 cable carries `TSAP, EAIR, KZ, TI, TAJIK AIR, (RHODES, ED)`; the 2004 cable carries `AORC, TSPA, PREL, PGOV, EAID, OSCI, TX`. The DOS subject-indexing schema appears to **route UAP-keyword matters under their *substantive* category** (military overflights; space-and-aviation phenomena; civil-society/aid) rather than under a UAP-specific tag — *even when "UFO" is in the cable's subject-line text*. ^[inferred]
 - **Different bureau-routing per sub-pattern is consistent**: Pol-Mil for asset-disambiguation cases (1985); Science (`OES`) for citizen-witness narrative cases (1994). If this holds across more cables, it would suggest **State Department UAP-adjacent traffic is sorted by the question being asked of HQ** — "is this us?" goes to PM, "what was this?" goes to OES. ^[inferred]
 - **Routing-depth difference**: PNG case has 5 hops (foreign witness → foreign field-officer → foreign HQ → US embassy → US combatant command). Kazakhstan case has only 3 (US-citizen aircrew → US embassy → State HQ). The depth is set by whether a foreign aggregation layer exists. ^[inferred]
 - **Declassification interval shrinks**: the 1985 cable was released 2026 (41-year delay); the 1994 cable was released 2026 (32-year delay). Both are inside the same release tranche `CSP-2025-00040`, suggesting a single FOIA/historical-review batch picked up both items together — and that the State Department's release-side handling pulls cables by topical bundle rather than by issuance year. ^[inferred]
@@ -157,6 +170,8 @@ This table is expected to grow as more 1970s–1990s State Department UAP releas
 - [[references/sighting-kazakhstan-1994-01-27]]
 - [[entities/amembassy-port-moresby]]
 - [[entities/amembassy-dushanbe]]
+- [[entities/amembassy-ashgabat]] — boundary-case originating post (not part of the umbrella)
+- [[entities/union-of-ufologists-turkmenabat]] — boundary-case subject of the 2004 Ashgabat cable
 - [[entities/png-national-intelligence-organization]]
 - [[entities/uscincpac]]
 - [[entities/tajik-air]]
