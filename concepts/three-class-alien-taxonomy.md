@@ -51,7 +51,7 @@ Hunter justifies the classes with specific numbers extracted from the memo:
 ## How this connects to the rest of the wiki
 
 - The 1948 USAF [[concepts/project-sign|Project SIGN]] file did **not** classify by physics command — it classified by report type / morphology / explanation candidate (Horten thesis, US disc, hoax, misperception). Hunter's taxonomy is doing different work: not "what did the witness see?" but "if a contact event were confirmed, what policy class are we facing?" ^[inferred]
-- The modern AARO-handled material ([[references/western-us-event-2026]], [[references/usper-statement-2025]]) collects sensor and witness data; it does not classify by physics command either. The Hunter taxonomy is therefore **orthogonal to all current operational classifications in the wiki** — a *policy* axis, not a *sighting* axis. ^[inferred]
+- The modern [[entities/aaro|AARO]]-handled material ([[references/western-us-event-2026]], [[references/usper-statement-2025]]) collects sensor and witness data; it does not classify by physics command either. The Hunter taxonomy is therefore **orthogonal to all current operational classifications in the wiki** — a *policy* axis, not a *sighting* axis. ^[inferred]
 
 ## Cross-links
 

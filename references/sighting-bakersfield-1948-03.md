@@ -38,7 +38,7 @@ Larsen reported that "searching parties, aircraft and rescue units have made num
 The report was copied to:
 
 - ADC (Air Defense Command), Mitchel Field, NY
-- FBI, San Francisco
+- [[entities/fbi|FBI]], San Francisco
 - G-2, Sixth Army
 - DIO, San Francisco (12th Naval District)
 

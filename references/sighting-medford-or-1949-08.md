@@ -18,7 +18,7 @@ updated: 2026-05-09T15:30:00Z
 
 # Sighting — Medford OR (8 Aug 1949)
 
-A **70-minute multi-witness optical-instrument** sighting east and southeast of Medford, Oregon, on **8 August 1949** from **1120P to 1230P**. Reported by McChord Flight Service Center under file TCM 452 dated 10 August 1949 and routed to AMC, Attn: MCIAXO-3.
+A **70-minute multi-witness optical-instrument** sighting east and southeast of Medford, Oregon, on **8 August 1949** from **1120P to 1230P**. Reported by McChord Flight Service Center under file TCM 452 dated 10 August 1949 and routed to [[entities/air-materiel-command|AMC]], Attn: MCIAXO-3.
 
 ## Witnesses (7)
 

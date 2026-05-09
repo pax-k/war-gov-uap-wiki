@@ -18,7 +18,7 @@ updated: 2026-05-09T15:30:00Z
 
 # Sighting — Portland / Troutdale / Mount Hood OR (30 Jul 1949)
 
-A multi-witness pacing-plus-flare-dropping incident in the **Portland, Troutdale, and Mount Hood, Oregon** area between **2100P and 2130P on 30 July 1949**, including an attempted intercept by an airline captain. Filed by McChord FSC under TCM 452 dated 1 August 1949, signed Lt Col Earl J. Livesay; routed to AMC, Attn: MCIAXO-3.
+A multi-witness pacing-plus-flare-dropping incident in the **Portland, Troutdale, and Mount Hood, Oregon** area between **2100P and 2130P on 30 July 1949**, including an attempted intercept by an airline captain. Filed by McChord FSC under TCM 452 dated 1 August 1949, signed Lt Col Earl J. Livesay; routed to [[entities/air-materiel-command|AMC]], Attn: MCIAXO-3.
 
 ## Witnesses
 

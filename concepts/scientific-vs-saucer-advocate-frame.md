@@ -39,7 +39,7 @@ Hunter's exact words: *"In my own mind, I find it difficult to side with the fly
 ## Where this posture shows up elsewhere in the wiki
 
 - The 1948 USAF [[concepts/project-sign|Project SIGN]] material works similarly at the operational level: it collects reports, brackets the "phenomenon is real" question, and pursues conventional explanations ([[concepts/horten-flying-wing|Horten flying wings]], [[references/loedding-flying-disc|domestic disc concepts]]) while documenting witness testimony without endorsing it. ^[inferred]
-- Modern AARO-handled material ([[references/western-us-event-2026]]) takes a structurally similar posture: collects sensor + multi-witness testimony, applies corrections (e.g. range/size underestimation), and resists asserting either "definitely UAP" or "definitely conventional."
+- Modern [[entities/aaro|AARO]]-handled material ([[references/western-us-event-2026]]) takes a structurally similar posture: collects sensor + multi-witness testimony, applies corrections (e.g. range/size underestimation), and resists asserting either "definitely UAP" or "definitely conventional."
 - The 2025 [[references/usper-statement-2025|intel-witness statement]] is interesting precisely **because** the witness — by virtue of being a senior intel official, not a saucer advocate — partially escapes this frame. The document's institutional weight comes from its narrator's pre-statement credibility. ^[inferred]
 
 ## A name for the posture

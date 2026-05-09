@@ -20,7 +20,7 @@ updated: 2026-05-09T16:15:00Z
 
 A 3-page declassified [[entities/state-department|US Department of State]] outgoing cable from [[entities/amembassy-port-moresby|AMEMBASSY Port Moresby]] (signed `GARDNER`) to [[entities/uscincpac|USCINCPAC]] Honolulu and the 43rd Strategic Wing at Andersen AFB Guam, dated `O 280653Z JAN 85`. Subject: **"PAPUA NEW GUINEA INQUIRY RE OVERFLIGHTS"**.
 
-It is the wiki's first **diplomatic-channel UAP-adjacent artifact** — the first archived case where a foreign government's intelligence service formally inquires of a US embassy about anomalous overflights, prompting a US-side query through cable channels rather than through direct DoD intake. It also sits at a previously empty point in the corpus timeline (between the 1963 [[references/hunter-1963-space-alien-race-memo|NASC alien-policy memo]] and the modern AARO era).
+It is the wiki's first **diplomatic-channel UAP-adjacent artifact** — the first archived case where a foreign government's intelligence service formally inquires of a US embassy about anomalous overflights, prompting a US-side query through cable channels rather than through direct DoD intake. It also sits at a previously empty point in the corpus timeline (between the 1963 [[references/hunter-1963-space-alien-race-memo|NASC alien-policy memo]] and the modern [[entities/aaro|AARO]] era).
 
 ## Bibliographic and routing data
 

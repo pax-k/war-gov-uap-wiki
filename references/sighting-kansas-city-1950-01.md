@@ -27,7 +27,7 @@ This is the **chronologically latest** report in [[references/usaf-flying-discs-
 - **James F. Grey** — pilot, Bendix Aviation, Kansas City KS; resident of 6200 Hadley St., Raytown, MO.
 - **Robert Van De Vyvere** — Bendix Aviation employee; resident of 5532 Raytown Road, MO.
 
-Both witnesses are civilian employees of Bendix Aviation in Kansas City. The named pilot grants the report some additional internal credibility under the Cabell intake template's "ability to determine speed" criterion. ^[inferred]
+Both witnesses are civilian employees of Bendix Aviation in Kansas City. The named pilot grants the report some additional internal credibility under the [[entities/c-p-cabell|Cabell]] intake template's "ability to determine speed" criterion. ^[inferred]
 
 ## Object signature
 

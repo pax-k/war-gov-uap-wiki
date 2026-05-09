@@ -18,7 +18,7 @@ updated: 2026-05-09T15:30:00Z
 
 # Sighting — Japan multi-station glow phenomenon (25 Jan 1949)
 
-A multi-station unidentified-glow event over central Japan on the night of **25 January 1949** at approximately **1946–1950 JST**, observed independently by six **Japanese Central Meteorological Observatory (CMO/Tokyo)** weather stations. Forwarded to AMC and MATS via the **2143D Air Weather Wing (APO 925)**, signed Headquarters 2143D AWW dated **3 February 1949**, with six inclosures (three station reports + chart of observation path + two surface-synoptic charts at 250600Z and 251200Z).
+A multi-station unidentified-glow event over central Japan on the night of **25 January 1949** at approximately **1946–1950 JST**, observed independently by six **Japanese Central Meteorological Observatory (CMO/Tokyo)** weather stations. Forwarded to [[entities/air-materiel-command|AMC]] and [[entities/military-air-transport-service|MATS]] via the **2143D Air Weather Wing (APO 925)**, signed Headquarters 2143D AWW dated **3 February 1949**, with six inclosures (three station reports + chart of observation path + two surface-synoptic charts at 250600Z and 251200Z).
 
 ## Reporting stations and observations
 
@@ -50,7 +50,7 @@ The Japanese stations' consensus interpretation: **"this phenomenon might be the
 
 - **Earliest non-Western-witness UAP report in the corpus.** The wiki's prior UAP sources are all British / US / Allied-aircrew. The Japanese CMO stations are an independent civilian-meteorological observation chain reporting the same morphology class as the contemporaneous American "ball of fire" sightings (e.g., [[references/sighting-kodiak-alaska-1949-04|Kodiak]] just 10 weeks later).
 - **Six-station independent multi-vantage corroboration with synchronized timing** (~1946–1950 JST) is among the **strongest geometric solutions** in the entire corpus — the path can in principle be triangulated from the station reports (and the file includes a chart-of-path inclosure that the OCR did not preserve). ^[inferred]
-- **Conventional candidate explanation**: an upper-atmosphere bolide (large meteor) — accepted by the Japanese stations themselves. The 2143D AWW's American forwarding letter does **not** offer an alternative; it forwards the JCMO conclusion to AMC for evaluation. The institutional posture is to **route, not adjudicate** — consistent with the Cabell directive policy. ^[inferred]
+- **Conventional candidate explanation**: an upper-atmosphere bolide (large meteor) — accepted by the Japanese stations themselves. The 2143D AWW's American forwarding letter does **not** offer an alternative; it forwards the JCMO conclusion to AMC for evaluation. The institutional posture is to **route, not adjudicate** — consistent with the [[entities/c-p-cabell|Cabell]] directive policy. ^[inferred]
 - **Routing significance**: this is the only report in the 1949 file that originates from a **foreign civilian government meteorological agency** rather than a US or UK military / civil-aviation organization. It demonstrates the [[concepts/fsr-200-4-reporting-regulation|Cabell / FSR 200-4 intake apparatus]] reaching into **occupied-Japan civilian observation networks** through the 2143D AWW. ^[inferred]
 
 ## See also

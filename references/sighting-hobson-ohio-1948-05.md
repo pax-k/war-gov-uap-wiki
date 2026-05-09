@@ -18,7 +18,7 @@ updated: 2026-05-09T13:13:27Z
 
 # Sighting — Hobson, OH (8 May 1948)
 
-Night-time multi-witness sighting of phosphorescent disc-shaped objects over Hobson, Ohio. Reported on 27 May 1948 to the 11th Air Force, Harrisburg, PA by Special Agent B. K. Brown, FBI Cleveland Office. Forwarded to Chief of Staff, USAF (Director of Intelligence, Requirements Division) on 14 June 1948 by Lt Col H. B. Wax, AC of S, A-2.
+Night-time multi-witness sighting of phosphorescent disc-shaped objects over Hobson, Ohio. Reported on 27 May 1948 to the 11th Air Force, Harrisburg, PA by Special Agent B. K. Brown, [[entities/fbi|FBI]] Cleveland Office. Forwarded to Chief of Staff, USAF (Director of Intelligence, Requirements Division) on 14 June 1948 by Lt Col H. B. Wax, AC of S, A-2.
 
 ## Witnesses (NY Central System employees)
 

@@ -83,7 +83,7 @@ This artifact occupies a **previously empty cell** in the wiki's UAP timeline:
 | 2025 | [[references/usper-statement-2025]] | — |
 | 2026 | [[references/western-us-event-2026]] | — |
 
-It is the **wiki's first 1950s** artifact, and the earliest FBI-originated UAP-adjacent record in the corpus. It also predates the 1963 [[references/hunter-1963-space-alien-race-memo|NASC policy memo]] by 5 years and falls **between** the 1948–50 USAF Project SIGN era and the 1963 NASC policy-staff layer — a window that historically corresponds to **Project BLUE BOOK** (1952–1969). ^[inferred]
+It is the **wiki's first 1950s** artifact, and the earliest FBI-originated UAP-adjacent record in the corpus. It also predates the 1963 [[references/hunter-1963-space-alien-race-memo|NASC policy memo]] by 5 years and falls **between** the 1948–50 USAF [[concepts/project-sign|Project SIGN]] era and the 1963 [[entities/national-aeronautics-and-space-council|NASC]] policy-staff layer — a window that historically corresponds to **Project BLUE BOOK** (1952–1969). ^[inferred]
 
 ## What this serial *does* and *does not* establish
 

@@ -40,7 +40,7 @@ One signature appears as **"J. H. Grierson"** but in context (same name block, "
 - That [[entities/shaef-air-staff|SHAEF Air Staff]] held the institutional position: *"there must be something more than mere imagination behind the matter, and in view of the fact that pilots and crews are becoming slightly worried by them, it is considered that everything possible should be done to get to the root of the matter."* ^[extracted]
 - That **the closure of the file was procedural, not substantive**: the 18 March 1945 letter says only "no further, or more definite, information can be given." ^[extracted]
 
-Grierson is therefore the WWII institutional figure most directly analogous to the role [[entities/c-p-cabell|Maj Gen C. P. Cabell]] would play in 1948 USAF Project SIGN: the senior-rank intelligence officer who **kept the unexplained-aerial-phenomena reporting loop alive even when no satisfactory technical explanation could be produced**. ^[inferred]
+Grierson is therefore the WWII institutional figure most directly analogous to the role [[entities/c-p-cabell|Maj Gen C. P. Cabell]] would play in 1948 USAF [[concepts/project-sign|Project SIGN]]: the senior-rank intelligence officer who **kept the unexplained-aerial-phenomena reporting loop alive even when no satisfactory technical explanation could be produced**. ^[inferred]
 
 ## Identification confidence
 
@@ -52,3 +52,4 @@ The file identifies him only by surname, rank (Air Commodore), and post (A.C. of
 - [[entities/uk-air-ministry-ddi2]]
 - [[references/foo-fighters-shaef-1944-1945]]
 - [[entities/c-p-cabell]] — structurally analogous 1948 USAF figure
+- [[concepts/foo-fighter-phenomenon]] — phenomenon Grierson's correspondence catalogues

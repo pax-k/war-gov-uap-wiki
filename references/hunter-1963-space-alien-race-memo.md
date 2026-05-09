@@ -30,7 +30,7 @@ The memo is addressed to **Mr. Robert F. Packard, Office of International Scient
 
 ## Why this source matters
 
-This memo is the wiki's first **policy-side** UAP artifact. The 1948 Project SIGN material ([[references/usaf-flying-discs-1948]]) and the modern AARO-handled material ([[references/western-us-event-2026]], [[references/usper-statement-2025]]) are **operational** — sighting reports, intake protocols, witness statements. The 1963 NASC memo is something different: a senior staff officer in the **Executive Office of the President** treating "what would US policy be if an extraterrestrial intelligence is confirmed?" as a writeable, archive-worthy question — and forwarding the analysis to **State**, the diplomatic instrument.
+This memo is the wiki's first **policy-side** UAP artifact. The 1948 [[concepts/project-sign|Project SIGN]] material ([[references/usaf-flying-discs-1948]]) and the modern [[entities/aaro|AARO]]-handled material ([[references/western-us-event-2026]], [[references/usper-statement-2025]]) are **operational** — sighting reports, intake protocols, witness statements. The 1963 NASC memo is something different: a senior staff officer in the **Executive Office of the President** treating "what would US policy be if an extraterrestrial intelligence is confirmed?" as a writeable, archive-worthy question — and forwarding the analysis to **State**, the diplomatic instrument.
 
 The fact that this exists at NASC, addressed to State's international-scientific affairs office, treats the alien-contact question as foreseeably a **diplomatic** problem, not solely a defense or scientific one. ^[inferred]
 

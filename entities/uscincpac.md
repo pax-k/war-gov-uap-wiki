@@ -39,7 +39,7 @@ In a UAP context, USCINCPAC's role here is precisely that of an **operational di
 
 ## Why this matters for the corpus
 
-- **First unified-combatant-command node** in the wiki's UAP corpus. Prior corpus institutional nodes are USAF/AMC at Wright-Patterson (1948), MATS at Andrews (1949), SHAEF (1944–45 wartime joint command), NASC (1963 EOP staff), and AARO (modern). USCINCPAC fills the unified-combatant-command gap.
+- **First unified-combatant-command node** in the wiki's UAP corpus. Prior corpus institutional nodes are USAF/[[entities/air-materiel-command|AMC]] at [[entities/wright-patterson-afb|Wright-Patterson]] (1948), [[entities/military-air-transport-service|MATS]] at Andrews (1949), [[entities/shaef-air-staff|SHAEF]] (1944–45 wartime joint command), [[entities/national-aeronautics-and-space-council|NASC]] (1963 EOP staff), and [[entities/aaro|AARO]] (modern). USCINCPAC fills the unified-combatant-command gap.
 - **Diplomatic-channel UAP intake**: this cable shows the routing pattern *foreign intelligence service → US embassy → unified-combatant-command (with INFO to State Dept HQ)* — see [[concepts/diplomatic-channel-uap-reporting]] for the full pattern.
 
 ## Open threads

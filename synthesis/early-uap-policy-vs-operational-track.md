@@ -30,7 +30,7 @@ The wiki's UAP corpus spans 1948–2026 and divides cleanly into three instituti
 ## What each layer optimizes for
 
 - **Operational** optimizes for *establishing the fact pattern of an individual sighting* — who, what, where, when, with what sensors, in what condition. The 1948 [[concepts/flying-disc-reporting-protocol|10-element reporting protocol]] is a clean exemplar.
-- **EOP policy** optimizes for *handling the conditional* — assuming contact, what is US posture? The Hunter memo is a textbook case: it never asks "did this sighting happen?" only "if a contact event were confirmed, what then?"
+- **EOP policy** optimizes for *handling the conditional* — assuming contact, what is US posture? The [[entities/maxwell-w-hunter|Hunter]] memo is a textbook case: it never asks "did this sighting happen?" only "if a contact event were confirmed, what then?"
 - **Modern multi-track** is structurally a *return to the operational layer* with better sensors and (sometimes) cross-channel corroboration; the policy-staff layer is largely absent from the wiki's modern corpus.
 
 ## Why the policy track matters separately

@@ -33,7 +33,7 @@ The originating office of the [[references/hunter-1963-space-alien-race-memo|196
 
 ## Why it matters in this wiki
 
-NASC is the first **White House-staff-level** institutional handler of the alien-contact question that the wiki has cataloged. The 1948 USAF [[concepts/project-sign|Project SIGN]] track sits at the operational/intel layer; AARO (modern) sits at the DoD-coordination layer; NASC in 1963 sits at the **EOP policy-staff** layer. See [[synthesis/early-uap-policy-vs-operational-track]].
+NASC is the first **White House-staff-level** institutional handler of the alien-contact question that the wiki has cataloged. The 1948 USAF [[concepts/project-sign|Project SIGN]] track sits at the operational/intel layer; [[entities/aaro|AARO]] (modern) sits at the DoD-coordination layer; NASC in 1963 sits at the **EOP policy-staff** layer. See [[synthesis/early-uap-policy-vs-operational-track]].
 
 ## Cross-links
 

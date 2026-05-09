@@ -68,7 +68,7 @@ The 2026 [[references/western-us-event-2026|Western U.S. Event]] does not descri
 
 - Does the **direction of flare-up** correlate with the direction the formation later "engages" or moves? Source data is too sparse for this. ^[inferred]
 - Are the vertical-stack and horizontal-line configurations the same phenomenon viewed from different aspects, or genuinely different formations? Source supports both interpretations. ^[ambiguous]
-- Does this pattern recur in any of the publicly available UAP corpora (Project BLUE BOOK, AARO releases, civilian databases)? **Open thread for future ingests.**
+- Does this pattern recur in any of the publicly available UAP corpora (Project BLUE BOOK, [[entities/aaro|AARO]] releases, civilian databases)? **Open thread for future ingests.**
 
 ## See also
 

@@ -56,7 +56,7 @@ This is the **first formal negative-confirmation US-side answer to a UAP-adjacen
 - No discussion of **alternative national air forces** (Soviet, Indonesian, Australian) that might have produced the south-to-north waves.
 - No mention of UFOs, UAPs, "unknown" classification, or "unidentified" — except the single phrase **"unidentified aerial phenomena"** in NIO's framing of ¶2.
 
-The cable's use of `unidentified aerial phenomena` as a category label is notable: it is the **earliest use of "unidentified aerial phenomena" found in the corpus to date**, predating modern AARO terminology by ~38 years. ^[inferred] (1948 USAF documents use *"flying disc"* / *"flying objects"*; 1944–45 SHAEF uses *"foofighter"* / *"phenomena"*. The *exact* phrase in the form used by AARO appears here.)
+The cable's use of `unidentified aerial phenomena` as a category label is notable: it is the **earliest use of "unidentified aerial phenomena" found in the corpus to date**, predating modern [[entities/aaro|AARO]] terminology by ~38 years. ^[inferred] (1948 USAF documents use *"flying disc"* / *"flying objects"*; 1944–45 [[entities/shaef-air-staff|SHAEF]] uses *"[[concepts/foo-fighter-phenomenon|foofighter]]"* / *"phenomena"*. The *exact* phrase in the form used by AARO appears here.)
 
 ## Hypothesis space (none of these are advanced by the cable)
 

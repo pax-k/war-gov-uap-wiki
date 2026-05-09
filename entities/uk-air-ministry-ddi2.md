@@ -58,7 +58,7 @@ Other Air Ministry traffic in the file (4–5 March 1945) shows DDI2 also coordi
 
 ## Place in the larger UAP picture
 
-DDI2 is the **first national-level intelligence agency** in the wiki to formally state, in writing, that the unexplained-aerial-phenomena reports it had collected could not be explained — a posture that prefigures the formal AARO admission of unresolved cases nearly 80 years later. ^[inferred]
+DDI2 is the **first national-level intelligence agency** in the wiki to formally state, in writing, that the unexplained-aerial-phenomena reports it had collected could not be explained — a posture that prefigures the formal [[entities/aaro|AARO]] admission of unresolved cases nearly 80 years later. ^[inferred]
 
 ## See also
 

@@ -56,7 +56,7 @@ This 1948 schema is, in effect, the prototype for every modern UAP report format
 - **Physical signatures** that constrain conventional explanations: speed, altitude, maneuverability, exhaust (items e.5, e.7, e.8, e.10)
 - **Sensory channels beyond vision** (sound: item e.9)
 
-Subsequent USAF programs ([[concepts/project-sign|SIGN]], GRUDGE, BLUE BOOK) and the modern AARO regime inherit the same observational backbone. ^[inferred]
+Subsequent USAF programs ([[concepts/project-sign|SIGN]], GRUDGE, BLUE BOOK) and the modern [[entities/aaro|AARO]] regime inherit the same observational backbone. ^[inferred]
 
 ## See also
 

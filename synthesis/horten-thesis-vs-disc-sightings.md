@@ -44,7 +44,7 @@ German wartime tailless flying-wing aircraft (Horten Parabola, VIII, IX) had a l
 
 ## Implication for the larger UAP picture
 
-The 1948 file shows a concerted, technically literate effort to explain disc sightings within the conventional aviation frame. That effort partly succeeded (some reports were almost certainly conventional) and partly didn't (signatures like phosphorescent trails at extreme altitude resist that frame). The mixed verdict is the recurring structure of every subsequent UAP-evaluation regime — [[concepts/project-sign|SIGN]], GRUDGE, BLUE BOOK, modern AARO. ^[inferred]
+The 1948 file shows a concerted, technically literate effort to explain disc sightings within the conventional aviation frame. That effort partly succeeded (some reports were almost certainly conventional) and partly didn't (signatures like phosphorescent trails at extreme altitude resist that frame). The mixed verdict is the recurring structure of every subsequent UAP-evaluation regime — [[concepts/project-sign|SIGN]], GRUDGE, BLUE BOOK, modern [[entities/aaro|AARO]]. ^[inferred]
 
 ## 1949 evolution — the thesis under strain
 

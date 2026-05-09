@@ -52,7 +52,7 @@ DDI2 explicitly conceded: "*The whole affair is still something of a mystery and
 
 ## Place in the larger UAP picture
 
-The foo-fighter case is the **WWII operational precedent** for every later institutional UAP-collection regime: aircrew report unexplained objects, the chain of command treats them seriously enough to escalate, the technical-intelligence apparatus offers conventional explanations that don't fully fit, and the matter is closed without resolution. ^[inferred] The structural parallel to [[concepts/project-sign|Project SIGN]] (1948), the modern AARO intake (2026 — see [[references/western-us-event-2026]]), and the 2025 intelligence-witness statement is striking. See [[synthesis/foo-fighters-to-flying-discs]].
+The foo-fighter case is the **WWII operational precedent** for every later institutional UAP-collection regime: aircrew report unexplained objects, the chain of command treats them seriously enough to escalate, the technical-intelligence apparatus offers conventional explanations that don't fully fit, and the matter is closed without resolution. ^[inferred] The structural parallel to [[concepts/project-sign|Project SIGN]] (1948), the modern [[entities/aaro|AARO]] intake (2026 — see [[references/western-us-event-2026]]), and the 2025 intelligence-witness statement is striking. See [[synthesis/foo-fighters-to-flying-discs]].
 
 ## See also
 

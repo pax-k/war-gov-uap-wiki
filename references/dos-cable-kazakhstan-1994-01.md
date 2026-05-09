@@ -46,7 +46,7 @@ It is the wiki's **second** archived diplomatic-channel UAP-adjacent artifact (a
 | Dissemination rule | `Archive Copy` |
 | Precedence | `R` (Routine) |
 
-The cable carries **no military combatant-command** action addressee — distinct from PORT M 00199, which was action `USCINCPAC IMMEDIATE`. CIA and DIA are *information* addressees only, and the captioned action is `DEPARTMENT FOR OES/S` — i.e., the State Department's **Bureau of Oceans and International Environmental and Scientific Affairs / Science** office. ^[inferred] This routing treats the matter as a science-bureau report-for-information, not a pol-mil overflight inquiry.
+The cable carries **no military combatant-command** action addressee — distinct from PORT M 00199, which was action [[entities/uscincpac|USCINCPAC]] `IMMEDIATE`. CIA and DIA are *information* addressees only, and the captioned action is `DEPARTMENT FOR OES/S` — i.e., the State Department's **Bureau of Oceans and International Environmental and Scientific Affairs / Science** office. ^[inferred] This routing treats the matter as a science-bureau report-for-information, not a pol-mil overflight inquiry.
 
 The `TAGS` line includes a parenthesized `(RHODES, ED)` — a State Department subject-indexing convention for prominent personal-name subjects, anchoring the cable's index entry to the chief witness. ^[inferred] As with PORT M 00199, **no `UFO`-specific tag** appears (`TSAP` is the closest, indicating "scientific" / space-affairs subject indexing). ^[inferred] With two State Department UAP-adjacent cables in the corpus and neither tagged `UFO`, the 1985 hypothesis that the DOS subject-tag schema does not formally classify UAP cases is no longer a single-case observation — see [[concepts/diplomatic-channel-uap-reporting]].
 
