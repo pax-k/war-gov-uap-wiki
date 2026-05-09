@@ -3,8 +3,8 @@ title: UAP
 category: project
 tags: [uap, history, intelligence, archive]
 source_path: _raw/ (declassified UAP archive volumes), sources/ (Mistral-OCR'd briefings and witness statements)
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json]
-summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN (two-track AFOIR + USAFE TS), 1957–58 FBI Detroit files, 1963 NASC, 1985 + 1994 DOS cables, 2025 intel statement, 2023 FBI FD-302 pair, and 2026 AARO Western US slides.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/342_hs1-416511228_box186_319.1-flying-discs-1949.json, sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/341_110677_numerical_file_5-2500.json]
+summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948–49 USAF Project SIGN (two-track AFOIR + USAFE TS), 1955 USAIRA Prague Russell sighting, 1957–58 FBI Detroit files, 1963 NASC, 1985 + 1994 DOS cables, 2025 intel statement, 2023 FBI FD-302 pair, and 2026 AARO Western US slides.
 provenance:
   extracted: 0.48
   inferred: 0.5
@@ -13,7 +13,7 @@ base_confidence: 0.72
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T18:30:00Z
+updated: 2026-05-09T19:00:00Z
 ---
 
 # UAP
@@ -43,6 +43,10 @@ A research project distilling declassified primary-source archives on Unidentifi
 ### 1948–1950 USAF "Flying Disc" continuation file (NEW)
 
 - [[references/usaf-flying-discs-1949]] — 143-page Mistral-OCR'd USAF correspondence file (NARA box 186, file 319.1; Oct 1948 – Jan 1950). Direct sequel to the 1948 file. ~20 distinct field sighting reports filed in the EEI / 10-element template; the 1948 routing apparatus carried into 1949 via [[concepts/fsr-200-4-reporting-regulation|Flight Service Regulation 200-4 (2 Nov 1948)]]; the attention line shifted from `MCI` / `TSDIN` to `MCIAXO-3`; geographic scope extended from CONUS + Alaska to **all sightings worldwide** by a 26 Oct 1948 Hq USAF TWX (signed for Maj Gen Kuter); and a new dual-hub architecture emerged with [[entities/military-air-transport-service|MATS]] (Andrews AFB) alongside AMC.
+
+### 1955 USAIRA Prague IR 193-55 — Russell Trans-Caucasus sighting (NEW)
+
+- [[references/iaf-ir-193-55-russell-1955]] — 9-page Mistral-OCR'd declassified SECRET (NOFORN) USAF Air Intelligence Information Report (IR 193-55, Lt Col [[entities/thomas-s-ryan|Thomas S. Ryan]], [[entities/usaira-prague|USAIRA Prague]], 14 Oct 1955; TS Control # 3-2500; **NW 38537 / DocID 5916784**) on **[[references/sighting-trans-caucasus-1955-10-04|Senator Richard Russell's 4 Oct 1955 Trans-Caucasus flying-disc sighting]]**. The wiki's first 1955-era artifact and first **USAIRA HUMINT-channel** record of any kind — see [[concepts/usaira-reporting-channel]]. Two flying discs ascend almost vertically with **slowly rotating outer surfaces** and **two stationary inner lights** ("revolving slowly" during ascent → "whirring" at high-speed level cruise on a northerly heading at 6000 ft), seen by Russell + [[entities/e-u-hathaway|Lt Col E. U. Hathaway]] (US Army, Senate Armed Services Committee staff) + [[entities/ruben-efron|Mr. Ruben Efron]] (Committee Consultant) from a USSR rail leg between ATJATY and ADZHLJABUL (Azerbaijan SSR), with **two operating searchlights pointing near-vertical** at the ground take-off area 1–2 miles south of the rail line. Soviet trainmen immediately closed window curtains and refused further observation — see [[concepts/observer-suppression-behavior]]. **Corpus firsts** anchored by this source: first 1950s-era artifact (closes the 1950–56 gap); first US-witnessed UAP sighting **physically inside the USSR**; first Senatorial-class witness; first USAIRA-originated UAP record; first witnessed **ground-level launch installation** alongside a sighting; first contemporaneous **observer-suppression** datum; first joint **rotating-disc + stationary-inner-lights** morphology in the corpus (see [[concepts/rotating-disc-morphology]]). Ryan's USAIRA institutional comment — *"The significance of this report... is remarkable and lends credence to many 'saucer' reports"* — is the wiki's first explicit USAF-side endorsement of a witness sighting from inside the SECRET-track intake apparatus. ^[inferred]
 
 ### Modern AARO-handled material
 
@@ -100,6 +104,12 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 - [[entities/usafe]] — US Air Forces in Europe; **European-theater liaison hub** that originated the TS sub-track in late 1948. **(NEW)**
 - [[entities/swedish-air-intelligence-service]] — foreign-allied national air-intelligence service that USAFE liaised with in late October 1948. **(NEW)**
 
+## 1955 USAIRA HUMINT track (NEW)
+
+- [[entities/usaira-prague]] — US Air Attaché office, US Embassy Prague, Czechoslovakia. Originating post of [[references/iaf-ir-193-55-russell-1955|IR 193-55]] (14 Oct 1955).
+- [[entities/thomas-s-ryan]] — Lt Col USAF, Air Attaché Prague; drafter of IR 193-55 and signer of TS cable C-103.
+- [[concepts/usaira-reporting-channel]] — distinct UAP-adjacent intake channel: **air-attaché HUMINT** at overseas posts, structurally distinct from AFOIR-CO field-installation, USAFE TS major-command, State-Department cable, and FBI investigative channels.
+
 ## Modern institutional structures
 
 - [[entities/aaro|AARO]] — All-domain Anomaly Resolution Office; modern intake/assessment authority. Stub page; fills out as more AARO-handled material is ingested.
@@ -121,6 +131,15 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 - [[concepts/three-class-alien-taxonomy]] — chemical-rocket / nuclear-class / Einstein-violating classification used to drive sharply different US postures.
 - [[concepts/scientific-vs-saucer-advocate-frame]] — the "prepared skepticism" rhetorical posture Hunter inhabits and that recurs across decades in this corpus.
 - [[synthesis/early-uap-policy-vs-operational-track]] — places the 1963 memo against the 1948 operational track and the 2025–2026 modern track.
+
+## Key people (1955 USAIRA Prague track) (NEW)
+
+- [[entities/richard-russell]] — Sen. Richard B. Russell (D-GA), Chairman, Senate Armed Services Committee; first-witness of disc 1 in the 4 Oct 1955 Trans-Caucasus sighting.
+- [[entities/e-u-hathaway]] — Lt Col, US Army; Senate Armed Services Committee staff officer; co-witness of both discs and primary debriefer at the 13 Oct 1955 Prague debrief.
+- [[entities/ruben-efron]] — Senate Armed Services Committee Consultant; co-witness and contemporaneous note-keeper.
+- [[entities/thomas-s-ryan]] — Lt Col USAF, USAIRA Prague; drafter of IR 193-55.
+- **Col. Thomas Dooley** (US Army Attaché, Prague) — co-debriefer; office was the venue for the 13 Oct 1955 debrief.
+- **Mr. Harold Vedler** (Acting Chief of Mission, US Embassy Prague) — met the Russell party at Wilson Station 12 Oct 1955.
 
 ## Key people (1944–45 wartime track) (NEW)
 
@@ -165,6 +184,8 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 
 - [[concepts/uap-aircraft-engagement]] — orb-class objects approaching/pursuing crewed aircraft, including apparent target switching across platforms. New from the 2025 statement.
 - [[concepts/engine-stall-phenomenon]] — recurring physical-effect signature: vehicle / equipment failure coincident with UAP proximity, recovery on departure. **(NEW)** Connects 1944 Krasuski (tractor stall) → 1957 Levelland TX (multi-vehicle cluster, the trigger for Krasuski's report) → 2023 FBI gate anomaly.
+- [[concepts/rotating-disc-morphology]] — rotating-disc + stationary-inner-lights joint signature; anchored by the 1955 Trans-Caucasus instance. **(NEW)**
+- [[concepts/observer-suppression-behavior]] — third-party operator restricting witnesses' continued observation contemporaneous with the sighting; anchored by the 1955 Soviet-trainmen reaction. **(NEW)**
 
 ## Cross-era patterns (NEW)
 
@@ -194,6 +215,7 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 | 8 August 1949, 1120–1230P | E/SE of Medford, OR | 7 AACS/CAA personnel; theodolite + binoculars | [[references/sighting-medford-or-1949-08]] |
 | 22 August 1949, 1845P | Seattle, WA | 3 NCO controllers (143rd NG ACW Sqdn) + 2 ARTC controllers | [[references/sighting-seattle-1949-08]] |
 | 6 January 1950, night | Kansas City KS / Olathe KS | 2 Bendix Aviation employees (1 pilot) | [[references/sighting-kansas-city-1950-01]] |
+| 4 October 1955, 1910 local | Trans-Caucasus USSR (Azerbaijan SSR), rail line ATJATY → ADZHLJABUL | [[entities/richard-russell\|Sen. Russell]] + [[entities/e-u-hathaway\|Lt Col Hathaway]] (US Army) + [[entities/ruben-efron\|Mr. Efron]] (Senate ASC Consultant) | [[references/sighting-trans-caucasus-1955-10-04]] |
 | 24 January 1985, evening (~1900 + 2200 local) | Papua New Guinea (Wewak / Angoram / various) | Air Niugini commercial pilot (radar) + Wewak residents + multi-vantage contrail witnesses | [[references/sighting-papua-new-guinea-1985-01-24]] |
 | 27 January 1994, ~dark + sunrise | Over Kazakhstan (~45°N 55°E), FL410 | Tajik Air Capt Ed Rhodes + 2 American ex-PanAm crew on Boeing 747SP | [[references/sighting-kazakhstan-1994-01-27]] |
 | 2025, single night, ~22:00–23:20 | Redacted US facility | Senior US intel official + state-org pilots + LP/OP team (FLIR + NVG + naked eye) | [[references/sighting-helicopter-orb-encounter-2025]] |
@@ -251,6 +273,16 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 - Cross-reference **1946 Swedish "Ghost Rocket"** investigations against the 1948 lake-crash case for institutional continuity. ^[open]
 - Locate the **307th Bomb Group Operation Daggar after-action report** for 5 Sep 1948. ^[open]
 - Locate any **Neubiberg primary report** (USAFE 14 references a ~30-min hover but does not preserve the underlying report). ^[open]
+- Locate **USAIRA Cable C-103, 13 Oct 1955** as a standalone TS-classified message; the body is preserved in [[references/iaf-ir-193-55-russell-1955|IR 193-55]] but the routed cable is in HQ USAF / USAFE / USAIRA Moscow files. ^[open]
+- Locate **HQ USAF D/I (DINTA) reply** to Ryan's commendation recommendation, and any **USAIRA Moscow** follow-on. ^[open]
+- Locate the **post-return Russell-group complete debriefing** Ryan recommended. ^[open]
+- Locate **Russell's personal papers** at the UGA Russell Library for 1955 USSR-trip material — first-person sighting notes, follow-up correspondence with USAF D/I, post-return Senate ASC briefing minutes. ^[open]
+- Locate other items in the **TS Control range `3-2400 – 3-2599`** at NARA RG 341 / FOIA 110677. The file naming `numerical_file_5-2500` and the cover marking `T.S. Cont. # 3-2500` together imply a numbered TS-track series. ^[inferred]
+- Resolve **`ATJATY` / `ADZHLJABUL`** as Azerbaijani / Russian-romanization placenames against 1955 Soviet rail timetables — likely **Adzhi-Kabul / Hadzhikabul** on the Baku-Tbilisi line. ^[ambiguous]
+- Identify **`EGOROV`** the trans-polar Russian pilot — candidates are crew of the **June–July 1937** Chkalov / Gromov flights. ^[ambiguous]
+- Cross-check whether IR 193-55 was forwarded into **Project BLUE BOOK** (1952–69) as a case file; the cover sheet specifies USAF / USAFE / USAIRA Moscow but not MCIAXO / Wright-Patterson. ^[inferred]
+- Identify the **Soviet 1955 VTOL / tailsitter test programs** (if any of public record) that could match the Trans-Caucasus disc morphology. ^[open]
+- Locate **Czech State Security (StB)** records of any 12–13 Oct 1955 surveillance of the Russell party at the Wilson Station / Residency / Army-Attaché office. ^[inferred]
 
 ## See also
 

@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-09T18:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-09T19:00:00Z*
 
 ## Concepts
 
@@ -18,13 +18,16 @@ title: Wiki Index
 - [[concepts/fsr-200-4-reporting-regulation]] — USAF Flight Service Regulation 200-4 (2 Nov 1948) — codified the Cabell directive into a standing order; cited in nearly every 1949 sighting report ( #uap #usaf #protocol)
 - [[concepts/horten-flying-wing]] — German wartime tailless aircraft family, the leading 1948 conventional explanation for disc sightings ( #uap #aviation #ww2)
 - [[concepts/orb-flare-formation]] — Distinct UAP morphology: orbs flaring up sequentially in a line/stack, holding stationary, flaring down in reverse order ( #uap #morphology #pattern)
+- [[concepts/observer-suppression-behavior]] — Recurring pattern: third-party operator restricts witnesses' continued observation contemporaneous with a UAP sighting, indicating institutional awareness ( #uap #behavior #intelligence)
 - [[concepts/orb-phenomenon]] — Recurring UAP morphology of luminous spherical bodies, including "mother / daughter" launch patterns ( #uap #morphology #pattern)
 - [[concepts/project-sign]] — First official USAF program to collect and evaluate Flying Disc reports (1948) ( #uap #usaf #intelligence)
+- [[concepts/rotating-disc-morphology]] — Joint UAP signature: circular body with slowly rotating outer surface and stationary inner light points; anchored by the 1955 Trans-Caucasus sighting ( #uap #morphology #pattern)
 - [[concepts/scientific-vs-saucer-advocate-frame]] — Mid-20th-century institutional posture writing UAP policy from the middle ground between saucer advocates and strict scientific dismissers ( #uap #history #rhetoric)
 - [[concepts/space-alien-policy-question]] — 1963 NASC framing of "what would US policy be if extraterrestrial intelligence were confirmed?" treated as a foreseeable diplomatic problem ( #uap #policy #contact)
 - [[concepts/three-class-alien-taxonomy]] — Hunter's 1963 chemical-rocket / nuclear-class / Einstein-violating classification of any contacted alien race ( #uap #policy #taxonomy)
 - [[concepts/transparent-uap]] — Witness-reported partial-transparency and beam-blocking UAP signature ( #uap #morphology #optical)
 - [[concepts/uap-aircraft-engagement]] — UAP behavioral signature: orbs approaching, following, or breaking off from one aircraft to pursue another ( #uap #behavior #pattern)
+- [[concepts/usaira-reporting-channel]] — Distinct UAP-adjacent intake channel: US Air Attaché HUMINT routed via SECRET-track AF Form 112 IRs to HQ USAF D/I; anchored by 1955 IR 193-55 ( #uap #intelligence #institutional)
 
 ## Entities
 
@@ -35,6 +38,7 @@ title: Wiki Index
 - [[entities/air-materiel-command]] — USAF command at Wright-Patterson AFB; designated central agency for 1948 Flying Disc reports ( #usaf #organization #history)
 - [[entities/c-m-grierson]] — Air Commodore, A.C. of S. A-2, SHAEF Air Staff; routed the 1944–45 foo-fighter correspondence ( #uap #ww2 #person #raf)
 - [[entities/c-p-cabell]] — Maj Gen, signed the 1948 directive that established Project SIGN ( #usaf #person #intelligence)
+- [[entities/e-u-hathaway]] — Lt Col US Army; Senate Armed Services Committee staff officer; primary debriefer of the 4 Oct 1955 Trans-Caucasus disc sighting ( #person #witness #uap #us-army)
 - [[entities/fbi]] — Federal Bureau of Investigation; intake authority across 66 years — 1957 (Detroit, WH-routed Krasuski letter, sit-down interview), 1958 (Detroit, Weaver phone-in, SF-64 routing), 1966 (Detroit, OUFORA redirect to USAF), 2023 (parallel FD-302 interviews) ( #fbi #organization #federal-le)
 - [[entities/franciszek-grabowski]] — Polish co-witness named in the 1944 Gut Alt Golssen account; uncontactable by 1957; the only co-witness Krasuski could recall ( #person #witness #ww2)
 - [[entities/horten-brothers]] — German aircraft designers whose tailless wings were studied as a Flying Disc explanation ( #aviation #germany #ww2)
@@ -43,12 +47,16 @@ title: Wiki Index
 - [[entities/national-aeronautics-and-space-council]] — Executive Office of the President advisory body; originating office of the 1963 alien-policy memo ( #organization #eop #policy)
 - [[entities/oklahoma-ufo-research-association]] — Mid-1960s civilian UFO research organization (Oklahoma City); 1966 inquirer to FBI Detroit, redirected to USAF Wright-Patterson ( #organization #civilian-research #uap)
 - [[entities/png-national-intelligence-organization]] — Papua New Guinea's national intelligence service; initiator of the 28 Jan 1985 inquiry to AMEMBASSY Port Moresby ( #intelligence #papua-new-guinea #organization)
+- [[entities/richard-russell]] — US Senator (D-GA); Chairman, Senate Armed Services Committee at the 4 Oct 1955 Trans-Caucasus disc sighting; first-witness of the first disc ( #person #senator #witness #uap)
 - [[entities/robert-cutler]] — Special Assistant to President Eisenhower for National Security Affairs; routing principal in the 1957 FBI 100-26505 Krasuski case ( #person #white-house #eisenhower)
 - [[entities/robert-f-packard]] — State Department / OISA officer; addressee of the 1963 NASC memo ( #person #state-department #policy)
+- [[entities/ruben-efron]] — Senate Armed Services Committee Consultant; co-witness and contemporaneous note-keeper for the 4 Oct 1955 Trans-Caucasus disc sighting ( #person #witness #uap #senate-staff)
 - [[entities/shaef-air-staff]] — Allied combined-air-forces intelligence/operations hub (1944–45) that routed the foo-fighter correspondence ( #uap #ww2 #organization)
 - [[entities/swedish-air-intelligence-service]] — Swedish Air Force intelligence branch; source of the 1948 institutional "outside the earth" assessment relayed via USAFE TT 1524 ( #intelligence #sweden #organization)
 - [[entities/tajik-air]] — Tajikistan flag carrier; operator of the Boeing 747SP whose American crew reported the 27 Jan 1994 UAP encounter ( #airline #tajikistan #organization)
+- [[entities/thomas-s-ryan]] — Lt Col USAF; US Air Attaché Prague (USAIRA Czechoslovakia) in October 1955; drafter of IR 193-55 ( #person #usaf #intelligence #attache)
 - [[entities/usafe]] — US Air Forces in Europe; European-theater liaison hub originating the Nov 1948 TS sub-track dispatch (TT 1524) to Cabell ( #usaf #organization #history)
+- [[entities/usaira-prague]] — US Air Attaché office, US Embassy Prague, Czechoslovakia; originating post of IR 193-55 (14 Oct 1955) on the Russell Trans-Caucasus disc sighting ( #usaf #organization #attache #intelligence)
 - [[entities/uk-air-ministry-ddi2]] — UK Air Ministry intelligence branches (DDI2 + A.D.I.(K)) that handled the British-side reply ( #uap #ww2 #organization)
 - [[entities/uscincpac]] — US Commander-in-Chief Pacific (Honolulu); action addressee of the 28 Jan 1985 DOS cable on PNG overflights ( #usaf #organization #dod)
 - [[entities/wladyslaw-krasuski]] — Polish DP, Detroit brewery worker, ex-WWII POW at Gut Alt Golssen; FBI-interviewed witness in the 1957 100-26505 case ( #person #witness #uap #ww2)
@@ -67,6 +75,7 @@ title: Wiki Index
 - [[references/fbi-fd302-drone-pilot-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the contractor drone-pilot witness for the Sept 2023 daylight sighting (serial-4) ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-serial-3-driver-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the lead-vehicle driver witness (serial-3) — sister artifact to serial-4, plus a co-temporal gate anomaly ( #uap #primary-source #fbi)
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
+- [[references/iaf-ir-193-55-russell-1955]] — Declassified 9-page SECRET (NOFORN) USAIRA Prague Air Intelligence Information Report (IR 193-55, 14 Oct 1955; TS Cont. # 3-2500) on Senator Russell's Trans-Caucasus flying-disc sighting ( #uap #primary-source #declassified #1955)
 - [[references/loedding-flying-disc]] — US AMC in-house disc-shaped aircraft concept (drawing LD-2), 1947 ( #uap #aviation #usaf)
 - [[references/sighting-bakersfield-1948-03]] — Two falling-object observations near Bakersfield, CA in March 1948 ( #uap #sighting #california)
 - [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] — 1 March 1945 USAAF reconnaissance pilot sighting of a 12-ft aluminium cylinder hovering vertically at 9,000 ft ( #uap #sighting #ww2)
@@ -91,6 +100,7 @@ title: Wiki Index
 - [[references/sighting-portland-or-1949-07]] — NWA Capt Thrush attempted 180° intercept of pacing 2-red/1-white-light object near Portland (30 Jul 1949) ( #uap #sighting #oregon)
 - [[references/sighting-seattle-1949-08]] — Multi-vantage 75–100 ft circular object plus separate F-84-track jet object (22 Aug 1949) ( #uap #sighting #washington)
 - [[references/sighting-swedish-lake-crash-1948]] — 1948 Swedish technical-expert observation of a flying-saucer-class object crashing into a lake; Swedish naval salvage team finds an uncharted lake-floor crater ( #uap #sighting #1948 #sweden)
+- [[references/sighting-trans-caucasus-1955-10-04]] — 4 Oct 1955 1910-hrs sighting of two ascending rotating discs by Senator Russell + Lt Col Hathaway + Mr. Efron from a USSR rail leg between ATJATY and ADZHLJABUL ( #uap #sighting #1955 #ussr)
 - [[references/sighting-transparent-kite-western-us]] — Pre-dawn kite-shaped object visible through NVGs and bare eye but not all witnesses; partially transparent ( #uap #sighting #transparent)
 - [[references/hunter-1963-space-alien-race-memo]] — 6-page declassified OFFICIAL USE ONLY memo (NASC, 18 Jul 1963) framing US policy options for first contact ( #uap #primary-source #policy)
 - [[references/usaf-flying-discs-1948]] — Declassified 28-page USAF inter-office correspondence, Feb–Jun 1948 ( #uap #primary-source #declassified)

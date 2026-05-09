@@ -21,3 +21,4 @@ title: Wiki Log
 - [2026-05-09T15:42:11Z] CROSS_LINK pages_scanned=77 links_added=35 pages_modified=23 orphans_remaining=0 misc_affinity_updated=0 promotion_candidates=0
 - [2026-05-09T18:00:00Z] INGEST source="sources/65_hs1-101634279_100-de-26505.json" pages_created=7 pages_updated=6 mode=append project=uap source_type=document
 - [2026-05-09T18:30:00Z] INGEST source="sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json" pages_created=7 pages_updated=8 mode=append project=uap source_type=document
+- [2026-05-09T19:00:00Z] INGEST source="sources/341_110677_numerical_file_5-2500.json" pages_created=10 pages_updated=3 mode=append project=uap source_type=document

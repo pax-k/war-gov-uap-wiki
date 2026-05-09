@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T18:30:00Z",
+  "updated": "2026-05-09T19:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -315,18 +315,45 @@
         "projects/uap/uap.md",
         "index.md"
       ]
+    },
+    "sources/341_110677_numerical_file_5-2500.json": {
+      "ingested_at": "2026-05-09T19:00:00Z",
+      "size_bytes": 32294,
+      "modified_at": 1778332064,
+      "content_hash": "sha256:6f4237cf9b7738a0993b48690f4519094990afecb795fb8922a83b5a44a830b1",
+      "source_id": "nara-rg341-110677-iaf-ir-193-55-usaira-prague-1955",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/iaf-ir-193-55-russell-1955.md",
+        "references/sighting-trans-caucasus-1955-10-04.md",
+        "entities/richard-russell.md",
+        "entities/e-u-hathaway.md",
+        "entities/ruben-efron.md",
+        "entities/thomas-s-ryan.md",
+        "entities/usaira-prague.md",
+        "concepts/usaira-reporting-channel.md",
+        "concepts/observer-suppression-behavior.md",
+        "concepts/rotating-disc-morphology.md"
+      ],
+      "pages_updated": [
+        "projects/uap/uap.md",
+        "concepts/diplomatic-channel-uap-reporting.md",
+        "index.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T18:30:00Z",
-      "sources_ingested": 12
+      "last_ingested": "2026-05-09T19:00:00Z",
+      "sources_ingested": 13
     }
   },
   "stats": {
-    "total_sources_ingested": 13,
-    "total_pages": 85,
+    "total_sources_ingested": 14,
+    "total_pages": 95,
     "total_projects": 1,
     "last_full_rebuild": null
   }

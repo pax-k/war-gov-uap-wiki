@@ -3,8 +3,8 @@ title: Diplomatic-Channel UAP Reporting
 category: concepts
 tags: [uap, policy, intelligence, diplomatic, institutional]
 aliases: [diplomatic UAP intake, embassy UAP reporting, foreign-government UAP inquiry, citizen-witness cable relay]
-sources: [sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json]
-summary: An institutional pattern in which a US embassy aggregates a UAP-adjacent narrative from outside the US-military intake stream and forwards it as a State Department cable. Two sub-patterns: foreign-liaison-inquiry, and citizen-witness-relay.
+sources: [sources/dos-uap-d1-cable-1-papua-new-guinea-january-1985.json, sources/dos-uap-d2-cable-2-kazakhstan-january-1994.json, sources/341_110677_numerical_file_5-2500.json]
+summary: An institutional pattern in which a US diplomatic post (embassy or air-attaché office) aggregates a UAP-adjacent narrative from outside the standard US-military intake stream and forwards it up its parent department. Sub-patterns now include foreign-liaison-inquiry, citizen-witness-relay, and (sibling) air-attaché HUMINT.
 provenance:
   extracted: 0.35
   inferred: 0.62
@@ -13,7 +13,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T16:15:00Z
-updated: 2026-05-09T16:30:00Z
+updated: 2026-05-09T19:00:00Z
 ---
 
 # Diplomatic-Channel UAP Reporting
@@ -86,6 +86,24 @@ Despite the routing differences, both sub-patterns:
 
 They differ in *which State Department bureau* they route to (Pol-Mil vs. Science), *which precedence* they ride at (`IMMEDIATE` vs. `Routine`), and *whether* a combatant command is in the action loop. ^[inferred] These differences are downstream of the originating-witness class.
 
+### Sibling channel — Air-attaché HUMINT (USAIRA)
+
+The **air-attaché HUMINT channel** ([[concepts/usaira-reporting-channel|USAIRA reporting channel]]) is a sibling of the diplomatic-channel pattern, anchored in the wiki by [[references/iaf-ir-193-55-russell-1955|USAIRA Prague IR 193-55]] (14 Oct 1955) on [[references/sighting-trans-caucasus-1955-10-04|Senator Russell's Trans-Caucasus disc sighting]].
+
+**Why a sibling rather than a third sub-pattern:** the USAIRA channel uses the same diplomatic-post substrate (the US Embassy compound, the host-country political environment) but routes the UAP report up the **DoD chain** (USAIRA → USAFE / HQ USAF D/I) rather than the **State Department chain** (Embassy political/economic → State HQ). The reporting officer is a uniformed USAF air attaché, not a Foreign Service officer, and the artifact is an Air Intelligence Information Report on AF Form 112, not a State Department cable. The institutional intake substrate is shared; the routing chain is not.
+
+| Feature | DOS cable (sub-patterns A + B) | USAIRA HUMINT (sibling) |
+|---|---|---|
+| Reporting officer | Foreign Service officer | USAF air attaché |
+| Authoring department | State Department | DoD / USAF |
+| Report instrument | Cable to State HQ + bureaus | AF Form 112 IR + TS cable to D/I |
+| Receiving HQ | State Department bureau (PM, OES, etc.) | HQ USAF Directorate of Intelligence (DINTA) |
+| Posture | No determination / no opinion | **Endorsing, source-weighted** ^[inferred] |
+| Subject tags | Substantive category (no `UFO`) | None — it's an IR not a cable |
+| Anchor case | 1985 PNG / 1994 Kazakhstan | 1955 Russell Trans-Caucasus |
+
+The institutional **family** is still "UAP-adjacent reports gathered by a US diplomatic post" — but the family has at least two branches with different routing chains. A future bulk State-Department UAP release would likely add more A/B-style cables; a future USAIRA-side declassification would likely add more 1950s–80s air-attaché reports of the IR 193-55 type. ^[inferred]
+
 ## Working corpus
 
 | Cable / artifact | Date | Originating witness class | US-side post | Department bureau | Combatant command? | US-side disposition |
@@ -129,6 +147,7 @@ This table is expected to grow as more 1970s–1990s State Department UAP releas
 
 - [[references/dos-cable-papua-new-guinea-1985-01]] — first artifact (sub-pattern A).
 - [[references/dos-cable-kazakhstan-1994-01]] — second artifact (sub-pattern B).
+- [[references/iaf-ir-193-55-russell-1955]] — sibling channel anchor (USAIRA HUMINT).
 
 ## See also
 
@@ -141,5 +160,7 @@ This table is expected to grow as more 1970s–1990s State Department UAP releas
 - [[entities/png-national-intelligence-organization]]
 - [[entities/uscincpac]]
 - [[entities/tajik-air]]
+- [[entities/usaira-prague]]
+- [[concepts/usaira-reporting-channel]]
 - [[synthesis/early-uap-policy-vs-operational-track]]
 - [[projects/uap/uap]]
