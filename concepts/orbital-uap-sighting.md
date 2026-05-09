@@ -3,8 +3,8 @@ title: Orbital UAP Sighting
 category: concepts
 tags: [uap, witness, pattern, nasa]
 aliases: [orbital sighting, on-orbit UAP, astronaut UAP witness, manned-spaceflight UAP]
-sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json]
-summary: A working concept page for UAP-adjacent observations made by crewmen of manned spacecraft on orbit; structurally distinct from atmospheric / ground sightings. Two corpus entries — GT-7 1965 (positive) and Apollo 17 1973 (null).
+sources: [sources/255_t_763_r1b_transcripts.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json]
+summary: Working concept page for on-orbit astronaut-witness UAP-adjacent observations; structurally distinct from atmospheric / ground sightings. Three corpus entries — GT-7 1965 (positive), Apollo 17 d6 1973 (null + keyword-false-positive), Apollo 17 d5 1973 (null, no keyword).
 provenance:
   extracted: 0.25
   inferred: 0.72
@@ -13,7 +13,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T19:30:00Z
-updated: 2026-05-10T12:00:00Z
+updated: 2026-05-10T18:00:00Z
 ---
 
 # Orbital UAP Sighting
@@ -75,9 +75,12 @@ Optional additional features (frequent but not definitional):
 | Date | Mission | Witness | Polarity | Wiki anchor |
 |---|---|---|---|---|
 | 4 Dec 1965, ~04h24m MET | [[entities/gemini-7\|Gemini 7]] | [[entities/frank-borman\|Borman]] (primary), [[entities/jim-lovell\|Lovell]] (booster only) | **Positive (UAP-adjacent)** — single-bearing, single-witness, no-morphology *"bogey at ten o'clock high"* call; bogey-vs-booster ambiguous in source. | [[references/sighting-gemini-7-bogey-1965-12-04]] |
-| 7–19 Dec 1972 (debriefed 4 Jan 1973) | [[entities/apollo-17\|Apollo 17]] | [[entities/gene-cernan\|Cernan]] + [[entities/ronald-evans\|Evans]] + [[entities/harrison-schmitt\|Schmitt]] | **Null (boundary case)** — three observations on excerpt page 24-4, all conventionally explained: reentry plasma (Evans), recovery-carrier window-fog misidentification (Cernan), cosmic-ray retinal light flashes / ALFMED experiment (Schmitt). No UAP report. | [[references/nasa-apollo-17-technical-crew-debriefing-1973]] |
+| 7–19 Dec 1972 (debriefed 4 Jan 1973) | [[entities/apollo-17\|Apollo 17]] | [[entities/gene-cernan\|Cernan]] + [[entities/ronald-evans\|Evans]] + [[entities/harrison-schmitt\|Schmitt]] | **Null (boundary case)** — three observations on excerpt page 24-4, all conventionally explained: reentry plasma (Evans), recovery-carrier window-fog misidentification (Cernan), cosmic-ray retinal light flashes / ALFMED experiment (Schmitt). No UAP report; **UAP-keyword-false-positive** mechanism (lex match on "fireball"/"sighting"/"flash" without UAP semantic content). | [[references/nasa-apollo-17-technical-crew-debriefing-1973]] |
+| 7–19 Dec 1972 (debriefed 8 Jan 1973) | [[entities/apollo-17\|Apollo 17]] | **HENRY** (PI on Apollo 17 SIM-bay UV photometer; not a flight crewman) ^[inferred] | **Null (stronger boundary case)** — UV / X-ray / gamma-ray astronomy testimony covering Coma cluster Lyman-alpha non-detection, UV galactic background, OGO-5 follow-up, Earth UV spectrum. **No UAP-domain keyword whatsoever** in the 3-page excerpt; **whole-document-inclusion** mechanism (the parent doc was pulled by document-series ID, not by keyword search). | [[references/nasa-apollo-17-science-debriefing-1973]] |
 
-A two-instance class with **one positive** (1965) and **one null/boundary** (1973). The Apollo 17 entry is structurally important: it is the orbital-class analogue of the [[concepts/figurative-ufo-rhetoric|figurative-UFO rhetoric]] boundary cases in the diplomatic-channel sub-corpus — material captured by FOIA / archival keyword match without UAP narrative payload. ^[inferred] Both polarities are tracked here because **the same intake mechanisms** (NASA-originated, mission-control / debriefing instrument, civilian-agency release path) produce both kinds of artifact, and downstream synthesis must not silently inflate the orbital-UAP count by counting null entries. ^[inferred]
+A three-instance class with **one positive** (1965) and **two null/boundary** (1973 d6 + 1973 d5). The Apollo 17 entries are structurally important: together they are the orbital-class analogue of the [[concepts/figurative-ufo-rhetoric|figurative-UFO rhetoric]] boundary cases in the diplomatic-channel sub-corpus — material captured by FOIA / archival keyword match (or by document-series whole-bundle inclusion) without UAP narrative payload. ^[inferred] All polarities are tracked here because **the same intake mechanisms** (NASA-originated, mission-control / debriefing instrument, civilian-agency release path) produce all kinds of artifact, and downstream synthesis must not silently inflate the orbital-UAP count by counting null entries. ^[inferred]
+
+The **d5 / d6 distinction** is itself analytically significant: d6 is null-with-UAP-keyword (lexically attractive to a keyword-driven FOIA pull), d5 is null-without-UAP-keyword (must be in the corpus by **whole-document inclusion** in the same NASA-debrief release tranche). This evidences **two structurally distinct boundary mechanisms** for non-UAP material entering the orbital-class sub-corpus — paralleling and **extending** the diplomatic-channel typology of [[concepts/figurative-ufo-rhetoric|Type 1 (referential / NGO-name)]] vs **Type 2 (figurative / rhetorical)**. ^[inferred]
 
 A still-young class; watch for:
 

@@ -3,8 +3,8 @@ title: Apollo 17
 category: entities
 tags: [nasa, mission, spacecraft, uap, 1973]
 aliases: [Apollo XVII, Apollo 17 mission, AS-512, CSM-114 / LM-12, AS-512/CSM-114]
-sources: [sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json]
-summary: NASA Apollo 17 — last crewed lunar landing (7–19 Dec 1972). Crew Cernan + Evans + Schmitt; mission frame for the Jan 1973 Technical Crew Debriefing artifact in the wiki.
+sources: [sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json]
+summary: NASA Apollo 17 — last crewed lunar landing (7–19 Dec 1972). Crew Cernan + Evans + Schmitt; mission frame for the Jan 1973 Technical and Science crew-debriefing artifacts in the wiki.
 provenance:
   extracted: 0.30
   inferred: 0.68
@@ -13,14 +13,14 @@ base_confidence: 0.45
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T12:00:00Z
+updated: 2026-05-10T18:00:00Z
 ---
 
 # Apollo 17
 
 NASA's **Apollo 17** — the **last crewed lunar landing** of the Apollo program, launched **7 December 1972** and recovered **19 December 1972**. Crew: **[[entities/gene-cernan|Eugene A. Cernan]]** (Commander), **[[entities/ronald-evans|Ronald E. Evans Jr.]]** (Command Module Pilot), and **[[entities/harrison-schmitt|Harrison H. "Jack" Schmitt]]** (Lunar Module Pilot — only scientist-astronaut to walk on the Moon during Apollo). ^[inferred]
 
-In the wiki's UAP corpus, Apollo 17 enters as the **mission frame** for the **[[references/nasa-apollo-17-technical-crew-debriefing-1973|MSC-07631 Technical Crew Debriefing (4 Jan 1973)]]** — a NASA-originated post-mission debriefing whose page-24-4 excerpt is in the corpus by FOIA / archival keyword match ("fireball", "sighting", "flash") rather than by UAP narrative content. The d6 excerpt is the corpus's **first null-content orbital-NASA artifact** — three astronaut observations, none of them UAP. ^[inferred]
+In the wiki's UAP corpus, Apollo 17 enters as the **mission frame** for **two structurally distinct post-mission NASA debriefing artifacts**, both produced by Manned Spacecraft Center (MSC) Houston in the first half of January 1973: the **[[references/nasa-apollo-17-technical-crew-debriefing-1973|MSC-07631 Technical Crew Debriefing (4 Jan 1973)]]** prepared by the **MSC Training Office, Crew Training and Simulation Division**, and the **[[references/nasa-apollo-17-science-debriefing-1973|MSC-07632 Crew Debriefing for Science (8 Jan 1973)]]** prepared by the **MSC Science Requirements Branch, Planetary and Earth Sciences Division**. Both excerpts are in the corpus by **FOIA / archival selection** (d6 by transcript-keyword match — "fireball", "sighting", "flash"; d5 by **whole-document inclusion** in the same NASA-debrief release tranche, since d5's pages 119–120 contain no UAP-domain keywords whatsoever). ^[inferred] Together they form the corpus's **first two null-content orbital-NASA artifacts** — at least four documented observations across the two excerpts, none of them UAP. ^[inferred]
 
 ## Mission record (UAP-relevant only)
 
@@ -43,11 +43,13 @@ None of the three observations is a UAP report. The artifact is the **orbital-cl
 - **Total mission duration**: ~12 days 14 hours. ^[inferred]
 - **Distinguishing role in Apollo program**: only Apollo with a professional geologist (Schmitt) on the lunar surface; final crewed lunar mission of the 20th century. ^[inferred]
 
-The biographical / mission detail above is **not in the page-24-4 excerpt** and is filled in from general program knowledge — flagged `^[inferred]` accordingly. Subsequent ingest of the Apollo 17 transcript (sister file d2) and the Apollo 17 Crew Debriefing for Science (sister file d5) is expected to upgrade most of these to `^[extracted]`. ^[inferred]
+The biographical / mission detail above is **not in the page-24-4 (d6) or pages-119–120 (d5) excerpts** and is filled in from general program knowledge — flagged `^[inferred]` accordingly. Subsequent ingest of the Apollo 17 transcript (sister file d2) is expected to upgrade most of these to `^[extracted]`. ^[inferred] The d5 science-debrief excerpt — pulled from deep into the UV-astronomy section of MSC-07632 — does **not** add mission-profile data; its content is principal-investigator scientific testimony from the speaker labeled HENRY (almost certainly Richard C. Henry, Apollo 17 SIM-bay Far-UV Spectrometer S-169 PI) ^[inferred] rather than crew testimony.
 
 ## Institutional context
 
-Apollo 17 was operated under the **[[entities/nasa|NASA]] / Manned Spacecraft Center (MSC) Houston** organizational chart, the same office that originated the **[[references/nasa-pao-t-00763-r1b-gemini-7-1965|1965 GT-7 PAO release tape]]** seven years earlier. The Apollo 17 Technical Crew Debriefing was prepared by the **Training Office, Crew Training and Simulation Division, MSC** — a different sub-office from MSC PAO; the artifact is **investigative / training-oriented internal**, not press-facing. ^[extracted] The cover carries an **auto-declassification clause** (90 days from publication) that — in this artifact — appears to have been overridden in practice by NASA's standing classification-review apparatus until a 2026 reviewer pull under E.O. 13526 §3.3(a). ^[inferred]
+Apollo 17 was operated under the **[[entities/nasa|NASA]] / Manned Spacecraft Center (MSC) Houston** organizational chart, the same office that originated the **[[references/nasa-pao-t-00763-r1b-gemini-7-1965|1965 GT-7 PAO release tape]]** seven years earlier. The mission produced **at least three structurally distinct post-mission documents** known to the corpus: the **MSC-07631 Technical Crew Debriefing** (4 Jan 1973, MSC Training Office, Crew Training and Simulation Division — engineering-audience); the **MSC-07632 Crew Debriefing for Science** (8 Jan 1973, MSC Science Requirements Branch, Planetary and Earth Sciences Division — scientific-audience); and the **Apollo 17 transcript** (sister file d2, not yet ingested). The d6 cover carries an **auto-declassification clause** (90 days from publication) that — in practice — appears to have been overridden by NASA's standing classification-review apparatus until a 2026 reviewer pull under E.O. 13526 §3.3(a). ^[inferred] The d5 cover — at least as captured in the OCR bundle — shows **no equivalent classification stamp**, suggesting the science debrief was issued to a less-restricted distribution than the technical debrief. ^[inferred]
+
+The d5 / d6 pair establishes that **a single Apollo mission produced multiple parallel documentation streams** routed to different sub-offices of the same center within days of each other — a structural feature of the NASA post-mission documentation regime that the corpus had not yet evidenced from the [[references/nasa-pao-t-00763-r1b-gemini-7-1965|1965 GT-7 PAO release tape]] alone. ^[inferred]
 
 ## Open questions
 
@@ -55,7 +57,9 @@ Apollo 17 was operated under the **[[entities/nasa|NASA]] / Manned Spacecraft Ce
 - Cross-check Schmitt's **"flash on the lunar surface"** observation against any other Apollo TLP testimony or modern lunar-imaging follow-up. ^[open]
 - Determine whether the **Apollo 17 onboard 70 mm and 16 mm DAC film** captured any frames of the reentry-plasma wake, the recovery-carrier "tin can" approach, or any anomalous cislunar object. ^[open]
 - Cross-reference the **Apollo 17 transcript** (corpus sister file d2) for any UAP-adjacent observations the d6 page-24-4 excerpt does not capture. ^[open]
-- Cross-reference the **Apollo 17 Crew Debriefing for Science** (corpus sister file d5) for any UAP-adjacent observations the d6 technical debriefing does not capture. ^[open]
+- Cross-reference the **Apollo 17 Crew Debriefing for Science** (corpus sister file d5, ingested as [[references/nasa-apollo-17-science-debriefing-1973]]) — confirmed null on the page-119–120 excerpt; locate other pages of MSC-07632 for any UAP-adjacent observations not in the OCR bundle. ^[open]
+- Identify **HENRY** (the speaker on d5 pages 119–120) — working hypothesis is **Richard C. Henry** (Johns Hopkins / NASA), Apollo 17 SIM-bay Far-UV Spectrometer S-169 PI. ^[inferred]
+- Identify **"Charles Barthum [?]"** — the OCR-bracketed name in the OGO-5 reference on d5 page 120; likely **Charles Barth** (University of Colorado LASP). ^[inferred]
 
 ## See also
 
@@ -63,7 +67,8 @@ Apollo 17 was operated under the **[[entities/nasa|NASA]] / Manned Spacecraft Ce
 - [[entities/ronald-evans]] — Apollo 17 Command Module Pilot.
 - [[entities/harrison-schmitt]] — Apollo 17 Lunar Module Pilot.
 - [[entities/nasa]] — originating agency.
-- [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — primary-source artifact.
+- [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — primary-source artifact (d6, MSC-07631).
+- [[references/nasa-apollo-17-science-debriefing-1973]] — primary-source artifact (d5, MSC-07632) — sister science debrief, 4 days later, different MSC sub-office.
 - [[concepts/orbital-uap-sighting]] — orbital-witness pattern; this mission is the corpus's first **null-content** orbital-class entry.
 - [[entities/gemini-7]] — corpus's predecessor manned-spacecraft entity (positive UAP-adjacent case, 1965).
 - [[projects/uap/uap]]

@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T12:00:00Z",
+  "updated": "2026-05-10T18:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -587,18 +587,41 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json": {
+      "ingested_at": "2026-05-10T18:00:00Z",
+      "size_bytes": 4047,
+      "modified_at": 1778332064,
+      "content_hash": "sha256:9ae1706b508610fd0d6f9e627cc2888470f23c024f84074616949ea15fae62ba",
+      "source_id": "nasa-msc-07632-apollo-17-crew-debriefing-for-science-1973-pages-119-120",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/nasa-apollo-17-science-debriefing-1973.md"
+      ],
+      "pages_updated": [
+        "concepts/orbital-uap-sighting.md",
+        "entities/apollo-17.md",
+        "entities/nasa.md",
+        "entities/harrison-schmitt.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T12:00:00Z",
-      "sources_ingested": 21
+      "last_ingested": "2026-05-10T18:00:00Z",
+      "sources_ingested": 22
     }
   },
   "stats": {
-    "total_sources_ingested": 23,
-    "total_pages": 149,
+    "total_sources_ingested": 24,
+    "total_pages": 150,
     "total_projects": 1,
     "last_full_rebuild": null
   }

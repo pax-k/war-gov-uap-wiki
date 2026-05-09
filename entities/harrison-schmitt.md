@@ -3,8 +3,8 @@ title: Harrison H. Schmitt
 category: entities
 tags: [person, witness, uap, nasa, astronaut]
 aliases: [Jack Schmitt, Harrison "Jack" Schmitt, Schmitt (Apollo 17), Dr. Harrison Schmitt]
-sources: [sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json]
-summary: PhD geologist and NASA Group 4 scientist-astronaut; Lunar Module Pilot of Apollo 17 (Dec 1972) and only scientist to walk on the Moon during Apollo. Witness on the Jan 1973 debriefing's ALFMED cosmic-ray-light-flash passage.
+sources: [sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.json]
+summary: PhD geologist and NASA Group 4 scientist-astronaut; Lunar Module Pilot of Apollo 17 (Dec 1972) and only scientist to walk on the Moon during Apollo. Speaker on the d6 4 Jan 1973 technical debrief's ALFMED passage; not a speaker on the d5 8 Jan 1973 science debrief excerpt (HENRY only).
 provenance:
   extracted: 0.30
   inferred: 0.68
@@ -13,7 +13,7 @@ base_confidence: 0.42
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T12:00:00Z
+updated: 2026-05-10T18:00:00Z
 ---
 
 # Harrison H. Schmitt
@@ -56,7 +56,7 @@ This sub-class is structurally relevant because the **2023 NASA Independent Stud
 
 - Locate **Schmitt's full Apollo 17 debriefing testimony**, including lunar-surface EVA observations and any in-mission UAP-adjacent observations not preserved on the d6 page-24-4 excerpt. ^[open]
 - Locate the **ALFMED experiment final report** for the Apollo 17 light-flash characterization. ^[open]
-- Cross-reference Schmitt's **"flash on the lunar surface"** observation against any other Apollo TLP testimony, modern lunar-imaging follow-up, or the [[references/nasa-apollo-17-technical-crew-debriefing-1973|Apollo 17 sister-file d2/d5]] ingest results. ^[open]
+- Cross-reference Schmitt's **"flash on the lunar surface"** observation against any other Apollo TLP testimony, modern lunar-imaging follow-up, or the Apollo 17 sister-file d2 ingest results. ^[open] — partial answer: the d5 [[references/nasa-apollo-17-science-debriefing-1973|science debrief excerpt (8 Jan 1973)]] does **not** include Schmitt as a speaker on its page-119–120 transcript (only HENRY, on UV astronomy); the lunar-surface flash is not revisited on this excerpt despite Schmitt's PhD-geologist background that would make a science-debrief setting natural for a follow-up.
 - Cross-reference Schmitt's **post-NASA Senate career** (1977–1983) for any committee work or floor remarks touching UAP-adjacent topics. ^[open]
 - Cross-reference Schmitt's **NASA oral histories** and academic writings for retrospective commentary. ^[open]
 
@@ -66,7 +66,8 @@ This sub-class is structurally relevant because the **2023 NASA Independent Stud
 - [[entities/gene-cernan]] — Apollo 17 Commander.
 - [[entities/ronald-evans]] — Apollo 17 CMP.
 - [[entities/nasa]]
-- [[references/nasa-apollo-17-technical-crew-debriefing-1973]]
+- [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — d6 sister artifact; Schmitt is a speaker.
+- [[references/nasa-apollo-17-science-debriefing-1973]] — d5 sister artifact; Schmitt is **not** a speaker on the page-119–120 excerpt.
 - [[concepts/orbital-uap-sighting]] — orbital-witness pattern; Schmitt is the corpus's first scientist-astronaut witness.
 - [[entities/frank-borman]] — predecessor astronaut-class UAP witness in the corpus (test-pilot sub-class, not scientist-astronaut).
 - [[projects/uap/uap]]
