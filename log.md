@@ -10,3 +10,4 @@ title: Wiki Log
 - [2026-05-09T13:33:54Z] INGEST source="sources/western_us_event_slides_5.08.2026.json" pages_updated=1 pages_created=8 mode=append project=uap source_type=document
 - [2026-05-09T13:41:53Z] INGEST source="sources/usper-statement-redacted.json" pages_created=4 pages_updated=5 mode=append project=uap source_type=document
 - [2026-05-09T13:50:00Z] INGEST source="sources/59_214434_sp_16_7.18.1963.json" pages_created=8 pages_updated=1 mode=append project=uap source_type=document
+- [2026-05-09T14:07:00Z] INGEST source="sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json" pages_created=10 pages_updated=4 mode=append project=uap source_type=document

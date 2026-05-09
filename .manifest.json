@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-09T13:50:00Z",
+  "updated": "2026-05-09T14:07:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -101,18 +101,46 @@
       "pages_updated": [
         "projects/uap/uap.md"
       ]
+    },
+    "sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json": {
+      "ingested_at": "2026-05-09T14:07:00Z",
+      "size_bytes": 24313,
+      "modified_at": "2026-05-09T13:07:43Z",
+      "content_hash": "sha256:351a07f630749c54ed5bbeff4e1f79c0a73c33972a330af2b701561fbf5ff21d",
+      "source_id": "nara-rg331-nnd947020-37153-shaef-foo-fighters-1944-1945",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/foo-fighters-shaef-1944-1945.md",
+        "references/sighting-cylindrical-object-vicinity-f5710-1945-03-01.md",
+        "concepts/foo-fighter-phenomenon.md",
+        "concepts/balls-of-fire-red.md",
+        "concepts/flak-bombe-hypothesis.md",
+        "entities/415th-night-fighter-squadron.md",
+        "entities/shaef-air-staff.md",
+        "entities/uk-air-ministry-ddi2.md",
+        "entities/c-m-grierson.md",
+        "synthesis/foo-fighters-to-flying-discs.md"
+      ],
+      "pages_updated": [
+        "projects/uap/uap.md",
+        "concepts/horten-flying-wing.md",
+        "concepts/project-sign.md",
+        "synthesis/horten-thesis-vs-disc-sightings.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-09T13:50:00Z",
-      "sources_ingested": 4
+      "last_ingested": "2026-05-09T14:07:00Z",
+      "sources_ingested": 5
     }
   },
   "stats": {
-    "total_sources_ingested": 4,
-    "total_pages": 34,
+    "total_sources_ingested": 5,
+    "total_pages": 44,
     "total_projects": 1,
     "last_full_rebuild": null
   }

@@ -3,17 +3,17 @@ title: Horten Flying Wing
 category: concepts
 tags: [uap, history, aviation, germany, ww2]
 aliases: [Horten tailless aircraft, Horten Brothers wing]
-sources: [_raw/18_6369445_general_1948_vol_1.json]
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json]
 summary: German wartime tailless flying-wing aircraft family, treated by 1948 USAF intelligence as the leading conventional candidate for explaining "Flying Disc" sightings.
 provenance:
   extracted: 0.55
   inferred: 0.4
   ambiguous: 0.05
-base_confidence: 0.62
+base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T12:58:46Z
+updated: 2026-05-09T14:07:00Z
 ---
 
 # Horten Flying Wing
@@ -60,10 +60,19 @@ The 1800-aircraft figure is striking and almost certainly inflated — but the p
 
 The US drew up its own disc-shaped concept, the [[references/loedding-flying-disc|Loedding Flying Disc]] (drawing LD-2), housed at [[entities/air-materiel-command|AMC]] and treated as patent-sensitive. The juxtaposition — a German wing lineage feared in Soviet hands, a US disc concept under patent control, and civilian sightings being routed up the same chain — frames the entire intelligence picture of 1948. ^[inferred]
 
+## Wartime precursor — the Me 262 attribution in the foo-fighter file
+
+In the [[references/foo-fighters-shaef-1944-1945|1944–45 SHAEF foo-fighter file]] (DDI2 reply, 13 March 1945), the **Messerschmitt Me 262** jet — operationally distinct from but contemporaneous with the Horten airframes — was named as one of two leading conventional explanations for the WWII night-phenomena reports: *"A few of the alleged aircraft may have been Me. 262 and for the rest, flak rockets are suggested as the most likely explanation."* ^[extracted]
+
+This makes the Horten thesis of 1948 the **direct successor** of a wartime conventional-explanation discipline that had already produced the Me 262 attribution and the [[concepts/flak-bombe-hypothesis|Flak Bombe]] candidate. ^[inferred] See [[synthesis/foo-fighters-to-flying-discs]] for the cross-cutting analysis.
+
 ## See also
 
 - [[entities/horten-brothers]]
 - [[references/usaf-flying-discs-1948]]
 - [[references/loedding-flying-disc]]
 - [[synthesis/horten-thesis-vs-disc-sightings]]
+- [[synthesis/foo-fighters-to-flying-discs]]
 - [[concepts/project-sign]]
+- [[concepts/flak-bombe-hypothesis]]
+- [[references/foo-fighters-shaef-1944-1945]]

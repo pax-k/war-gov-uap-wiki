@@ -13,7 +13,7 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T12:58:46Z
+updated: 2026-05-09T14:07:00Z
 ---
 
 # Project SIGN
@@ -57,10 +57,17 @@ See [[synthesis/horten-thesis-vs-disc-sightings]] for the cross-cutting analysis
 
 Project SIGN was succeeded by Project GRUDGE (1949) and then Project BLUE BOOK (1952–1969). ^[inferred] *(The 1948 file does not name successors; this is general historical background.)*
 
+## Wartime precursor
+
+SIGN was not Allied air intelligence's first attempt to consolidate unexplained-aerial-phenomena reports. Three years earlier, the [[references/foo-fighters-shaef-1944-1945|SHAEF Air Staff "Night Phenomena" / "Balls of Fire — Red" file]] (1944–45) ran a structurally similar collection-and-evaluation loop — [[entities/415th-night-fighter-squadron|415th NFS]] sortie reports → XII TAC A-2 → SHAEF A-2 ([[entities/c-m-grierson|Grierson]]) → [[entities/uk-air-ministry-ddi2|Air Ministry DDI2]] / A.D.I.(K) — with the same hedged, retained-document candidate-explanation pattern (Me 262, flak rockets, [[concepts/flak-bombe-hypothesis|Flak Bombe]]). ^[inferred] See [[synthesis/foo-fighters-to-flying-discs]].
+
 ## See also
 
 - [[references/usaf-flying-discs-1948]]
+- [[references/foo-fighters-shaef-1944-1945]]
 - [[projects/uap/uap]]
 - [[entities/air-materiel-command]]
 - [[entities/wright-patterson-afb]]
 - [[concepts/flying-disc-reporting-protocol]]
+- [[concepts/foo-fighter-phenomenon]]
+- [[synthesis/foo-fighters-to-flying-discs]]

@@ -3,17 +3,17 @@ title: The Horten Thesis vs. 1948 Flying-Disc Sightings
 category: synthesis
 tags: [uap, history, analysis, intelligence, 1948]
 aliases: [Horten conventional explanation thesis]
-sources: [_raw/18_6369445_general_1948_vol_1.json]
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json]
 summary: Cross-cutting analysis of how 1948 USAF intelligence used the Horten flying-wing lineage as a conventional explanation for Flying Disc sightings — and where that thesis fits or fails.
 provenance:
   extracted: 0.3
   inferred: 0.65
   ambiguous: 0.05
-base_confidence: 0.62
+base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T13:13:27Z
+updated: 2026-05-09T14:07:00Z
 ---
 
 # The Horten Thesis vs. 1948 Flying-Disc Sightings
@@ -46,13 +46,30 @@ German wartime tailless flying-wing aircraft (Horten Parabola, VIII, IX) had a l
 
 The 1948 file shows a concerted, technically literate effort to explain disc sightings within the conventional aviation frame. That effort partly succeeded (some reports were almost certainly conventional) and partly didn't (signatures like phosphorescent trails at extreme altitude resist that frame). The mixed verdict is the recurring structure of every subsequent UAP-evaluation regime — [[concepts/project-sign|SIGN]], GRUDGE, BLUE BOOK, modern AARO. ^[inferred]
 
+## Wartime precursor
+
+The Horten thesis is best read as the **direct successor** of the wartime conventional-explanation discipline visible in the [[references/foo-fighters-shaef-1944-1945|SHAEF foo-fighter file]]. In 1945, the same intelligence apparatus had already produced an analogous candidate menu — [[concepts/flak-bombe-hypothesis|Flak Bombe]] (A.D.I.(K)), Me 262 (DDI2), and flak rockets (DDI2) — for the [[concepts/foo-fighter-phenomenon|foo-fighter]] / "[[concepts/balls-of-fire-red|Balls of Fire — Red]]" reports. ^[extracted/inferred]
+
+The structural template is identical:
+
+- Name a specific catalogued enemy capability (Flak Bombe / Me 262 in 1945; Horten flying wing in 1948).
+- Cite a sealed primary intelligence document (A.D.I.(K) Report 562/1944 ¶128–129; T-2 Report F-SU-1110-HD).
+- Hedge the identification ("probably refers to" / "may have been" / treats as "leading conventional explanation").
+- Concede in writing that the explanation does not fully cover the data.
+
+This makes the Horten thesis **not a postwar discovery but a continuation** of a wartime evidential-handling discipline. ^[inferred] See [[synthesis/foo-fighters-to-flying-discs]] for the full bridge analysis.
+
 ## See also
 
 - [[concepts/horten-flying-wing]]
 - [[concepts/project-sign]]
+- [[concepts/foo-fighter-phenomenon]]
+- [[concepts/flak-bombe-hypothesis]]
 - [[entities/horten-brothers]]
 - [[references/loedding-flying-disc]]
 - [[references/sighting-bakersfield-1948-03]]
 - [[references/sighting-hobson-ohio-1948-05]]
 - [[references/usaf-flying-discs-1948]]
+- [[references/foo-fighters-shaef-1944-1945]]
+- [[synthesis/foo-fighters-to-flying-discs]]
 - [[projects/uap/uap]]

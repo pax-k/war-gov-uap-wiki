@@ -3,8 +3,8 @@ title: UAP
 category: project
 tags: [uap, history, intelligence, archive]
 source_path: _raw/ (declassified UAP archive volumes), sources/ (Mistral-OCR'd briefings and witness statements)
-sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json]
-summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans 1948 USAF Project SIGN material, a 1963 NASC policy memo, the 2026 AARO-handled Western US event, and a 2025 SECRET//NOFORN intel-official witness statement.
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/59_214434_sp_16_7.18.1963.json, sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json]
+summary: Personal research project distilling declassified primary-source UAP / Flying Disc archives into a structured wiki — spans WWII SHAEF foo-fighter material, 1948 USAF Project SIGN, a 1963 NASC policy memo, the 2026 AARO Western US event, and a 2025 SECRET//NOFORN intel-official witness statement.
 provenance:
   extracted: 0.5
   inferred: 0.5
@@ -13,7 +13,7 @@ base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T13:50:00Z
+updated: 2026-05-09T14:07:00Z
 ---
 
 # UAP
@@ -27,6 +27,10 @@ A research project distilling declassified primary-source archives on Unidentifi
 - **Cross-cutting questions**: how the institutional UAP investigation regime evolved; which sightings have signatures that resist conventional explanation; which entities (people, programs, bases) recur across decades.
 
 ## Source archives
+
+### 1944–45 SHAEF "Night Phenomena" / "Balls of Fire — Red" file (NEW)
+
+- [[references/foo-fighters-shaef-1944-1945]] — 17-page Mistral-OCR'd US National Archives bundle (RG 331, NND 947020, SHAEF subject file 37153). Contains the [[entities/415th-night-fighter-squadron|415th Night Fighter Squadron]] December 1944 – January 1945 sortie-report extracts that introduced the term "foofighter" into official military intelligence usage; the [[entities/uk-air-ministry-ddi2|UK Air Ministry DDI2]] / A.D.I.(K) replies; and a parallel 1 March 1945 [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01|cylindrical-object sighting]] near grid F-5710. The earliest UAP-adjacent operational record in the corpus.
 
 ### 1948 USAF "Flying Disc" file
 
@@ -43,6 +47,15 @@ A research project distilling declassified primary-source archives on Unidentifi
 ### 1963 NASC policy memo
 
 - [[references/hunter-1963-space-alien-race-memo]] — 6-page declassified OFFICIAL USE ONLY memo (NND 937051), dated 18 July 1963, from [[entities/maxwell-w-hunter|Maxwell W. Hunter II]] (Member, Professional Staff, [[entities/national-aeronautics-and-space-council|NASC]]) to [[entities/robert-f-packard|Robert F. Packard]] at State/OISA. The wiki's first **policy-staff-layer** UAP-adjacent artifact — articulates US policy options for first contact rather than reporting a sighting.
+
+## Wartime institutional structures (1944–45) (NEW)
+
+- [[entities/shaef-air-staff]] — Allied combined-air-forces routing hub (A.C. of S. A-2 office).
+- [[entities/uk-air-ministry-ddi2]] — UK Air Ministry intelligence branches (DDI2 + A.D.I.(K)) that handled the British-side reply.
+- [[entities/415th-night-fighter-squadron]] — USAAF night-fighter unit whose December 1944 – January 1945 sortie reports introduced the term "foofighter" into official intelligence files.
+- [[concepts/foo-fighter-phenomenon]] — the phenomenon itself.
+- [[concepts/balls-of-fire-red]] — the Air Ministry's parallel filing term.
+- [[concepts/flak-bombe-hypothesis]] — A.D.I.(K)'s WWII candidate explanation pointing at A.D.I.(K) Report No. 562/1944 ¶128–129.
 
 ## Key institutional structures (1948)
 
@@ -61,6 +74,13 @@ A research project distilling declassified primary-source archives on Unidentifi
 - [[concepts/three-class-alien-taxonomy]] — chemical-rocket / nuclear-class / Einstein-violating classification used to drive sharply different US postures.
 - [[concepts/scientific-vs-saucer-advocate-frame]] — the "prepared skepticism" rhetorical posture Hunter inhabits and that recurs across decades in this corpus.
 - [[synthesis/early-uap-policy-vs-operational-track]] — places the 1963 memo against the 1948 operational track and the 2025–2026 modern track.
+
+## Key people (1944–45 wartime track) (NEW)
+
+- [[entities/c-m-grierson]] — Air Commodore, A.C. of S. A-2, SHAEF Air Staff; signed the routing memoranda for both the foo-fighter and cylindrical-object threads. The structural analogue of [[entities/c-p-cabell|Cabell]] three years later.
+- **W/Cdr S. D. Felkin** (A.D.I.(K)) — author of the 17 Feb 1945 Flak Bombe candidate-explanation reply.
+- **Group Captain E. D. M. Hopkins** (Air Ministry DDI2) — author of the 13 Mar 1945 "Balls of Fire — Red" reply.
+- **Capt F. B. Ringwald** ([[entities/415th-night-fighter-squadron|415th NFS]]) — Intelligence Officer who consolidated the December 1944 – January 1945 sortie-report extracts.
 
 ## Key people (1948)
 
@@ -96,6 +116,8 @@ A research project distilling declassified primary-source archives on Unidentifi
 
 | Date | Location | Witnesses | Page |
 |---|---|---|---|
+| Dec 1944 – Jan 1945 (10 nights) | Alsace / Saar / Rhine sectors | [[entities/415th-night-fighter-squadron\|415th NFS]] aircrews | see [[references/foo-fighters-shaef-1944-1945]] |
+| 1 March 1945, 1030 hrs | Vicinity grid F-5710 | 67 TAC/R Group / 107 PR Squadron pilots | [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] |
 | 5–8 March 1948 | Bakersfield, CA | civilians + USAF | [[references/sighting-bakersfield-1948-03]] |
 | 8 May 1948 (night) | Hobson, OH | NY Central rail workers | [[references/sighting-hobson-ohio-1948-05]] |
 | 2025, single night, ~22:00–23:20 | Redacted US facility | Senior US intel official + state-org pilots + LP/OP team (FLIR + NVG + naked eye) | [[references/sighting-helicopter-orb-encounter-2025]] |
@@ -106,6 +128,10 @@ A research project distilling declassified primary-source archives on Unidentifi
 
 ## Open threads
 
+- Locate / ingest **A.D.I.(K) Report No. 562/1944 ¶128–129** (the Flak Bombe description Felkin pointed at). ^[open]
+- Locate other documents in NARA RG 331 series — the source filename `numeric_files_1944–1945` implies a numbered series of which 37153 is one item. ^[inferred]
+- Confirm "Mr. Robertson" in the SHAEF Scientific Investigation Division is **H. P. Robertson** (later Robertson Panel chair). ^[inferred]
+- Resolve the **"J. H. Grierson" / "C. M. Grierson"** signature variant in the SHAEF file. ^[ambiguous]
 - Locate / ingest other volumes in the "general_1948_vol_X" series. ^[inferred]
 - Add Project GRUDGE and Project BLUE BOOK source bundles for chronological continuity.
 - Locate other NASC SP-series memos (the 1963 file marker is **SP 16**, implying ≥15 prior SP memos in that series — at least some may touch related topics). ^[inferred]
