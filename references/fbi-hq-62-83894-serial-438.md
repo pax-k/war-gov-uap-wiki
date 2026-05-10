@@ -169,7 +169,7 @@ The **secondary marker** scheme drifts again: 220 carries `EBF` brackets, 403 ca
 - **Cross-reference NICAP / APRO 1964 publication** of the Socorro case for any independent Zamora interview. ^[open]
 - **Locate any FBI-internal name-trace results** on Zamora and the corroborating witnesses (Chavez, Jordan, Luckie, Lopez) that may exist in 62-HQ-83894 follow-on serials. ^[open]
 - **Confirm the FBI Albuquerque field-office's standing UAP-intake protocol in 1964** — the speed of Byrnes's same-day site visit + 14-day report-to-HQ turnaround is operationally fast for the Bureau ^[inferred] and may indicate either standing protocol or directed Director attention. ^[ambiguous]
-- **Identify whether Byrnes filed any follow-on serial** in 62-HQ-83894 (e.g. 449) on subsequent investigative work — the queued ingest still includes 449. ^[inferred]
+- ~~**Identify whether Byrnes filed any follow-on serial** in 62-HQ-83894 (e.g. 449) on subsequent investigative work — the queued ingest still includes 449.~~ ^[inferred] **CLOSED 2026-05-10**: serial 449 has now been ingested and is **structurally unrelated** to Byrnes / Albuquerque / Socorro — it is the [[references/fbi-hq-62-83894-serial-449|3 Oct 1966 LA SAC AFSCA-magazine memo]] (channel d, citizen-political-tip → field-office indexing → HQ filing). Whether Byrnes filed any other 62-HQ-83894 follow-on remains open and would have to be sought elsewhere in the file (164, sections 1–10, sub_a still queued).
 - **Resolve the Vol 1 marker** in 62-HQ-83894 across serials 220 (Vol 1) + 438 (Vol 1) + 403 (no Vol) — three serials, two with Vol 1, one without. Suggests volume-organized but with cover-slip-formatting drift. ^[inferred]
 
 ## See also
