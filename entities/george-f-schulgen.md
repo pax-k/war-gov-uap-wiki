@@ -3,17 +3,17 @@ title: "George F. Schulgen"
 category: entities
 tags: [uap, person, usaf, intelligence, 1947]
 aliases: [Brig Gen Schulgen, George Schulgen, AAF Requirements Intelligence Branch chief]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json]
-summary: Brigadier General George F. Schulgen (US Army Air Forces) — Chief of the Requirements Intelligence Branch of AAF Intelligence in 1947, the originator of the FBI-AAF cooperation request that established Bureau Bulletin No. 42.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json]
+summary: Brigadier General George F. Schulgen (US Army Air Forces) — Chief of the Requirements Intelligence Branch of AAF Intelligence in 1947, the originator of the FBI-AAF cooperation request that established Bureau Bulletin No. 42, and author of the 5 Sep 1947 formal denial closing the secret-project hypothesis.
 provenance:
   extracted: 0.7
   inferred: 0.28
   ambiguous: 0.02
-base_confidence: 0.5
+base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T12:00:00Z
+updated: 2026-05-10T15:30:00Z
 ---
 
 # George F. Schulgen
@@ -29,6 +29,7 @@ Section 1 of [[entities/fbi-hq-62-83894-file|file 62-HQ-83894]] documents Schulg
 | **9 Jul 1947** | E. G. Fitch → D. M. Ladd memo (serial 33) | Schulgen meets [[entities/s-w-reynolds\|SA S. W. Reynolds]] at the Pentagon and **formally requests FBI cooperation** in the disc investigations. ^[extracted] |
 | **24 Jul 1947** | E. G. Fitch → Ladd follow-up memo | Schulgen accepts Hoover's full-disc-access precondition, **issues field instructions** for AAF cooperation with FBI, and commits to making AAF scientific findings available to the Bureau as a courtesy. ^[extracted] |
 | **30 Jul 1947** | [[references/fbi-bureau-bulletin-42-1947\|Bureau Bulletin No. 42]] | Hoover distributes the cooperation regime to all FBI field offices. ^[extracted] |
+| **5 Sep 1947** | **Schulgen → FBI Director formal letter** ([[references/fbi-hq-62-83894-section-2\|section 2]] OCR p. 123, serial 84; declassified NND 90986) | Schulgen formally certifies in writing to Hoover: *"a complete survey of research activities discloses that the Army Air Forces has no project with the characteristics similar to those which have been associated with the Flying Discs."* ^[extracted] The letter is a **direct response** to [[entities/g-d-garrett\|Lt Col Garrett's]] private admission to Reynolds that flying discs are likely a classified USG project — Schulgen is forced to formally close that hypothesis after Reynolds escalates via Forney + Generals Chamberlin/Todd. ^[extracted] |
 
 ## What Schulgen tells the FBI
 
@@ -64,7 +65,9 @@ Schulgen is **best known to the broader UAP-research community** as the addresse
 
 ## See also
 
-- [[references/fbi-hq-62-83894-section-1]] — section in which Schulgen is documented
+- [[references/fbi-hq-62-83894-section-2]] — section containing Schulgen's 5 Sep 1947 formal denial letter (serial 84) **(NEW)**
+- [[entities/g-d-garrett]] — AAF Intelligence subordinate whose admission forces Schulgen's denial **(NEW)**
+- [[references/fbi-hq-62-83894-section-1]] — section in which Schulgen is initially documented
 - [[references/fbi-bureau-bulletin-42-1947]] — Bureau Bulletin issued from his cooperation request
 - [[concepts/fbi-aaf-saucer-cooperation-1947]] — the institutional regime he architects
 - [[entities/s-w-reynolds]] — his FBI counterpart

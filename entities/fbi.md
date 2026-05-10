@@ -2,17 +2,17 @@
 title: "Federal Bureau of Investigation (FBI)"
 category: entities
 tags: [fbi, organization, federal-le, uap]
-sources: [sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json, sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_serial_449.json, sources/65_hs1-834228961_62-hq-83894_serial_164.json, sources/65_hs1-834228961_62-hq-83894_section_1.json]
-summary: US Department of Justice investigative agency; corpus spans 1947 (founding section 1 — Schulgen-Reynolds-Ladd cooperation, Bureau Bulletin No. 42, 1947 disc wave) → 1949 (AIRMEM #4) → 1950 → 1956 → 1957 → 1958 → 1964 → 1966 → 2023 (parallel FD-302 interviews).
+sources: [sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json, sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_serial_449.json, sources/65_hs1-834228961_62-hq-83894_serial_164.json, sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json]
+summary: US Department of Justice investigative agency; corpus spans 1947 (founding sections 1+2 — Schulgen-Reynolds-Ladd cooperation, Bureau Bulletin No. 42, 1947 disc wave, Garrett admission) → 1949 (AIRMEM #4) → 1950 → 1956 → 1957 → 1958 → 1964 → 1966 → 2023 (parallel FD-302 interviews).
 provenance:
   extracted: 0.5
   inferred: 0.5
   ambiguous: 0.0
-base_confidence: 0.76
+base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-09T17:00:00Z
-updated: 2026-05-10T00:30:00Z
+updated: 2026-05-10T15:30:00Z
 ---
 
 # Federal Bureau of Investigation (FBI)
@@ -24,6 +24,7 @@ The FBI is the principal federal investigative agency of the US Department of Ju
 | Era | Office | Instrument | What the FBI did | Source |
 |---|---|---|---|---|
 | **6 Jul - 12 Sep 1947** | **HQ + multi-field** | **Section 1 (52 contiguous serials, 185 OCR pages)** — civilian mass-correspondence + 9 prank-disc events + Schulgen-Reynolds-Ladd cooperation negotiations + **Bureau Bulletin No. 42** (30 Jul 1947) + Roswell Dallas teletype + Maury Island case + Davidson-Brown Kelso plane crash + Williams Field MOICs + N. Meade Layne 9-point memo + Bailey orbital-germ-bomb walk-in. **The file's founding tranche.** | **Opened the file**: 62-HQ-83894 was opened in direct response to the AAF cooperation request and the 1947 disc wave. The FBI undertook **first-witness sincerity** investigations under the Schulgen-Hoover full-disc-access precondition, codified as Bureau Bulletin No. 42. **Earliest FBI-corpus record (replaces 15 Feb 1949 anchor); doctrinal-foundation channel.** ^[inferred] | [[references/fbi-hq-62-83894-section-1]] |
+| **~6 Aug - 17 Sep 1947** | **HQ + multi-field** | **Section 2 (47+ contiguous serials, 194 OCR pages)** — Lane Dow Chemical Manhattan-Project-adjacent fragments (serial 57) + Richard Shaver anonymous-tipster referral (serial 58) + Hedstrom Twin Falls BB42-cited investigation (serial 66) + Hoover Fugate-block teletype (serial 68) + Schulgen 5 Sep 1947 formal denial letter (serial 84) + **THE GARRETT ADMISSION** (serial 86) + Cascade Mts Johnson EM-effect deposition (serial 85) + Kenneth Arnold autobiographical statement + sighting narrative (serial 95) + Bethel Alaska ACS sighting (serial 98). **The operational tranche where AAF Intelligence's own internal credibility on the prosaic-explanation hypothesis breaks.** | **Ran the cooperation regime at full throttle** while **internal AAF credibility on the secret-project hypothesis collapsed**. ^[extracted] [[entities/g-d-garrett\|Lt Col Garrett]]'s mid-Sep 1947 admission to [[entities/s-w-reynolds\|Reynolds]] that flying discs are likely a classified USG project (with scientist "Mr. Carroll" agreeing) forced [[entities/george-f-schulgen\|Schulgen]]'s 5 Sep 1947 formal denial letter to Hoover — the closure of the AAF-side prosaic-explanation hypothesis as a working frame, structurally upstream of [[concepts/project-sign\|Project SIGN]]. ^[inferred] **First operational erosion of BB42** documented in the Fugate negative-handover episode (serial 68 + 80). | [[references/fbi-hq-62-83894-section-2]] |
 | **15 Feb 1949** | **HQ** (Records Center) | **Records Center cover slip + 17 OCR-identical 8-page carbon copies of HQ-USAF Directorate of Intelligence AIRMEM #4 "Unconventional Aircraft"**, signed Maj Gen [[entities/c-p-cabell\|C. P. Cabell]] as **Director of Intelligence**; supersedes Army DA Coll Memo #7 (21 Jan 1948) and CSGID 425.1 (25 Mar 1948); distribution names FBI Director among 8 inter-agency addressees. Filed as **62-HQ-83894 serial 164**. | **Filed + retained**: HQ Class-62 admin file accumulated **17 carbons of an inbound inter-agency intelligence directive** that names the Bureau as a witness-credibility source ("FBI records" in Part II). No FBI-authored content. **Earliest FBI-corpus record (replaces Apr 1950 anchor); doctrinal-foundation channel.** ^[inferred] | [[references/fbi-hq-62-83894-serial-164]] |
 | **Apr 1950** | **HQ** (via FBI New York stamp) | **Records Center cover slip + unsolicited Spanish-language civilian letter from [[entities/miguel-angel-garcia-macias\|Miguel Ángel García Macías]] (Veracruz, Mexico, 19 Mar 1950) + FBI in-house English translation by Mrs. Sophia Saliba + enclosed Mexican-newspaper clipping reproducing [[entities/german-horacio-robles-jr\|Robles Jr.]]'s 18 Mar 1950 [[references/sighting-durango-mexico-1950-03\|Durango flying-saucer photographs]] + sender's hand-drawn diagrams**, filed as **62-HQ-83894 serial 220**. *DO NOT DESTROY*. | **Filed + translated**: HQ Class-62 admin file accumulated unsolicited foreign-language civilian saucer-correspondence with in-house translation. No FBI-authored investigative content; content-accumulation posture confirmed across multiple serials. ^[inferred] | [[references/fbi-hq-62-83894-serial-220]] |
 | **1956** | **HQ** (Washington) | **Filed clipping** — publisher's book-jacket copy of [[references/barker-1956-they-knew-too-much\|Gray Barker's *They Knew Too Much About Flying Saucers*]] (University Books, NYC, 1956) clipped and serialized as **62-HQ-83894 serial 403**. Records Center cover slip; *DO NOT DESTROY*. | **Monitored / clipped**: HQ Class-62 admin file held a clipped publisher's book-jacket as a serial. No FBI-authored investigative content; content-accumulation posture now confirmed by serial 220 (1950) at a different intake channel. ^[inferred] | [[references/fbi-hq-62-83894-serial-403]] |
@@ -102,7 +103,9 @@ This extends the trained-observer-witness pattern catalogued in [[synthesis/fede
 
 ## See also
 
-- [[references/fbi-hq-62-83894-serial-438]] — May 1964 Albuquerque investigative report on Socorro NM landing **(NEW)**
+- [[references/fbi-hq-62-83894-section-2]] — Aug-Sep 1947 operational tranche: Garrett admission, Schulgen 5 Sep 1947 formal denial, Hoover Fugate-block teletype, Hedstrom Twin Falls BB42-cited investigation, Lane Dow Chemical fragments, Arnold autobiographical statement **(NEW)**
+- [[entities/g-d-garrett]] — AAF Intelligence officer whose mid-Sep 1947 admission destabilizes the cooperation regime **(NEW)**
+- [[references/fbi-hq-62-83894-serial-438]] — May 1964 Albuquerque investigative report on Socorro NM landing
 - [[references/sighting-socorro-nm-1964-04-24]] — 24 Apr 1964 Socorro NM Zamora landing case page **(NEW)**
 - [[entities/lonnie-zamora]] — 1964 principal witness, Socorro PD officer **(NEW)**
 - [[entities/d-arthur-byrnes-jr]] — 1964 SA Albuquerque, on-scene investigator + report author **(NEW)**

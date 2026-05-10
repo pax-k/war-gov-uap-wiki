@@ -2,28 +2,36 @@
 title: "FBI HQ File 62-HQ-83894"
 category: entities
 tags: [fbi, organization, primary-source, archive, uap]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_serial_449.json, sources/65_hs1-834228961_62-hq-83894_serial_164.json, sources/65_hs1-834228961_62-hq-83894_section_1.json]
-summary: FBI HQ Class-62 (admin misc) UAP-topic file 62-HQ-83894 — opened 6 Jul 1947 in direct response to the AAF saucer-cooperation request; 7-channel accumulator spanning 6 Jul 1947 → Oct 1966; 17-serial wiki ingest series, 6 of 17 ingested (section 1 + serials 164, 220, 403, 438, 449).
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_serial_449.json, sources/65_hs1-834228961_62-hq-83894_serial_164.json, sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json]
+summary: FBI HQ Class-62 (admin misc) UAP-topic file 62-HQ-83894 — opened 6 Jul 1947 in direct response to the AAF saucer-cooperation request; 7-channel accumulator spanning 6 Jul 1947 → Oct 1966; 17-serial wiki ingest series, 7 of 17 ingested (sections 1-2 + serials 164, 220, 403, 438, 449).
 provenance:
   extracted: 0.45
   inferred: 0.50
   ambiguous: 0.05
-base_confidence: 0.82
+base_confidence: 0.83
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T23:55:00Z
-updated: 2026-05-10T13:00:00Z
+updated: 2026-05-10T15:00:00Z
 ---
 
 # FBI HQ File 62-HQ-83894
 
 A large, multi-year **FBI Headquarters file** under Class **62** (the FBI's catch-all *"administrative miscellaneous"* classification). ^[inferred] Indexed and serialized at FBI HQ in Washington — distinct from the field-office 100-class case files in the wiki's existing FBI corpus (e.g. Detroit `100-26505`, Detroit `100-18221`). ^[inferred] Note however that **at least one serial (449) is dual-classified** — simultaneously held under an LA-side Class-100 organizational counterintelligence file (`100-24442-40`) and the HQ-side Class-62 admin-misc filing — so the HQ-vs-100-class distinction is **not absolute** for individual serials in this file. ^[inferred] Declassification of the file's content is *"derived from the FBI Automatic Declassification Guide, issued 24 May 2007"*. ^[extracted]
 
-This page is the **parent-file hub** for a planned **17-serial wiki ingest series**. **Six artifacts are now ingested**: **section 1 (serials 1-52, 6 Jul - 12 Sep 1947 — this batch)**, serial 164 (15 Feb 1949 Cabell AIRMEM #4, 17 carbon copies), serial 220 (Apr 1950), serial 403 (1956 artifact, 2022 DIPA release), serial 438 (8 May 1964 Albuquerque report on Socorro NM), and serial 449 (3 Oct 1966 LA SAC AFSCA-magazine memo). The remaining 11 sections / serials (sections 2-10 and sub_a) will be ingested in subsequent passes.
+This page is the **parent-file hub** for a planned **17-serial wiki ingest series**. **Seven artifacts are now ingested**: **section 1 (serials 1-52, 6 Jul - 12 Sep 1947)**, **section 2 (serials 53-100, ~6 Aug - 17 Sep 1947 — this batch)**, serial 164 (15 Feb 1949 Cabell AIRMEM #4, 17 carbon copies), serial 220 (Apr 1950), serial 403 (1956 artifact, 2022 DIPA release), serial 438 (8 May 1964 Albuquerque report on Socorro NM), and serial 449 (3 Oct 1966 LA SAC AFSCA-magazine memo). The remaining 10 sections / serials (sections 3-10 and sub_a) will be ingested in subsequent passes.
 
-## HEADLINE — section 1 reframes the file as opened-from-day-1, not retroactively-topical
+## HEADLINE — section 2 captures the AAF-side internal collapse of the prosaic-explanation framework
 
-Section 1 (this batch) introduces the file's **founding tranche** (serials 1-52, 6 Jul - 12 Sep 1947) and **moves the file's date-floor back ~19 months** from 15 Feb 1949 (serial 164) to **6 July 1947** — i.e. **the first day of the FBI's saucer engagement**. ^[extracted] Critically, the section reveals that 62-HQ-83894 was **opened in direct response** to: ^[inferred]
+Section 2 (this batch) is the **operational continuation** of section 1, covering serials 53-100 across ~6 Aug - 17 Sep 1947 — i.e. the ~6-week window in which the [[concepts/fbi-aaf-saucer-cooperation-1947|FBI-AAF cooperation regime]] runs at full throttle, and in which **AAF Intelligence's own internal credibility on the secret-project hypothesis breaks**. ^[inferred] The structurally definitive event: ^[extracted]
+
+- ~22 Sep 1947, Lt Col [[entities/g-d-garrett|G. D. Garrett]] of AAF Intelligence privately tells SA [[entities/s-w-reynolds|Reynolds]] that flying discs are likely a **classified US Government experiment** (and that scientist "Mr. Carroll" agrees) — see [[references/fbi-hq-62-83894-section-2]] serial 86. Reynolds escalates → Forney → Generals Chamberlin + Todd cross-check → all deny → Schulgen agrees a memo will go from McDonald (A2) to LeMay (R&D). Result: **5 Sep 1947 [[entities/george-f-schulgen|Schulgen]] formal letter to Hoover** (serial 84): "*a complete survey of research activities discloses that the Army Air Forces has no project with characteristics similar to those which have been associated with the Flying Discs.*" ^[extracted]
+
+This is the **closure of the AAF-side prosaic-explanation hypothesis as a working frame** — at the same moment Twining's Wright Field staff are drafting the famous 23 Sep 1947 AMC memo ("real and not visionary or fictitious"). ^[inferred] Section 2 also captures **the first formal FBI rejection of joint AAF investigation under BB42** — Hoover's 30 Aug 1947 Fugate-block teletype on the Rhodes Phoenix interview (serial 68) — and **the first explicit field-office citation of "Bureau Bulletin No. 42, paragraph B"** in operational reporting (Banister Butte SAC on the Hedstrom Twin Falls 19 Aug 1947 mass-formation, serial 66).
+
+## Earlier HEADLINE — section 1 reframes the file as opened-from-day-1, not retroactively-topical
+
+Section 1 introduces the file's **founding tranche** (serials 1-52, 6 Jul - 12 Sep 1947) and **moves the file's date-floor back ~19 months** from 15 Feb 1949 (serial 164) to **6 July 1947** — i.e. **the first day of the FBI's saucer engagement**. ^[extracted] Critically, the section reveals that 62-HQ-83894 was **opened in direct response** to: ^[inferred]
 
 - the 24 Jun 1947 [[references/sighting-arnold-mt-rainier-1947-06-24|Kenneth Arnold]] sighting and the resulting national press wave;
 - a **9 Jul 1947 in-person request** from [[entities/george-f-schulgen|Brig. Gen. George F. Schulgen]] (AAF Requirements Intelligence Branch) to [[entities/s-w-reynolds|SA S. W. Reynolds]] (FBI Liaison Section) for the FBI to investigate disc-witness sincerity nationwide;
@@ -95,13 +103,14 @@ The filename pattern `65_hs1-834228961_62-hq-83894_serial_<NNN>.json` for the so
 
 | Serial | Status | Type | Wiki anchor |
 |---|---|---|---|
-| **Section 1 (serials 1-52)** | **Ingested 2026-05-10 (this ingest)** | **185 OCR pages — founding tranche of 52 contiguous serials, 6 Jul - 12 Sep 1947; civilian mass-correspondence + 9 prank-disc events + Schulgen-Reynolds-Ladd cooperation negotiations + Bureau Bulletin No. 42 + Roswell Dallas teletype + Maury Island case + Davidson-Brown plane crash + Williams Field MOICs + N. Meade Layne 9-point memo + Edwin Bailey Manhattan-Project orbital-germ-bomb walk-in** | [[references/fbi-hq-62-83894-section-1]] |
+| **Section 2 (serials 53-100)** | **Ingested 2026-05-10 (this ingest)** | **194 OCR pages — operational tranche of 47+ contiguous serials, ~6 Aug - 17 Sep 1947; the GARRETT ADMISSION (mid-Sep 1947, serial 86) + Schulgen 5 Sep 1947 formal denial letter (serial 84) + Hoover Fugate-block teletype (serial 68) + Hedstrom Twin Falls BB42-cited investigation (serial 66) + Lane Dow Chemical Manhattan-Project-adjacent fragments (serial 57) + Richard Shaver anonymous-tipster referral (serial 58) + Kenneth Arnold autobiographical statement + sighting narrative (serial 95) + Cascade Mts Johnson EM-effect deposition (serial 85) + Bethel Alaska ACS sighting (serial 98)** | [[references/fbi-hq-62-83894-section-2]] |
+| **Section 1 (serials 1-52)** | Ingested 2026-05-10 | **185 OCR pages — founding tranche of 52 contiguous serials, 6 Jul - 12 Sep 1947; civilian mass-correspondence + 9 prank-disc events + Schulgen-Reynolds-Ladd cooperation negotiations + Bureau Bulletin No. 42 + Roswell Dallas teletype + Maury Island case + Davidson-Brown plane crash + Williams Field MOICs + N. Meade Layne 9-point memo + Edwin Bailey Manhattan-Project orbital-germ-bomb walk-in** | [[references/fbi-hq-62-83894-section-1]] |
 | **164** | Ingested 2026-05-10 | FBI Records Center cover slip + 17 OCR-identical 8-page carbon copies of HQ-USAF Directorate of Intelligence AIRMEM #4 "Unconventional Aircraft" (15 Feb 1949), signed Maj Gen [[entities/c-p-cabell\|C. P. Cabell]] as Director of Intelligence; supersedes Army DA Coll Memo #7 (21 Jan 1948) and CSGID 425.1 (25 Mar 1948); distribution names FBI Director among 8 inter-agency addressees | [[references/fbi-hq-62-83894-serial-164]] |
 | **220** | Ingested 2026-05-10 | FBI Records Center cover slip + unsolicited Spanish-language Mexican civilian saucer-letter (García Macías, Veracruz, 19 Mar 1950) + FBI in-house English translation + enclosed Mexican-newspaper clipping (Robles Jr. Durango photographs, 18 Mar 1950) + sender diagrams | [[references/fbi-hq-62-83894-serial-220]] |
 | **403** | Ingested 2026-05-10 | FBI Records Center cover slip + clipped publisher's book jacket — Gray Barker, *They Knew Too Much About Flying Saucers*, University Books NYC, 1956 | [[references/fbi-hq-62-83894-serial-403]] |
 | **438** | Ingested 2026-05-10 | FBI Records Center cover slip + 10-page Albuquerque field-office investigative report (8 May 1964) by SA D. Arthur Byrnes Jr. on the Lonnie Zamora Socorro NM 24 Apr 1964 landing case — physical-trace observations + Zamora witness statement + hand-drawn ground-trace diagrams; distributed in 4 carbon copies | [[references/fbi-hq-62-83894-serial-438]] |
 | **449** | Ingested 2026-05-10 | FBI Records Center cover slip + 1-page LA SAC → Director memo (3 Oct 1966) re a citizen CP-line complaint about [[entities/amalgamated-flying-saucer-clubs-of-america\|AFSCA]]'s magazine + entire 16-page July 1966 issue of *Flying Saucers International* clipped and filed; dual-filed at LA `100-24442-40`; "no investigation conducted on captioned organization … no further action contemplated" | [[references/fbi-hq-62-83894-serial-449]] |
-| Sections 1–10 + sub_a | Queued | unknown | — |
+| Sections 3–10 + sub_a | Queued | unknown | — |
 
 The serial-164 / serial-220 / serial-403 / serial-438 / serial-449 spread (now N=5 ingested) implies the file holds **at least several hundred serials** spanning **at least 17.6 years (15 Feb 1949 → Oct 1966)**. ^[inferred] Sizes in the queued + ingested set range from **~5 KB (single-page clipping, serial 403) to ~408 KB** with serial 164 (181 KB, 17 carbons of an 8-page directive — this batch) sitting in the upper-mid range, serial 438 (50 KB, 10-page report ×4 carbons + diagrams), and serial 449 (107 KB, 1-page memo + entire 16-page magazine clipped) — consistent with a file that mixes brief clippings, longer correspondence (the 21 KB serial 220), substantive investigative narratives (50 KB serial 438), full external publications (107 KB serial 449), bulk-multiply-carboned inter-agency directives (181 KB serial 164), and possibly larger compiled memoranda or compendia for the queued ~408 KB serial. ^[inferred]
 
@@ -132,7 +141,9 @@ The wiki's prior FBI artifacts in field-office files (Detroit 100-26505, 100-182
 
 ## See also
 
-- [[references/fbi-hq-62-83894-section-1]] — sixth ingested artifact, founding tranche serials 1-52 (Jul-Sep 1947, channels f + g) **(NEW)**
+- [[references/fbi-hq-62-83894-section-2]] — seventh ingested artifact, operational tranche serials 53-100 (Aug-Sep 1947 — Garrett admission, Schulgen denial, Fugate block, BB42 in operational use) **(NEW)**
+- [[entities/g-d-garrett]] — AAF Intelligence officer whose mid-Sep 1947 admission destabilizes the cooperation regime **(NEW)**
+- [[references/fbi-hq-62-83894-section-1]] — sixth ingested artifact, founding tranche serials 1-52 (Jul-Sep 1947, channels f + g)
 - [[references/fbi-bureau-bulletin-42-1947]] — 30 Jul 1947 founding policy memo within section 1 **(NEW)**
 - [[concepts/fbi-aaf-saucer-cooperation-1947]] — institutional bargain that opened the file **(NEW)**
 - [[concepts/saucer-as-hoax-default]] — the operating presumption captured in section 1 **(NEW)**

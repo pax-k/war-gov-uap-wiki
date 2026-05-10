@@ -13,7 +13,7 @@ base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T12:00:00Z
+updated: 2026-05-10T15:30:00Z
 ---
 
 # FBI HQ File 62-HQ-83894 — Section 1 (Serials 1-52)
@@ -150,7 +150,7 @@ The N=52 inventory shows: hoax-defaults dominate the operational core (serials 1
 
 ## Open threads
 
-- **Verify section 1's actual end-serial date** (currently inferred from cover slip + last dated correspondence within the section). ^[open]
+- **Verify section 1's actual end-serial date** (currently inferred from cover slip + last dated correspondence within the section). [[references/fbi-hq-62-83894-section-2|Section 2]] starts at serial 53 with a 4-6 Aug 1947 filing and ends near 17 Sep 1947, **suggesting section 1 may close earlier than 12 Sep 1947** (with overlap from late-arriving section-1-period filings stamped after section 2 begins). ^[ambiguous]
 - **Reconcile serial 38 vs serial 38X** — the OCR shows `162-83894-38X` for the Williams Field 14 Jul MOIC; this may be a sub-letter on a single serial. ^[ambiguous]
 - **Check whether the Norfolk/Turrentine photograph** appears as a standalone serial number or is filed under a parent serial. ^[open]
 - **Identify Bureau Bulletin No. 42 in context of subsequent Bureau Bulletins** — does the file contain a Bulletin No. 43 or 44 with related saucer guidance? ^[open]
@@ -158,7 +158,9 @@ The N=52 inventory shows: hoax-defaults dominate the operational core (serials 1
 
 ## See also
 
-- [[entities/fbi-hq-62-83894-file]] — parent file (now N=6 ingested)
+- [[entities/fbi-hq-62-83894-file]] — parent file (now N=7 ingested)
+- [[references/fbi-hq-62-83894-section-2]] — successor section (serials 53-100, Aug-Sep 1947 — Garrett admission, Schulgen denial, Fugate block) **(NEW)**
+- [[entities/g-d-garrett]] — section 2's structurally-pivotal AAF Intelligence officer **(NEW)**
 - [[references/fbi-bureau-bulletin-42-1947]] — the 30 Jul 1947 founding policy memo (within section 1)
 - [[concepts/fbi-aaf-saucer-cooperation-1947]] — the institutional bargain
 - [[concepts/saucer-as-hoax-default]] — the operating presumption

@@ -3,17 +3,17 @@ title: "Sighting — Maury Island WA (21 Jun 1947)"
 category: references
 tags: [uap, sighting, 1947, washington, fbi]
 aliases: [Maury Island incident, Dahl Crisman Maury Island, 62-83894-32, 62-83894-49, Davidson Brown Kelso crash]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json]
+sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json]
 summary: 21 Jun 1947 alleged six-disc sighting at Maury Island Puget Sound by Harold Dahl + Fred Crisman — eventually deemed a hoax / publicity-fraud, with two AAF investigators (Davidson + Brown) killed in the 1 Aug 1947 Kelso WA B-25 crash returning fragments.
 provenance:
   extracted: 0.78
   inferred: 0.20
   ambiguous: 0.02
-base_confidence: 0.65
+base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T12:00:00Z
+updated: 2026-05-10T15:30:00Z
 ---
 
 # Sighting — Maury Island WA (21 June 1947)
@@ -60,6 +60,20 @@ This sequencing creates a structural ambiguity in the early FBI / AAF investigat
 
 Maury Island is the **first FBI-and-AAF investigated case in the corpus that produced casualties**. ^[inferred] It also generates the corpus's **first "wash out" framing** of UAP investigation — the AAF leadership's public stance that disc reports are *"definitely not of AAF origin"* and the role of investigation is to clear the field of speculation, not to engage substantive evidentiary work. ^[extracted] This is structurally distinct from the AAF's later **Project SIGN / GRUDGE** posture (where investigation produces substantive analytical reports per [[concepts/flying-disc-reporting-protocol|the 10-element template]]). ^[inferred]
 
+## Section 2 corpus addition — Smith corroboration teletypes + sabotage ruleout
+
+[[references/fbi-hq-62-83894-section-2|FBI section 2]] (Aug-Sep 1947) extends the Maury Island thread with **two structurally important corpus additions**: ^[extracted]
+
+| Document | Content | Source |
+|---|---|---|
+| **6 Aug 1947 FBI Seattle teletype (serial 59)** — McCord Field AAF Intelligence sabotage ruleout | "**INTELLIGENCE OFFICERS MCCORD FIELD, WN., ADVISE THAT IN THEIR OPINION AND FROM THEIR INVESTIGATION THERE IS NO QUESTION OF THE CRASH OF THE B-TWENTYFIVE AT KELSO, WN. APPROXIMATELY TWO FIFTY A. M., AUGUST ONE LAST HAVING BEEN CAUSED BY ANY SABOTAGE.**" Investigation indicates **left engine burned out an exhaust stack which caused the wing to burn and break off**; tail tore off; plane crashed. Crew chief and a hitchhiker parachuted to safety. Davidson and Brown had no chance to escape when the wing broke off. Lt Col Donald L. Springer A-2 4AF confirms Davidson + Brown were sent from Hamilton Field to interview Dahl + Crisman re Maury Island disc fragments. ^[extracted] | section 2 OCR p. 23, serial 59 |
+| **12 Aug 1947 FBI Seattle → Director URGENT** | Capt **Emil J. Smith** United Airlines pilot interviewed at Boise Municipal Airport: confirms Dahl/Crisman story was **falsely repeated to him, Arnold, Davidson, and Brown** at the Winthrop Hotel meeting on 31 Jul 1947; **Crisman gave Davidson + Brown a box of the alleged fragments which they apparently took with them on their fatal flight**; Arnold called Raymond Palmer (Venture Press, Evanston IL) on 1 Aug 1947 after learning of the crash; Palmer told Arnold to "discontinue his investigation… expense money…"; Smith and Arnold made subsequent attempts to go out to Maury Island Aug 1-3 but were put off by Crisman/Dahl; Smith admits calling his personal friend **Maurice Roddy** (aviation editor Chicago Times) on 1 Aug per a prior agreement to share disc stories; Smith told reporter Johnson (Idaho Statesman) on 2 Aug that Davidson + Brown were carrying fragments on their fatal flight. ^[extracted] | section 2 OCR p. 145-147 |
+| **14 Aug 1947 Hoover → Seattle teletype (serial cluster around 32)** | Hoover-signed teletype: notes Smith says Dahl/Crisman repeated their false story 31 Jul, only admitted hoax to Smith on 2 Aug. *"IF SUCH IS THE CASE IT WOULD APPEAR EITHER SMITH OR ARNOLD MADE THE ANONYMOUS PHONE CALLS SINCE THEY WOULD HAVE BEEN UNDER THE IMPRESSION AT THAT TIME THAT THE MATERIAL FURNISHED TO CAPTAIN DAVIDSON AND LIEUTENANT BROWN WAS ACTUALLY PARTS OF A FLYING DISC. IT WOULD ALSO APPEAR THAT DAHL AND CHRISMAN DID NOT ADMIT THE HOAX TO THE ARMY INTELLIGENCE OFFICERS BECAUSE IF THEY HAD DONE SO THE OFFICERS PROBABLY WOULD NOT HAVE TAKEN THE ALLEGED FRAGMENTS WITH THEM ON THEIR FATAL FLIGHT.*" ^[extracted] | section 2 OCR p. 27 |
+
+The McCord Field sabotage ruleout (serial 59) is the **AAF Intelligence's formal closure of the foul-play hypothesis** — the B-25 crash was mechanical, not adversarial. ^[extracted] This **does not, however, address the deeper structural question** of whether the cargo (alleged disc fragments later identified as Tacoma slag-mill product) had any operational significance — only that the cargo did not cause the crash. ^[inferred]
+
+The **Smith corroboration** (12 Aug 1947 teletype) closes the case's epistemic loop: ^[inferred] Dahl + Crisman maintained the false flying-disc-fragment claim through the 31 Jul Davidson/Brown interview, only admitting the hoax to Smith on the night of 2 Aug after the crash. The fatal flight thus carried **fragments the AAF investigators believed were genuine disc material** — a fact the AAF could not confirm post-mortem because the principals had subsequently confessed the entire story was fabricated.
+
 ## Open threads
 
 - **Locate the FBI Seattle complete report** on Maury Island (referenced in serial 32 as "en route to Bureau") — it does not appear in section 1. ^[open]
@@ -70,6 +84,7 @@ Maury Island is the **first FBI-and-AAF investigated case in the corpus that pro
 ## See also
 
 - [[references/fbi-hq-62-83894-section-1]] — section in which this is filed (serials 32 + 49)
+- [[references/fbi-hq-62-83894-section-2]] — section containing Smith corroboration teletypes + McCord Field sabotage ruleout (serial 59 + 12 Aug Smith deposition) **(NEW)**
 - [[references/fbi-bureau-bulletin-42-1947]] — issued 30 Jul 1947, two days after Davidson + Brown's Tacoma interview
 - [[references/sighting-arnold-mt-rainier-1947-06-24]] — Maury Island links explicitly to Arnold via the Davidson-Brown interview tour
 - [[entities/fbi-hq-62-83894-file]] — parent file

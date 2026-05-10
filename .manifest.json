@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T13:00:00Z",
+  "updated": "2026-05-10T15:30:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -924,18 +924,49 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_section_2.json": {
+      "ingested_at": "2026-05-10T15:30:00Z",
+      "size_bytes": 219109,
+      "modified_at": "2026-05-09T16:07:43Z",
+      "content_hash": "sha256:461e5e559d3a84005f2f2668fc93ffe41e1ac444fd66f17976d075e5d83bc774",
+      "source_id": "fbi-hq-62-83894-section-2",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "fbi-hq-62-83894",
+      "series_position": "7-of-17",
+      "pages_created": [
+        "references/fbi-hq-62-83894-section-2.md",
+        "entities/g-d-garrett.md"
+      ],
+      "pages_updated": [
+        "entities/fbi-hq-62-83894-file.md",
+        "references/fbi-hq-62-83894-section-1.md",
+        "concepts/fbi-aaf-saucer-cooperation-1947.md",
+        "entities/george-f-schulgen.md",
+        "entities/s-w-reynolds.md",
+        "references/sighting-arnold-mt-rainier-1947-06-24.md",
+        "references/sighting-rhodes-phoenix-1947-07-07.md",
+        "references/sighting-maury-island-1947-06-21.md",
+        "entities/fbi.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-11T00:30:00Z",
-      "sources_ingested": 31
+      "last_ingested": "2026-05-10T15:30:00Z",
+      "sources_ingested": 32
     }
   },
   "stats": {
-    "total_sources_ingested": 35,
-    "total_pages": 205,
+    "total_sources_ingested": 36,
+    "total_pages": 207,
     "total_projects": 1,
     "last_full_rebuild": null
   }
