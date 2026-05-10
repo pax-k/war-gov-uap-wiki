@@ -2,7 +2,7 @@
 title: UAP–Aircraft Engagement
 category: concepts
 tags: [uap, behavior, military, pattern]
-sources: [sources/usper-statement-redacted.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/38_143685_box7_incident_summaries_1-100.json]
+sources: [sources/usper-statement-redacted.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json]
 summary: A UAP behavioral signature in which objects approach, follow, or break off from one aircraft to pursue another. Documented in the corpus as early as 7 Jan 1948 (Mantell — first UAP-attributed pursuit fatality).
 provenance:
   extracted: 0.55
@@ -59,6 +59,8 @@ The combined 1947–48 record (Mantell + Chiles–Whitted + Gorman + Andrews) re
 ### Adjacent 1947 close-approach + disappearance datum
 
 The [[references/project-sign-incident-summaries-1-100|1–100 bundle]]'s **Inc 89** (Maj Archie B. Browning, B-25 Air Corps pilot, 6 Jul 1947 100 mi W Kansas City MO) preserves the corpus's earliest **disappearance-on-pursuit-attempt** datum: a 30–50-ft silver round disc flying parallel to Browning's B-25 at 11,000 ft / 210 MPH "**completely disappeared when pilot started to turn into it**". ^[extracted] This is **not** a full engagement-class event by the 4-criterion definition (no close approach, no co-location, no target switching) but it is the **earliest pilot-pursuit-attempt-with-anomalous-disappearance** in the corpus and is a behavioral precursor to the full engagement-class. ^[inferred]
+
+**Browning's same-day twin**: [[references/fbi-hq-62-83894-serial-130|FBI HQ 62-HQ-83894 serial 130]] preserves Browning's **16 Jul 1947 sworn statement at AAF HQ Pentagon** (received AFBIR-CO same-day) — alongside **Capt James H. Burniston's 24th-Article-of-War sworn statement at Fairfield-Suisun AAB CA**, **same date (6 Jul 1947)**, observing an object "**rolled from side to side three times in its path across the sky**" at 10,000+ ft, "faster than any type of aircraft seen by me flown at that approximate altitude". ^[extracted] The Browning + Burniston **6-Jul-1947 same-day east-vs-west sworn-statement pair** is the corpus's **earliest two-AAF-officer-sworn-statement signature** documenting **passive-observation-with-anomalous-disappearance** behavior, fed forward into the [[references/afbir-co-18-sighting-analysis-1947-07-30|AFBIR-CO 30 Jul 1947 18-sighting analysis]] as Reports #9 (Browning, air) + #10 (Burniston, ground). ^[inferred]
 - The 2026 [[references/western-us-event-2026|Western U.S. Event]] involves **ground-based federal LE witnesses**, not aircraft. The orb-class behaviors there (launching, hovering, briefly transparent) do not include cross-platform engagement.
 - The 2025 helicopter-orb encounter therefore is **not** the corpus's first engagement-class event — but it remains the **strongest multi-sensor (FLIR + NVG + naked eye)** documented case. ^[inferred]
 

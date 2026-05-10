@@ -3,7 +3,7 @@ title: Sighting — Cascade Mts / Fred Johnson EM Effect (24 Jun 1947)
 category: references
 tags: [uap, sighting, 1947, oregon, electromagnetic]
 aliases: [Fred Johnson Cascade Mountains 1947, Inc 68, first EM-effect UAP datum, prospector Cascade discs]
-sources: [sources/38_143685_box7_incident_summaries_1-100.json]
+sources: [sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json]
 summary: 24 Jun 1947 afternoon sighting by 40-year-experienced prospector Fred M. Johnson of 5–6 round discs with tails over the Cascade Mountains, Oregon — same day as Arnold; combination compass-and-watch deflected during disc passage. Earliest electromagnetic-effect datum in the corpus.
 provenance:
   extracted: 0.85
@@ -82,6 +82,8 @@ That SIGN's investigators **did not pursue Johnson's compass-and-watch deflectio
 
 - [[references/project-sign-incident-summaries-1-100]] — parent bundle (Inc 68)
 - [[references/sighting-arnold-mt-rainier-1947-06-24]] — same-day, ~150 mi N parallel
+- [[references/fbi-hq-62-83894-section-2]] — Johnson EM-effect deposition redundantly preserved at serial 85
+- [[references/fbi-hq-62-83894-serial-130]] — Cascade Mts material redundantly preserved at OCR pp. 36-44 of the 12 Sep 1947 ADC Mitchel Field compilation (multi-channel AAF distribution) **(NEW)**
 - [[concepts/engine-stall-phenomenon]] — EM-effect concept (this is now the corpus's earliest anchor)
 - [[concepts/project-sign]]
 - [[entities/air-materiel-command]]

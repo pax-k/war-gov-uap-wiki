@@ -3,7 +3,7 @@ title: Sighting — Kenneth Arnold / Mt Rainier (24 Jun 1947)
 category: references
 tags: [uap, sighting, 1947, washington, aviation]
 aliases: [Kenneth Arnold sighting, Arnold Mt Rainier 1947, Inc 17, Arnold flying disc]
-sources: [sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_section_2.json]
+sources: [sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json]
 summary: 24 Jun 1947 1500 sighting by private pilot Kenneth Arnold of 9 mirror-like craft flying in a chain over Mt Rainier WA at 9,500 ft / ~150 mph; the founding event of the 1947 Flying Disc wave and origin of "flying saucer" terminology.
 provenance:
   extracted: 0.85
@@ -124,7 +124,9 @@ This places Arnold's case institutionally **one degree of separation** from the 
 - [[references/sighting-maury-island-1947-06-21]] — Davidson/Brown post-Arnold interview-tour case
 - [[references/sighting-mantell-godman-1948-01-07]] — first UAP-attributed fatality, 6+ mo later
 - [[references/fbi-hq-62-83894-section-1]] — FBI institutional context
-- [[references/fbi-hq-62-83894-section-2]] — section containing Arnold's autobiographical statement + verbatim sighting narrative (serial 95) **(NEW)**
+- [[references/fbi-hq-62-83894-section-2]] — section containing Arnold's autobiographical statement + verbatim sighting narrative (serial 95)
+- [[references/fbi-hq-62-83894-serial-130]] — Arnold material redundantly preserved at OCR pp. 92-102 of the 12 Sep 1947 ADC Mitchel Field compilation (multi-channel AAF distribution of the same Springer/Brown 4AF interview package) **(NEW)**
+- [[references/afbir-co-18-sighting-analysis-1947-07-30]] — Arnold listed as Report #4 in the 30 Jul 1947 18-sighting breakdown but explicitly NOT analyzed (one of 4 unanalyzed reports) **(NEW)**
 - [[references/fbi-bureau-bulletin-42-1947]] — FBI policy memo issued during Arnold's wave
 - [[concepts/saucer-as-hoax-default]] — the FBI/AAF framing inverted by Arnold
 - [[concepts/project-sign]]

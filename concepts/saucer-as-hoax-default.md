@@ -3,7 +3,7 @@ title: "Saucer-as-Hoax Default (FBI 1947)"
 category: concepts
 tags: [uap, fbi, pattern, history, 1947]
 aliases: [hoax-default operating presumption, FBI prankster framing, circular-saw-disc template]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json]
+sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json]
 summary: The 1947 FBI/AAF operating presumption that any recovered "flying disc" is a prankster fabrication — propagated through Bureau Bulletin No. 42 and confirmed by ≥9 separate prank-disc events in the file's first 10 weeks.
 provenance:
   extracted: 0.6
@@ -54,6 +54,22 @@ The 9-event empirical confirmation **vindicates** the AAF's framing in [[referen
 - the **non-prank sightings** (genuine pilot witnesses like Kenneth Arnold, Fred Johnson, the Williams Field P-80 student) get folded into the same "investigation" stream and inherit the prank-hypothesis prior;
 - **even Roswell** (serial 18) is approached through the same disposition: the FBI Dallas teletype routes the case to Wright Field for examination, not to FBI for cursory examination — despite Hoover's marginal note insisting the FBI must have access. ^[inferred]
 
+## Adjacent frame: the optical-reflection-theory alternative
+
+Serial 130 (the 12 Sep 1947 ADC Mitchel Field compilation) preserves a **structurally distinct skeptical frame** alongside the hoax-default: ^[inferred] the **anonymous 12 Jul 1947 "[[references/nrl-flying-saucer-mystery-solved-1947-07-12|Flying Saucer Mystery Solved]]" memo**, which proposes that **flying-disc sightings are sun-reflection artifacts** on automobile ventilation-wing windows + electric-light-bulb reflections in plane cockpits — i.e. **no physical disc artifact exists at all**. ^[extracted]
+
+The reflection-theory and hoax-default frames converge on **denying the existence of a genuine flying object** but **mechanistically diverge** on what produces the witness experience: ^[inferred]
+
+| Frame | Hoax-default | Reflection-theory |
+|---|---|---|
+| **Physical artifact?** | Yes — fabricated prankster disc | No — pure optical illusion |
+| **Investigative disposition** | Recover, characterize prank | Educate observers; no investigation |
+| **Witness implication** | Fooled by deliberate fabrication | Fooled by own perception |
+| **Field-office application** | BB42 paragraph B | None |
+| **Active in the corpus** | ≥9 prank-disc events 1947-48 | Single-document datapoint (1947) |
+
+The two frames coexist in the AAF/FBI 1947 reception of the disc wave **without resolution of the contradiction**. ^[inferred]
+
 ## Where the pattern breaks
 
 Within section 1 itself, **at least 5 events do not fit the prank template** and require alternate framings: ^[inferred]
@@ -86,6 +102,8 @@ The hoax-default thus appears to be a **time-bounded operating presumption** act
 ## See also
 
 - [[references/fbi-hq-62-83894-section-1]] — the empirical source
+- [[references/nrl-flying-saucer-mystery-solved-1947-07-12]] — adjacent optical-reflection-theory frame (12 Jul 1947) **(NEW)**
+- [[references/fbi-hq-62-83894-serial-130]] — parent serial preserving the reflection-theory frame **(NEW)**
 - [[references/fbi-bureau-bulletin-42-1947]] — codifies the frame
 - [[references/sighting-grafton-wisconsin-1947-07-06]] — the founding instance
 - [[concepts/fbi-aaf-saucer-cooperation-1947]] — institutional context

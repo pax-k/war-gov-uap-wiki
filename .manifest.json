@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T15:30:00Z",
+  "updated": "2026-05-10T16:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -955,18 +955,49 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_serial_130.json": {
+      "ingested_at": "2026-05-10T16:00:00Z",
+      "size_bytes": 222336,
+      "modified_at": "2026-05-09T13:07:43Z",
+      "content_hash": "sha256:5091dd9d171241cf5e9fdcaa9c23b4941a80059d8f1a5f3ce765e07b62875b88",
+      "source_id": "fbi-hq-62-83894-serial-130",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "fbi-hq-62-83894",
+      "series_position": "8-of-17",
+      "pages_created": [
+        "references/fbi-hq-62-83894-serial-130.md",
+        "references/afbir-co-18-sighting-analysis-1947-07-30.md",
+        "references/sighting-pan-am-powell-white-1947-08-04.md",
+        "references/sighting-newfoundland-cluster-1947-07.md",
+        "references/sighting-birmingham-al-1947-07-06.md",
+        "references/nrl-flying-saucer-mystery-solved-1947-07-12.md",
+        "entities/afbir-co.md"
+      ],
+      "pages_updated": [
+        "entities/fbi-hq-62-83894-file.md",
+        "references/sighting-arnold-mt-rainier-1947-06-24.md",
+        "references/sighting-cascade-mts-johnson-1947-06-24.md",
+        "concepts/saucer-as-hoax-default.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T15:30:00Z",
-      "sources_ingested": 32
+      "last_ingested": "2026-05-10T16:00:00Z",
+      "sources_ingested": 33
     }
   },
   "stats": {
-    "total_sources_ingested": 36,
-    "total_pages": 207,
+    "total_sources_ingested": 37,
+    "total_pages": 214,
     "total_projects": 1,
     "last_full_rebuild": null
   }
