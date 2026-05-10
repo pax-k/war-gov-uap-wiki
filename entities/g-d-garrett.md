@@ -3,17 +3,17 @@ title: "G. D. Garrett"
 category: entities
 tags: [uap, person, usaaf, intelligence, 1947]
 aliases: [Lt Col G. D. Garrett, Colonel George D. Garrett, AAF Intelligence Garrett, George Garrett]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_2.json]
-summary: Lt Col G. D. Garrett of AAF Intelligence Division — the AAF officer who in mid-Sep 1947 privately told FBI SA Reynolds he believed flying discs were a classified US Government experiment, triggering the Schulgen 5 Sep 1947 formal denial.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_section_3.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json]
+summary: Lt Col G. D. (George) Garrett of AAF Intelligence Division — the AAF officer who in mid-Sep 1947 privately told FBI SA Reynolds he believed flying discs were a classified US Government experiment; section 3 adds the 23 Sep 1947 Whedon-instrument Operation-Mogul-denial datapoint and a 9 Oct 1947 photograph-transmittal datapoint (likely K. L. ↔ G. D. OCR drift).
 provenance:
-  extracted: 0.65
-  inferred: 0.32
+  extracted: 0.7
+  inferred: 0.27
   ambiguous: 0.03
-base_confidence: 0.45
+base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T15:30:00Z
-updated: 2026-05-10T15:30:00Z
+updated: 2026-05-10T22:40:00Z
 ---
 
 # G. D. Garrett
@@ -60,9 +60,25 @@ Garrett thus sits at the **inflection point** between BB42's prosaic regime and 
 
 The FBI corpus consistently refers to Garrett as **"Lieutenant Colonel George D. Garrett"** or **"Lt Col G. D. Garrett"** of the Intelligence Division of the Air Forces. ^[extracted] This identification overlaps with **Lt Col George D. Garrett** of AAF Intelligence Collection Branch, who is in the broader UAP-research-community literature recognized as **a key co-author (with [[entities/george-f-schulgen|Schulgen]]) of the famous 9 Aug 1947 secret-saucer-characteristics estimate** that preceded Twining's 23 Sep 1947 memo. ^[ambiguous] Whether the FBI's "Lt Col Garrett" is the same person as the broader literature's George D. Garrett is **not directly verified by the FBI corpus** but is highly likely given the matching service / position / role. ^[inferred]
 
+## Section 3 corpus addition — the 23 Sep 1947 Mogul-denial datapoint + post-BB-57 photograph transmittal
+
+[[references/fbi-hq-62-83894-section-3|FBI section 3]] (this batch) preserves **two additional Garrett datapoints** sitting on either side of the 22 Sep 1947 admission: ^[extracted]
+
+| Date | Document | What Garrett does |
+|---|---|---|
+| **23 Sep 1947** (~24h after admission) | [[references/fbi-fitch-ladd-mogul-1947-09-23\|Fitch → Ladd memo "INSTRUMENT FOUND ON FARM NEAR DANFORTH ILLINOIS"]] (62-83894-122) | **Confirms Hopkins's denial** of civilian Mogul-attribution for the Watskeka IL recovered instrument; concurs with Major Hopkins's "old-type radio loud speaker" classification; concludes "**the instrument was not used in any War Department classified project and that in all probability it was just a hoax.**" ^[extracted] |
+| **9 Oct 1947** (8 days post-BB-57) | [[references/fbi-hq-62-83894-section-3\|Section 3 OCR p. 187]] Reynolds → Ladd memo (filed 62-83894-130) | **Lt Col K. L. Garrett** (likely OCR-drift for **G. D. Garrett**) ^[ambiguous] of the Intelligence Division of the Air Force makes available photographs of various Air Corps reports to FBI for *"completion of Bureau files"* — the FBI-AAF inter-agency UAP-data flow continues operationally for at least 8 days post-BB-57. ^[inferred] |
+
+The 23 Sep 1947 Mogul-denial datapoint is paradigm-noteworthy in the context of Garrett's 22 Sep 1947 admission: ^[inferred]
+
+- On **22 Sep 1947**, Garrett tells Reynolds (privately) that flying discs **are likely** a USG classified project.
+- On **23 Sep 1947**, Garrett tells Reynolds (in writing) that **a specific civilian-attributed Mogul-instrument is NOT** a USG classified project artifact (it is an old radio loudspeaker, hoax-classified).
+
+The two memos record Garrett **simultaneously affirming the existence-in-principle of USG classified saucer-projects (22 Sep) and denying a specific Mogul-attribution for a specific recovered artifact (23 Sep)**. ^[inferred] This may reflect either (a) careful compartmentation-protective denial of a specifically-named program (Mogul) regardless of artifact identity, or (b) genuine technical assessment that a 1910/1916-patent-dated radio component cannot be a 1947 classified project artifact. ^[ambiguous] See [[concepts/operation-mogul]] for the cross-cutting analysis.
+
 ## Position in corpus
 
-Garrett's role per the FBI corpus is **strictly Sep 1947**. ^[extracted] The corpus does not document Garrett further:
+Garrett's role per the FBI corpus spans **late-Aug 1947 → 9 Oct 1947** ^[extracted] — i.e., bracketing both the cooperation-regime peak and the BB-57 termination boundary. The corpus does not document Garrett further:
 
 - He is **not** the AAF Director of Intelligence (that is Maj Gen McDonald in late 1947, [[entities/c-p-cabell|C. P. Cabell]] from Nov 1948).
 - He is **not** a Schulgen successor — the Schulgen-Reynolds channel persists into late 1947 / early 1948.

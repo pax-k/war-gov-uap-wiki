@@ -1154,20 +1154,51 @@
         "entities/wladyslaw-krasuski.md",
         "concepts/contactee-movement-1952-1954.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_section_3.json": {
+      "ingested_at": "2026-05-10T22:50:00Z",
+      "size_bytes": 308432,
+      "modified_at": "2026-05-09T16:07:00Z",
+      "content_hash": "sha256:46cdab03219483eb15bf2ae93046bfa8154d871fb151278e88c5565f0898ef55",
+      "source_type": "document",
+      "project": "uap",
+      "pages_created": [
+        "references/fbi-hq-62-83894-section-3.md",
+        "references/fbi-ladd-proposed-bulletin-1947-09-25.md",
+        "references/fbi-hoover-mcdonald-letter-1947-09-27.md",
+        "references/adc-d333.5ex-cooperation-1947-09-03.md",
+        "references/fbi-fitch-ladd-mogul-1947-09-23.md",
+        "concepts/operation-mogul.md",
+        "references/fbi-seattle-maury-island-report-1947-08-18.md",
+        "references/fbi-arnold-boise-interview-1947-08-19.md",
+        "references/fbi-schulgen-savage-arnold-background-1947-08-20.md",
+        "references/sighting-snake-river-canyon-1947-08-13.md"
+      ],
+      "pages_updated": [
+        "references/fbi-bureau-bulletin-57-1947.md",
+        "concepts/fbi-aaf-saucer-cooperation-1947.md",
+        "entities/fbi-hq-62-83894-file.md",
+        "references/sighting-maury-island-1947-06-21.md",
+        "entities/g-d-garrett.md",
+        "references/sighting-muroc-1947-07-08.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T22:00:00Z",
-      "sources_ingested": 36
+      "last_ingested": "2026-05-10T22:50:00Z",
+      "sources_ingested": 37
     }
   },
   "stats": {
-    "total_sources_ingested": 42,
-    "total_pages": 266,
+    "total_sources_ingested": 43,
+    "total_pages": 276,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T02:30:00Z"
+    "last_ingest_at": "2026-05-10T22:50:00Z"
   }
 }

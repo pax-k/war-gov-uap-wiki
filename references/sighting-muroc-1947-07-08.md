@@ -3,8 +3,8 @@ title: Sighting — Muroc AAF Cluster (8 Jul 1947)
 category: references
 tags: [uap, sighting, 1947, california, usaaf]
 aliases: [Muroc cluster 1947, Muroc 8 July 1947, Edwards AFB precursor sighting, Inc 1, Inc 4]
-sources: [sources/38_143685_box7_incident_summaries_1-100.json]
-summary: 8 Jul 1947 multi-event multi-witness sighting cluster at Muroc Army Air Field (later Edwards AFB), CA — silver discs / spheres / ovular object across the morning at 0930-noon, including Capt John Paul Stapp's seat-ejection observation truck event.
+sources: [sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_section_3.json]
+summary: 8 Jul 1947 multi-event multi-witness sighting cluster at Muroc Army Air Field (later Edwards AFB), CA — silver discs / spheres / ovular object across the morning at 0930-noon, including Capt John Paul Stapp's seat-ejection observation truck event; FBI HQ section 3 preserves the 4AF-1208-I channel sworn affidavits (Gilkey/Shoop/Ruvolo/McHenry/Wise/Stapp) parallel to the SIGN intake.
 provenance:
   extracted: 0.85
   inferred: 0.13
@@ -89,8 +89,26 @@ The Pacific Northwest patrolman wave 4 days earlier (4 Jul 1947, Inc 5–16) and
 - **The "third object" in Inc 1.** McHenry's account states 2 objects were initially observed flying NW, then 5 minutes later a **third silver object circled** at the same altitude over the airfield's north end. Whether this third object was one of the original two having reversed course or a separate vehicle is open. ^[ambiguous]
 - **The Stapp seat-ejection experiment context.** The fact that Inc 4 occurred **during preparation for a seat-ejection experiment** (with 2 P-82s and an A-26 already at 20,000 ft) means there was **substantial USAAF aerial activity in progress at the moment of the sighting**, but no aircrew sighting reports are preserved in the bundle. Whether the 4 USAAF aircraft also observed the object is open. ^[ambiguous]
 
+## Section 3 / 4AF-channel addition (this batch)
+
+[[references/fbi-hq-62-83894-section-3|FBI HQ section 3]] (this batch) preserves the **same six sworn affidavits** at OCR pages 60-72 in their **original 4AF-1208-I CIC-channel form** — the Headquarters Fourth Air Force Investigation Report dated **18 August 1947** (period covered 8 July 1947), classified CONFIDENTIAL, controlling office Air Defense Command Mitchel Field. ^[extracted] The six sworn affidavits in section 3:
+
+| Affiant | Rank | Date given | Authority taken by | Affidavit content |
+|---|---|---|---|---|
+| **Col Gilkey** | CO Muroc AAF | 11 Aug 1947 (orally) | Capt Harry D. Black, Intelligence Officer | Object he saw, **believed at the time to be paper and of no significance** — does not justify further reports |
+| **Maj Richard R. Shoop** | Office of Chief of Tech Engineering Division | 11 Jul 1947 | (self-witness statement) | At ~noon 8 Jul 1947, attention called by Col Gilkey to thin metallic object 5-8 mi N at intermediate altitude in **oscillating descent then climb** |
+| **T/Sgt Joseph Ruvolo** | NCO Charge Billeting | 14 Jul 1947 | 1st Lt J. C. McHenry, Billeting Officer | "**Two flying disc or saucer shaped silver colored objects**" NW direction ~350-400 mph at ~7500-8000 ft; *"I am of good health and sound mind and this was no hallucination"* |
+| **1st Lt Joseph C. McHenry** | Billeting Officer in Charge | 11 Jul 1947 | Mr. Thomas A. McMillan, CIC S/A this Station | First sighting; pre-conversation skepticism *"Someone will have to show me one of these Disc before I will believe it"*; observed two silver objects then a third |
+| **Maj J. C. Wise** | Test Pilot | 13 Aug 1947 | Mr. Thomas A. McMillan, CIC Agent | **7 Jul 1947 ~1010**, while running up the XP-84 on the ground — yellowish-white sphere about 5-10 ft diameter, oscillating forward whirling movement without losing altitude (the day-prior Inc 3 case) |
+| **Capt John Paul Strapp** [Stapp] | Flight Test | 12 Aug 1947 | Mr. Thomas A. McMillan, CIC Agent | **8 Jul 1947 1150** while sitting in observation truck Area #3 Rogers Dry Lake; ovular silver object lower than 20,000 ft; first impression was *"premature ejection of the seat and dummy had occurred"*; ~25 ft size, *"appeared as though it might have been dropped from a great height"* |
+
+The 4AF-channel material is **structurally identical content** to the SIGN-channel Inc 1, 1c, 1e, 2, 4 sheets but with **different filing-channel context**: ^[inferred] the 4AF report is a unified investigation document with a synopsis, file number 1208-I, and CIC-Sub-Detachment-commander signature line; the SIGN version atomizes the same affidavits across numbered Incident Summary Sheets. ^[inferred] The 4AF documentation precedes Project SIGN's stand-up by ~5 months, supporting the inference that **SIGN's intake stream re-used the 4AF CIC affidavits as numbered-Incident-template input**. ^[inferred]
+
+The cross-channel preservation strengthens witness credibility — the same affidavits appear in two independent institutional repositories with consistent content. ^[inferred]
+
 ## See also
 
+- [[references/fbi-hq-62-83894-section-3]] — **section preserving the 4AF-1208-I channel parallel to SIGN intake (this batch)** **(NEW)**
 - [[references/project-sign-incident-summaries-1-100]] — parent bundle (Inc 1, 1c, 1e, 2, 4)
 - [[references/sighting-arnold-mt-rainier-1947-06-24]] — same-week founding 1947 event
 - [[references/sighting-rhodes-phoenix-1947-07-07]] — same-week first-photographic event

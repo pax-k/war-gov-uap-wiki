@@ -3,26 +3,45 @@ title: "Bureau Bulletin No. 57, Series 1947 (1 October 1947)"
 category: references
 tags: [uap, fbi, primary-source, policy, 1947]
 aliases: [BB-57, BB57, Bureau Bulletin 57, Bureau Bulletin No. 57 1947, FBI flying disc termination bulletin]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_4.json, sources/65_hs1-834228961_62-hq-83894_section_5.json]
-summary: 1 Oct 1947 FBI HQ all-SAC bulletin terminating Bureau investigation of flying discs and instructing field offices to refer all future reports to the Air Force; reconstructed from four verbatim citations in the FBI HQ 62-83894 corpus.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_4.json, sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_section_3.json]
+summary: 1 Oct 1947 FBI HQ all-SAC bulletin terminating Bureau investigation of flying discs and instructing field offices to refer all future reports to the Air Force; section 3's Ladd 25 Sep proposal memo + Hoover 27 Sep McDonald letter + ADC D333.5EX provocation now identify the bulletin's birth chain — bulletin verbatim text remains unrecovered.
 provenance:
-  extracted: 0.7
-  inferred: 0.27
-  ambiguous: 0.03
-base_confidence: 0.7
+  extracted: 0.78
+  inferred: 0.20
+  ambiguous: 0.02
+base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T18:00:00Z
-updated: 2026-05-10T18:00:00Z
+updated: 2026-05-10T22:30:00Z
 ---
 
 # Bureau Bulletin No. 57, Series 1947 (1 October 1947)
 
 The **FBI HQ all-SAC bulletin** that **terminated FBI investigation of flying discs** ~9 weeks after [[references/fbi-bureau-bulletin-42-1947|Bureau Bulletin No. 42, Series 1947]] (30 Jul 1947) opened it. ^[inferred] BB-57 is the **structural closure** of the [[concepts/fbi-aaf-saucer-cooperation-1947|FBI-AAF saucer cooperation regime]] — the institutional bargain SA Reynolds had negotiated with Brig Gen Schulgen between 9 Jul and 24 Jul 1947. ^[inferred]
 
+## HEADLINE — Section 3 recovers the BB-57 birth chain
+
+Section 3 of [[entities/fbi-hq-62-83894-file|62-HQ-83894]] (this batch) preserves **three primary-source documents** that establish the BB-57 birth chain — promoting substantial parts of the previously-`^[inferred]` BB-57 origin narrative to `^[extracted]`: ^[extracted]
+
+| Date | Document | Role |
+|---|---|---|
+| **3 Sep 1947** | [[references/adc-d333.5ex-cooperation-1947-09-03\|ADC D333.5EX letter]] by Col R. H. Smith *"By Command of Lieutenant General Stratemeyer"* | **The AAF-side provocation** — unilateral redefinition of the cooperation regime; "ash can covers, toilet seats and whatnot" framing |
+| **25 Sep 1947** | [[references/fbi-ladd-proposed-bulletin-1947-09-25\|Ladd → Hoover memo]] proposing termination + Hoover handwritten *"I agree"* 9-27-47 | **The literal birth document of BB-57** — proposes Bureau exit + attaches the proposed Bulletin for Hoover's approval; drafted by SA S. W. Reynolds (`SWR:AJB`) |
+| **27 Sep 1947** | [[references/fbi-hoover-mcdonald-letter-1947-09-27\|Hoover → Maj Gen McDonald letter]] | **The external-facing termination announcement** — Hoover formally notifies AAF AC/AS-2 4 days before BB-57 issues internally |
+
+These documents close several previously-open threads on this page (see Open Threads section, below): ^[inferred]
+
+- **Bulletin's originator**: SA Reynolds drafted, Asst Director Ladd signed, Hoover personally approved 27 Sep 1947. ^[extracted]
+- **Proximate trigger**: the ADC D333.5EX letter's unilateral redefinition + insulting "ash can covers" framing. ^[extracted]
+- **Why issued ~9 weeks after BB-42**: Ladd's recommendation 1 (*"protest vigorously"*) + recommendation 2 (*"discontinue all activity"*) directly responds to the ADC letter; the Garrett admission was the parallel-but-deeper trigger held off the documentary record. ^[inferred]
+- **External-facing announcement**: confirmed via the same-serial-filed 27 Sep 1947 Hoover-McDonald letter — closure was **announced to the AAF originating channel** at Maj-Gen level, not silently superseded. ^[extracted]
+
+The bulletin's **literal text remains unrecovered**. ^[extracted] The proposed Bulletin attached to the Ladd 25 Sep 1947 memo is referenced in the recommendation block (*"A proposed Bulletin is attached for your approval"*) but is **not separately preserved** in section 3's OCR output. ^[ambiguous] Recovering the verbatim BB-57 text remains an open thread for unrescued sections 6, 9, 10. ^[open]
+
 ## What we know — reconstructed from references
 
-The bulletin itself is **not yet ingested** in any wiki source. ^[extracted] Its **content, dating, and operational paraphrase** are reconstructed from **five separate citations** across the FBI HQ 62-83894 corpus. ^[extracted]
+The bulletin itself is **not yet ingested verbatim** in any wiki source. ^[extracted] Its **content, dating, and operational paraphrase** are reconstructed from **five separate citations** across the FBI HQ 62-83894 corpus, plus the section-3 birth-chain documents. ^[extracted]
 
 | Date | Citing document | Citation | Source |
 |---|---|---|---|
@@ -78,13 +97,17 @@ This page is **constructed from references**, not from primary-source transcript
 
 ## Open threads
 
-- **Recover the verbatim text of BB-57** from any ingested or future source. ^[open] If serials 141-160 (the back-reference range cited by Boggs-Hearn) are in an unrescued section, the bulletin is likely the proximate document.
+- **Recover the verbatim text of BB-57** from any ingested or future source. ^[open] The bulletin is the proposed-Bulletin attached to the [[references/fbi-ladd-proposed-bulletin-1947-09-25|Ladd 25 Sep 1947 memo]] (filed at section 3 OCR p. 158); section 3's OCR did not separately preserve the attachment text. Sections 6, 9, 10 may contain the verbatim text.
 - **Determine whether BB-57 references BB-42 by name** as the bulletin it supersedes. ^[open]
-- **Determine whether BB-57 was issued in response to the Garrett admission specifically** or as part of a broader institutional shift (e.g. coordinating with Schulgen / Cabell / Vandenberg). ^[open]
-- **Identify the bulletin's originator** — Hoover personally, Tolson, Ladd, or another senior staff. ^[open]
+- **Determine whether BB-57 was issued in response to the Garrett admission specifically, the ADC D333.5EX letter specifically, or both jointly.** ^[open] Section 3 evidence shows the [[references/adc-d333.5ex-cooperation-1947-09-03|ADC D333.5EX letter]] is the **proximate documentary trigger** cited in Hoover's outgoing letter; the [[entities/g-d-garrett|Garrett admission]] (~22 Sep 1947) is the parallel-but-deeper trigger that Reynolds (memo drafter) had personally received but did not memorialize in the proposal memo. The two triggers may be jointly causal, with the ADC letter providing the institutionally-defensible public reasoning while the Garrett admission provided the substantive justification for institutional speed.
+- **Identify the bulletin's originator** — ~~Hoover personally, Tolson, Ladd, or another senior staff~~. **CLOSED THIS BATCH**: SA S. W. Reynolds drafted the proposal memo (`SWR:AJB`); Asst Director D. M. Ladd signed the memo; Hoover personally approved by handwritten "I agree" 9-27-47. ^[extracted] See [[references/fbi-ladd-proposed-bulletin-1947-09-25]].
 
 ## See also
 
+- [[references/fbi-ladd-proposed-bulletin-1947-09-25]] — **the literal birth document of BB-57; closes the originator open thread (this batch)** **(NEW)**
+- [[references/fbi-hoover-mcdonald-letter-1947-09-27]] — **the FBI's external-facing termination announcement filed at the same serial (this batch)** **(NEW)**
+- [[references/adc-d333.5ex-cooperation-1947-09-03]] — **the AAF-side provocation document whose framing Hoover cites verbatim (this batch)** **(NEW)**
+- [[references/fbi-hq-62-83894-section-3]] — **section preserving the BB-57 birth chain (this batch)** **(NEW)**
 - [[references/fbi-bureau-bulletin-42-1947]] — the predecessor / opening bulletin (30 Jul 1947)
 - [[references/fbi-sac-letter-38-1949]] — partial reactivation directive **(NEW)**
 - [[references/fbi-hq-62-83894-section-4]] — primary section containing the four BB-57 citations **(NEW)**

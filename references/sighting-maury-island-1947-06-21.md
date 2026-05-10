@@ -3,17 +3,17 @@ title: "Sighting — Maury Island WA (21 Jun 1947)"
 category: references
 tags: [uap, sighting, 1947, washington, fbi]
 aliases: [Maury Island incident, Dahl Crisman Maury Island, 62-83894-32, 62-83894-49, Davidson Brown Kelso crash]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json]
-summary: 21 Jun 1947 alleged six-disc sighting at Maury Island Puget Sound by Harold Dahl + Fred Crisman — eventually deemed a hoax / publicity-fraud, with two AAF investigators (Davidson + Brown) killed in the 1 Aug 1947 Kelso WA B-25 crash returning fragments.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_section_3.json]
+summary: 21 Jun 1947 alleged six-disc sighting at Maury Island Puget Sound by Harold Dahl + Fred Crisman — deemed a publicity hoax constructed at Ray Palmer's request; FBI Seattle complete report (18 Aug 1947, R H Fletcher) recovered in section 3 of 62-83894 closes the long-pending FBI-Seattle-report open thread.
 provenance:
-  extracted: 0.78
-  inferred: 0.20
+  extracted: 0.85
+  inferred: 0.13
   ambiguous: 0.02
-base_confidence: 0.7
+base_confidence: 0.85
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T15:30:00Z
+updated: 2026-05-10T22:35:00Z
 ---
 
 # Sighting — Maury Island WA (21 June 1947)
@@ -74,15 +74,31 @@ The McCord Field sabotage ruleout (serial 59) is the **AAF Intelligence's formal
 
 The **Smith corroboration** (12 Aug 1947 teletype) closes the case's epistemic loop: ^[inferred] Dahl + Crisman maintained the false flying-disc-fragment claim through the 31 Jul Davidson/Brown interview, only admitting the hoax to Smith on the night of 2 Aug after the crash. The fatal flight thus carried **fragments the AAF investigators believed were genuine disc material** — a fact the AAF could not confirm post-mortem because the principals had subsequently confessed the entire story was fabricated.
 
+## Section 3 corpus addition — the FBI Seattle complete report (CLOSES major open thread)
+
+[[references/fbi-hq-62-83894-section-3|FBI section 3]] (this batch) recovers **the FBI Seattle complete report** that this page previously flagged as missing — **R H Fletcher signed letter to Director, 18 August 1947** (filed 62-83894-110, OCR pp. 34-58), preserving: ^[extracted]
+
+- **Verbatim 7 August 1947 Crisman + Dahl signed statement** (OCR p. 50): "voluntary statement to SA DAVID A. MAC CULLOCH"; the original "rock formations" came from a Maury Island gravel pit; the disc-explosion narrative was constructed at Ray Palmer (Venture Press)'s telephonic request.
+- **Verbatim disposition narrative** (OCR pp. 32-33): Dahl admitted the entire story was false to **Vogel of the Seattle Post-Intelligencer**; Arnold was paid by Palmer ("Fantasy magazine and possibly the 'Boise' Statesman") to come to Tacoma; the five anonymous phone calls 31 Jul - 1 Aug "could only have come from themselves, Arnold or Smith"; Dahl/Crisman denied making the calls.
+- **Forensic engine-failure attribution** for the B-25 crash: left exhaust stack burned out, igniting the wing — McChord Field Intelligence Officers verified no sabotage indication.
+- **The parallel 4AF-channel investigation** (4AF-1208-I "Investigation of Flying Disc — Tacoma and Kelso WA", 12 August 1947, OCR pp. 13-17) preserving Lt Brown + Capt Davidson's interview record, FBI San Francisco / Chicago Office record-checks on Palmer / Venture Press / Crisman / Dahl, and FBI's confirmation of Crisman as Capt 0-758951 in the 406th AAF BU (RT) Air Reserve.
+
+See [[references/fbi-seattle-maury-island-report-1947-08-18]] (NEW) for the dedicated reference page. The 4AF + FBI parallel investigations **converge on the hoax-fabrication finding via independent witness chains**. ^[inferred]
+
 ## Open threads
 
-- **Locate the FBI Seattle complete report** on Maury Island (referenced in serial 32 as "en route to Bureau") — it does not appear in section 1. ^[open]
+- ~~**Locate the FBI Seattle complete report** on Maury Island (referenced in serial 32 as "en route to Bureau") — it does not appear in section 1.~~ **CLOSED THIS BATCH** (2026-05-10): Section 3 OCR pp. 34-58 contains the full report; see [[references/fbi-seattle-maury-island-report-1947-08-18]]. ^[extracted]
 - **Reconcile the AAF "wash out" framing** with [[references/fbi-bureau-bulletin-42-1947|Bureau Bulletin No. 42's]] formal cooperation regime — were these competing institutional postures or compatible? ^[open]
 - **Identify Lt Col C. P. Martin and Lt Col Donald C. Springer** roles. ^[open]
 - **Trace whether Maury Island appears in Project SIGN's 1948 caseload** under the [[concepts/flying-disc-reporting-protocol|10-element template]]. ^[open]
+- **Reconcile the Arnold-was-paid-by-Palmer finding** (this batch, FBI Seattle report) with the otherwise-disinterested-investigator framing in the [[references/sighting-arnold-mt-rainier-1947-06-24|Arnold sighting page]]. ^[open] The two framings are not strictly contradictory (24 Jun 1947 sighting was independent; the Tacoma role 5 weeks later was paid).
+- **Locate the 26 June 1947 Palmer-to-Arnold letter** referenced in the [[references/fbi-arnold-boise-interview-1947-08-19|FBI Boise deposition]] — the earliest documented Palmer-Arnold contact in the corpus. ^[open]
 
 ## See also
 
+- [[references/fbi-seattle-maury-island-report-1947-08-18]] — **the FBI Seattle complete report (this batch — closes major open thread)** **(NEW)**
+- [[references/fbi-arnold-boise-interview-1947-08-19]] — **FBI's own-channel Arnold deposition triggered by this case (this batch)** **(NEW)**
+- [[references/fbi-hq-62-83894-section-3]] — **section preserving the complete report (this batch)** **(NEW)**
 - [[references/fbi-hq-62-83894-section-1]] — section in which this is filed (serials 32 + 49)
 - [[references/fbi-hq-62-83894-section-2]] — section containing Smith corroboration teletypes + McCord Field sabotage ruleout (serial 59 + 12 Aug Smith deposition) **(NEW)**
 - [[references/fbi-bureau-bulletin-42-1947]] — issued 30 Jul 1947, two days after Davidson + Brown's Tacoma interview
