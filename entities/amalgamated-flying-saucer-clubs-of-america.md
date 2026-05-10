@@ -2,13 +2,13 @@
 title: "Amalgamated Flying Saucer Clubs of America (AFSCA)"
 category: entities
 tags: [organization, civilian-research, california, uap, 1960s]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_449.json]
-summary: Mid-1960s Los Angeles–based contactee/saucer-movement umbrella org led by Gabriel Green; publisher of "Flying Saucers International"; subject of FBI HQ 62-HQ-83894 serial 449 (1966 LA SAC memo).
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_449.json, sources/65_hs1-834228961_62-hq-83894_section_10.json]
+summary: Mid-1960s Los Angeles–based contactee/saucer-movement umbrella org led by Gabriel Green; publisher of "Flying Saucers International"; subject of FBI HQ 62-HQ-83894 serial 449 (1966 LA SAC memo) + serial 448 (1966 Hoover-Dow reply with full Convention flyer + Issue 24).
 provenance:
   extracted: 0.7
   inferred: 0.27
   ambiguous: 0.03
-base_confidence: 0.62
+base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
@@ -20,6 +20,8 @@ updated: 2026-05-10T00:00:00Z
 A **mid-1960s American civilian saucer / contactee organization** headquartered at **2004 N. Hoover St., Los Angeles, CA 90027** (phone 662-4404). ^[extracted] Self-described in the 1966 issue as a *"Non-profit Organization … Dedicated to The Physical, Spiritual, and Economic Emancipation of Man"*. ^[extracted]
 
 AFSCA enters the wiki corpus through **FBI HQ file 62-HQ-83894 serial 449** ([[references/fbi-hq-62-83894-serial-449]]) — the **3 October 1966 LA SAC → Director memo** captioned *"FLYING SAUCERS INTERNATIONAL, OFFICIAL JOURNAL OF THE AMALGAMATED FLYING SAUCER CLUBS OF AMERICA, INC. / IS - MISCELLANEOUS"*, with the entire **July 1966 Issue No. 24** of AFSCA's magazine clipped and filed as the substantive content of the serial. ^[extracted]
+
+**Section 10 (serial 448, 6 Sep 1966)** adds a **parallel intake channel** for the same Issue No. 24 ^[extracted] — Mrs. Loretta G. Dow of Goffstown NH (NICAP member, ~63 years old, NH Insurance Co reinsurance manager) writes Hoover on 31 Aug 1966 enclosing the **AFSCA "3rd National Flying Saucer Convention" flyer** (Reno NV, 8-10 Jul 1966) + the **July 1966 Issue No. 24** of *Flying Saucers International* — same content as serial 449, but received **27 days earlier** via citizen-letter routing rather than via Philadelphia → LA SAC re-routing. ^[inferred] Mrs. Dow's letter expresses concern that AFSCA *"isn't just what it appears on the surface … with my limited idea of how Communists operate it strikes me it is backed by them"* — the same CP-line concern that the Philadelphia/LA chain processed at serial 449. ^[extracted] Hoover's 6 Sep 1966 reply is the standard *"this Bureau is strictly an investigative agency … neither makes evaluations nor draws conclusions"* form-letter. ^[extracted] The **dual-channel filing** (448 + 449) of identical magazine content within ~4 weeks is structurally distinctive — most FBI corpus contactee-magazine filings are single-channel. ^[inferred]
 
 ## Organizational profile (from the July 1966 issue)
 

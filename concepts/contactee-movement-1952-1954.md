@@ -3,17 +3,17 @@ title: "Contactee Movement (1952-1954 Founding Period)"
 category: concepts
 tags: [uap, fbi, history, civilian-research, pattern]
 aliases: [contactee era, IFSB Bender Adamski Bethurum Williamson, organized civilian saucer movement]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_7.json, sources/65_hs1-834228961_62-hq-83894_section_8.json]
-summary: The 1952-54 founding period of the organized civilian saucer-contactee movement — Borderland Sciences, IFSB / Bender, Bethurum / Williamson / Adamski — attested in FBI HQ 62-HQ-83894 section 7 + extended into section 8 via Eickhoff/Bethurum espionage thread (serial 344) and Stringfield CRIFO.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_7.json, sources/65_hs1-834228961_62-hq-83894_section_8.json, sources/65_hs1-834228961_62-hq-83894_section_10.json]
+summary: The 1952-54 founding period and 1965-1967 Adamski-continuation extension of the organized civilian saucer-contactee movement — Borderland Sciences, IFSB / Bender, Bethurum / Williamson / Adamski / Steckling — attested in FBI HQ 62-HQ-83894 sections 7-8-10.
 provenance:
   extracted: 0.55
   inferred: 0.4
   ambiguous: 0.05
-base_confidence: 0.55
+base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T19:45:00Z
-updated: 2026-05-11T01:15:00Z
+updated: 2026-05-10T00:00:00Z
 ---
 
 # Contactee Movement (1952-1954 Founding Period)
@@ -28,6 +28,45 @@ The **organized civilian saucer-contactee movement** crystallizes in the United 
 | **25 Jun 1954** | **George Adamski** (via Joseph Gunderson inquiry) | 343 | *Flying Saucers Have Landed* by Desmond Leslie + Adamski |
 
 The four datapoints span ~22 months and **bracket the institutional moment** when the civilian saucer narrative shifts from **scattered single-event sightings** (the 1947-50 era documented in sections 1-2-4-5) to **organized communities with publications, dues-paying memberships, named representatives in multiple states/countries, and self-published narratives of personal saucer-encounter experience**. ^[inferred]
+
+## The 1965-1967 Adamski-continuation extension (section 10)
+
+Despite the page's *"1952-1954 founding period"* title, the FBI corpus's section 10 (Sep 1966 - Jun 1977) extends the contactee-movement documentation into a **second institutional phase**: the **post-1965 Adamski-continuation movement** ^[inferred]. George Adamski died in **April 1965** ^[extracted from UFO CONTACT igap journal Vol 2 No 5]; the movement he founded did not dissolve but **transitioned to a co-worker network** centered on:
+
+- **Fred Steckling** (Virginia hotel cook, US co-worker, b. Germany — toured Belgium / Netherlands / Germany / Austria Sep 1966 lecturing on Adamski's continuing space-contact tradition; filmed an *"Armada of about 40 to 50 UFO's"* between Mannheim and Frankfurt on 7 Sep 1966) ^[extracted]
+- **Madeleine Rodeffer** (Washington DC area; filmed Adamski-style "scout-ships" over her own front yard; met with 22 NASA officials in Building A.I. to show G.A.'s and her films; Adamski's *"close associate"*) ^[extracted]
+- **Major H. C. (Hans) Petersen** (Bavnevolden 27, Maaløv, Denmark) — *UFO CONTACT igap journal* responsible publisher / subscriptions ^[extracted]
+- **Ronald Caswell** (309 Carters Mead, Harlow, Essex, England) — *UFO CONTACT igap journal* editor ^[extracted]
+- **IGAP** = *International Get Acquainted Program*, the organizational vehicle Adamski launched and which Petersen/Caswell continued post-1965 ^[extracted]
+
+The movement enters the FBI corpus through **serial 462** (22 Aug 1967) — a letter from **Theodore Gray Hullett** of San Francisco to Hoover, sent as a self-described *"reporter for ufo contact"* who **gives the magazine as a gift to V.I.P.s** as a personal project. ^[extracted] The enclosure is the **entire UFO CONTACT igap journal Vol 2 No 5, June 1967** (~50 OCR pages, printed in Denmark by Lito N.F. 211912 Svendborg). ^[extracted]
+
+The magazine documents structural features of the 1965-1967 Adamski continuation ^[extracted]:
+
+- **The Steckling Belgium tour (Sep 1966)** — Fred and Ingrid Steckling lecture in Antwerp at the home of May Morlet, then The Hague, Frankfurt, Mannheim, Vienna, Linz, Berlin; ~50-60 audience at the Antwerp opening; bank-loan financing the trip; Adamski-tradition narrative carried by hand. ^[extracted]
+- **The NASA visit** — Steckling and Madeleine Rodeffer meet with *"22 NASA officials"* in Building A.I. for 2 hours to show G.A.'s and Rodeffer's films; NASA reportedly tells them privately *"his swamp-gas explanations are nonsense"* regarding **Dr. J. Allen Hynek**'s public stance. ^[extracted]
+- **The Open Letter to Queen Juliana** — full-page open letter to Queen Juliana of the Netherlands (a published-piece in this issue), recalling Adamski's 18 May 1959 Soestdijk Palace audience and offering to brief the Queen on the post-1965 continuation. ^[extracted]
+- **The Petersen "Out of the clear blue sky" essay** — meteorite-fall-as-Cosmos-dust analysis (Oct 1966) extending Adamski-tradition cosmology with chlorophyll-in-interstellar-dust references citing Dr. Fred Johnson at Electro-Optical Systems Pasadena. ^[extracted]
+- **The "Inside The Space Ships" / "Piece For A Jig-saw" cross-references** — Leonard G. Cramp's engineering-grounds analysis of the Adamski scout-craft form. ^[extracted]
+- **The Bob Renaud Korendor radio-contact narrative** — appears in cross-magazine references via the parallel AFSCA *Flying Saucers International* publication (filed at FBI HQ 62-HQ-83894 serial 449). ^[extracted]
+
+The Adamski-continuation magazine is part of a **broader 1966-1967 contactee-movement ecosystem** documented at FBI HQ 62-HQ-83894 in the same ~12-month window:
+
+- **AFSCA *Flying Saucers International* Issue No. 24** (Jul 1966) — filed at serials 448 + 449; 21-named-contactee-speaker roster for the 8-10 Jul 1966 3rd National Convention in Reno NV; Master Kalen-Gi Retso Korendor radio-transmission editorial. See [[entities/amalgamated-flying-saucer-clubs-of-america]].
+- **UFO CONTACT igap journal Vol 2 No 5** (Jun 1967) — filed at serial 462 (this entry); printed in Denmark; Petersen/Caswell editors; Steckling Belgium-tour narrative.
+
+The two magazines represent **two organizational poles** of the post-1965 contactee movement ^[inferred]:
+
+| Feature | AFSCA (Issue 24, Jul 1966) | IGAP UFO CONTACT (Vol 2 No 5, Jun 1967) |
+|---|---|---|
+| Geographic anchor | Los Angeles, California, USA | Maaløv, Denmark + Harlow UK |
+| Publishing model | AFSCA HQ / Gabriel Green | International network / Petersen-Caswell |
+| Convention model | Reno NV 3rd National | Direct-lecture tours (Steckling Belgium 1966) |
+| Founding-figure relation | Bob Renaud-Korendor 1961 radio contact | Adamski-continuation co-worker network |
+| Political framing | Universal Economics / non-money economic system | Soviet-saucer engineering / NASA-coverup-of-Hynek |
+| FBI corpus serial | 448-449 | 462 |
+
+The corpus's **structural observation** ^[inferred]: the contactee movement that crystallized in 1952-1954 around BSRA + IFSB + Adamski + Bethurum did not dissolve when Adamski died in 1965 — it institutionalized into multi-magazine, multi-country networks that maintained the same narrative-and-cosmology framework while exchanging the founding figures for **co-worker successors** (Steckling for Adamski, Petersen/Caswell as editors). The movement's **30-year persistence-without-founders** is a structurally distinctive feature relative to other 1950s civilian-saucer organizations that dissolved with their founders (cf. [[entities/international-flying-saucer-bureau|IFSB]] when [[entities/albert-k-bender|Bender]] withdrew in 1953-1954). ^[inferred]
 
 ## What "contactee" means structurally
 

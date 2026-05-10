@@ -2,13 +2,13 @@
 title: "Larry W. Bryant"
 category: entities
 tags: [uap, person, civilian-research, rhetoric, us-army]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_9.json]
-summary: Department of the Army civilian (later editorial clerk, US Army Transportation School, Fort Eustis VA); long-running civilian UFO-disclosure correspondent / critic; subject of a Second Army G-2 background check after submitting "Let's Challenge the UFO Censors" article (1963).
+sources: [sources/65_hs1-834228961_62-hq-83894_section_9.json, sources/65_hs1-834228961_62-hq-83894_section_10.json]
+summary: Department of the Army civilian (1963 editorial clerk, US Army Transportation School, Fort Eustis VA; by 1974 at Arlington VA); long-running civilian UFO-disclosure correspondent / critic; subject of a Second Army G-2 background check after submitting "Let's Challenge the UFO Censors" article (1963); 1974 records-request resolved Castles-interview date.
 provenance:
   extracted: 0.6
   inferred: 0.37
   ambiguous: 0.03
-base_confidence: 0.55
+base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
@@ -74,13 +74,38 @@ Bryant's writing is the wiki's **earliest primary-source instance** of **civilia
 
 Bryant's later career (post-1966) goes beyond section 9; he became active with **NICAP** ([[entities/nicap]]) and later filed multiple FOIA suits. ^[inferred — based on standard UAP-historiography knowledge] None of that activity is in the section-9 corpus.
 
+## 1974 records-request — section 10 update (serial 481)
+
+On **31 March 1974** Bryant (now at Apartment 2, 2904 South 13th Road, Arlington VA 22204 — i.e., relocated from Newport News VA to the DC suburbs by 1974) writes the FBI Director invoking President Nixon's recent privacy-assurance framing ^[extracted]:
+
+> *"On September 17, 1963, Mr. John S. Castles, an FBI agent of the Newport News, Va. contingent, visited me at my place of employment (Ft. Eustis, Va.) to interview me as to my interest in the subject of unidentified flying objects (UFO's). I understand that Mr. Castles prepared a formal report of that interview.*
+> *Since President Nixon recently has expressed his intention to assure that the privacy and civil liberties of individual citizens receive the protection they deserve under our form of government, it is in the spirit of that assurance that I respectfully request that you send me a copy of Mr. Castles' report along with a copy of all other documents in your files pertaining to my activities in the UFO-research field."*
+
+Bryant cc's the **Director, Washington DC Office, American Civil Liberties Union** ^[extracted].
+
+[[entities/clarence-m-kelley|Director Kelley]]'s 15 Apr 1974 reply ^[extracted]:
+
+> *"In response to your request for information from FBI files regarding your activities in the unidentified flying objects research field, please be advised that we have no such information in our files except copies of prior correspondence with you and a record of your September 17, 1963, interview. Therefore, we have no documents to send to you and cannot further comply with your request."*
+
+The internal NOTE confirms key facts ^[extracted]:
+
+- **Castles interview date: 17 September 1963** — resolving the **section-9 open question** ([[entities/larry-w-bryant#Open Questions|"What was the date of Bryant's interview with SA John S. Castles?"]]) ^[inferred]
+- **Originating Norfolk Field Office airtel: 9/24/63** — the formal FBI report of the interview is at file 62-115530 (FOI-REPLIES bufile).
+- **SA Steve Boyle of the Norfolk Office was contacted** during the FBI's 1974 review.
+- **Reason for the 1963 interview**: *"the interview of Bryant in 1963 was initiated because of voluminous correspondence which Bryant had sent to Federal and military as well as law enforcement agencies."* — confirming the section-9 inferred reading that Bryant's UFO advocacy triggered counterintelligence-adjacent scrutiny because of his Army-civilian status.
+
+The 1974 filing serial is **62-HQ-83894-481** ^[extracted]; the formal FOI reply is bufile **62-115530** ^[extracted]. This is the FBI corpus's **first acknowledged-on-record release of historical FBI correspondence and interview documentation in response to a citizen records request** ^[inferred] — pre-dating the major 1974 FOIA amendments by ~10 months.
+
+Bryant's 1974 letter is structurally the **first FBI-corpus citizen FOIA-style records request invoking Presidential-policy framing as warrant** ^[inferred] — Bryant cites Nixon's privacy assurance (this is months before Nixon's Aug 1974 resignation), pre-figuring the 1974 FOIA-amendment expansion of citizen records access.
+
 ## Open Questions
 
-- **What was the date of Bryant's interview with SA John S. Castles?** ^[open] Not in section 9; presumably in a missing serial (between 402 and 430).
-- **Did the Second Army G-2 background check produce any finding?** ^[open] Section 9 has no follow-up filing.
-- **Did Bryant lose his Army employment over the UFO advocacy?** ^[open] Section 9 ends in 1966; later sections may show.
-- **Where is the actual 1965 article published?** ^[ambiguous] The OCR-degraded date *"WSP 2/5/42"* and the article-text reference to *"submitted to appropriate Defense Department authorities for security review and clearance"* before publication suggest the FBI captured a **pre-publication manuscript copy**, not a published clipping. ^[inferred]
+- ~~**What was the date of Bryant's interview with SA John S. Castles?**~~ **RESOLVED** — 17 September 1963 per Section 10 serial 481 (1974 records-request internal NOTE). ^[extracted]
+- **Did the Second Army G-2 background check produce any finding?** ^[open] Sections 9-10 have no follow-up filing.
+- **Did Bryant lose his Army employment over the UFO advocacy?** ^[open] Section 10 shows him at 2904 South 13th Road Arlington VA in 1974 — relocated from Newport News VA — but does not specify his employment. The Arlington address suggests possible federal-civilian or DC-area role; not confirmable. ^[inferred]
+- **Where is the actual 1965 article published?** ^[ambiguous] Section 10 has no additional context.
 - **What was the title of any of Bryant's *"two previously cleared manuscripts"*?** ^[open]
+- **What's in FBI bufile 62-115530?** ^[open] This is the FOI-REPLIES bufile where Bryant's specific FOI exchange is filed; outside the 62-HQ-83894 file proper.
 
 ## Sources
 

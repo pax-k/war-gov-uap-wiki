@@ -1221,20 +1221,54 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_section_10.json": {
+      "ingested_at": "2026-05-10T00:00:00Z",
+      "size_bytes": 368516,
+      "modified_at": "2026-05-09T13:07:43Z",
+      "content_hash": "sha256:5cab1c8931c722517ebf32c73d5107f4ff03c916c07dc417e5a089fe5519cbf2",
+      "source_id": "fbi-hq-62-83894-section-10",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "fbi-hq-62-83894",
+      "series_position": "16-of-17",
+      "pages_created": [
+        "references/fbi-hq-62-83894-section-10.md",
+        "concepts/project-blue-book-termination-1969.md",
+        "concepts/condon-committee.md",
+        "concepts/post-bb-uap-coordination-question-1977.md",
+        "references/fbi-peyerl-black-forest-1967.md",
+        "references/sighting-dallas-anonymous-eti-1967.md",
+        "references/sighting-milwaukee-fallen-object-1974.md",
+        "references/fbi-cochran-schneider-1977.md",
+        "references/fbi-blue-book-termination-fact-sheet-1977.md"
+      ],
+      "pages_updated": [
+        "entities/fbi-hq-62-83894-file.md",
+        "concepts/three-men-in-black.md",
+        "concepts/contactee-movement-1952-1954.md",
+        "entities/larry-w-bryant.md",
+        "entities/amalgamated-flying-saucer-clubs-of-america.md",
+        "concepts/fbi-saucer-policy-stasis-1958-1962.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-11T03:30:00Z",
-      "sources_ingested": 38
+      "last_ingested": "2026-05-10T00:00:00Z",
+      "sources_ingested": 39
     }
   },
   "stats": {
-    "total_sources_ingested": 44,
-    "total_pages": 284,
+    "total_sources_ingested": 45,
+    "total_pages": 293,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T03:30:00Z"
+    "last_ingest_at": "2026-05-10T00:00:00Z"
   }
 }

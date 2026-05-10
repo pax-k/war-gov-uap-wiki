@@ -2,8 +2,8 @@
 title: "FBI HQ File 62-HQ-83894"
 category: entities
 tags: [fbi, organization, primary-source, archive, uap]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_serial_449.json, sources/65_hs1-834228961_62-hq-83894_serial_164.json, sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_section_3.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_section_4.json, sources/65_hs1-834228961_62-hq-83894_section_7.json, sources/65_hs1-834228961_62-hq-83894_section_8.json, sources/65_hs1-834228961_62-hq-83894_section_9.json, sources/65_hs1-834228961_62-hq-83894_sub_a.json]
-summary: FBI HQ Class-62 UAP-topic file 62-HQ-83894 — opened 6 Jul 1947 in response to AAF saucer-cooperation request; 12-channel accumulator + sub-file A press-shadow; spanning 6 Jul 1947 → 21 Jul 1966; 15 of 17 ingested (sections 1-2-3-4-5-7-8-9, serials 130, 164, 220, 403, 438, 449, sub-A).
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_serial_449.json, sources/65_hs1-834228961_62-hq-83894_serial_164.json, sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_section_3.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_section_4.json, sources/65_hs1-834228961_62-hq-83894_section_7.json, sources/65_hs1-834228961_62-hq-83894_section_8.json, sources/65_hs1-834228961_62-hq-83894_section_9.json, sources/65_hs1-834228961_62-hq-83894_section_10.json, sources/65_hs1-834228961_62-hq-83894_sub_a.json]
+summary: FBI HQ Class-62 UAP-topic file 62-HQ-83894 — opened 6 Jul 1947 in response to AAF saucer-cooperation request; 14-channel accumulator + sub-file A press-shadow; spanning 6 Jul 1947 → 14 Jun 1977 (~30 yrs); 16 of 17 ingested (sections 1-2-3-4-5-7-8-9-10, serials 130, 164, 220, 403, 438, 449, sub-A); section 6 still missing.
 provenance:
   extracted: 0.55
   inferred: 0.42
@@ -12,14 +12,39 @@ base_confidence: 0.9
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T23:55:00Z
-updated: 2026-05-11T03:30:00Z
+updated: 2026-05-10T00:00:00Z
 ---
 
 # FBI HQ File 62-HQ-83894
 
 A large, multi-year **FBI Headquarters file** under Class **62** (the FBI's catch-all *"administrative miscellaneous"* classification). ^[inferred] Indexed and serialized at FBI HQ in Washington — distinct from the field-office 100-class case files in the wiki's existing FBI corpus (e.g. Detroit `100-26505`, Detroit `100-18221`). ^[inferred] Note however that **at least one serial (449) is dual-classified** — simultaneously held under an LA-side Class-100 organizational counterintelligence file (`100-24442-40`) and the HQ-side Class-62 admin-misc filing — so the HQ-vs-100-class distinction is **not absolute** for individual serials in this file. ^[inferred] Declassification of the file's content is *"derived from the FBI Automatic Declassification Guide, issued 24 May 2007"*. ^[extracted]
 
-This page is the **parent-file hub** for a planned **17-serial wiki ingest series**. **Fifteen artifacts are now ingested**: **section 1 (serials 1-52, 6 Jul - 12 Sep 1947)**, **section 2 (serials 53-100, ~6 Aug - 17 Sep 1947)**, **section 3 (serials 101-130, ~14 Aug - 9 Oct 1947)**, **section 4 (serials ~113-185, Oct 1947 - mid 1949)**, **section 5 (serials 186-245, 15 Jul 1949 - 8 Sep 1950)**, **section 7 (serials 302-343, 9 Aug 1952 - 27 Jun 1954)**, **section 8 (serials 344-384, 22 Jul 1954 - 7 Nov 1957)**, **section 9 (serials 385-447, 14 Nov 1957 - 21 Jul 1966 — this batch)**, serial 130 (12 Sep 1947 ADC Mitchel Field AFBIR-CO compilation), serial 164 (15 Feb 1949 Cabell AIRMEM #4, 17 carbon copies), serial 220 (Apr 1950), serial 403 (1956 artifact, 2022 DIPA release), serial 438 (8 May 1964 Albuquerque report on Socorro NM — also retained in section 9), serial 449 (3 Oct 1966 LA SAC AFSCA-magazine memo), and **sub-file A (Vol 1, Serial 1 OPEN, 5 Jul 1947 - 25 May 1959 press-clippings appendix)**. The remaining 2 sections (6, 10) will be ingested in subsequent passes.
+This page is the **parent-file hub** for a planned **17-serial wiki ingest series**. **Sixteen artifacts are now ingested**: **section 1 (serials 1-52, 6 Jul - 12 Sep 1947)**, **section 2 (serials 53-100, ~6 Aug - 17 Sep 1947)**, **section 3 (serials 101-130, ~14 Aug - 9 Oct 1947)**, **section 4 (serials ~113-185, Oct 1947 - mid 1949)**, **section 5 (serials 186-245, 15 Jul 1949 - 8 Sep 1950)**, **section 7 (serials 302-343, 9 Aug 1952 - 27 Jun 1954)**, **section 8 (serials 344-384, 22 Jul 1954 - 7 Nov 1957)**, **section 9 (serials 385-447, 14 Nov 1957 - 21 Jul 1966)**, **section 10 (serials 448-486, 6 Sep 1966 - 14 Jun 1977 — this batch)**, serial 130 (12 Sep 1947 ADC Mitchel Field AFBIR-CO compilation), serial 164 (15 Feb 1949 Cabell AIRMEM #4, 17 carbon copies), serial 220 (Apr 1950), serial 403 (1956 artifact, 2022 DIPA release), serial 438 (8 May 1964 Albuquerque report on Socorro NM — also retained in section 9), serial 449 (3 Oct 1966 LA SAC AFSCA-magazine memo), and **sub-file A (Vol 1, Serial 1 OPEN, 5 Jul 1947 - 25 May 1959 press-clippings appendix)**. The remaining 1 section (6) will be ingested in a subsequent pass. With section 10 ingested, the file's **effective accumulation span is now 6 Jul 1947 → 14 Jun 1977 (~30 years)** ^[inferred] — section 6 (serials 246-301) sits in the **Sep 1950 → Aug 1952 gap** between sections 5 and 7 and will not extend the bounds. ^[inferred]
+
+## HEADLINE — section 10 documents Project Blue Book termination (Dec 1969) + the Carter-era post-BB coordination question (Jun 1977) — the file's effective terminus
+
+**Section 10 (this batch)** is the file's **longest single span and effective terminus** ^[inferred] — 184 OCR pages span **6 Sep 1966 → 14 Jun 1977** (~10 yr 9 mo), covering serials **448-486**. ^[extracted] **Five paradigm-defining strands** added: ^[inferred]
+
+1. **The 1969 Blue Book termination is filed back into the file 7 years later** — via the **[[references/fbi-blue-book-termination-fact-sheet-1977|McClanahan-Moore 1977 exchange]]** (serials 483-484), the canonical FBI-side primary-source artifact of the 17 Dec 1969 closure. See [[concepts/project-blue-book-termination-1969]] (NEW).
+2. **The Condon Committee 1966-1968 enters the file as press echo only** — Newsweek clippings at serials 451 + 455 + LA Times wire at 456 + NICAP-Colorado-Project mention at 465; **no actual Condon Report (Jan 1969) is filed**. See [[concepts/condon-committee]] (NEW).
+3. **The Carter-era White House → FBI coordination question** — 14 Jun 1977 Schneider (OSTP) → Cochran (FBI Tech Services); Jody Powell's question about Executive-Branch UFO coordination; first **post-Blue-Book executive-branch coordination question** in the FBI corpus. See [[references/fbi-cochran-schneider-1977]] (NEW) + [[concepts/post-bb-uap-coordination-question-1977]] (NEW).
+4. **The MIB myth matures into a reflexive citizen-FBI query** — Larry Stephens 1969 (serial 473) writes the FBI asking *whether the FBI is the MIB* — and three Canadian children (Brassington / Smith / Hargreaves, serial 475) ask the FBI to confirm or deny a magazine photo of *"two FBI agents leading a person from outer space down the street"*. See [[concepts/three-men-in-black]] (UPDATED).
+5. **The post-Hoover regime transition** — Hoover's signature appears through May 1969 (serial 473); by 1973 (Ron Fraide letter at serial 480) the signing Director is [[entities/clarence-m-kelley|Clarence M. Kelley]], and by 1977 the External Affairs AD ([[entities/donald-w-moore-jr|Donald W. Moore Jr.]]) signs Blue Book replies — form-letter functions distributed across multiple Asst Directors. ^[inferred]
+
+**Two structurally novel intake channels** added by section 10 ^[inferred]:
+
+- **(l) Post-Blue-Book Fact-Sheet enclosure** — OSI-channel transmittal of the 1969-termination Fact Sheet back into the FBI file in 1977. ^[inferred]
+- **(m) White-House coordination inquiry** — EOP/OSTP → FBI inquiry on inter-agency UFO coordination. ^[inferred]
+
+The intake-channel inventory grows from **12 to 14** ^[inferred]. The annual self-review chain (channel (h)) introduced in section 9 **does NOT resume** in section 10 ^[inferred] — the [[concepts/fbi-saucer-policy-stasis-1958-1962|policy stasis]] reviews terminate at 1962 and do not restart after Blue Book closes.
+
+Additional section-10 paradigm content:
+
+- **The Peyerl Black-Forest WW2 saucer disclosure** (serial 460, Jun 1967) — first FBI-corpus walk-in saucer disclosure tied to WW2 German aerospace engineering. See [[references/fbi-peyerl-black-forest-1967]] (NEW).
+- **The Dallas Anonymous Informant ETI claims** (serial 464, Oct 1967) — first FBI-corpus walk-in claim of *active ongoing telepathic ETI contact* + DEW Line shootdown narrative. See [[references/sighting-dallas-anonymous-eti-1967]] (NEW).
+- **The Milwaukee fallen-object case** (serial 482, Aug 1974) — second physical-object recovery in the FBI corpus + first NMCC-to-FBI direct routing. See [[references/sighting-milwaukee-fallen-object-1974]] (NEW).
+- **Bryant 1974 records-request resolution** (serial 481) — confirms the **17 Sep 1963 Castles-Newport-News interview** date, closing the section-9 open thread. UPDATE [[entities/larry-w-bryant]].
+- **The post-1965 Adamski-continuation movement** (serial 462, ~50 OCR pages of *UFO CONTACT igap journal* Vol 2 No 5, Jun 1967) — extends [[concepts/contactee-movement-1952-1954|the contactee-movement concept page]] with the Steckling Belgium tour + Madeleine Rodeffer NASA visit + Petersen "Out of the clear blue sky" + Open Letter to Queen Juliana. ^[extracted]
 
 ## HEADLINE — section 9 adds the SPUTNIK-ERA REACTIVATION + the MIB myth filed back into the file + the 1958-1962 policy-stasis annual reviews + the SOCORRO landing case in sequential filing
 

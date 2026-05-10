@@ -2,8 +2,8 @@
 title: "FBI Saucer-Policy Stasis (1958-1962 Annual Reviews)"
 category: concepts
 tags: [uap, fbi, policy, institutional, pattern]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_9.json]
-summary: The 1958-1962 cadence of near-verbatim annual FBI internal memos (Sanders 1958, Donahoe 1960, Donahoe 1961, Wannall 1962) confirming that no Handbook update is needed and that BB-57 of Oct 1947 + AF assurance of 11/12/57 remain the standing policy.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_9.json, sources/65_hs1-834228961_62-hq-83894_section_10.json]
+summary: The 1958-1962 cadence of near-verbatim annual FBI internal memos (Sanders 1958, Donahoe 1960, Donahoe 1961, Wannall 1962) confirming that no Handbook update is needed and that BB-57 of Oct 1947 + AF assurance of 11/12/57 remain the standing policy — the chain terminates after 1962 and does NOT resume after 1969 Blue Book closure.
 provenance:
   extracted: 0.6
   inferred: 0.37
