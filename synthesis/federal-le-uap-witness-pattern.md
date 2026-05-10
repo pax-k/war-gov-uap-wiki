@@ -2,17 +2,17 @@
 title: "Federal LE Agents as UAP Witnesses: a Witnessing Pattern"
 category: synthesis
 tags: [uap, analysis, witness, federal-le]
-sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, fbi-detroit-100-26505-100-de-26505]
-summary: Cross-cutting analysis of why trained government-affiliated witnesses (federal LE, intel officials, multi-sensor crews, contractor drone pilots, on-site test/range supervisors) sit structurally above typical civilian UAP reports as evidence — and where they still fail.
+sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, fbi-detroit-100-26505-100-de-26505, sources/65_hs1-834228961_62-hq-83894_serial_438.json]
+summary: Cross-cutting analysis of why trained government-affiliated witnesses (federal LE, intel officials, multi-sensor crews, contractor drone pilots, on-site test/range supervisors) sit structurally above typical civilian UAP reports as evidence — and where they still fail. With sister-case extension to local LE under federal-LE-recording-authority (1964 Socorro NM Zamora).
 provenance:
   extracted: 0.3
   inferred: 0.65
   ambiguous: 0.05
 base_confidence: 0.55
 lifecycle: draft
-lifecycle_changed: 2026-05-09
+lifecycle_changed: 2026-05-10
 created: 2026-05-09T13:33:54Z
-updated: 2026-05-09T18:00:00Z
+updated: 2026-05-10T00:00:00Z
 ---
 
 # Federal LE Agents as UAP Witnesses: a Witnessing Pattern
@@ -46,6 +46,27 @@ These are *generalizations*, not guarantees: ^[inferred]
 - **Range and size estimation in bare eye, especially at dusk and pre-dawn.** The [[references/sighting-fiery-orb-western-us|Fiery Orb]] event showed the witnesses underestimated range by ~half (500–600 m vs. AARO's ~1050 m) and underestimated diameter by ~5–6× ("small helicopter cockpit" vs. 12–18 m). Training does not fix human angular-size and atmospheric-perspective heuristics.
 - **3D shape inference from limited-aspect observation.** The [[references/sighting-dark-kite-western-us|Dark Kite]] event has three coexisting shape descriptors (thin line, rounded-edge kite, triangular) for **the same object** — see [[concepts/transparent-uap]] for why thin-aspect or partially transparent objects defeat shape inference.
 - **Causation of cross-event identity.** That events 1–4 happened in the same general area within a short window does not mean a single phenomenon produced all four. ^[inferred]
+
+## Sister case: 1964 Socorro NM Zamora — local LE as witness, federal LE (FBI) as recording authority
+
+The April 1964 [[references/sighting-socorro-nm-1964-04-24|Lonnie Zamora landing at Socorro NM]] is structurally **adjacent to but distinct from** the trained-observer-as-federal-LE pattern: ^[inferred]
+
+- The **witness** is **local LE** (Socorro PD officer with ~5 years tenure) — not a federal agent, not an intel-mission crew, not a contracted technical operator.
+- The **recording authority** is **federal LE** ([[entities/d-arthur-byrnes-jr|FBI SA D. Arthur Byrnes Jr.]], Albuquerque field office) — same agency-class as the 2023 FD-302 anchor and the 1957 [[references/fbi-detroit-100-26505-krasuski-1957|Krasuski]] case.
+- The **trace-corroboration cohort** is **multi-tier LE**: 1 FBI SA + 2 NMSP officers (Sgt M. S. Chavez, Officer Ted Jordan) + 1 county undersheriff (Jim Luckie) — i.e. **federal LE, state LE, and county LE** all on-scene within ~30 minutes of the event, jointly observing the four landing-leg depressions + three burned grass clumps + three smooth circular indents. ^[extracted]
+
+Zamora himself is single-witness for the **object** (and for the two figures in white coveralls), but the **physical traces** are **multi-witness corroborated** by trained-observer LE personnel. ^[inferred] This is a hybrid configuration the synthesis's three primary anchors do not capture: ^[inferred]
+
+- **Object**: single-witness local LE (Zamora);
+- **Traces**: multi-witness federal + state + county LE (Byrnes + Chavez + Jordan + Luckie).
+
+What the 1964 case adds to the synthesis:
+
+1. **Pre-existing trust relationships strengthen credibility notes**. SA Byrnes had known Zamora *"intimately for approximately five years"* prior to the sighting and entered an explicit on-record character note (*"sober, industrious, and conscientious officer and not given to fantasy"*). This is **structurally stronger** than the 1957 stranger-evaluator note (Rathbun ↔ Krasuski) because it draws on out-of-incident behavioral observation. ^[inferred]
+2. **Same-day on-site agent presence** is a third entry-path model alongside the WH-routed letter (1957) and the multi-agency-AARO-era pipeline (2023). The **same-physical-location-and-time accident** that put Byrnes thirty feet down the hall from the Sheriff radio operator at the moment of the call gave the FBI on-scene presence within ~15 minutes — operationally fast.
+3. **Physical traces are multi-witness even when the object is single-witness**. The Hamel MN 1948 anchor [[references/sighting-hamel-mn-1948-08]] is the closest precedent (1 SIGN field agent corroborates 1 ground depression after a single-witness child-class observation), but the Socorro trace cohort is **larger and more institutionally diverse** (federal + state + county LE, vs. SIGN field agent + postmaster).
+
+The 1964 case **is not a federal-LE-as-witness case** — it is a **local-LE-as-witness case with federal-LE-as-recording-authority and multi-tier-LE-as-trace-corroborators**. Promoting Zamora to the trained-observer-as-witness anchor list would dilute the synthesis's structural claim. ^[inferred]
 
 ## Sister case: 1957 Krasuski — when an FBI sit-down interview replaces FD-302
 
@@ -98,6 +119,10 @@ This synthesis page should be revisited every time a trained-observer-witnessed 
 - [[entities/aaro]]
 - [[entities/fbi]]
 - [[references/fbi-detroit-100-26505-krasuski-1957]] — sister 1957 FBI case (immigrant DP witness, 13-year-delayed recall, Director-driven sit-down interview)
+- [[references/sighting-socorro-nm-1964-04-24]] — sister 1964 FBI case (local LE as witness, federal LE recording, multi-tier LE trace corroboration)
+- [[references/fbi-hq-62-83894-serial-438]] — the FBI Albuquerque report on the Socorro case
+- [[entities/lonnie-zamora]]
+- [[entities/d-arthur-byrnes-jr]]
 - [[entities/wladyslaw-krasuski]]
 - [[entities/robert-cutler]]
 - [[references/sighting-gut-alt-golssen-1944]]

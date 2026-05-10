@@ -808,18 +808,46 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_serial_438.json": {
+      "ingested_at": "2026-05-10T00:00:00Z",
+      "size_bytes": 50055,
+      "content_hash": "sha256:535bc1d82a02413946d55fc808c41466c4d118ecb0e258726225245e8606a455",
+      "source_id": "fbi-hq-62-83894-serial-438-1964",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "signal_class": "structurally-novel-counter-example",
+      "series": "fbi-hq-62-83894",
+      "series_position": "3-of-17",
+      "pages_created": [
+        "references/fbi-hq-62-83894-serial-438.md",
+        "references/sighting-socorro-nm-1964-04-24.md",
+        "entities/lonnie-zamora.md",
+        "entities/d-arthur-byrnes-jr.md"
+      ],
+      "pages_updated": [
+        "entities/fbi-hq-62-83894-file.md",
+        "entities/fbi.md",
+        "synthesis/federal-le-uap-witness-pattern.md",
+        "projects/uap/uap.md",
+        "_meta/taxonomy.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T23:58:00Z",
-      "sources_ingested": 29
+      "last_ingested": "2026-05-10T00:00:00Z",
+      "sources_ingested": 30
     }
   },
   "stats": {
-    "total_sources_ingested": 31,
-    "total_pages": 184,
+    "total_sources_ingested": 32,
+    "total_pages": 188,
     "total_projects": 1,
     "last_full_rebuild": null
   }
