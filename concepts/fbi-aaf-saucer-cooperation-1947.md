@@ -3,17 +3,17 @@ title: "FBI-AAF Saucer Cooperation Arrangement (1947)"
 category: concepts
 tags: [uap, fbi, usaaf, policy, 1947]
 aliases: [Schulgen-Reynolds-Ladd cooperation arrangement, FBI saucer cooperation regime, FBI-AAF disc cooperation, 1947 FBI saucer policy]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_section_5.json]
-summary: The Jul-Sep 1947 institutional arrangement under which the FBI investigated first-witness sincerity for AAF disc reports, conditional on full FBI access to recovered discs — codified in Bureau Bulletin No. 42, terminated by the Bureau ~Oct 1947 (BB57).
+sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_section_4.json, sources/65_hs1-834228961_62-hq-83894_section_5.json]
+summary: The Jul-Sep 1947 institutional arrangement under which the FBI investigated first-witness sincerity for AAF disc reports, conditional on full FBI access to recovered discs — codified in Bureau Bulletin No. 42, terminated by Bureau Bulletin No. 57 (1 Oct 1947); termination was operationally nonlinear (USAF resistance Feb 1948, selective non-application Dec 1948, partial reactivation Mar 1949).
 provenance:
-  extracted: 0.7
-  inferred: 0.27
+  extracted: 0.72
+  inferred: 0.25
   ambiguous: 0.03
-base_confidence: 0.7
+base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T16:30:00Z
+updated: 2026-05-10T18:00:00Z
 ---
 
 # FBI-AAF Saucer Cooperation Arrangement (1947)
@@ -38,7 +38,10 @@ The institutional bargain negotiated between **FBI HQ and Army Air Forces Intell
 | **30 Aug 1947** | **Hoover Fugate-block teletype** — first formal FBI rejection of joint AAF investigation under BB42, on the Rhodes Phoenix interview. ^[extracted] By the time the teletype reaches Phoenix, the joint interview has already happened. ^[extracted] | section 2 serial 68; see [[references/sighting-rhodes-phoenix-1947-07-07]] |
 | **5 Sep 1947** | **[[entities/george-f-schulgen\|Schulgen]] formal letter to Hoover** (declassified NND 90986): "*a complete survey of research activities discloses that the Army Air Forces has no project with the characteristics similar to those which have been associated with the Flying Discs.*" ^[extracted] | section 2 serial 84 |
 | **~22 Sep 1947** | **THE GARRETT ADMISSION** — Lt Col Garrett tells Reynolds his **personal opinion** is that flying discs are a **highly classified US Government experiment** and that scientist "Mr. Carroll" agrees. ^[extracted] Reynolds escalates to Forney, who confirms with Generals Chamberlin and Todd that the Army runs no such project. Garrett raises with Schulgen who agrees a memo will go from McDonald (A2) to LeMay (R&D). ^[extracted] | section 2 serials 86 + 87 |
-| **~1 Oct 1947** | **BUREAU BULLETIN NO. 57** — Hoover formally terminates FBI saucer investigation ~9 weeks after BB42 opened it; explicitly references handing the topic to the Air Force. ^[inferred] BB57 itself is not yet ingested but referenced from [[references/fbi-hq-62-83894-section-5\|section 5]] serial 206 (Hoover→Denver SAC reply 10 Mar 1950: *"Re Bureau Bulletin Number Five Seven dated October One, Nineteen Fortyseven in captioned matter. NO FURTHER ACTION DESIRED."*) ^[extracted] | **62-83894-141-160** (queued section 3-4); see [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] |
+| **~1 Oct 1947** | **[[references/fbi-bureau-bulletin-57-1947\|BUREAU BULLETIN NO. 57]]** — Hoover formally terminates FBI saucer investigation ~9 weeks after BB42 opened it. ^[extracted] Cited verbatim **four times** in [[references/fbi-hq-62-83894-section-4\|section 4]] (pages 34, 38, 117, 124): *"all future reports connected with flying discs should be referred to the Air Force and no investigative action taken by Bureau agents"*. ^[extracted] Bulletin itself is not yet recovered as a primary document — content is reconstructed from these citations. ^[inferred] | section-4 pages 34 + 38 + 117 + 124; section-5 serial 206 + 212 |
+| **4 Feb 1948** | **[[references/adc-stratemeyer-flying-disc-1948-02-04\|ADC HQ Mitchel Field by command of Lt Gen Stratemeyer]]** issues *"Investigation and Reporting of 'Flying Disc' Incidents"* directing AF Commanding Generals to **coordinate disc investigations with the FBI Office concerned** — directly contradicts BB-57. ^[extracted] SAC SF Kimball flags conflict; Hoover (via Keay/Reynolds memo, 1 Mar 1948) reaffirms BB-57 still applies; AF Lt Col C. P. Martin agrees ADC was *"not aware that the Bureau was no longer conducting investigations regarding flying discs"*. ^[extracted] | section-4 pages 34, 36, 38, 40 |
+| **27-28 Dec 1948** | **[[references/sighting-noack-helendale-1948-12\|Noack Houston disc-recovery dispatch]]** — Inspector [[entities/h-b-fletcher\|H. B. Fletcher]] **actively dispatches** Houston SAC + LA SAC to recover, photograph, and *guard* a possible flying-disc artifact in Helendale CA, **14 months after BB-57**. ^[extracted] LA SAC Hood resolves within 5.5 hours: artifact is an Olson and Rice Manufacturing tow-target prototype. The case shows **operational selectivity in BB-57's enforcement**: under conditions of imminent physical recovery + film evidence + AF/OSI on-scene, the FBI selectively investigated. ^[inferred] | section-4 pages 81, 88-98, 122 |
+| **25 Mar 1949** | **[[references/fbi-sac-letter-38-1949\|SAC Letter No. 38, Series 1949]]** — Hoover-signed all-SAC directive **partially reactivates** FBI saucer information-gathering: *"although no active investigation will be conducted by the Bureau, it is believed that the captioned matter is of sufficient importance to the internal security of the country that our field offices should secure as much information as possible from complainants in order to assist the Department of the Air Force"*. ^[extracted] Attaches [[references/fbi-hq-62-83894-serial-164\|Cabell AIRMEM #4]]; cites [[entities/c-d-gasser\|Col Gasser/Oak Ridge]] as the *"reliable and confidential source"* behind the "Russian missile / northerly trajectory" institutional posture. Drafted by Fletcher. | section-4 pages 117, 124 |
 | Dec 1949 | **AF press release announcing Project [[concepts/project-grudge\|GRUDGE]] termination, "concurred in by Army and Navy"** — closes the regime from the AF side. ^[extracted] | [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] |
 | **28 Mar 1950** | **Boggs-Hearn memo confirms BOTH the FBI (Oct 1947) AND AF (Dec 1949) terminations** to Reynolds via Ladd to Hoover. ^[extracted] The cooperation regime is structurally dead by ~32 months after its founding. ^[inferred] | [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28\|section 5 serial 212]] |
 
@@ -87,9 +90,16 @@ Section 2 of the file ([[references/fbi-hq-62-83894-section-2|serials 53-100]]) 
 
 Together these three events show the cooperation regime running **doctrinally** while **eroding operationally** — not termination, but **competitive-channel friction** combined with **internal AAF credibility collapse on the prosaic-explanation hypothesis**. ^[inferred] The two paradigm-defining doctrinal pivots that emerge from the Sep 1947 reckoning — **Twining's 23 Sep 1947 AMC memo** ("real and not visionary or fictitious") and **Project SIGN's establishment** — both happen ~outside the FBI corpus per se but are **directly downstream of the Garrett-Schulgen-Reynolds chain captured in section 2**. ^[inferred]
 
-## Termination
+## Termination — REVISED, the 4-beat post-BB-57 nonlinear arc
 
-The arrangement is **silently superseded** rather than formally rescinded. ^[inferred] The Cabell directives of 27 Feb 1948 (10-element template) and 15 Feb 1949 ([[concepts/flying-disc-reporting-protocol|AIRMEM #4]]) shift the inter-agency framework to a Cabell-axis-routed structure, with the FBI's role narrowing to *"FBI records"* as a witness-credibility source explicitly named in AIRMEM #4 Part II. ^[extracted] The Schulgen-Reynolds-Ladd channel of 1947 thus mutates into the witness-credibility-pull channel of 1949 — without intermediate doctrinal closure. ^[inferred] Section 2's evidence (above) shows the **operational decay had already begun within 6 weeks of BB42's issuance** — by mid-Sep 1947, both sides recognized the regime's structural problem (FBI investigating something the AAF privately suspects is its own project) without formally addressing it. ^[inferred]
+Section 4 (this batch) **complicates the prior "silently superseded" framing**: the cooperation-regime termination is **operationally nonlinear**, not absolute. ^[inferred] The 4-beat arc is:
+
+1. **Termination (1 Oct 1947)** — [[references/fbi-bureau-bulletin-57-1947|BB-57]] issued. All future disc reports referred to AF; no investigative action by FBI agents.
+2. **USAF resistance (4 Feb 1948)** — [[references/adc-stratemeyer-flying-disc-1948-02-04|Stratemeyer ADC letter]] directs AF Commanding Generals to coordinate with FBI; Hoover reaffirms BB-57 within 3 weeks. AF agrees Mitchel Field "not aware" of the Bureau's exit.
+3. **Operational selectivity (27-28 Dec 1948)** — Inspector [[entities/h-b-fletcher|Fletcher]] actively dispatches Houston + LA SACs on the [[references/sighting-noack-helendale-1948-12|Noack disc-recovery]] *14 months* after BB-57. The case resolves as a tow kite within 5.5 hours, but the FBI's operational stance was **not** "refuse to investigate".
+4. **Partial reactivation (25 Mar 1949)** — [[references/fbi-sac-letter-38-1949|SAC Letter No. 38]] formalizes a passive-reception posture: no investigation, but field offices gather voluntary tips for the AF using the Cabell AIRMEM #4 EEI schema.
+
+The Cabell directives of 27 Feb 1948 (10-element template) and 15 Feb 1949 ([[concepts/flying-disc-reporting-protocol|AIRMEM #4]]) shift the inter-agency framework to a Cabell-axis-routed structure, with the FBI's role narrowing to *"FBI records"* as a witness-credibility source explicitly named in AIRMEM #4 Part II. ^[extracted] The 25 Mar 1949 SAC Letter No. 38 carries Cabell AIRMEM #4 to all FBI field offices as the operational EEI for voluntary tip-gathering. ^[extracted] The Schulgen-Reynolds-Ladd channel of 1947 thus mutates through three intermediate states — termination (Oct 1947) → resistance (Feb 1948) → selectivity (Dec 1948) → partial reactivation (Mar 1949) — into the routing-only post-1949 pattern visible in [[references/fbi-hq-62-83894-section-5|section 5]]. ^[inferred] Section 2's evidence shows the **operational decay had already begun within 6 weeks of BB42's issuance** — by mid-Sep 1947, both sides recognized the regime's structural problem (FBI investigating something the AAF privately suspects is its own project). ^[inferred]
 
 ## Open threads
 
@@ -99,7 +109,14 @@ The arrangement is **silently superseded** rather than formally rescinded. ^[inf
 
 ## See also
 
-- [[references/fbi-hq-62-83894-section-5]] — empirical source for the BOTH-SIDES-TERMINATED confirmation (Mar 1950) **(NEW)**
+- [[references/fbi-hq-62-83894-section-4]] — **paradigm-defining empirical source for the 4-beat post-BB-57 nonlinear arc (this batch)** **(NEW)**
+- [[references/fbi-bureau-bulletin-57-1947]] — **the directive that closes the regime (this batch — promoted from inferred to extracted)** **(NEW)**
+- [[references/fbi-sac-letter-38-1949]] — **the partial-reactivation directive (this batch)** **(NEW)**
+- [[references/adc-stratemeyer-flying-disc-1948-02-04]] — **the AF-side resistance event (this batch)** **(NEW)**
+- [[references/sighting-noack-helendale-1948-12]] — **the operational-selectivity case (this batch)** **(NEW)**
+- [[entities/h-b-fletcher]] — **the FBI Inspector who runs both Noack dispatch and SAC Letter 38 drafting (this batch)** **(NEW)**
+- [[entities/c-d-gasser]] — **the Mar 1949 "reliable confidential source" (this batch)** **(NEW)**
+- [[references/fbi-hq-62-83894-section-5]] — empirical source for the BOTH-SIDES-TERMINATED confirmation (Mar 1950)
 - [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] — the paradigm-defining 28 Mar 1950 confirmation memo (NEW)
 - [[concepts/project-grudge]] — AF-side terminus (Dec 1949) **(NEW)**
 - [[references/fbi-hq-62-83894-section-2]] — the empirical source for operational erosion (Aug-Sep 1947)

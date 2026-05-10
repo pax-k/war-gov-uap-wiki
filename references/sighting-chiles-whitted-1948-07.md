@@ -3,17 +3,17 @@ title: Sighting — Chiles–Whitted EAL DC-3 Encounter (24 Jul 1948)
 category: references
 tags: [uap, sighting, aviation, 1948, morphology]
 aliases: [Chiles Whitted 1948, Eastern Air Lines cigar 1948, Inc 144]
-sources: [sources/38_143685_box7_incident_summaries_101-172.json]
-summary: 24 Jul 1948 0245 close approach of a 100-ft cigar-shaped object with red-orange flame trail and blue underbelly glow toward an Eastern Air Lines DC-3 over Montgomery AL — Project SIGN Inc 144, an engagement-class precursor to the Andrews 1948 case.
+sources: [sources/38_143685_box7_incident_summaries_101-172.json, sources/65_hs1-834228961_62-hq-83894_section_4.json]
+summary: 24 Jul 1948 0245 close approach of a 100-ft cigar-shaped object with red-orange flame trail and blue underbelly glow toward an Eastern Air Lines DC-3 over Montgomery AL — Project SIGN Inc 144, engagement-class precursor to Andrews; subsequently flagged in 31 Jan 1949 SAC San Antonio Vital-Installations memo as institutional reference case.
 provenance:
   extracted: 0.85
   inferred: 0.13
   ambiguous: 0.02
-base_confidence: 0.7
+base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T18:00:00Z
-updated: 2026-05-09T18:00:00Z
+updated: 2026-05-10T18:00:00Z
 ---
 
 # Sighting — Chiles–Whitted EAL DC-3 Encounter (24 Jul 1948)
@@ -71,8 +71,20 @@ The 25-field "Check-List Unidentified Flying Objects" form is at OCR page 113 of
 - The "Mr McKelvis" passenger witness — who was he? The form lists "Occupation - N/S". Tracking him would resolve whether this was an unsolicited passenger or an EAL-deadhead pilot. ^[ambiguous]
 - Did Project SIGN later evaluate Chiles–Whitted as a misidentified meteor (the position commonly attributed to [[entities/lincoln-la-paz|La Paz]] and J. Allen Hynek in later historiography)? The 101–172 bundle does not contain such an evaluation memo — that analysis is post-bundle. ^[inferred]
 
+## NEW (this batch) — institutional propagation in FBI HQ 62-83894 section 4
+
+[[references/fbi-hq-62-83894-section-4|Section 4 of FBI HQ 62-83894]] preserves three section-4 datapoints that extend the institutional propagation of the Chiles-Whitted case into 1949: ^[extracted]
+
+1. **31 Jan 1949 SAC San Antonio Vital-Installations memo** ([[references/fbi-san-antonio-vital-installations-1949|page 114]]): paraphrased account — *"In July 1948 an unidentified aircraft was 'seen' by an Eastern Airlines Pilot and Co-Pilot and one or more passengers of the Eastern Airlines Plane over Montgomery, Alabama. This aircraft was reported to be of an unconventional type without wings and resembled generally a 'rocket ship' of the type depicted in comic strips. It was reported to have had windows; to have been larger than the Eastern Airlines plane, and to have been traveling at an estimated speed of 2700 miles an hour."* ^[extracted] **Promotes Chiles-Whitted to a Vital-Installations-grade institutional reference** — i.e. by Jan 1949 the case is cited at the G-2 / ONI / OSI / FBI Weekly Intelligence Conference level as a paradigm UAP datapoint. ^[inferred]
+2. **27 Jul 1948 Atlanta Journal news clipping** filed in section 4 (page 178): *"Sky Devil-Ship Scares Pilots; Air Chief Wishes He Had One"* by William Key — interview-narrative coverage of the case with attached photograph of "EAL FLIERS DESCRIBE WINGLESS AIRCRAFT — Copilot John Whitted and Capt. C. S. Chiles". ^[extracted] **First wiki primary-source capture of contemporaneous press coverage** of Chiles-Whitted — the *Atlanta Journal* covered the case the day after the sighting.
+3. **27 Jul 1948 Atlanta Journal additional clipping** (page 180): *"'Flying Floor Lamp' Again Sighted Here"* — additional Atlanta-area sightings of *"red floor lamp"* + *"great balls of fire"* objects same week as Chiles-Whitted, at least 15 other Atlanta witnesses; some Richmond VA witnesses report **the same flame-spurting sky monster**. ^[extracted] Suggests the Chiles-Whitted Montgomery encounter may have been part of a **broader Southeast US wave** in late July 1948 — not yet documented elsewhere in the wiki corpus. ^[inferred]
+
+The 27 Jul 1948 Atlanta Journal clippings being preserved in FBI HQ 62-83894 (rather than just SIGN files) confirms that **press-coverage retention** was already an active 62-HQ-83894 intake channel by mid-1948, complementing the post-1947 civilian-mass-correspondence channel. ^[inferred]
+
 ## See also
 
+- [[references/fbi-hq-62-83894-section-4]] — **section preserving Atlanta Journal coverage + 31 Jan 1949 SAC SA institutional cite (this batch)** **(NEW)**
+- [[references/fbi-san-antonio-vital-installations-1949]] — **31 Jan 1949 paraphrase of Chiles-Whitted (this batch)** **(NEW)**
 - [[references/project-sign-incident-summaries-101-172]] — bundle preserving Inc 144
 - [[concepts/uap-aircraft-engagement]] — Chiles–Whitted is now the corpus's earliest 1948 engagement-class event
 - [[references/sighting-andrews-1948-11]] — 18 Nov 1948 Andrews AFB pursuit (later 1948 engagement-class event)

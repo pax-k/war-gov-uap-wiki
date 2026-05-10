@@ -2,24 +2,45 @@
 title: "FBI HQ File 62-HQ-83894"
 category: entities
 tags: [fbi, organization, primary-source, archive, uap]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_serial_449.json, sources/65_hs1-834228961_62-hq-83894_serial_164.json, sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/65_hs1-834228961_62-hq-83894_section_5.json]
-summary: FBI HQ Class-62 (admin misc) UAP-topic file 62-HQ-83894 — opened 6 Jul 1947 in direct response to the AAF saucer-cooperation request; 9-channel accumulator spanning 6 Jul 1947 → Oct 1966; 17-serial wiki ingest series, 9 of 17 ingested (sections 1-2-5 + serials 130, 164, 220, 403, 438, 449).
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_serial_449.json, sources/65_hs1-834228961_62-hq-83894_serial_164.json, sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_section_4.json]
+summary: FBI HQ Class-62 UAP-topic file 62-HQ-83894 — opened 6 Jul 1947 in response to AAF saucer-cooperation request; 10-channel accumulator spanning 6 Jul 1947 → Oct 1966; 10 of 17 ingested (sections 1-2-4-5, serials 130, 164, 220, 403, 438, 449); BB-57 termination back-reference now CLOSED.
 provenance:
-  extracted: 0.45
-  inferred: 0.50
+  extracted: 0.5
+  inferred: 0.45
   ambiguous: 0.05
-base_confidence: 0.83
+base_confidence: 0.86
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T23:55:00Z
-updated: 2026-05-10T16:30:00Z
+updated: 2026-05-10T18:00:00Z
 ---
 
 # FBI HQ File 62-HQ-83894
 
 A large, multi-year **FBI Headquarters file** under Class **62** (the FBI's catch-all *"administrative miscellaneous"* classification). ^[inferred] Indexed and serialized at FBI HQ in Washington — distinct from the field-office 100-class case files in the wiki's existing FBI corpus (e.g. Detroit `100-26505`, Detroit `100-18221`). ^[inferred] Note however that **at least one serial (449) is dual-classified** — simultaneously held under an LA-side Class-100 organizational counterintelligence file (`100-24442-40`) and the HQ-side Class-62 admin-misc filing — so the HQ-vs-100-class distinction is **not absolute** for individual serials in this file. ^[inferred] Declassification of the file's content is *"derived from the FBI Automatic Declassification Guide, issued 24 May 2007"*. ^[extracted]
 
-This page is the **parent-file hub** for a planned **17-serial wiki ingest series**. **Nine artifacts are now ingested**: **section 1 (serials 1-52, 6 Jul - 12 Sep 1947)**, **section 2 (serials 53-100, ~6 Aug - 17 Sep 1947)**, **section 5 (serials 186-245, 15 Jul 1949 - 8 Sep 1950 — this batch)**, serial 130 (12 Sep 1947 ADC Mitchel Field AFBIR-CO compilation), serial 164 (15 Feb 1949 Cabell AIRMEM #4, 17 carbon copies), serial 220 (Apr 1950), serial 403 (1956 artifact, 2022 DIPA release), serial 438 (8 May 1964 Albuquerque report on Socorro NM), and serial 449 (3 Oct 1966 LA SAC AFSCA-magazine memo). The remaining 8 sections / serials (sections 3-4, 6-10, sub_a) will be ingested in subsequent passes.
+This page is the **parent-file hub** for a planned **17-serial wiki ingest series**. **Ten artifacts are now ingested**: **section 1 (serials 1-52, 6 Jul - 12 Sep 1947)**, **section 2 (serials 53-100, ~6 Aug - 17 Sep 1947)**, **section 4 (serials ~113-185, Oct 1947 - mid 1949 — this batch)**, **section 5 (serials 186-245, 15 Jul 1949 - 8 Sep 1950)**, serial 130 (12 Sep 1947 ADC Mitchel Field AFBIR-CO compilation), serial 164 (15 Feb 1949 Cabell AIRMEM #4, 17 carbon copies), serial 220 (Apr 1950), serial 403 (1956 artifact, 2022 DIPA release), serial 438 (8 May 1964 Albuquerque report on Socorro NM), and serial 449 (3 Oct 1966 LA SAC AFSCA-magazine memo). The remaining 7 sections / serials (sections 3, 6-10, sub_a) will be ingested in subsequent passes.
+
+## HEADLINE — section 4 RESCUES the BB-57 termination decision + adds a 4-beat post-BB-57 narrative arc + closes the BB-57-141-160 open thread
+
+**Section 4 (this batch)** is **paradigm-defining for the file's institutional history** — it contains the **first verbatim citations of [[references/fbi-bureau-bulletin-57-1947|Bureau Bulletin No. 57, Series 1947, dated October 1, 1947]]** in the wiki corpus. ^[extracted] **Four documents** in section 4 cite BB-57 by name and date with consistent operational paraphrase: SAC SF Kimball memo of 12 Feb 1948 (page 34), Director reply of 20 Feb 1948 (page 38), Fletcher → Ladd memo of 14 Mar 1949 (page 117), and [[references/fbi-sac-letter-38-1949|SAC Letter No. 38, Series 1949]] of 25 Mar 1949 (page 124). ^[extracted] These citations **promote BB-57 from `^[inferred]` to `^[extracted]`** in the wiki corpus and **close the long-open "62-83894-141-160 back-reference" thread** the [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28|Boggs-Hearn memo]] cited as the FBI's Oct 1947 termination decision. ^[inferred]
+
+Section 4 also captures the **4-beat post-BB-57 nonlinear narrative arc** that complicates the prior wiki framing of *"silently superseded"*: ^[inferred]
+
+1. **Termination (1 Oct 1947)** — [[references/fbi-bureau-bulletin-57-1947|BB-57]] issued.
+2. **USAF resistance (4 Feb 1948)** — [[references/adc-stratemeyer-flying-disc-1948-02-04|Stratemeyer ADC letter]] tries to re-enlist FBI; Hoover reaffirms BB-57 within 3 weeks; AF Lt Col Martin agrees ADC was *"not aware that the Bureau was no longer conducting investigations"*. ^[extracted]
+3. **Operational selectivity (Dec 1948)** — Inspector [[entities/h-b-fletcher|Fletcher]] actively dispatches Houston + LA SACs on the [[references/sighting-noack-helendale-1948-12|Noack disc-recovery]] *14 months* after BB-57. Resolved as Olson and Rice tow kite within 5.5 hours. ^[extracted]
+4. **Partial reactivation (25 Mar 1949)** — [[references/fbi-sac-letter-38-1949|SAC Letter No. 38]] formalizes a passive-reception posture (no investigation, but field offices gather voluntary tips for AF using [[references/fbi-hq-62-83894-serial-164|Cabell AIRMEM #4]] EEI schema, attached). ^[extracted]
+
+Section 4 also adds: ^[extracted]
+
+- The wiki's **earliest by-name "Project Grudge" reference** (22 Mar 1949 [[references/fbi-san-antonio-vital-installations-1949|SAC San Antonio memo]]); antedates Boggs-Hearn anchor by ~12 months.
+- The wiki's **first AEC + AFSWP cross-agency UAP institutional concern** ([[references/sighting-kirtland-mass-1949-01-30|30 Jan 1949 Kirtland AFB multi-state mass-event]] — *"AEC, AFSWP, 4th Army, local commanders perturbed by implications of phenomena"*). ^[extracted]
+- The wiki's **first cross-class FBI filing of UAP material** — [[references/fbi-san-antonio-vital-installations-1949|the SAC San Antonio memos of 31 Jan + 22 Mar 1949]] are filed under **Bureau File 65-58300** (*Protection of Vital Installations*), not 62-HQ-83894 — establishing the cross-class pattern **17 years earlier** than the prior wiki anchor (1966 [[references/fbi-hq-62-83894-serial-449|serial 449]] dual-filing). ^[inferred]
+- The wiki's **first primary-source documentation of an AF officer briefing the Bureau on UAP off-the-record** — [[entities/c-d-gasser|Col C. D. Gasser]], AMC Engineering Field Officer at NEPA Oak Ridge, who is the *"reliable and confidential source"* behind the Mar 1949 "Russian missile / northerly trajectory" institutional posture. ^[extracted]
+- The **[[entities/walter-winchell|Walter Winchell-Hoover personal-tip-relay channel]]** documented through 3 independent saucer-relays in Apr-May 1949 (Atkins/De Jarnett, Mrs Gardner, Robert Ripley/"Japanese saucer"). ^[extracted]
+
+The intake-channel inventory grows from 9 to **10** with channel (j) — **policy-bulletin self-referential intake**: BB-57 is cited within 62-HQ-83894 itself across 4 separate documents over 28 months. ^[inferred] The file is now confirmed to **hold the back-reference machinery for its own structural decisions** — i.e. policy directives are filed back into the topic file they govern, not just at the policy-instrument level. ^[inferred]
 
 ## HEADLINE — section 5 captures BOTH the FBI (Oct 1947) AND AF (Dec 1949) saucer-investigation terminations + a NEW intake channel (i)
 
@@ -131,7 +152,8 @@ The filename pattern `65_hs1-834228961_62-hq-83894_serial_<NNN>.json` for the so
 
 | Serial | Status | Type | Wiki anchor |
 |---|---|---|---|
-| **Section 5 (serials 186-245)** | **Ingested 2026-05-10 (this batch)** | **209 OCR pages — post-cooperation-regime tranche of ~50 serials, 15 Jul 1949 - 8 Sep 1950; the BOGGS-HEARN MEMO confirming both AF + FBI exits (serial 212) + the AZTEC MYTH-SEED 4-channel laundering (serials 203 + 206 + 209 + 213) + the HOTTEL "three saucers" memo (serial 209) + the OAK RIDGE / ADCOCK 9-day dry-run (serials 215-219) + the SHELL Hart Mountain Oregon ONI report (serial 197) + the PHOENIX B-29 CHASE (serial 234) + 6+ confirmed hoax events (Elmira / Borden / Halfery / Hixenbaugh / Alice TX / Saybrook IL) + civilian Russian-saucer-attack-vector hypotheses (Pervier / Hatten / Ward) + bound 4-page U.S. News & World Report magazine clip + 7-page Lewis Ward Russian-mechanism drawings + serial 220 García Macías filing** | [[references/fbi-hq-62-83894-section-5]] |
+| **Section 4 (serials ~113-185)** | **Ingested 2026-05-10 (this batch)** | **214 OCR pages — Oct 1947 - mid-1949 transitional tranche; the BB-57 RESCUE (4 verbatim citations: pages 34 + 38 + 117 + 124); the STRATEMEYER ADC re-enlistment attempt (4 Feb 1948); the NOACK Helendale operational-selectivity case (Dec 1948); SAC LETTER NO. 38 partial reactivation (25 Mar 1949); SAN ANTONIO Vital-Installations cross-class filing (Jan-Mar 1949); EARLIEST BY-NAME PROJECT GRUDGE reference (22 Mar 1949); KIRTLAND multi-state mass-event (30 Jan 1949) + 16 Feb 1949 LOS ALAMOS AEC/AFSWP/4th Army CONFERENCE; CHILES-WHITTED Atlanta Journal coverage clipping (27 Jul 1948); WINCHELL-HOOVER tip-relay channel (3 relays Apr-May 1949); GASSER/Oak Ridge Russian-missile hypothesis source-of-record** | [[references/fbi-hq-62-83894-section-4]] |
+| **Section 5 (serials 186-245)** | Ingested 2026-05-10 | **209 OCR pages — post-cooperation-regime tranche of ~50 serials, 15 Jul 1949 - 8 Sep 1950; the BOGGS-HEARN MEMO confirming both AF + FBI exits (serial 212) + the AZTEC MYTH-SEED 4-channel laundering (serials 203 + 206 + 209 + 213) + the HOTTEL "three saucers" memo (serial 209) + the OAK RIDGE / ADCOCK 9-day dry-run (serials 215-219) + the SHELL Hart Mountain Oregon ONI report (serial 197) + the PHOENIX B-29 CHASE (serial 234) + 6+ confirmed hoax events (Elmira / Borden / Halfery / Hixenbaugh / Alice TX / Saybrook IL) + civilian Russian-saucer-attack-vector hypotheses (Pervier / Hatten / Ward) + bound 4-page U.S. News & World Report magazine clip + 7-page Lewis Ward Russian-mechanism drawings + serial 220 García Macías filing** | [[references/fbi-hq-62-83894-section-5]] |
 | **Serial 130** | Ingested 2026-05-10 | **126 OCR pages / ~188 KB — 12 Sep 1947 ADC Mitchel Field compilation centered on the AFBIR-CO 30 Jul 1947 18-sighting statistical analysis (titular document); 16 enclosed source documents from 4AF / 14th AF / 15th AF / TAC / NRL / OCAMA / Newfoundland Base Command / Newfoundland Constabulary / AAF HQ / SBAMA / CAP Wisconsin / RAF London; Pan Am Powell-White 4 Aug 1947 Constellation-witness interview + Newfoundland 9-23 Jul 1947 multi-witness cluster (Mehrman/Woodruff/Leidy + Cordroy civilians + Const Kearsey) + Birmingham AAF 6 Jul 1947 photographed disc + 12 Jul 1947 anonymous "Flying Saucer Mystery Solved" reflection-theory memo + Maxwell Field Capt Kayko et al. 28 Jun 1947 zigzag light + Browning AAF B-25 sworn statement + Burniston Fairfield-Suisun 24th-Article-of-War statement + RAF Mosquito North Sea 16 Jan 1947 intercept-evader cypher; partial duplication of Arnold + Smith UA + Johnson material from section 2 serial 95 (multi-channel AAF distribution)** | [[references/fbi-hq-62-83894-serial-130]] |
 | **Section 2 (serials 53-100)** | Ingested 2026-05-10 | 194 OCR pages — operational tranche of 47+ contiguous serials, ~6 Aug - 17 Sep 1947; the GARRETT ADMISSION (mid-Sep 1947, serial 86) + Schulgen 5 Sep 1947 formal denial letter (serial 84) + Hoover Fugate-block teletype (serial 68) + Hedstrom Twin Falls BB42-cited investigation (serial 66) + Lane Dow Chemical Manhattan-Project-adjacent fragments (serial 57) + Richard Shaver anonymous-tipster referral (serial 58) + Kenneth Arnold autobiographical statement + sighting narrative (serial 95) + Cascade Mts Johnson EM-effect deposition (serial 85) + Bethel Alaska ACS sighting (serial 98) | [[references/fbi-hq-62-83894-section-2]] |
 | **Section 1 (serials 1-52)** | Ingested 2026-05-10 | **185 OCR pages — founding tranche of 52 contiguous serials, 6 Jul - 12 Sep 1947; civilian mass-correspondence + 9 prank-disc events + Schulgen-Reynolds-Ladd cooperation negotiations + Bureau Bulletin No. 42 + Roswell Dallas teletype + Maury Island case + Davidson-Brown plane crash + Williams Field MOICs + N. Meade Layne 9-point memo + Edwin Bailey Manhattan-Project orbital-germ-bomb walk-in** | [[references/fbi-hq-62-83894-section-1]] |
@@ -140,7 +162,7 @@ The filename pattern `65_hs1-834228961_62-hq-83894_serial_<NNN>.json` for the so
 | **403** | Ingested 2026-05-10 | FBI Records Center cover slip + clipped publisher's book jacket — Gray Barker, *They Knew Too Much About Flying Saucers*, University Books NYC, 1956 | [[references/fbi-hq-62-83894-serial-403]] |
 | **438** | Ingested 2026-05-10 | FBI Records Center cover slip + 10-page Albuquerque field-office investigative report (8 May 1964) by SA D. Arthur Byrnes Jr. on the Lonnie Zamora Socorro NM 24 Apr 1964 landing case — physical-trace observations + Zamora witness statement + hand-drawn ground-trace diagrams; distributed in 4 carbon copies | [[references/fbi-hq-62-83894-serial-438]] |
 | **449** | Ingested 2026-05-10 | FBI Records Center cover slip + 1-page LA SAC → Director memo (3 Oct 1966) re a citizen CP-line complaint about [[entities/amalgamated-flying-saucer-clubs-of-america\|AFSCA]]'s magazine + entire 16-page July 1966 issue of *Flying Saucers International* clipped and filed; dual-filed at LA `100-24442-40`; "no investigation conducted on captioned organization … no further action contemplated" | [[references/fbi-hq-62-83894-serial-449]] |
-| Sections 3–4 + 6–10 + sub_a | Queued (8 remaining) | unknown | — |
+| Sections 3 + 6-10 + sub_a | Queued (7 remaining) | unknown | — |
 
 The serial-164 / serial-220 / serial-403 / serial-438 / serial-449 spread (now N=5 ingested) implies the file holds **at least several hundred serials** spanning **at least 17.6 years (15 Feb 1949 → Oct 1966)**. ^[inferred] Sizes in the queued + ingested set range from **~5 KB (single-page clipping, serial 403) to ~408 KB** with serial 164 (181 KB, 17 carbons of an 8-page directive — this batch) sitting in the upper-mid range, serial 438 (50 KB, 10-page report ×4 carbons + diagrams), and serial 449 (107 KB, 1-page memo + entire 16-page magazine clipped) — consistent with a file that mixes brief clippings, longer correspondence (the 21 KB serial 220), substantive investigative narratives (50 KB serial 438), full external publications (107 KB serial 449), bulk-multiply-carboned inter-agency directives (181 KB serial 164), and possibly larger compiled memoranda or compendia for the queued ~408 KB serial. ^[inferred]
 
@@ -171,7 +193,17 @@ The wiki's prior FBI artifacts in field-office files (Detroit 100-26505, 100-182
 
 ## See also
 
-- [[references/fbi-hq-62-83894-section-5]] — **ninth ingested artifact, the 209-page post-cooperation-regime tranche serials 186-245 (Jul 1949 - Sep 1950; this batch)** **(NEW)**
+- [[references/fbi-hq-62-83894-section-4]] — **tenth ingested artifact, the 214-page Oct 1947 - mid 1949 BB-57 rescue tranche (this batch)** **(NEW)**
+- [[references/fbi-bureau-bulletin-57-1947]] — **the directive whose 4 verbatim citations close the 62-83894-141-160 back-reference open thread (this batch)** **(NEW)**
+- [[references/fbi-sac-letter-38-1949]] — **partial-reactivation directive (this batch)** **(NEW)**
+- [[references/adc-stratemeyer-flying-disc-1948-02-04]] — **AF re-enlistment attempt (this batch)** **(NEW)**
+- [[references/fbi-san-antonio-vital-installations-1949]] — **cross-class filing under Bureau File 65-58300 (this batch)** **(NEW)**
+- [[references/sighting-noack-helendale-1948-12]] — **operational-selectivity case (this batch)** **(NEW)**
+- [[references/sighting-kirtland-mass-1949-01-30]] — **first AEC/AFSWP framing (this batch)** **(NEW)**
+- [[entities/c-d-gasser]] — **Mar 1949 confidential source (this batch)** **(NEW)**
+- [[entities/h-b-fletcher]] — **FBI Inspector running Noack dispatch + drafting SAC Letter 38 (this batch)** **(NEW)**
+- [[entities/walter-winchell]] — **Hoover-tip-relay channel (this batch)** **(NEW)**
+- [[references/fbi-hq-62-83894-section-5]] — ninth ingested artifact, the 209-page post-cooperation-regime tranche serials 186-245 (Jul 1949 - Sep 1950)
 - [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] — **paradigm-defining serial 212 confirming both FBI + AF saucer-investigation terminations (this batch)** **(NEW)**
 - [[references/fbi-hottel-memo-1950-03-22]] — **the most-famous declassified FBI UFO document; serial 209 (this batch)** **(NEW)**
 - [[references/sighting-oak-ridge-adcock-1950-03]] — **first radar+critical-facility UAP event in the FBI corpus; serials 215-219 (this batch)** **(NEW)**

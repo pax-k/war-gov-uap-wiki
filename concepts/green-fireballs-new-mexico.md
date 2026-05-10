@@ -3,17 +3,17 @@ title: Green Fireballs of New Mexico (Dec 1948)
 category: concepts
 tags: [uap, history, 1948, morphology, pattern]
 aliases: [Green Fireballs Dec 1948 NM, La Paz fireballs 1948, NM green flare wave 1948]
-sources: [sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json]
-summary: A wave of bright green fireball / flare events observed across central and northern New Mexico in early December 1948 — analyzed in real time by Dr Lincoln La Paz of UNM Institute of Meteoritics, who concluded they were not typical meteors. Precedent green/blue-flame Scandinavian events appear earlier in 1948.
+sources: [sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/65_hs1-834228961_62-hq-83894_section_4.json]
+summary: A wave of bright green fireball / flare events observed across NM Dec 1948 - Mar 1949 — analyzed in real time by La Paz of UNM Institute of Meteoritics; institutional response peaks 16 Feb 1949 Los Alamos AEC/AFSWP/4th Army conference assigning the portfolio to AMC T-2 (Project GRUDGE).
 provenance:
-  extracted: 0.65
-  inferred: 0.32
+  extracted: 0.7
+  inferred: 0.27
   ambiguous: 0.03
-base_confidence: 0.65
+base_confidence: 0.7
 lifecycle: draft
-lifecycle_changed: 2026-05-09
+lifecycle_changed: 2026-05-10
 created: 2026-05-10T02:00:00Z
-updated: 2026-05-09T18:00:00Z
+updated: 2026-05-10T18:00:00Z
 ---
 
 # Green Fireballs of New Mexico (Dec 1948)
@@ -91,6 +91,21 @@ The Scandinavian cases (149 + 150) extend the green/blue-flame morphology back t
 
 The 11 April 1948 La Paz letter (Inc 101n) preserved in the same 101–172 bundle shows La Paz had already been hedging the "or-not-meteorites" pattern across a 4-event sequence (29 Nov 1945, Four Corners, Norcatur, Ussuri) **8 months before** the December 1948 NM wave. La Paz's December 1948 SIGN-orbit analysis was therefore not his first SIGN-orbit engagement but the first cluster he could investigate **with first-person field access** (UNM is in Albuquerque). ^[inferred] See [[references/sighting-norcatur-ks-1948-02|the Norcatur dedicated page]] and [[entities/lincoln-la-paz|the La Paz entity page]].
 
+## NEW (this batch) — Jan-Mar 1949 institutional escalation from FBI HQ 62-83894 section 4
+
+[[references/fbi-hq-62-83894-section-4|Section 4 of FBI HQ 62-83894]] (this batch) extends the wave's institutional response window from late Dec 1948 into late Mar 1949 with three new datapoints: ^[extracted]
+
+| Date | Event | Section-4 source |
+|---|---|---|
+| **30 Jan 1949 (2255Z)** | **[[references/sighting-kirtland-mass-1949-01-30\|Kirtland AFB multi-state mass-event]]** — ~30 directly observed witnesses, ~100 total sightings across El Paso / Albuquerque / Alamogordo / Roswell / Socorro NM. CO Kirtland AFB cable to USAF DSI: *"AEC, AFSWP, 4th Army, local commanders perturbed by implications of phenomena."* The cable does not use "green fireball" descriptor but is geographically + temporally + institutionally consistent with the wave. ^[inferred] | section-4 page 105 |
+| **16 Feb 1949** | **Los Alamos AEC/AFSWP/4th Army conference** on *"the so-called 'Green fire ball phenomena' which began about December 5, 1948"* — investigation assigned to **U.S. Air Force, Air Materiel Command, T-2** (Wright-Patterson, i.e. [[concepts/project-grudge\|Project GRUDGE]]'s home). [[entities/lincoln-la-paz\|Dr Lincoln La Paz]] of UNM discusses one event he himself witnessed. ^[extracted] | [[references/fbi-san-antonio-vital-installations-1949\|22 Mar 1949 SAC San Antonio memo]] |
+| **6-7 Mar 1949** | **Camp Hood / Killeen Base TX** — first **AFSWP National Atomic Stockpile Site #2** UAP-events: 7:30 PM 6 Mar 1949 *"flare"* ½ mi N of Killeen Base; 1:45 AM 7 Mar 1949 second *"flare"* ~3 mi from Killeen Base. Concluded *"probably similar to the phenomena previously noted in the Los Alamos, Sandia Base Area"*. ^[extracted] First Camp Hood-area UAP datapoints in the wiki. ^[inferred] | [[references/fbi-san-antonio-vital-installations-1949\|22 Mar 1949 SAC San Antonio memo]] |
+| **17 Feb - 22 Mar 1949** | **>10 prototype + ~20 deviation events since 5 Dec 1948**, all confined to **Los Alamos / Las Vegas NM / West Texas triangle**. ^[extracted] First primary-source statistical summary of the wave. | section-4 22 Mar 1949 SAC SA memo |
+
+The 16 Feb 1949 conference's assignment of *"Green fire ball phenomena"* to **AMC T-2** (the Wright-Patterson office running [[concepts/project-grudge|Project GRUDGE]]) is **the structural moment GRUDGE inherits a non-disc UAP portfolio at its founding**. ^[inferred] By 22 Mar 1949, **[[references/fbi-san-antonio-vital-installations-1949|G-2 4th Army WIC channels]]** are using both *"Unconventional Aircraft"* (Cabell-AIRMEM-#4 nomenclature) and *"Project Grudge"* (the AF program label) interchangeably. ^[extracted] Compare with [[concepts/project-grudge|Project GRUDGE]]'s 22 Mar 1949 by-name first appearance. ^[inferred]
+
+The Section 4 evidence also confirms that the **AEC + AFSWP + 4th Army nuclear-installation institutional axis** (rather than just AMC T-2 Wright-Patterson) was the operational owner of the wave during its peak — *before* 16 Feb 1949 the AEC was "perturbed by implications" without an institutional response framework; *after* 16 Feb 1949 the framework was in place. ^[inferred]
+
 ## Relation to broader UAP history
 
 The December 1948 New Mexico green-fireball wave is the **proximate cause** for several subsequent USAF intelligence developments not documented in this bundle but well-attested in the broader literature: ^[inferred]
@@ -118,6 +133,10 @@ The 1948 sheet evaluators did not endorse any candidate identification. Standard
 
 ## See also
 
+- [[references/fbi-hq-62-83894-section-4]] — **paradigm-defining empirical source for the wave's institutional response, Jan-Mar 1949 (this batch)** **(NEW)**
+- [[references/sighting-kirtland-mass-1949-01-30]] — **Jan 1949 multi-state mass-event triggering AEC institutional concern (this batch)** **(NEW)**
+- [[references/fbi-san-antonio-vital-installations-1949]] — **22 Mar 1949 statistical summary + 16 Feb 1949 Los Alamos conference (this batch)** **(NEW)**
+- [[concepts/project-grudge]] — **AMC T-2 office that inherits the green-fireball portfolio at GRUDGE founding (16 Feb 1949 conference)**
 - [[references/project-sign-incident-summaries-173-233]] — parent bundle (Dec 1948 wave)
 - [[references/project-sign-incident-summaries-101-172]] — bundle preserving 1948 precursor events
 - [[references/sighting-norcatur-ks-1948-02]] — Inc 101 / Inc 101n (La Paz Apr 1948 letter)

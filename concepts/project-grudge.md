@@ -3,17 +3,17 @@ title: Project GRUDGE (USAF, Feb 1949 - Dec 1949)
 category: concepts
 tags: [uap, usaf, policy, history, 1949]
 aliases: [Project Grudge, GRUDGE, AF Grudge]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_5.json]
-summary: USAF saucer-investigation project succeeding Project SIGN (Feb 1949), terminated December 1949 with public press release; institutional bridge from the SIGN ETI-curious posture to the post-cooperation passive-monitoring posture.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_4.json, sources/65_hs1-834228961_62-hq-83894_section_5.json]
+summary: USAF saucer-investigation project succeeding Project SIGN (Feb 1949), terminated December 1949 with public press release; institutional bridge from the SIGN ETI-curious posture to the post-cooperation passive-monitoring posture; earliest by-name reference 22 Mar 1949.
 provenance:
-  extracted: 0.45
-  inferred: 0.5
+  extracted: 0.5
+  inferred: 0.45
   ambiguous: 0.05
-base_confidence: 0.65
+base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T16:30:00Z
-updated: 2026-05-10T16:30:00Z
+updated: 2026-05-10T18:00:00Z
 ---
 
 # Project GRUDGE
@@ -64,6 +64,8 @@ This is **decentralized residual processing**: HQ-USAF Intelligence Division wil
 | 5-11 Dec 1948 | [[concepts/green-fireballs-new-mexico\|Green-fireballs NM]] cluster | [[references/project-sign-incident-summaries-173-233]] |
 | **15 Feb 1949** | **Cabell AIRMEM #4 reorganizes AF-side reporting** | [[references/fbi-hq-62-83894-serial-164]] |
 | ~Feb 1949 | **Project SIGN ends, Project GRUDGE begins** | inferred |
+| **22 Mar 1949** | **Earliest wiki by-name "Project Grudge" reference** — SAC San Antonio → Director memo (Bureau File 65-58300, *Protection of Vital Installations*): *"G-2, 4th Army, has now advised that the above matter is now termed 'Unconventional Aircraft' and investigations concerning such matters have been given the name 'Project Grudge'."* ^[extracted] Antedates the Boggs-Hearn anchor by ~12 months. | [[references/fbi-san-antonio-vital-installations-1949]] (NEW) |
+| **25 Mar 1949** | **[[references/fbi-sac-letter-38-1949\|FBI SAC Letter No. 38]]** carries Cabell AIRMEM #4 to all FBI field offices as the operational EEI for voluntary tip-gathering — i.e. GRUDGE's reporting protocol propagates to the FBI field via this directive | [[references/fbi-sac-letter-38-1949]] (NEW) |
 | Aug 1949 | *Final Report on Project GRUDGE* (Special Report No. 102) — not yet in corpus | inferred |
 | 9 Jan 1950 | [[references/usaf-flying-discs-1949\|FSR 200-4 1949 file]] outer instrument rescinded | [[references/usaf-flying-discs-1949]] |
 | **~late Dec 1949** | **AF press release announcing GRUDGE termination, "concurred in by Army and Navy"** | [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] |
@@ -78,6 +80,12 @@ This is **decentralized residual processing**: HQ-USAF Intelligence Division wil
 - Its **press-attribution rhetoric** ("recent magazine articles") sets the institutional posture that **reframes the post-1949 saucer-reporting wave as press-induced** — the [[entities/donald-keyhoe|Keyhoe]] / [[entities/frank-scully|Scully]] / [[concepts/aztec-saucer-myth-1950|Aztec-myth]] axis becomes the explanatory frame for AF + FBI + Army + Navy all simultaneously. ^[inferred]
 - Its operational substrate (FSR 200-4 + AIRMEM #4) defines the *parallel channels* the wiki has documented in [[references/usaf-flying-discs-1949|the 1949 USAF correspondence file]] and [[references/fbi-hq-62-83894-serial-164|the Cabell directive carbons]] respectively. ^[inferred]
 
+## NEW finding (this batch) — 22 Mar 1949 by-name reference
+
+[[references/fbi-hq-62-83894-section-4|Section 4]] of 62-HQ-83894 contains the wiki's **earliest by-name "Project Grudge" reference**: a 22 March 1949 SAC San Antonio → Director memo (Bureau File 65-58300, *Protection of Vital Installations*). ^[extracted] The memo's framing comes from G-2, 4th Army at the WIC level, **synchronizing** *"Unconventional Aircraft"* (the Cabell AIRMEM #4 / SAC Letter No. 38 nomenclature) with *"Project Grudge"* (the AF program label) by late March 1949. ^[inferred]
+
+The memo also confirms that GRUDGE inherits **the green-fireball portfolio** — the 16 Feb 1949 Los Alamos AEC/AFSWP/4th Army conference assigns *"the so-called 'Green fire ball phenomena'"* to **AMC T-2** at Wright-Patterson, i.e. GRUDGE's home. ^[extracted] See [[concepts/green-fireballs-new-mexico]] and [[references/sighting-kirtland-mass-1949-01-30]]. The institutional reading: GRUDGE took over not just SIGN's caseload but **also a non-disc UAP portfolio at founding** — a structural pivot in the AF's institutional saucer-stance that comports with GRUDGE's later debunking-default posture (the "real but explainable" framing fits both 1947-style discs and the green-fireball wave). ^[inferred]
+
 ## Open threads
 
 - **Locate the *Final Report on Project GRUDGE* (Aug 1949, Special Report No. 102)** in any future ingest — it is the single most important primary source for GRUDGE's analytical posture. ^[open]
@@ -89,6 +97,10 @@ This is **decentralized residual processing**: HQ-USAF Intelligence Division wil
 
 ## See also
 
+- [[references/fbi-hq-62-83894-section-4]] — **earliest by-name GRUDGE reference (this batch)** **(NEW)**
+- [[references/fbi-san-antonio-vital-installations-1949]] — **22 Mar 1949 SAC San Antonio memo (this batch)** **(NEW)**
+- [[references/fbi-sac-letter-38-1949]] — **carries AIRMEM #4 to FBI field offices (this batch)** **(NEW)**
+- [[references/sighting-kirtland-mass-1949-01-30]] — **Jan 1949 mass green-fireball event triggering AEC/AFSWP institutional concern (this batch)** **(NEW)**
 - [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] — the primary FBI source for GRUDGE's December 1949 termination
 - [[references/fbi-hq-62-83894-section-5]] — section containing the Boggs-Hearn memo + the 1950 Navy-experiment U.S. News & World Report magazine clip
 - [[concepts/project-sign]] — institutional predecessor (Dec 1947 - ~Feb 1949)
