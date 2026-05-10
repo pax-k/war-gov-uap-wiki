@@ -3,17 +3,17 @@ title: Sighting — Trans-Caucasus USSR (4 Oct 1955)
 category: references
 tags: [uap, sighting, 1955, ussr]
 aliases: [Russell flying disc sighting, Trans-Caucasus 1955 sighting, ATJATY ADZHLJABUL discs]
-sources: [sources/341_110677_numerical_file_5-2500.json]
-summary: 4 October 1955, 1910 hours — three US witnesses (Sen. Russell + Lt Col Hathaway + Mr. Efron) on a USSR rail leg between ATJATY and ADZHLJABUL observe two flying discs ascend, rotate, and depart north at high speed.
+sources: [sources/341_110677_numerical_file_5-2500.json, sources/65_hs1-834228961_62-hq-83894_section_8.json]
+summary: 4 October 1955, 1910 hours — three US witnesses (Sen. Russell + Lt Col Hathaway + Mr. Efron) observe two flying discs in USSR. Section 8 (this batch) adds the FBI/CIA/IAC handling — Allen Dulles' 18 Oct 1955 IAC executive-session decision to suppress.
 provenance:
-  extracted: 0.78
-  inferred: 0.2
-  ambiguous: 0.02
-base_confidence: 0.65
+  extracted: 0.75
+  inferred: 0.22
+  ambiguous: 0.03
+base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T19:00:00Z
-updated: 2026-05-09T19:00:00Z
+updated: 2026-05-11T01:10:00Z
 ---
 
 # Sighting — Trans-Caucasus USSR (4 Oct 1955)
@@ -137,9 +137,47 @@ The most natural conventional-aviation candidate for 1955 is a **VTOL / tailsitt
 - Locate the **post-return Russell-group complete debrief** Ryan recommended — D/I would have produced a written record at HQ USAF if the recommendation was actioned. ^[open]
 - Cross-check **Capitol Hill press contemporaneous coverage** for any leak of the sighting in late October 1955 (Russell did not publicly discuss it in his lifetime per common record). ^[inferred]
 
+## FBI / CIA / IAC institutional handling — added in section 8 batch (Oct-Nov 1955)
+
+[[references/fbi-hq-62-83894-section-8|FBI HQ 62-HQ-83894 section 8]] (this batch) preserves the **FBI-side institutional handling** of the Russell case across at least three serials (358, 361, 862). ^[extracted] The FBI-side adds material the existing USAIRA / IR-193-55 anchor does not capture: ^[inferred]
+
+### 18 Oct 1955 IAC Executive Session
+
+**Allen Dulles (DCI)** discusses Russell's sighting at the Intelligence Advisory Committee Executive Session. **A. H. Belmont (FBI Asst Director)** attends; reports back to Boardman the next day in serial 358: ^[extracted]
+
+> The consensus of the discussion at the IAC meeting was that this could have been any one of a number of things, including a helicopter, but that other members of the party should be interviewed and, meanwhile, **the matter should be kept quiet to avoid concern on the part of the Russians which would result in limiting of United States travel in Russia.**
+
+This is the wiki's **first explicit institutional suppression decision** ^[inferred] — distinct from prior FBI / AF passive-disposition postures. The reasoning is **diplomatic-not-phenomenological** — Soviet retaliation against US travel rights, not concern about the sighting's UAP-class identity. ^[extracted] See [[concepts/cia-iac-uap-engagement]] (NEW).
+
+### 27 Oct 1955 CIA OSI debrief at Russell's Washington residence
+
+**Dr. Francis Clauser** (O/SI consultant) interviews Russell at his Washington DC residence. ^[extracted] *Memorandum for the Record* drafted 30 Nov 1955; filed in section 8 at the irregular interpolated **serial 862** (alongside the standard sequence 358-361). ^[extracted] The MFR records: ^[extracted]
+
+- Russell's **direct first-person account** of the disc 1 + disc 2 sequence, confirming the morphology and behavior described in the existing [[references/iaf-ir-193-55-russell-1955|USAIRA IR 193-55]].
+- Russell's observations during the **Moscow-Borodino motor trip** the following week — *"only 150 yards from the road he noted a radar on top of a mound with a big egg beater object about 20 feet away"* ^[extracted] — additional Soviet ground-installation observations.
+- Russell agrees with the rotating-disc morphology and *"sparking or flame at base during slow ascent"* recorded in IR 193-55.
+- Russell's framing of his rail preference: *"He preferred to ride the train, taking it whenever possible. There was nothing unusual about him using the train on this trip."* ^[extracted] — the MFR explicitly notes this **refutes the theory that the train trip was arranged in order to stage the operation for Senator Russell's benefit**. ^[extracted]
+
+### Nov 1955 Scoville memorandum to IAC distribution list
+
+**Herbert Scoville Jr.** (Assistant Director, Scientific Intelligence, CIA) writes a 2-page TS memorandum on the IAC distribution list (Army, Navy, AF, State, AEC, **FBI**, JCS, OCI, ORE, DCI), TS Control 115485 Series A Copy 6 of 10, concluding: ^[extracted]
+
+> observations can probably be explained as steep climbing aircraft or missiles. Further discussions will probably be required before the matter can be completely resolved. In the meantime, however, **the evidence does not appear sufficiently firm to warrant the conclusion that the Soviets have developed and have in operation a radically new type of aircraft.**
+
+The Scoville framing **does not deny the sighting** — it denies the geopolitical reading (the steep-climbing-aircraft / Soviet-missile explanation is preferred). ^[inferred] The qualifier *"the evidence does not appear sufficiently firm"* leaves the phenomenological identity of the discs **explicitly unresolved**. ^[extracted]
+
+### Why the section-8 additions matter
+
+- **First documented IAC Executive Session discussion of a specific UAP sighting** in the FBI corpus ^[inferred] — section 7's [[concepts/robertson-panel-runup-1952|Dec 1952 IAC chain]] discussed UAP *as a topic*; the Oct 1955 IAC discusses *one specific sighting by name*.
+- **First explicit CIA-tier institutional suppression decision** in the FBI corpus ^[inferred] — recorded verbatim in a 1955 FBI office memo, not retroactively reconstructed.
+- **First Scoville-tier institutional ETI-skepticism statement** in the FBI corpus ^[inferred] — Russian-aircraft is preferred over novel-craft, but the question is left "not sufficiently firm" rather than denied.
+- **Russell's own Washington DC home becomes the location of a CIA OSI debrief**, not CIA HQ — the IC adapts its convening pattern to the witness's status as a sitting US Senator.
+
 ## See also
 
-- [[references/iaf-ir-193-55-russell-1955]] — the source-level artifact (USAIRA Prague IR 193-55).
+- [[references/iaf-ir-193-55-russell-1955]] — the USAIRA Prague source-level artifact.
+- [[references/fbi-hq-62-83894-section-8]] — FBI/CIA/IAC handling source (NEW this batch)
+- [[concepts/cia-iac-uap-engagement]] — IAC institutional posture pattern (NEW this batch)
 - [[entities/richard-russell]] — first-witness, party leader.
 - [[entities/e-u-hathaway]] — primary debriefer of the sighting.
 - [[entities/ruben-efron]] — second co-witness, note-keeper.
@@ -150,4 +188,5 @@ The most natural conventional-aviation candidate for 1955 is a **VTOL / tailsitt
 - [[concepts/rotating-disc-morphology]] — the disc-with-stationary-inner-lights cross-era pattern.
 - [[references/sighting-fairfield-suisun-1948-12]] — comparable near-vertical-ascent profile.
 - [[references/sighting-mountain-home-id-1949-07]] — comparable silent-high-G envelope-break.
+- [[entities/fbi-hq-62-83894-file]] — FBI HQ parent file
 - [[projects/uap/uap]] — project overview.

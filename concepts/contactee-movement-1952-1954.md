@@ -3,17 +3,17 @@ title: "Contactee Movement (1952-1954 Founding Period)"
 category: concepts
 tags: [uap, fbi, history, civilian-research, pattern]
 aliases: [contactee era, IFSB Bender Adamski Bethurum Williamson, organized civilian saucer movement]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_7.json]
-summary: The 1952-54 founding period of the organized civilian saucer-contactee movement — Borderland Sciences, IFSB / Albert Bender, Bethurum / Williamson / Adamski — first attested in FBI HQ 62-HQ-83894 section 7.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_7.json, sources/65_hs1-834228961_62-hq-83894_section_8.json]
+summary: The 1952-54 founding period of the organized civilian saucer-contactee movement — Borderland Sciences, IFSB / Bender, Bethurum / Williamson / Adamski — attested in FBI HQ 62-HQ-83894 section 7 + extended into section 8 via Eickhoff/Bethurum espionage thread (serial 344) and Stringfield CRIFO.
 provenance:
   extracted: 0.55
   inferred: 0.4
   ambiguous: 0.05
-base_confidence: 0.5
+base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T19:45:00Z
-updated: 2026-05-10T19:45:00Z
+updated: 2026-05-11T01:15:00Z
 ---
 
 # Contactee Movement (1952-1954 Founding Period)
@@ -95,9 +95,30 @@ This is **structurally important**: ^[inferred] *Valor* — the magazine that ca
 - **Track the *Valor* / Soul Craft Press / Silver Shirt Legion / Pelley pipeline** through later FBI files — when does Pelley's organization formally cease, and is the *Valor* magazine's saucer-content ever cross-referenced to the 61-5 Indianapolis Silver Shirt file? ^[open]
 - **Identify whether George Adamski's California activities** are documented in any FBI field-office file. ^[open]
 
+## Section 8 extension (Jul 1954 → Apr 1957) — added in this batch
+
+[[references/fbi-hq-62-83894-section-8|Section 8]] of [[entities/fbi-hq-62-83894-file|62-HQ-83894]] (this batch) extends the contactee-movement period downstream by ~3 years, adding: ^[inferred]
+
+| Date | Org / person | FBI serial | Content |
+|---|---|---|---|
+| **22 Jul 1954** | **Eickhoff/Bethurum/Williamson/Manspeaker espionage extension** | 344 | Continuation of section 7 serial 342 — Cincinnati Eickhoff *"additional information"* on Bethurum's June 1954 Taft Auditorium lecture; explicit ESPIONAGE caption; **first contactee-movement filing under espionage caption** ^[inferred] |
+| **2 Nov 1954 → Apr 1957** | **[[entities/leonard-h-stringfield\|Leonard H. Stringfield]] / [[entities/civilian-research-interplanetary-flying-objects\|CRIFO]]** | 349, 350, 376, 377 | Cincinnati ad-executive who founds CRIFO; publishes Newsletter / C.R.I.F.O. Orbit; reports private interview with Lt Col O'Mara at Wright Field; civilian-research-publishing org distinct from contactee-personal-encounter narrative |
+| **18 Jan 1955** | **Detroit Flying Saucer Club ESPIONAGE-X** | 348, 356, 357 | Maday/Marxer/Coyne/Hoffman officers; Bureau formally instructs SAC Detroit that **AF holds saucer-jurisdiction** — first explicit Bureau-level instruction to a SAC affirming AF-over-FBI saucer jurisdiction in the post-cooperation-regime ^[inferred] |
+| **6 Dec 1954** | **Marian L. White / Adamski "Aboard a Flying Saucer"** | 354 | Palm Springs Republican Club President asks Hoover whether Adamski is *"trying to put over any propaganda"* after Adamski's lecture; Hoover form-letter referral |
+| **Sep 1956** | **[[entities/aerial-phenomena-research-organization\|APRO]] (Lorenzen)** | 369 | First FBI-corpus reference to APRO via Wold McDonnell Aircraft St. Louis subscriber tip — civilian-research-publishing org founded ~1952 |
+| **Jan 1957** | **NICAP founding (15 Jan 1957)** | (sub-A) | Already documented via [[references/fbi-hq-62-83894-sub-a]]; Section 8 confirms post-NICAP-founding civilian-saucer-org expansion |
+
+The section-8 extension confirms: ^[inferred]
+
+- The contactee movement's **personal-encounter narrative arc** (Bethurum, Adamski) **continues into 1955-57** but **without new founding-period entries** — Bethurum and Adamski remain the dominant narratives.
+- A **research-publishing-org channel** ([[entities/civilian-research-interplanetary-flying-objects|CRIFO]] 1954, [[entities/aerial-phenomena-research-organization|APRO]] 1952-/1956) emerges in parallel with the contactee channel; these orgs do **not** publish personal-encounter narratives and instead frame UAP research empirically.
+- The **espionage-caption** filing pattern (used at section 7 serial 342 and continued at section 8 serial 344) is **consistently applied** to contactee figures — i.e., the FBI's institutional handling treats contactee-movement actors as potential espionage subjects without conducting investigation. ^[inferred]
+- The **Detroit Flying Saucer Club** (Detroit FSC) under ESPIONAGE-X caption gives **the first explicit Bureau-level instruction to a SAC** that AF holds saucer-jurisdiction — i.e., section 8 documents the **operational maturation** of the post-cooperation-regime jurisdictional split that the [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28|Boggs-Hearn memo]] (Mar 1950) had set up doctrinally.
+
 ## See also
 
 - [[references/fbi-hq-62-83894-section-7]] — primary source (serials 311-312, 326, 342-343)
+- [[references/fbi-hq-62-83894-section-8]] — section 8 extension (NEW this batch)
 - [[entities/borderland-sciences-research-associates]] — BSRA / Layne / Long (NEW)
 - [[entities/international-flying-saucer-bureau]] — IFSB / Bender (NEW)
 - [[entities/n-meade-layne]] — BSRA director (already in wiki)

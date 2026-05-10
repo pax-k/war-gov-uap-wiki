@@ -2,17 +2,17 @@
 title: "FBI Detroit File 100-26505 — Krasuski Interview (Nov 1957) + OUFORA Inquiry (Oct 1966)"
 category: references
 tags: [uap, primary-source, fbi, 1957, declassified]
-sources: [fbi-detroit-100-26505-100-de-26505]
-summary: 15-page declassified FBI Detroit file 100-26505 (NW 90290, DocId 34714592) — White-House-routed Nov 1957 interview of Polish DP Wladyslaw Krasuski about a 1944 Gut Alt Golssen, Germany observation, plus a 1966 OUFORA inquiry-and-reply.
+sources: [fbi-detroit-100-26505-100-de-26505, sources/65_hs1-834228961_62-hq-83894_section_8.json]
+summary: 15-page declassified FBI Detroit file 100-26505 — Nov 1957 NSC-routed interview of Polish DP Wladyslaw Krasuski + 1966 OUFORA inquiry. Cross-filed at FBI HQ as 62-HQ-83894 serials 382-384 with full IC-side cc distribution.
 provenance:
   extracted: 0.7
   inferred: 0.27
   ambiguous: 0.03
-base_confidence: 0.7
+base_confidence: 0.74
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T18:00:00Z
-updated: 2026-05-09T18:00:00Z
+updated: 2026-05-11T01:05:00Z
 ---
 
 # FBI Detroit File 100-26505 — Krasuski Interview (Nov 1957) + OUFORA Inquiry (Oct 1966)
@@ -168,14 +168,27 @@ This file fills **two new corpus cells**:
 - Look for additional serials in 100-26505 between `-4` (1957) and `-6` (1966). The numbering implies at least one missing serial. ^[open]
 - Watch for **Levelland-tradition engine-stall reports** in subsequent ingests (1957–present). ^[open]
 
+## HQ-side cross-filing — 62-HQ-83894 serials 382-384 (Nov 1957) — added in section 8 batch
+
+The wiki now also holds the **HQ-side filing** of the same case, captured in [[references/fbi-hq-62-83894-section-8|FBI HQ 62-HQ-83894 section 8]] serials 382-384 (this batch, 4-7 Nov 1957). ^[extracted] The HQ-side adds: ^[inferred]
+
+- **5 Nov 1957 NSC memorandum from J. Patrick Coyne to A. H. Belmont (FBI Asst Director)** enclosing Krasuski's letter to Robert Cutler, with the language *"It would be appreciated if the Bureau, at its convenience, would arrange for a representative to interview Mr. Kiasuski."* ^[extracted] Coyne's ADDENDUM: *"I would appreciate the return of Mr. Kiasuski's letter when it has served your purpose."* ^[extracted] — confirming **the NSC retained the original** and the FBI worked from a copy.
+- **The Director URGENT teletype as 62-HQ-83894-382** (6 Nov 1957) — the HQ-side serial number ties the case to the 62-HQ-83894 *UAP-topic* file, in addition to the Detroit-side `100-26505` *Domestic Security IS-X* file.
+- **Detroit AIRTEL serial 384** (7 Nov 1957) — file references SAC Detroit `(100-20505)` ^[ambiguous] — likely OCR ambiguity for the existing `100-26505` (third-digit 0/6 OCR drift), since the substance is identical (same date, same SA Rathbun, same Blank Memo).
+- **15 Nov 1957 Hoover → Coyne formal NSC reply with inter-agency cc**: State (Office of Security); CIA (Deputy Director Plans); Army G-2 (Chief Security Division); Director of Naval Intelligence; OSI/Air Force; Immigration and Naturalization Service. ^[extracted] **6 inter-agency security recipients** — i.e., full IC-side distribution.
+
+This is the **first NSC-routed UAP case** in the FBI corpus ^[inferred] — establishing that **a White House Special Assistant memo to the FBI Asst Director can compel an URGENT teletype to a SAC**, the same way the Detroit-side anchor noted that a White-House-routed citizen letter compelled an URGENT teletype. The HQ-side filing adds **quantitative scope** (6 inter-agency cc recipients) the Detroit-side filing did not preserve.
+
 ## See also
 
 - [[references/sighting-gut-alt-golssen-1944]] — the 1944 observation distilled
 - [[references/fbi-detroit-100-18221-serial-844-1958]] — sister Detroit file
-- [[entities/wladyslaw-krasuski]] — the witness
+- [[references/fbi-hq-62-83894-section-8]] — HQ-side filing (NEW this batch)
+- [[entities/wladyslaw-krasuski]] — the witness (UPDATED)
 - [[entities/robert-cutler]] — Eisenhower's special assistant; entry-routing principal
 - [[entities/oklahoma-ufo-research-association]] — 1966 civilian UFO org
 - [[entities/fbi]] — field-office entity (1957 → 2023)
+- [[entities/fbi-hq-62-83894-file]] — HQ-side parent file
 - [[concepts/engine-stall-phenomenon]] — the recurring electromagnetic-effect signal
 - [[concepts/foo-fighter-phenomenon]] — Allied wartime UAP-class context for the 1944 setting
 - [[synthesis/foo-fighters-to-flying-discs]] — wartime UAP context

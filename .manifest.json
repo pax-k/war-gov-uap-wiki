@@ -1127,6 +1127,33 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_section_8.json": {
+      "ingested_at": "2026-05-11T02:30:00Z",
+      "size_bytes": 291179,
+      "modified_at": "2026-05-09T13:07:43Z",
+      "content_hash": "sha256:e06eb132faf5d4ee5e9e7f4c0d06cf63fae050776e824f70e8fb2f810aecb0cd",
+      "source_type": "document",
+      "project": "uap",
+      "pages_created": [
+        "references/fbi-hq-62-83894-section-8.md",
+        "concepts/psychic-channeling-uap.md",
+        "references/sighting-frances-swan-1954-07.md",
+        "entities/frances-swan.md",
+        "entities/herbert-b-knowles.md",
+        "entities/wilbur-b-smith.md",
+        "entities/leonard-h-stringfield.md",
+        "entities/civilian-research-interplanetary-flying-objects.md",
+        "entities/aerial-phenomena-research-organization.md",
+        "concepts/cia-iac-uap-engagement.md"
+      ],
+      "pages_updated": [
+        "entities/fbi-hq-62-83894-file.md",
+        "references/sighting-trans-caucasus-1955-10-04.md",
+        "references/fbi-detroit-100-26505-krasuski-1957.md",
+        "entities/wladyslaw-krasuski.md",
+        "concepts/contactee-movement-1952-1954.md"
+      ]
     }
   },
   "projects": {
@@ -1137,9 +1164,10 @@
     }
   },
   "stats": {
-    "total_sources_ingested": 41,
-    "total_pages": 256,
+    "total_sources_ingested": 42,
+    "total_pages": 266,
     "total_projects": 1,
-    "last_full_rebuild": null
+    "last_full_rebuild": null,
+    "last_ingest_at": "2026-05-11T02:30:00Z"
   }
 }

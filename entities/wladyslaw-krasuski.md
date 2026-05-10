@@ -2,22 +2,22 @@
 title: "Wladyslaw Krasuski (Walter Krasuski)"
 category: entities
 tags: [person, witness, uap, ww2]
-sources: [fbi-detroit-100-26505-100-de-26505]
-summary: Polish-born Detroit brewery worker (b. ?) and former wartime POW at Gut Alt Golssen, Germany; the FBI-interviewed witness behind the 1957 100-26505 case file's 1944 UAP-adjacent observation.
+sources: [fbi-detroit-100-26505-100-de-26505, sources/65_hs1-834228961_62-hq-83894_section_8.json]
+summary: Polish-born Detroit brewery worker and former wartime POW at Gut Alt Golssen, Germany; FBI-interviewed witness behind the 1957 Detroit 100-26505 case file + dual-filed at FBI HQ as 62-HQ-83894 serials 382-384 (Nov 1957).
 provenance:
   extracted: 0.7
   inferred: 0.27
   ambiguous: 0.03
-base_confidence: 0.62
+base_confidence: 0.66
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T18:00:00Z
-updated: 2026-05-09T18:00:00Z
+updated: 2026-05-11T01:00:00Z
 ---
 
 # Wladyslaw Krasuski (Walter Krasuski)
 
-A Polish-born Displaced Person, Detroit brewery worker, and the witness whose 1957 letter to the White House became the entry point for [[references/fbi-detroit-100-26505-krasuski-1957|FBI Detroit file 100-26505]].
+A Polish-born Displaced Person, Detroit brewery worker, and the witness whose 1957 letter to the White House became the entry point for [[references/fbi-detroit-100-26505-krasuski-1957|FBI Detroit file 100-26505]] — and, in parallel, the **HQ-side filings at [[references/fbi-hq-62-83894-section-8|62-HQ-83894 serials 382-384]]** (this batch) which preserve the **NSC → FBI Director routing** and the **inter-agency cc-distribution** of the resulting Krasuski memorandum.
 
 ## Biographical timeline (from the FBI Blank Memo, 7 Nov 1957)
 
@@ -66,12 +66,28 @@ The records-check pattern is structurally identical to the FBI's modern witness-
 
 - **[[entities/franciszek-grabowski|Franciszek Grabowski]]** — only co-witness Krasuski could recall by name in 1957. ~50 years old in 1944. Address unknown; presumed by Krasuski to have returned to Poland after 1945. No FBI follow-up attempted.
 
+## HQ-side filing (62-HQ-83894 serials 382-384, Nov 1957) — added in section 8 batch
+
+The HQ-side preservation of the same case (this batch) adds: ^[extracted]
+
+- **5 Nov 1957 NSC memorandum** — **J. Patrick Coyne** (NSC) sends formal memorandum to **A. H. Belmont** (Asst Director, FBI), enclosing Krasuski's 4 Nov 1957 letter to **Robert Cutler**, requesting Bureau interview.
+- **6 Nov 1957 Director URGENT teletype** — Hoover orders Detroit *"IMMEDIATELY INTERVIEW KIASUSKI"* (62-83894-382).
+- **7 Nov 1957 Detroit URGENT response** — SAC Detroit reports interview by SA Cassius Rathbun (62-83894-383).
+- **7 Nov 1957 Detroit AIRTEL** — Detroit `100-20505` *(or `100-26505` per existing wiki anchor — OCR ambiguity 0/6)* ^[ambiguous] forwards 5 carbon copies of the Krasuski Blank Memo to the Bureau (62-83894-384).
+- **15 Nov 1957 Hoover → Coyne** — formal NSC reply with **inter-agency cc**: Office of Security/State; CIA/Deputy Director Plans; Army G-2 Chief Security Division; Director of Naval Intelligence; OSI/Air Force; Immigration and Naturalization Service. ^[extracted]
+
+The HQ-side cc-list confirms the case received **full IC-side distribution** ^[inferred] — i.e., the FBI's response to a White House special-assistant memo on a UAP-adjacent matter is to circulate the resulting interview to **6 inter-agency security recipients** plus retain in the FBI's UAP-topic file at HQ.
+
+The HQ filing is the **first NSC-routed UAP case** in the FBI corpus ^[inferred] — see [[references/fbi-hq-62-83894-section-8]] for the structural argument that this represents a new intake channel (k) added to the [[entities/fbi-hq-62-83894-file|62-HQ-83894 file]].
+
 ## See also
 
-- [[references/fbi-detroit-100-26505-krasuski-1957]] — file-level routing analysis
+- [[references/fbi-detroit-100-26505-krasuski-1957]] — Detroit field-office side
+- [[references/fbi-hq-62-83894-section-8]] — HQ-side filing (NEW this batch)
 - [[references/sighting-gut-alt-golssen-1944]] — the 1944 observation
 - [[entities/robert-cutler]] — White House routing principal
 - [[entities/franciszek-grabowski]] — co-witness, name only
 - [[entities/fbi]] — investigating field office
+- [[entities/fbi-hq-62-83894-file]] — HQ-side parent file
 - [[concepts/engine-stall-phenomenon]] — phenomenology trigger for the 1957 report
 - [[projects/uap/uap]]
