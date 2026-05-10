@@ -3,8 +3,8 @@ title: "Saucer-as-Hoax Default (FBI 1947)"
 category: concepts
 tags: [uap, fbi, pattern, history, 1947]
 aliases: [hoax-default operating presumption, FBI prankster framing, circular-saw-disc template]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_section_7.json]
-summary: The 1947 FBI/AAF operating presumption that any recovered "flying disc" is a prankster fabrication — propagated through Bureau Bulletin No. 42, confirmed by ≥9 events in section 1 (1947), 6+ in section 5 (1949-50), and 3 more in section 7 (1952-53).
+sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_section_7.json, sources/65_hs1-834228961_62-hq-83894_sub_a.json]
+summary: The 1947 FBI/AAF operating presumption that any recovered "flying disc" is a prankster fabrication — propagated through Bureau Bulletin No. 42, confirmed via ≥9 section-1, 6+ section-5, 3 section-7 events; press-shadow in sub-A adds the misidentification-of-aircraft branch.
 provenance:
   extracted: 0.6
   inferred: 0.37
@@ -13,7 +13,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T16:30:00Z
+updated: 2026-05-10T22:00:00Z
 ---
 
 # Saucer-as-Hoax Default
@@ -103,6 +103,22 @@ Subsequent FBI artifacts in the wiki corpus continue to apply the hoax-default f
 
 The hoax-default frame thus shows a **trimodal prevalence pattern**: ^[inferred] dominant in 1947 (section 1), 1949-50 (section 5), AND 1952-54 (section 7), then suppressed in 1957-66 (Krasuski, Socorro, AFSCA). The 1952-54 cluster is **structurally distinct** from the prior two: it sees **the saucer-crew-member hoax category emerge** (Watters Mableton "monkey from Mars") — a structural successor to both the [[concepts/aztec-saucer-myth-1950|Aztec myth-seed]] (third-person crashed-saucer rumor) and the prior FBI-corpus prank-disc events. ^[inferred] The 1952-54 cluster also coincides with **the founding of the organized contactee movement** ([[concepts/contactee-movement-1952-1954|BSRA + IFSB + Bethurum + Adamski]]) — an alternative civilian-credulity frame that the hoax-default does not address but coexists with in the FBI's intake stream. ^[inferred] The frame thus operates **alongside, not against**, the contactee narrative throughout the post-cooperation-regime period. ^[inferred]
 
+## Sub-A press-shadow (this batch) — refined typology
+
+[[references/fbi-hq-62-83894-sub-a|Sub-file A]]'s ~120 press clippings (5 Jul 1947 - 25 May 1959) refine the hoax-default typology by adding a **third resolution branch** beyond *hoax* and *natural-phenomena misidentification*: ^[inferred]
+
+| Branch | Examples | Wiki anchors |
+|---|---|---|
+| **Hoax** (deliberate fabrication) | Twin Falls boys (sub-A page 108), Borden UNM trick-photo, Halfery NO Wiesbaden, Hixenbaugh Louisville Times match-flip film, Alice TX welded-wings, Atlanta Watters monkey-from-Mars, Warren MN washtub | [[references/drew-pearson-saucers-nil-1950-11-25]] (Warren washtub) |
+| **Misidentification of natural phenomena** | Reading PA bomber-and-cloud, Aug 1953 Moby Dick balloons (sub-A page 41), charged-cloud-as-radar-target Wright Field (Pearson), 5-state ball of fire, Spencer 1950 weather-device tracking | [[references/drew-pearson-saucers-nil-1950-11-25]] |
+| **NEW: Misidentification of normal aircraft** | Quantico Marines DC-7 navigation lights (Jan 1954), Mariana Great Falls F-94 reflections (Pearson Nov 1950), Caldwell Gray Goose pre-1940 disc-rotor experimental aircraft (Aug 1949) | [[references/sighting-quantico-marines-1954-01]] + [[references/sighting-caldwell-gray-goose-1949-08]] |
+
+The new "misidentification-of-normal-aircraft" branch matters institutionally because it includes events where **military observers themselves** (Quantico Marines, 22 sightings over 6 nights) failed to recognize normal civilian aircraft (DC-7 navigation lights). ^[inferred] This complicates the "credentialed-witness" framing that NICAP would adopt three years later under [[entities/delmer-s-fahrney|Fahrney]] + [[entities/donald-keyhoe|Keyhoe]]. ^[inferred]
+
+The Schmidt Kearney NB contactee event ([[references/sighting-schmidt-kearney-1957-11-05]], 5 Nov 1957) is the **first fully-documented contactee event in the wiki corpus with a felony-record witness**, satisfying the hoax-default presumption at the witness-credibility level (1930s Scotts Bluff County embezzlement record, refused lie-detector, trace-oil cross-checked against cans in Schmidt's car). ^[inferred]
+
+The Caldwell Gray Goose case ([[references/sighting-caldwell-gray-goose-1949-08]]) adds a fourth nuance: the AF actively investigated *for months* before recovering pre-1940 experimental disc-rotor aircraft, then publicly disclaimed connection — a **negative result that closed the pre-saucer-era-experimental-aviation hypothesis** as a possible saucer explanation. ^[inferred]
+
 ## Open threads
 
 - **Identify the actual prankster networks** behind multiple disc-fabrications — North Hollywood, Black River Falls, Shreveport. ^[open]
@@ -111,6 +127,11 @@ The hoax-default frame thus shows a **trimodal prevalence pattern**: ^[inferred]
 
 ## See also
 
+- [[references/fbi-hq-62-83894-sub-a]] — sub-A press-shadow adding the misidentification-of-normal-aircraft branch **(NEW this batch)**
+- [[references/sighting-caldwell-gray-goose-1949-08]] — pre-saucer-era experimental-aviation residue **(NEW this batch)**
+- [[references/sighting-quantico-marines-1954-01]] — DC-7 navigation lights misidentification, military observers **(NEW this batch)**
+- [[references/sighting-schmidt-kearney-1957-11-05]] — first felony-record contactee witness **(NEW this batch)**
+- [[references/drew-pearson-saucers-nil-1950-11-25]] — Pearson confidential-AF-files column with Warren MN washtub + Mariana F-94 reflections **(NEW this batch)**
 - [[references/fbi-hq-62-83894-section-1]] — the empirical source
 - [[references/fbi-hq-62-83894-section-7]] — 1952-54 reinforcement (3 confirmed hoaxes incl. Watters monkey-from-Mars; Bailey phone-prank; Desvergers Lab analysis) **(NEW)**
 - [[concepts/contactee-movement-1952-1954]] — alternative civilian-credulity frame (1952-54) **(NEW)**

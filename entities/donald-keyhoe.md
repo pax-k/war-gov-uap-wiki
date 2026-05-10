@@ -3,8 +3,8 @@ title: Donald Keyhoe
 category: entities
 tags: [uap, person, rhetoric, 1950]
 aliases: [Donald E. Keyhoe, Major Donald Keyhoe, Donald Kehoe]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_5.json]
-summary: Retired US Marine Corps major and aviation journalist whose January 1950 True Magazine article and September 1950 book The Flying Saucers Are Real popularized the ETI hypothesis in mid-century UFOlogy.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_sub_a.json]
+summary: Retired US Marine Corps major and aviation journalist; True Magazine 1950 + book "The Flying Saucers Are Real" popularized ETI hypothesis; later director of investigations for NICAP under Fahrney as board chair.
 provenance:
   extracted: 0.4
   inferred: 0.55
@@ -13,7 +13,7 @@ base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T16:30:00Z
-updated: 2026-05-10T16:30:00Z
+updated: 2026-05-10T22:00:00Z
 ---
 
 # Donald Keyhoe
@@ -66,6 +66,15 @@ Keyhoe's January 1950 *True* article *"The Flying Saucers Are Real"* and its Sep
 
 4. **Synchronous with Boggs-Hearn**: Keyhoe's *True* article (Jan 1950) is the **referenced "magazine articles" target** of the [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28|28 March 1950 Boggs-Hearn memo]] explanation of post-1949 saucer reporting. ^[inferred] AF Intelligence (Boggs/Hearn) in March 1950 is **explicitly framing Keyhoe's press cycle** as the cause of the Mar 1950 saucer-reporting wave.
 
+### Sub-A continuation (this batch): NICAP director-of-investigations role
+
+[[references/fbi-hq-62-83894-sub-a|Sub-file A]] continues Keyhoe's wiki primary-source presence into the **1953-1959 window**: ^[extracted]
+
+- **Sub-A pages 35-36** — Richard Reilly *Times-Herald* 3-part series "Saucers Held Space Ships by Ex-Marine" (28 Dec 1953): names Keyhoe as the principal proponent of the ETI hypothesis post-Scully, references his 1953 book *Flying Saucers from Outer Space*, walks through the Albert Chop letter on the dust jacket and the Utah-film analysis dispute. ^[extracted] Keyhoe is also explicitly framed as **claiming AF cover-up** in this period.
+- **Sub-A pages 10 + 17** (1957 NICAP coverage) — Keyhoe is named as **director of [[entities/nicap|NICAP]]** during the 15 Jan 1957 Fahrney organizational announcement. ^[extracted] The Reilly series (Dec 1953) already calls Keyhoe NICAP's director — chronology suggests Keyhoe was operating NICAP informally before [[entities/delmer-s-fahrney|Fahrney]]'s January 1957 formal launch as board chair, or that the press treats "NICAP" loosely between 1953 and 1957. ^[ambiguous]
+
+This trajectory **transitions Keyhoe from press-amplifier of the Aztec / Newton-Koehler myth-seed** (1950) to **institutional director of a credentialed civilian-research organization** (NICAP, 1957-onward). ^[inferred] Keyhoe is the **single individual in the wiki corpus who bridges the contactee / myth-seed era with the NICAP-credentialed-research era**. ^[inferred]
+
 ## Open threads
 
 - **Verify Keyhoe's full biographical context** — Marine Corps service, Naval Academy class, aviation journalism credentials beyond *True Magazine*. ^[open]
@@ -78,7 +87,10 @@ Keyhoe's January 1950 *True* article *"The Flying Saucers Are Real"* and its Sep
 
 ## See also
 
-- [[concepts/aztec-saucer-myth-1950]] — the myth-seed Keyhoe was in direct contact with via Koehler (NEW)
+- [[references/fbi-hq-62-83894-sub-a]] — sub-A pages 10 + 17 + 35-36 carry the 1953-1959 Keyhoe / NICAP-director coverage **(NEW this batch)**
+- [[entities/nicap]] — NICAP, the org Keyhoe directs from at-latest 1953 **(NEW this batch)**
+- [[entities/delmer-s-fahrney]] — NICAP board chair 1957 **(NEW this batch)**
+- [[concepts/aztec-saucer-myth-1950]] — the myth-seed Keyhoe was in direct contact with via Koehler
 - [[references/fbi-hq-62-83894-section-5]] — section containing both primary FBI mentions (serials 213 + 239) (NEW)
 - [[entities/george-koehler]] — Koehler claims Keyhoe visited him during myth-seed period (NEW)
 - [[entities/silas-newton]] — ultimate-source promoter (NEW)

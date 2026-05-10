@@ -1095,18 +1095,50 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_sub_a.json": {
+      "ingested_at": "2026-05-10T22:00:00Z",
+      "size_bytes": 287079,
+      "modified_at": "2026-05-09T16:07:44Z",
+      "content_hash": "sha256:2bedc8b925103518edda1ae30d7c25c18390919e081460c35c5d91ccb3851891",
+      "source_id": "fbi-hq-62-83894-sub-a",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "fbi-hq-62-83894",
+      "series_position": "12-of-17",
+      "pages_created": [
+        "references/fbi-hq-62-83894-sub-a.md",
+        "entities/nicap.md",
+        "entities/delmer-s-fahrney.md",
+        "references/sighting-caldwell-gray-goose-1949-08.md",
+        "references/sighting-killian-dc6-1959-02-24.md",
+        "references/sighting-schmidt-kearney-1957-11-05.md",
+        "references/drew-pearson-saucers-nil-1950-11-25.md",
+        "references/sighting-quantico-marines-1954-01.md"
+      ],
+      "pages_updated": [
+        "entities/fbi-hq-62-83894-file.md",
+        "entities/donald-keyhoe.md",
+        "concepts/aztec-saucer-myth-1950.md",
+        "concepts/saucer-as-hoax-default.md",
+        "concepts/civilian-saucer-hypothesis-1947.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T20:30:00Z",
-      "sources_ingested": 35
+      "last_ingested": "2026-05-10T22:00:00Z",
+      "sources_ingested": 36
     }
   },
   "stats": {
-    "total_sources_ingested": 40,
-    "total_pages": 248,
+    "total_sources_ingested": 41,
+    "total_pages": 256,
     "total_projects": 1,
     "last_full_rebuild": null
   }

@@ -3,8 +3,8 @@ title: "Aztec/Scully Crashed-Saucer Myth-Seed (1950)"
 category: concepts
 tags: [uap, history, rhetoric, 1950, new-mexico]
 aliases: [Aztec saucer myth, Scully crashed saucer, Aztec NM crash story, Koehler-Newton-Scully Aztec story, 1950 crashed-saucer myth-seed]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_5.json]
-summary: The 1949-50 promoter-network myth-seed (Koehler-Newton-Scully) of crashed flying saucers in the southwestern US with 3-foot humanoid bodies; entered FBI HQ via 4 independent channels in Jan-Mar 1950.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_sub_a.json]
+summary: The 1949-50 promoter-network myth-seed (Koehler-Newton-Scully) of crashed flying saucers in the southwestern US with 3-foot humanoid bodies; entered FBI HQ via 4 main-file channels Jan-Mar 1950 + 5th press-shadow channel via Drew Pearson Nov 1950.
 provenance:
   extracted: 0.45
   inferred: 0.5
@@ -13,7 +13,7 @@ base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T16:30:00Z
-updated: 2026-05-10T16:30:00Z
+updated: 2026-05-10T22:00:00Z
 ---
 
 # Aztec/Scully Crashed-Saucer Myth-Seed (1950)
@@ -56,6 +56,17 @@ The four channels point overwhelmingly at a **Denver-anchored promoter network**
 
 The post-FBI-corpus history (well outside the wiki's primary-source ingest range): Newton + Koehler are revealed in 1952-53 to have been running an **oil-and-mineral fraud scheme** using the Aztec saucer story as a marketing hook for "magnetic-field" oil-detection devices ^[inferred]. ^[ambiguous] The most-economical reading of the FBI-corpus channels: **Koehler-Newton are seeding the press-and-investigative landscape with the Aztec story to support a fraud scheme**, with [[entities/frank-scully|Scully]] as press-amplifier and [[entities/donald-keyhoe|Keyhoe]] as parallel-but-separate beneficiary in the magazine cycle. ^[inferred]
 
+## Channel ε (this batch) — press-shadow via Drew Pearson syndicated column
+
+Sub-file A of the same FBI HQ file ([[references/fbi-hq-62-83894-sub-a|62-HQ-83894-A]]) page 67 retains a **fifth Aztec-myth-seed channel** in the form of [[references/drew-pearson-saucers-nil-1950-11-25|Drew Pearson's syndicated column "Reports Plentiful, Saucers Nil"]] (Washington Post, 25 Nov 1950). ^[extracted] Pearson cites *"confidential Air Force files"* and reproduces the **same Coulter-Koehler identity-revelation** that section 5 captured eight months earlier: the "mysterious Mr. Coulter" was [[entities/george-koehler|George Koehler of Denver]] (radio station KMVR / KMYR advertising salesman), the "flying saucer gear" was stamped with **Roman numeral VI**, and Koehler later denied any saucer/occupant claim. ^[extracted]
+
+Channel ε is structurally distinct from the four section-5 channels because it is **press-syndicated and post-resolution**: ^[inferred]
+
+- Channels α-δ (Wyandotte Echo / Denver SAC / Hottel WFO / New Orleans SAC) all received the myth-seed *as live content* in Jan-Mar 1950, before AF investigators had concluded the Coulter=Koehler identity.
+- Channel ε (Pearson Nov 1950) is the **public AF resolution** of channels α-δ — Pearson syndicates the AF investigators' conclusion that Coulter=Koehler and that Koehler had retracted.
+
+The presence of channel ε in sub-file A confirms that the FBI's interest in the Aztec myth-seed extended beyond passive accumulation through Mar 1950: HQ Central Research Section continued tracking the **press-shadow of the AF's resolution** of the myth-seed through at least Nov 1950. ^[inferred]
+
 ## Why the FBI files this and does not investigate it
 
 The Hottel memo (channel γ) is filed with **"No further evaluation was attempted"**. ^[extracted] The Denver SAC URGENT (channel β) gets Hoover's reply **"NO FURTHER ACTION DESIRED"**. ^[extracted] The New Orleans SAC report (channel δ) is *"furnished the Bureau and the designated offices for informational purposes."* ^[extracted] The Wyandotte-Echo TWX (channel α) is filed **at the OSI HQ end** rather than triggering FBI investigation. ^[extracted]
@@ -83,7 +94,9 @@ This pattern is **structurally consistent** with the Bureau's [[references/fbi-b
 
 ## See also
 
-- [[references/fbi-hq-62-83894-section-5]] — section containing all four FBI-corpus intake channels (NEW)
+- [[references/fbi-hq-62-83894-section-5]] — section containing the four main-file intake channels α-δ (NEW)
+- [[references/fbi-hq-62-83894-sub-a]] — sub-file A holding channel ε (Pearson press-shadow, page 67) **(NEW this batch)**
+- [[references/drew-pearson-saucers-nil-1950-11-25]] — channel ε press-shadow column **(NEW this batch)**
 - [[references/fbi-hottel-memo-1950-03-22]] — the most-famous of the four channels (channel γ) (NEW)
 - [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] — synchronous AF Intelligence "magazine articles" framing (~6 days after Hottel memo) (NEW)
 - [[entities/george-koehler]] — Denver KMYR promoter, channels β + δ (NEW)

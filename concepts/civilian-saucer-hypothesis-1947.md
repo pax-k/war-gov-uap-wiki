@@ -3,7 +3,7 @@ title: "Civilian Saucer Hypotheses (1947)"
 category: concepts
 tags: [uap, fbi, history, pattern, 1947]
 aliases: [civilian saucer letter taxonomy, 1947 saucer-hypothesis space, civilian saucer mass-correspondence]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json]
+sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_sub_a.json]
 summary: The taxonomy of civilian-letter saucer-hypotheses arriving at the FBI Director's office in July-August 1947 — orbital germ-bombs, Russian remote-control aircraft, German experimental craft, etheric / inter-dimensional craft, and homegrown amateur fabrications.
 provenance:
   extracted: 0.6
@@ -13,7 +13,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T12:00:00Z
+updated: 2026-05-10T22:00:00Z
 ---
 
 # Civilian Saucer Hypotheses (1947)
@@ -42,6 +42,8 @@ The frame is **technically diverse** but converges on **the foreign-state-as-ene
 **Hypothesis**: saucers are Russian supersonic atom-powered planes.
 
 The **Milwaukee Sentinel** clipping from 7 Jul 1947 (filed under serial 13) carries a Los Angeles Examiner story: Russian-tanker officer (recently in Los Angeles harbor) tells a writer the saucers are 18-inch-thick kidney-shaped no-propeller planes, pilot lying prone, artificially cooled, lifting force based on "earth's gravitational contour lines"; same officer describes radioactive-cloud experiments at Lake Baikal that destroyed all life along its drift path. ^[extracted] **The atomic-scientist quoted by the Examiner says it's "not all nonsense"** and recommends turning to FBI. ^[extracted]
+
+**Press-shadow note (this batch):** [[references/fbi-hq-62-83894-sub-a|sub-file A]] page 113-114 retains the **Los Angeles Examiner article itself** (7 Jul 1947, "FBI CHECKING RUSS DISC TIP", forwarded by the Press Intelligence Bureau / Bureau of the Budget) — i.e. the same article that section 1 serial 13 received via Milwaukee Sentinel clipping is independently retained in sub-A's press-clipping pipeline. ^[extracted] **This is one of the clearest demonstrations that sub-A is a press-shadow of the main file**, not an independent content stream — the FBI received both the Milwaukee Sentinel cutting (filed in section 1) and the original LA Examiner cutting (filed in sub-A) of the same Russian-tanker story. ^[inferred]
 
 ### Frame 3: Etheric / inter-dimensional craft
 
