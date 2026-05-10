@@ -1255,20 +1255,54 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_section_6.json": {
+      "ingested_at": "2026-05-10T21:25:00Z",
+      "size_bytes": 407993,
+      "modified_at": "2026-05-09T13:07:43.805427Z",
+      "content_hash": "sha256:3f17bde6c1ea7554338277a1b09def76bc8ed06676b8cd1fd267b568fd42c5d2",
+      "source_id": "fbi-hq-62-83894-section-6",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "fbi-hq-62-83894",
+      "series_position": "17-of-17",
+      "pages_created": [
+        "references/fbi-hq-62-83894-section-6.md",
+        "concepts/project-twinkle.md",
+        "references/lapaz-seventh-report-1950-05-23.md",
+        "references/cabell-afoic-cc-1-unconventional-aircraft-1950-09-08.md",
+        "references/belmont-ladd-aerial-phenomena-nm-1950-08-21.md",
+        "references/osi-17th-district-nm-summary-1950-05-25.md",
+        "references/sighting-fort-monmouth-radar-1951-09.md",
+        "references/sighting-oak-ridge-nepa-1950-12-1951-01.md",
+        "references/sighting-stewart-ritchie-highway-1952-03-29.md",
+        "references/sighting-savannah-river-plant-1952-05-10.md",
+        "references/menzel-look-flying-saucers-1952-06.md",
+        "references/rhodes-pearson-photos-1952-06.md"
+      ],
+      "pages_updated": [
+        "entities/fbi-hq-62-83894-file.md",
+        "entities/lincoln-la-paz.md",
+        "concepts/green-fireballs-new-mexico.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T00:00:00Z",
-      "sources_ingested": 39
+      "last_ingested": "2026-05-10T21:25:00Z",
+      "sources_ingested": 40
     }
   },
   "stats": {
-    "total_sources_ingested": 45,
-    "total_pages": 293,
+    "total_sources_ingested": 46,
+    "total_pages": 305,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-10T00:00:00Z"
+    "last_ingest_at": "2026-05-10T21:25:00Z"
   }
 }

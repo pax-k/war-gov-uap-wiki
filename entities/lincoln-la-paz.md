@@ -3,8 +3,8 @@ title: Lincoln La Paz
 category: entities
 tags: [uap, person, 1948]
 aliases: [Dr Lincoln La Paz, La Paz UNM, Director Institute of Meteoritics]
-sources: [sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json]
-summary: American astronomer; Director of the Institute of Meteoritics at the University of New Mexico; first preserved SIGN-orbit engagement is an 11 April 1948 letter on the Norcatur Kansas case (Inc 101n); analyzed and witnessed the Dec 1948 NM green fireball wave (Inc 227).
+sources: [sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/65_hs1-834228961_62-hq-83894_section_6.json]
+summary: American astronomer; Director of the Institute of Meteoritics at UNM; first preserved SIGN-orbit engagement is an 11 April 1948 letter (Inc 101n); analyzed and witnessed the Dec 1948 NM green fireball wave (Inc 227); authored the 23 May 1950 Seventh Report whose recommendations became Project Twinkle.
 provenance:
   extracted: 0.6
   inferred: 0.37
@@ -13,12 +13,32 @@ base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-10T02:00:00Z
-updated: 2026-05-09T18:00:00Z
+updated: 2026-05-10T21:20:00Z
 ---
 
 # Lincoln La Paz
 
-American astronomer and Director of the **Institute of Meteoritics, University of New Mexico**. Engaged with Project SIGN-orbit material as early as **11 April 1948** (the Inc 101n letter on the Norcatur Kansas case), and in December 1948 became the first professional astronomer in the wiki's corpus to **investigate, witness, and analytically assess** a Project SIGN incident cluster — the [[concepts/green-fireballs-new-mexico|New Mexico green fireball wave]] of 5–13 December 1948. ^[extracted]
+American astronomer and Director of the **Institute of Meteoritics, University of New Mexico**. Engaged with Project SIGN-orbit material as early as **11 April 1948** (the Inc 101n letter on the Norcatur Kansas case), and in December 1948 became the first professional astronomer in the wiki's corpus to **investigate, witness, and analytically assess** a Project SIGN incident cluster — the [[concepts/green-fireballs-new-mexico|New Mexico green fireball wave]] of 5–13 December 1948. ^[extracted] WWII institutional credentials: **Research Mathematician at the New Mexico Proving Grounds under an OSRD appointment in 1943 and 1944**, and **Technical Director of the Operations Analysis Section, Headquarters Second Air Force, 1944-45**. ^[extracted] **Voluntary consultant** to the OSI 17th District (Kirtland AFB NM) from 1948 onward for the green-fireball investigations. ^[extracted]
+
+## NEW (this batch) — The 23 May 1950 Seventh Report + Project Twinkle institutional canonization
+
+[[references/fbi-hq-62-83894-section-6|FBI HQ 62-83894 section 6]] (this batch) preserves LaPaz's **[[references/lapaz-seventh-report-1950-05-23|Anomalous Luminous Phenomena (Seventh Report) of 23 May 1950]]** ^[extracted] to **Lt Col Doyle Rees** (CO 17th District OSI). The Seventh Report is the **definitive scientific articulation** in the wiki corpus of the green-fireball-distinct-from-meteor framework ^[inferred] — articulating an **11-criteria taxonomy** of differences between the green fireballs and typical meteors:
+
+1. Horizontal trajectory; 2. Very low altitude; 3. Sub-meteor velocity; 4. Noiselessness; 5. No progressive brightening; 6. Pronounced north-half-of-sky approach bearing; 7. Curious meteor-shower temporal association; 8. Copper-salt blowpipe-flame spectrum (5218Å); 9. Intermediate duration (2-3 sec); 10. Horizontal infall direction; 11. **Time-distribution maximum at 2030 local time** ^[extracted].
+
+The Seventh Report also introduces LaPaz's **two-category interpretation**: ~50% meteoric origin + ~50% **U.S. guided missiles testing** near sensitive installations ^[extracted] — with the **Urals-missile fallback hypothesis** offered if the US-missile interpretation is wrong: *"missiles moving with the velocities of the order of those found for the green fireballs … could travel from the southern Urals to New Mexico in less than 15 minutes"* ^[extracted]. The Urals daytime working window (~0700-1300) coincides with the **2030 local NM time** maximum-frequency observation window. ^[extracted]
+
+LaPaz's **operational recommendations** quoted from his 20 Feb 1950 letter to Dr P. H. Wyckoff: ^[extracted]
+
+- **Dual-station optical instrumentation** at Roswell + Sacramento NM under **Dr L. A. Manning of Stanford**.
+- **Radar investigation** under **Dr Millman**.
+- **Ground search / dust collection** under **Dr William Crozier (New Mexico School of Mines)**.
+
+LaPaz **declines the $40/day consultant rate** specified in Major Oder's 29 Nov 1949 letter and offers **voluntary service** instead ^[extracted].
+
+The recommendations are **operationally implemented as [[concepts/project-twinkle|Project Twinkle]] ~12 weeks later** ^[inferred] — the Vaughn NM observational network contracted to Land-Air Inc by AMC Geophysical Research Division (Cambridge MA), with **Dr Anthony O. Mirarchi as Project Engineer**. ^[extracted] LaPaz's institutional role on Twinkle itself is unspecified in the section-6 record ^[ambiguous] — the [[references/belmont-ladd-aerial-phenomena-nm-1950-08-21|21 Aug 1950 Belmont→Ladd memo]] names LaPaz as the **analyst** but not as a **contracted consultant on Twinkle**. The most economical reading: LaPaz continued his **voluntary consultant** posture into the Twinkle period without formal contract. ^[inferred]
+
+LaPaz's **24-25 February 1950 astrometric ruling-out of Cpl Lertis E. Stanfield's Datil NM photograph** (Sighting No. 175 in the 17th District OSI catalog) ^[extracted] — ruling out moon (angular diameter too small), Venus/planets (angular diameter too large), and bright fixed stars (angular velocity too high) — is the **first preserved LaPaz astrometric methodology** applied to a **disc-class** rather than green-fireball-class case in the corpus. ^[inferred] See [[references/osi-17th-district-nm-summary-1950-05-25]] (this batch) + [[references/lapaz-seventh-report-1950-05-23]] (this batch).
 
 ## Earliest preserved SIGN-orbit engagement: April 1948 (Inc 101n)
 

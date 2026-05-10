@@ -3,8 +3,8 @@ title: Green Fireballs of New Mexico (Dec 1948)
 category: concepts
 tags: [uap, history, 1948, morphology, pattern]
 aliases: [Green Fireballs Dec 1948 NM, La Paz fireballs 1948, NM green flare wave 1948]
-sources: [sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/65_hs1-834228961_62-hq-83894_section_4.json]
-summary: A wave of bright green fireball / flare events observed across NM Dec 1948 - Mar 1949 — analyzed in real time by La Paz of UNM Institute of Meteoritics; institutional response peaks 16 Feb 1949 Los Alamos AEC/AFSWP/4th Army conference assigning the portfolio to AMC T-2 (Project GRUDGE).
+sources: [sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/65_hs1-834228961_62-hq-83894_section_4.json, sources/65_hs1-834228961_62-hq-83894_section_6.json]
+summary: A wave of bright green fireball / flare events observed across NM Dec 1948 - May 1950 — analyzed in real time by La Paz of UNM Institute of Meteoritics; institutional response runs from 16 Feb 1949 Los Alamos AEC/AFSWP/4th Army conference through the 14 Oct 1949 follow-on conference and May-Aug 1950 Project Twinkle establishment.
 provenance:
   extracted: 0.7
   inferred: 0.27
@@ -13,7 +13,7 @@ base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T02:00:00Z
-updated: 2026-05-10T18:00:00Z
+updated: 2026-05-10T21:10:00Z
 ---
 
 # Green Fireballs of New Mexico (Dec 1948)
@@ -106,11 +106,25 @@ The 16 Feb 1949 conference's assignment of *"Green fire ball phenomena"* to **AM
 
 The Section 4 evidence also confirms that the **AEC + AFSWP + 4th Army nuclear-installation institutional axis** (rather than just AMC T-2 Wright-Patterson) was the operational owner of the wave during its peak — *before* 16 Feb 1949 the AEC was "perturbed by implications" without an institutional response framework; *after* 16 Feb 1949 the framework was in place. ^[inferred]
 
+## NEW (this batch) — Project Twinkle established + LaPaz Seventh Report institutional canonization (May-Aug 1950)
+
+[[references/fbi-hq-62-83894-section-6|Section 6 of FBI HQ 62-83894]] (this batch) extends the wave's institutional response window from late Mar 1949 through Aug 1952. The structurally definitive developments: ^[extracted]
+
+| Date | Event | Section-6 source |
+|---|---|---|
+| **23 May 1950** | **[[references/lapaz-seventh-report-1950-05-23\|LaPaz Seventh Report]] to Lt Col Doyle Rees (17th Dist OSI)** — 11-criteria taxonomy distinguishing green fireballs from typical meteors + the **Urals-missile fallback hypothesis** + recommendations for dual-station optical instrumentation, radar investigation, and ground/dust search. ^[extracted] | [[references/lapaz-seventh-report-1950-05-23\|Seventh Report]] |
+| **25 May 1950** | **[[references/osi-17th-district-nm-summary-1950-05-25\|17th District OSI 175-sighting NM-area catalog]]** to Brig Gen Joseph F. Carroll — tabular catalog of ~175 Dec 1948 - May 1950 sightings; LaPaz Seventh Report bound as scientific addendum; 2 of 16 distribution copies to FBI (El Paso + Albuquerque field offices). | [[references/osi-17th-district-nm-summary-1950-05-25\|17th District summary]] |
+| **~May-Aug 1950** | **[[concepts/project-twinkle\|Project Twinkle]] established** at Vaughn / Holloman AFB NM by **AMC Geophysical Research Division (Cambridge MA)** under contract to **Land-Air, Inc., Alamogordo NM**; **Dr Anthony O. Mirarchi** as Project Engineer; 24-hour day watch + photographic + speed/height/nature instrumentation; first operational success 24 May 1950 (8-10 objects). ^[extracted] | [[references/belmont-ladd-aerial-phenomena-nm-1950-08-21\|21 Aug 1950 Belmont→Ladd memo]] |
+| **21 Aug 1950** | **A. H. Belmont → D. M. Ladd memo** *"Summary of Aerial Phenomena in New Mexico"* — FBI-corpus canonicalization of Project Twinkle + the LaPaz Urals-missile hypothesis + ~150-sighting volume statistic since Dec 1948; FBI institutional posture = passive liaison through Mirarchi. ^[extracted] | [[references/belmont-ladd-aerial-phenomena-nm-1950-08-21\|Belmont→Ladd 21 Aug 1950]] |
+| **9 Oct 1950** | **Ladd → Director update** — 6-week Twinkle follow-up; OSI Wright Field conclusion *"no space ships or missiles from any other planet or country … no definite pattern of activity"* — **contradicts LaPaz's Urals-time-correlation pattern**; **the FBI corpus thus holds both frames in parallel**. ^[extracted] | [[references/fbi-hq-62-83894-section-6\|section 6]] serial 250 |
+
+The 23 May 1950 **LaPaz Seventh Report** is the **definitive scientific articulation** of the green-fireball-distinct-from-meteor framework in the wiki corpus ^[inferred]. The 11-criteria cumulative-incompatibility argument now anchors this concept page's analytical core. The **Urals-missile fallback hypothesis** is the **structural opposite** of the [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28|Boggs-Hearn debunk-by-default]] frame retained 8 weeks earlier — confirming the FBI HQ file's institutional posture as **passive-accumulation-of-contradictory-frames**. ^[inferred] **Project Twinkle** is the operational implementation of LaPaz's recommendations — the wiki's **first formal AF-contractor critical-facility scientific-study program** for UAP. ^[inferred]
+
 ## Relation to broader UAP history
 
 The December 1948 New Mexico green-fireball wave is the **proximate cause** for several subsequent USAF intelligence developments not documented in this bundle but well-attested in the broader literature: ^[inferred]
 
-- **Project Twinkle** (1949–51, Holloman AFB) — a follow-on USAF observational network specifically aimed at instrumented detection of the green fireballs. La Paz remained a central technical advisor.
+- **[[concepts/project-twinkle|Project Twinkle]]** (1950–51, Holloman AFB) — **a follow-on USAF observational network specifically aimed at instrumented detection of the green fireballs**. La Paz remained a central technical advisor. **Now anchored in section 6 of FBI HQ 62-83894 (this batch)**. ^[extracted]
 - **The transition from Project SIGN to Project GRUDGE** in early 1950 — partially driven by SIGN's inability to operationally explain the green-fireball wave.
 - **The Kirtland / Sandia Base sensitive-installation focus** that runs through later USAF UFO program documentation — anchored to events like Inc 226/26 (Sandia / Toulouse) and Inc 224 (Stahl/Neff Las Vegas NM, near Sandia operational area).
 
