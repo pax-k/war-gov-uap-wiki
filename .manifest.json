@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T20:30:00Z",
+  "updated": "2026-05-10T22:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -1289,20 +1289,41 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/dow-uap-pr20.json": {
+      "ingested_at": "2026-05-10T22:00:00Z",
+      "size_bytes": 787,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:70036d98d07b70df17b78eed6490600f7c607f327d506ff64525f4c950b23d69",
+      "source_id": "dow-uap-pr20-dopsr-clearance-2026-03",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap",
+      "series_position": "1-of-40",
+      "pages_created": [
+        "references/dow-uap-pr20-prepublication-clearance-2026-03.md",
+        "entities/dow-uap-foia-release.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T21:25:00Z",
-      "sources_ingested": 40
+      "last_ingested": "2026-05-10T22:00:00Z",
+      "sources_ingested": 41
     }
   },
   "stats": {
-    "total_sources_ingested": 46,
-    "total_pages": 305,
+    "total_sources_ingested": 47,
+    "total_pages": 307,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-10T21:25:00Z"
+    "last_ingest_at": "2026-05-10T22:00:00Z"
   }
 }
