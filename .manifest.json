@@ -757,18 +757,43 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_serial_403.json": {
+      "ingested_at": "2026-05-10T23:55:00Z",
+      "size_bytes": 5043,
+      "content_hash": "sha256:a19eb06209eabcd7a11cb1a017f138527b78ac0049945deb1ed875adf02474f8",
+      "source_id": "fbi-hq-62-83894-serial-403-1956",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "signal_class": "structurally-novel",
+      "series": "fbi-hq-62-83894",
+      "series_position": "1-of-17",
+      "pages_created": [
+        "entities/fbi-hq-62-83894-file.md",
+        "entities/gray-barker.md",
+        "references/fbi-hq-62-83894-serial-403.md",
+        "references/barker-1956-they-knew-too-much.md"
+      ],
+      "pages_updated": [
+        "entities/fbi.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T23:45:00Z",
-      "sources_ingested": 27
+      "last_ingested": "2026-05-10T23:55:00Z",
+      "sources_ingested": 28
     }
   },
   "stats": {
-    "total_sources_ingested": 29,
-    "total_pages": 176,
+    "total_sources_ingested": 30,
+    "total_pages": 180,
     "total_projects": 1,
     "last_full_rebuild": null
   }

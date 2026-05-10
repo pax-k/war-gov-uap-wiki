@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-10T23:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-10T23:55:00Z*
 
 ## Concepts
 
@@ -66,11 +66,13 @@ title: Wiki Index
 - [[entities/e-u-hathaway]] — Lt Col US Army; Senate Armed Services Committee staff officer; primary debriefer of the 4 Oct 1955 Trans-Caucasus disc sighting ( #person #witness #uap #us-army)
 - [[entities/fbi]] — Federal Bureau of Investigation; intake authority across 66 years — 1957 (Detroit, WH-routed Krasuski letter, sit-down interview), 1958 (Detroit, Weaver phone-in, SF-64 routing), 1966 (Detroit, OUFORA redirect to USAF), 2023 (parallel FD-302 interviews) ( #fbi #organization #federal-le)
 - [[entities/franciszek-grabowski]] — Polish co-witness named in the 1944 Gut Alt Golssen account; uncontactable by 1957; the only co-witness Krasuski could recall ( #person #witness #ww2)
+- [[entities/fbi-hq-62-83894-file]] — FBI HQ Class-62 (administrative miscellaneous) file 62-HQ-83894; multi-year UAP-adjacent topic-clearinghouse file at FBI HQ; planned 17-serial wiki ingest series with serial 403 first ( #fbi #organization #archive #uap)
 - [[entities/frank-borman]] — USAF test pilot, NASA "Next Nine" astronaut, Cdr Gemini 7; called "a bogey at ten o'clock high" on the 4 Dec 1965 GT-7 air-to-ground voice loop ( #person #witness #uap #nasa #astronaut)
 - [[entities/gene-cernan]] — USN naval aviator, NASA Group 3 astronaut, Cdr Apollo 17; speaker of the only "unusual sighting" line on the Jan 1973 debriefing — resolves to a recovery-aircraft-carrier misidentification, not a UAP report ( #person #witness #uap #nasa #astronaut)
 - [[entities/gemini-7]] — NASA GT-7 long-duration / rendezvous mission (4–18 Dec 1965); mission frame for the wiki's first orbital UAP-adjacent record ( #nasa #mission #spacecraft #uap)
 - [[entities/gerald-carr]] — USMC naval aviator, NASA Group 5 astronaut, Cdr Skylab 4 (1973–74, longest crewed spaceflight at the time); primary articulator of the d7 SL-4 §7 flashing-lights observation — corpus's second sub-class D entry ( #person #witness #uap #nasa #astronaut)
 - [[entities/george-krol]] — POLMINCOUNS at AMEMBASSY Moscow in 2001; classifying officer of MOSCOW 13169; later US Ambassador to Belarus / Uzbekistan / Kazakhstan ( #state-department #person #diplomacy #russia)
+- [[entities/gray-barker]] — West Virginia civilian flying-saucer researcher; founder/publisher of *The Saucerian*; author of the 1956 *They Knew Too Much About Flying Saucers* — origin of the modern Men-in-Black trope; subject of FBI HQ 62-HQ-83894 serial 403 ( #person #civilian-research #uap #primary-source)
 - [[entities/harrison-schmitt]] — PhD geologist, NASA Group 4 scientist-astronaut, LMP Apollo 17; only scientist to walk on the Moon during Apollo; speaker of the Jan 1973 debriefing's ALFMED cosmic-ray-light-flash passage ( #person #witness #uap #nasa #astronaut)
 - [[entities/horten-brothers]] — German aircraft designers whose tailless wings were studied as a Flying Disc explanation ( #aviation #germany #ww2)
 - [[entities/jack-lousma]] — USMC naval aviator, NASA Group 5 astronaut, PLT Skylab 3 (Jul–Sep 1973); initial spotter of the d7 SL-3 multi-witness "red object" sighting; primary articulator of the morphology-unresolved characterization ( #person #witness #uap #nasa #astronaut)
@@ -119,6 +121,7 @@ title: Wiki Index
 
 ## References
 
+- [[references/barker-1956-they-knew-too-much]] — Reference-stub for Gray Barker's 1956 *They Knew Too Much About Flying Saucers* (University Books NYC); wiki holds only the publisher's jacket copy via FBI HQ 62-HQ-83894 serial 403; introduces the *"three men in dark suits"* / MIB trope into commercial publication ( #uap #civilian-research #primary-source #rhetoric)
 - [[references/dos-cable-kazakhstan-1994-01]] — Declassified 3-page UNCLAS US State Department cable (31 Jan 1994, DUSHANBE 00259) on Tajik Air pilots' UAP encounter at FL410 over Kazakhstan ( #uap #primary-source #state-department)
 - [[references/dos-cable-mexico-2023-09]] — Declassified 7-page UNCLAS US State Department cable (16 Sep 2023, MEXICO 2544) — Mission Mexico's weekly political blotter ¶11 reports the 12 Sep 2023 Mexican Congress UAP hearing with Maussan + Graves; first sub-pattern-C anchor of the diplomatic-channel umbrella ( #uap #primary-source #declassified #state-department #diplomacy)
 - [[references/dos-cable-papua-new-guinea-1985-01]] — Declassified 3-page US State Department cable (28 Jan 1985, PORT M 00199) on PNG NIO inquiry into 24 Jan 1985 high-altitude overflights ( #uap #primary-source #state-department)
@@ -128,6 +131,7 @@ title: Wiki Index
 - [[references/fbi-detroit-100-26505-krasuski-1957]] — Declassified 15-page FBI Detroit file 100-26505 (NW 90290) — Nov 1957 WH-routed Krasuski interview about a 1944 Gut Alt Golssen observation, plus Oct 1966 OUFORA inquiry-and-USAF-redirect ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-drone-pilot-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the contractor drone-pilot witness for the Sept 2023 daylight sighting (serial-4) ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-serial-3-driver-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the lead-vehicle driver witness (serial-3) — sister artifact to serial-4, plus a co-temporal gate anomaly ( #uap #primary-source #fbi)
+- [[references/fbi-hq-62-83894-serial-403]] — 3-page Mistral-OCR'd FBI HQ artifact: Records Center routing slip + clipped publisher's book-jacket copy of Gray Barker's 1956 *They Knew Too Much About Flying Saucers*, filed under HQ Class-62 admin file 62-HQ-83894 as serial 403; first HQ-level FBI record in the corpus ( #uap #fbi #primary-source #declassified #civilian-research)
 - [[references/cometa-report-1999]] — 90-page private French COMETA report (Jul 1999) on UFOs and defense; archived in NARA RG 255 via Carol Rosin's 2001 NASA delivery ( #uap #primary-source #policy #france)
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
 - [[references/iaf-ir-193-55-russell-1955]] — Declassified 9-page SECRET (NOFORN) USAIRA Prague Air Intelligence Information Report (IR 193-55, 14 Oct 1955; TS Cont. # 3-2500) on Senator Russell's Trans-Caucasus flying-disc sighting ( #uap #primary-source #declassified #1955)
