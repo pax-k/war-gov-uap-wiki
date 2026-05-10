@@ -2,8 +2,8 @@
 title: "Gray Barker"
 category: entities
 tags: [person, civilian-research, uap, primary-source]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json]
-summary: West Virginia civilian flying-saucer researcher; founder/publisher of *The Saucerian* magazine and author of the 1956 *They Knew Too Much About Flying Saucers* — the source of the modern Men-in-Black trope. Subject of FBI HQ file 62-HQ-83894 serial 403 clipping.
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_section_9.json]
+summary: West Virginia civilian flying-saucer researcher; founder/publisher of *The Saucerian* magazine and author of the 1956 *They Knew Too Much About Flying Saucers* — the source of the modern Men-in-Black trope. Subject of FBI HQ file 62-HQ-83894 serial 403 clipping + Saucerian Bulletin Vol 3 #4 retention via section 9 serial 396.
 provenance:
   extracted: 0.55
   inferred: 0.42
@@ -12,7 +12,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T23:55:00Z
-updated: 2026-05-10T23:55:00Z
+updated: 2026-05-11T03:30:00Z
 ---
 
 # Gray Barker
@@ -36,7 +36,9 @@ Almost all biographical detail on this page is sourced from the **publisher's pr
 
 - **1952** — Barker's interest dates to *"one of the most astonishing [saucers] [that] allegedly landed near his home in West Virginia"* in 1952. ^[extracted] This is the **Flatwoods, WV "Braxton County Monster" event of 12 Sep 1952** — a high-profile civilian sighting + alleged-occupant encounter that Barker investigated and wrote up. ^[inferred] Not yet a wiki page; deferred to a future ingest if independent primary-source material on Flatwoods enters the corpus.
 - **1952–56** — Barker investigates Flatwoods and *"after several years of close contact with the leading men in the field"* publishes ***They Knew Too Much About Flying Saucers*** (1956, University Books, NYC; jacket designed by Gropper Associates, Inc., $3.50). ^[extracted] See [[references/barker-1956-they-knew-too-much]].
-- **Beyond 1956** — Barker continued saucer research and publishing for several decades but the wiki currently has no source material on this period. ^[open]
+- **15 Oct 1958** — Barker publishes ***The Saucerian Bulletin* Vol 3 #4** (~30 pages, multiple book reviews + advertisements for saucer books) from Box 2228, Clarksburg WV. ^[extracted from FBI HQ 62-HQ-83894 section 9 serial 396] The issue contains an editorial by Barker quoting an unnamed *"researcher in the western part of the U. S."* on the [[concepts/three-men-in-black|MIB myth]]: *"You have often wondered where the 3 men came from that silenced [[entities/albert-k-bender\|Bender]]. I can give you the answer because 3 men tried to silence George Adamski. Adamski tells me that the 3 men were from the FBI, Air Force Intelligence, and the Central Intelligence Agency. It was the man from the CIA who made the threats that were designed to shut Adamski up."* ^[extracted] This is the **first FBI-corpus-retained Barker editorial extending the MIB attribution to Adamski**, and the first textual claim of CIA involvement in the silencing pattern.
+- **12 Feb 1959** — Per [[references/fbi-hq-62-83894-section-9|section 9]] serial 403, Chicago SAC obtained and forwarded a copy of Barker's *They Knew Too Much About Flying Saucers* to FBI HQ. ^[extracted] (This is **distinct from** the publisher's-jacket clipping retention of [[references/fbi-hq-62-83894-serial-403]] — there are two separate FBI 1959 acquisitions of Barker material.) ^[inferred]
+- **Beyond 1956** — Barker continued saucer research and publishing for several decades but the wiki currently has no source material on this period beyond *Saucerian Bulletin* Vol 3 #4 (Oct 1958). ^[open]
 
 ## Why Barker matters for the corpus
 
@@ -64,9 +66,12 @@ Barker's profile is structurally distinct from both — he is an **individual ci
 
 ## See also
 
-- [[references/fbi-hq-62-83894-serial-403]] — the FBI HQ artifact that clips Barker's book jacket **(NEW)**
-- [[references/barker-1956-they-knew-too-much]] — the book itself, as a wiki reference **(NEW)**
-- [[entities/fbi-hq-62-83894-file]] — parent FBI HQ file **(NEW)**
+- [[references/fbi-hq-62-83894-serial-403]] — the FBI HQ artifact that clips Barker's book jacket
+- [[references/barker-1956-they-knew-too-much]] — the book itself, as a wiki reference
+- [[references/fbi-hq-62-83894-section-9]] — section that retains the *Saucerian Bulletin* Vol 3 #4 Adamski-editorial **(NEW)**
+- [[concepts/three-men-in-black]] — the MIB myth Barker structurally founded **(NEW)**
+- [[entities/albert-k-bender]] — Barker's central silencing subject **(NEW)**
+- [[entities/fbi-hq-62-83894-file]] — parent FBI HQ file
 - [[entities/fbi]] — the agency that did the clipping
 - [[entities/oklahoma-ufo-research-association]] — later (1966) civilian-research org with FBI footprint
 - [[projects/uap/uap]]

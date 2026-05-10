@@ -2,8 +2,8 @@
 title: "FBI HQ File 62-HQ-83894"
 category: entities
 tags: [fbi, organization, primary-source, archive, uap]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_serial_449.json, sources/65_hs1-834228961_62-hq-83894_serial_164.json, sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_section_3.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_section_4.json, sources/65_hs1-834228961_62-hq-83894_section_7.json, sources/65_hs1-834228961_62-hq-83894_section_8.json, sources/65_hs1-834228961_62-hq-83894_sub_a.json]
-summary: FBI HQ Class-62 UAP-topic file 62-HQ-83894 — opened 6 Jul 1947 in response to AAF saucer-cooperation request; 11-channel accumulator + sub-file A press-shadow; spanning 6 Jul 1947 → Oct 1966; 14 of 17 ingested (sections 1-2-3-4-5-7-8, serials 130, 164, 220, 403, 438, 449, sub-A).
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_serial_449.json, sources/65_hs1-834228961_62-hq-83894_serial_164.json, sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_section_3.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_section_4.json, sources/65_hs1-834228961_62-hq-83894_section_7.json, sources/65_hs1-834228961_62-hq-83894_section_8.json, sources/65_hs1-834228961_62-hq-83894_section_9.json, sources/65_hs1-834228961_62-hq-83894_sub_a.json]
+summary: FBI HQ Class-62 UAP-topic file 62-HQ-83894 — opened 6 Jul 1947 in response to AAF saucer-cooperation request; 12-channel accumulator + sub-file A press-shadow; spanning 6 Jul 1947 → 21 Jul 1966; 15 of 17 ingested (sections 1-2-3-4-5-7-8-9, serials 130, 164, 220, 403, 438, 449, sub-A).
 provenance:
   extracted: 0.55
   inferred: 0.42
@@ -12,14 +12,24 @@ base_confidence: 0.9
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T23:55:00Z
-updated: 2026-05-10T22:45:00Z
+updated: 2026-05-11T03:30:00Z
 ---
 
 # FBI HQ File 62-HQ-83894
 
 A large, multi-year **FBI Headquarters file** under Class **62** (the FBI's catch-all *"administrative miscellaneous"* classification). ^[inferred] Indexed and serialized at FBI HQ in Washington — distinct from the field-office 100-class case files in the wiki's existing FBI corpus (e.g. Detroit `100-26505`, Detroit `100-18221`). ^[inferred] Note however that **at least one serial (449) is dual-classified** — simultaneously held under an LA-side Class-100 organizational counterintelligence file (`100-24442-40`) and the HQ-side Class-62 admin-misc filing — so the HQ-vs-100-class distinction is **not absolute** for individual serials in this file. ^[inferred] Declassification of the file's content is *"derived from the FBI Automatic Declassification Guide, issued 24 May 2007"*. ^[extracted]
 
-This page is the **parent-file hub** for a planned **17-serial wiki ingest series**. **Fourteen artifacts are now ingested**: **section 1 (serials 1-52, 6 Jul - 12 Sep 1947)**, **section 2 (serials 53-100, ~6 Aug - 17 Sep 1947)**, **section 3 (serials 101-130, ~14 Aug - 9 Oct 1947 — this batch)**, **section 4 (serials ~113-185, Oct 1947 - mid 1949)**, **section 5 (serials 186-245, 15 Jul 1949 - 8 Sep 1950)**, **section 7 (serials 302-343, 9 Aug 1952 - 27 Jun 1954)**, **section 8 (serials 344-384, 22 Jul 1954 - 7 Nov 1957)**, serial 130 (12 Sep 1947 ADC Mitchel Field AFBIR-CO compilation), serial 164 (15 Feb 1949 Cabell AIRMEM #4, 17 carbon copies), serial 220 (Apr 1950), serial 403 (1956 artifact, 2022 DIPA release), serial 438 (8 May 1964 Albuquerque report on Socorro NM), serial 449 (3 Oct 1966 LA SAC AFSCA-magazine memo), and **sub-file A (Vol 1, Serial 1 OPEN, 5 Jul 1947 - 25 May 1959 press-clippings appendix)**. The remaining 3 sections (sections 6, 9-10) will be ingested in subsequent passes.
+This page is the **parent-file hub** for a planned **17-serial wiki ingest series**. **Fifteen artifacts are now ingested**: **section 1 (serials 1-52, 6 Jul - 12 Sep 1947)**, **section 2 (serials 53-100, ~6 Aug - 17 Sep 1947)**, **section 3 (serials 101-130, ~14 Aug - 9 Oct 1947)**, **section 4 (serials ~113-185, Oct 1947 - mid 1949)**, **section 5 (serials 186-245, 15 Jul 1949 - 8 Sep 1950)**, **section 7 (serials 302-343, 9 Aug 1952 - 27 Jun 1954)**, **section 8 (serials 344-384, 22 Jul 1954 - 7 Nov 1957)**, **section 9 (serials 385-447, 14 Nov 1957 - 21 Jul 1966 — this batch)**, serial 130 (12 Sep 1947 ADC Mitchel Field AFBIR-CO compilation), serial 164 (15 Feb 1949 Cabell AIRMEM #4, 17 carbon copies), serial 220 (Apr 1950), serial 403 (1956 artifact, 2022 DIPA release), serial 438 (8 May 1964 Albuquerque report on Socorro NM — also retained in section 9), serial 449 (3 Oct 1966 LA SAC AFSCA-magazine memo), and **sub-file A (Vol 1, Serial 1 OPEN, 5 Jul 1947 - 25 May 1959 press-clippings appendix)**. The remaining 2 sections (6, 10) will be ingested in subsequent passes.
+
+## HEADLINE — section 9 adds the SPUTNIK-ERA REACTIVATION + the MIB myth filed back into the file + the 1958-1962 policy-stasis annual reviews + the SOCORRO landing case in sequential filing
+
+**Section 9 (this batch)** is the file's **temporal-spine bridge** between the 1957-Levelland inflection point and the file's 1966 close. ^[inferred] 290 OCR pages span **14 Nov 1957 → 21 Jul 1966** (~8 years 8 months — the longest single-section span in the file by a factor of 2). ^[extracted] **Five paradigm-defining strands** added: ^[inferred]
+
+1. **The Sputnik-era saucer reactivation is FBI-canonized** — [[references/fbi-roach-belmont-sputnik-memo-1957-11-12|Roach → Belmont memo, 12 Nov 1957]] (serial 387) opens *"Ever since the Russians released 'Sputnik'…"* and recapitulates Vernal UT, Nebraska, Albany→Miami, Coast Guard, and Levelland under one frame. See [[concepts/sputnik-saucer-reactivation-1957]].
+2. **The MIB / Three-Men-in-Black myth is filed back into the file** that the myth implicitly accuses — through Marck (serial 397/398), Maney via *Saucerian Bulletin* Vol 3 #4 (serial 396), and Montello direct (serial 437). See [[concepts/three-men-in-black]] and [[entities/albert-k-bender]].
+3. **A new file channel — annual self-review** — Donahoe/Wannall memos (392, 422, 425, 427) explicitly memorialize the **absence of policy change** as standing policy. See [[concepts/fbi-saucer-policy-stasis-1958-1962]]. The file's intake-channel inventory grows from **11 to 12** with this batch.
+4. **The Socorro NM Zamora landing case is filed in sequential 62-HQ-83894** — serials 435, 436, 438 (the latter also retained as the standalone serial-438 wiki anchor). The Director's 28 Apr 1964 airtel hedge confirms BB-57 policy-stasis held even for the file's most kinematically anomalous case.
+5. **Larry W. Bryant's UFO-censor critique** — Army-civilian + G-2 background check (serials 402, 430-432, 439). See [[entities/larry-w-bryant]].
 
 ## HEADLINE — section 3 RECOVERS the BB-57 birth chain + earliest Operation-Mogul reference + FBI Seattle Maury Island complete report
 

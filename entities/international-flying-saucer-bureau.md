@@ -3,7 +3,7 @@ title: "International Flying Saucer Bureau (IFSB)"
 category: entities
 tags: [uap, organization, civilian-research, 1950s]
 aliases: [IFSB, Bender's IFSB, International Flying Saucer Bureau Bridgeport]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_7.json]
+sources: [sources/65_hs1-834228961_62-hq-83894_section_7.json, sources/65_hs1-834228961_62-hq-83894_section_9.json]
 summary: Civilian saucer-research organization founded ~1952 in Bridgeport CT by Albert K. Bender — the earliest organized civilian saucer-club retained at FBI HQ in the wiki corpus, publisher of the *Space Review* magazine.
 provenance:
   extracted: 0.65
@@ -13,7 +13,7 @@ base_confidence: 0.5
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T20:15:00Z
-updated: 2026-05-10T20:15:00Z
+updated: 2026-05-11T03:30:00Z
 ---
 
 # International Flying Saucer Bureau (IFSB)
@@ -110,7 +110,7 @@ The structural parallel: **IFSB anticipates the [[entities/amalgamated-flying-sa
 
 ## Open threads
 
-- **Track Bender's post-1953 trajectory** — Bender claimed in 1962's *Flying Saucers and the Three Men* that *"three men in black"* visited him in 1953 and shut down IFSB. ^[ambiguous] Section 7 ends Jun 1954; later FBI sections may document IFSB's later disposition.
+- **Track Bender's post-1953 trajectory** — Bender claimed in 1962's *Flying Saucers and the Three Men* that *"three men in black"* visited him in 1953 and shut down IFSB. ^[ambiguous] **Section 9 ingest** ([[references/fbi-hq-62-83894-section-9]]) confirms the silencing rumor was **filed back into the FBI's own file** through Marck (serial 397/398, Dec 1958), Maney via *Saucerian Bulletin* Vol 3 #4 (serial 396, Dec 1958), and Montello direct inquiry (serial 437, Jan 1964) — but the FBI never investigated Bender, never approached him, and never affirmed or denied the rumor. ^[inferred] See [[entities/albert-k-bender]] (NEW, Section 9 entity) and [[concepts/three-men-in-black]] (NEW, Section 9 concept).
 - **Recover *Space Review* issues 2-4 of Volume II** — the Jan 1953 issue is Vol II No. 1; the magazine continued at least into 1953.
 - **Track the Franklin IN chapter** — does it persist past the IFSB-shutdown date or pivot to another saucer-club?
 - **Cross-reference Robert Webster (*Fate* magazine editor)** to other FBI corpus material.
@@ -121,6 +121,9 @@ The structural parallel: **IFSB anticipates the [[entities/amalgamated-flying-sa
 ## See also
 
 - [[references/fbi-hq-62-83894-section-7]] — primary source (serial 326, pages 113-124)
+- [[references/fbi-hq-62-83894-section-9]] — Bender silencing-rumor downstream filings (serials 396-403, 437) **(NEW)**
+- [[entities/albert-k-bender]] — IFSB founder / silencing subject **(NEW)**
+- [[concepts/three-men-in-black]] — MIB myth structurally rooted in IFSB's 1953 dissolution **(NEW)**
 - [[concepts/contactee-movement-1952-1954]] — broader 1952-54 organizational context (NEW)
 - [[entities/borderland-sciences-research-associates]] — earlier (1945) civilian saucer organization (NEW)
 - [[entities/n-meade-layne]] — BSRA founder

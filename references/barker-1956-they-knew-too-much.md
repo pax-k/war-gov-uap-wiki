@@ -2,8 +2,8 @@
 title: "Gray Barker, *They Knew Too Much About Flying Saucers* (1956)"
 category: references
 tags: [uap, civilian-research, primary-source, rhetoric]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json]
-summary: 1956 Gray Barker book published by University Books NYC; introduced the "three men in dark suits" / MIB trope into popular UAP discourse. Wiki holds only the publisher's jacket copy via FBI HQ 62-HQ-83894 serial 403.
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_section_9.json]
+summary: 1956 Gray Barker book published by University Books NYC; introduced the "three men in dark suits" / MIB trope into popular UAP discourse. Wiki holds the publisher's jacket copy via FBI HQ 62-HQ-83894 serial 403; Section 9 confirms a separate Feb 1959 FBI HQ acquisition of the actual book via Chicago SAC.
 provenance:
   extracted: 0.4
   inferred: 0.55
@@ -12,14 +12,16 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T23:55:00Z
-updated: 2026-05-10T23:55:00Z
+updated: 2026-05-11T03:30:00Z
 ---
 
 # Gray Barker, *They Knew Too Much About Flying Saucers* (1956)
 
 A 1956 popular non-fiction book by **[[entities/gray-barker|Gray Barker]]**, published by **University Books, Inc., 404 Fourth Avenue, New York 16, NY**, with jacket design by **Gropper Associates, Inc.**, listed at **$3.50**. ^[extracted]
 
-**The wiki does not hold the book itself** — only the **publisher's promotional jacket copy** (front flap + back flap + author photograph credit), as clipped and filed by the FBI in **HQ file 62-HQ-83894 serial 403** (see [[references/fbi-hq-62-83894-serial-403]]). ^[inferred] This page is therefore a **reference-stub**: it documents what the wiki knows about the book, distinguishes between extracted-from-jacket-copy claims and inferred / contextual claims, and serves as an anchor for any future ingest that brings the book itself into the corpus.
+**The wiki does not hold the book's text** — only the **publisher's promotional jacket copy** (front flap + back flap + author photograph credit), as clipped and filed by the FBI in **HQ file 62-HQ-83894 serial 403** (see [[references/fbi-hq-62-83894-serial-403]]). ^[inferred] This page is therefore a **reference-stub**: it documents what the wiki knows about the book, distinguishes between extracted-from-jacket-copy claims and inferred / contextual claims, and serves as an anchor for any future ingest that brings the book itself into the corpus.
+
+**Important: the FBI separately acquired the actual book in Feb 1959.** ^[extracted] [[references/fbi-hq-62-83894-section-9|Section 9]] of the same HQ file (serial 403, 12 Feb 1959) records that **Chicago SAC mailed a copy of *They Knew Too Much About Flying Saucers* to FBI HQ** with the cover note: *"Per Bureau request, enclosed herewith is a copy of the book … by GRAY BARKER, noting this book was published by University Books, Inc., 404 Fourth Avenue, New York 16, N.Y. … ENCLOSURE - retained by works."* ^[extracted] So the FBI HQ at one point held **both** the publisher's jacket-copy clipping (separately serialized as 62-HQ-83894 serial 403, the artifact in this wiki) **and** an actual book copy (also section-9 serial 403). ^[inferred] These appear to be **two distinct serial-403 retentions** ingested into the file at different times, or — alternatively — the wiki's existing serial-403-as-jacket-clipping reading is incomplete and the **same serial 403 spans both items**. ^[ambiguous]
 
 ## Provenance and what's actually in the wiki
 

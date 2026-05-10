@@ -2,7 +2,7 @@
 title: "FBI HQ File 62-HQ-83894 — Serial 438 (Byrnes Albuquerque Socorro NM 24 Apr 1964 report)"
 category: references
 tags: [uap, fbi, primary-source, sighting, 1964]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_438.json]
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_section_9.json]
 summary: 10-page Mistral-OCR'd FBI Albuquerque report (8 May 1964) by SA D. Arthur Byrnes Jr. on the 24 Apr 1964 Socorro NM landing case — physical-trace investigation + Zamora witness statement, filed at HQ as 62-HQ-83894 serial 438. Counter-example refuting the prior content-accumulation-only file-function reading.
 provenance:
   extracted: 0.6
@@ -12,7 +12,7 @@ base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11T03:30:00Z
 ---
 
 # FBI HQ File 62-HQ-83894 — Serial 438 (Byrnes Albuquerque Socorro NM 24 Apr 1964 report)
@@ -20,6 +20,8 @@ updated: 2026-05-10T00:00:00Z
 A **40-OCR-page Mistral-OCR'd declassified artifact** from the **FBI Central Records Center / FBI HQ**. The 40 OCR pages decompose into a Records Center cover slip, **four sequential carbon-copy distributions of the same 10-page Byrnes-authored narrative**, and a 2-page hand-drawn ground-trace diagram set. ^[inferred] Filed at **Class 0062 / Case 83894 / Sub —/ Vol 1 / Serial 438 ONLY** with secondary marker **HQ-0000-86775B: HQ**, processing tag **`8/11/1274161 RRP0031XQ3`**, *DO NOT DESTROY*-class declassification. *"Declassification authority derived from FBI Automatic Declassification Guide, issued 24 May 2007"*. ^[extracted]
 
 This is the **third artifact ingested** in the planned 17-serial 62-HQ-83894 wiki series — and the **first counter-example to the prior file-function reading**. Serials 220 (1950) and 403 (1956) jointly framed 62-HQ-83894 as a **content-accumulation-only file** (clipped publications + inbound civilian mail, no FBI-authored investigative content). Serial 438 is **FBI-authored field investigative product** — same agency, same HQ file, fundamentally different intake channel. ^[inferred] See [[entities/fbi-hq-62-83894-file]] for the refined parent-file reading.
+
+**Section-9 cross-retention.** ^[extracted] The same Byrnes report is **also retained in the sequential filing of [[references/fbi-hq-62-83894-section-9|62-HQ-83894 section 9]]**, where it sits alongside the **27 Apr 1964 Albuquerque teletype (serial 435)** that includes the **parallel 26 Apr 1964 La Madera NM Orlando Gallegos sighting** (~150 mi north of Socorro, blue-white-flame port-hole object 12-14 ft high) and the **28 Apr 1964 HQ → Albuquerque airtel (serial 436)** containing the canonical **Director's hedge**: *"Our policy is not to investigate but assure that Air Force is cognizant. Military is investigating and Albuquerque Office is maintaining liaison."* ^[extracted] The hedge confirms the Bureau's [[concepts/fbi-saucer-policy-stasis-1958-1962|policy stasis]] held even for the file's most kinematically anomalous case. ^[inferred]
 
 The artifact documents the **24 April 1964 Lonnie Zamora landing case at Socorro, New Mexico** — see [[references/sighting-socorro-nm-1964-04-24]] for the consolidated sighting page.
 

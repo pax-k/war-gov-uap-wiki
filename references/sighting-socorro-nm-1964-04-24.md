@@ -2,7 +2,7 @@
 title: "Sighting — Socorro, NM (24 April 1964) — Lonnie Zamora landing"
 category: references
 tags: [uap, sighting, 1964, low-altitude, morphology]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_438.json]
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_438.json, sources/65_hs1-834228961_62-hq-83894_section_9.json]
 summary: 24 Apr 1964 ~5:45 PM landing-class UAP encounter ~1 mi SW of Socorro NM by Officer Lonnie Zamora — aluminum-white object on two slanted legs, two figures in white coveralls, vertical departure with bluish-orange flame; multi-witness physical-trace corroboration (4 rectangular depressions + 3 burned grass clumps + 3 circular indents) by FBI SA Byrnes within ~15 min.
 provenance:
   extracted: 0.65
@@ -12,14 +12,16 @@ base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11T03:30:00Z
 ---
 
 # Sighting — Socorro, NM (24 April 1964) — Lonnie Zamora landing
 
 A **landing-class single-witness close-encounter** with **multi-witness on-scene physical-trace corroboration**, occurring at approximately **5:45 PM, 24 April 1964**, in an isolated arroyo area approximately **1 mile southwest of Socorro, New Mexico**. ^[extracted] The principal witness is **[[entities/lonnie-zamora|Officer Lonnie Zamora]]**, ~5-year veteran of the Socorro Police Department; corroborating witnesses to the **physical traces** (not the object itself) are **[[entities/d-arthur-byrnes-jr|FBI SA D. Arthur Byrnes Jr.]]** (Albuquerque), **Sergeant M. S. Chavez** (NMSP), **Officer Ted Jordan** (NMSP), and **Undersheriff Jim Luckie** (Socorro County). ^[extracted]
 
-The wiki-canonical primary source for this case is the FBI Albuquerque report by SA Byrnes filed 8 May 1964 as [[references/fbi-hq-62-83894-serial-438|FBI HQ 62-HQ-83894 serial 438]] — see that page for filing-metadata and document-internal structure.
+The wiki-canonical primary source for this case is the FBI Albuquerque report by SA Byrnes filed 8 May 1964 as [[references/fbi-hq-62-83894-serial-438|FBI HQ 62-HQ-83894 serial 438]] — see that page for filing-metadata and document-internal structure. The case is **also filed at HQ across [[references/fbi-hq-62-83894-section-9|section 9]]** (the standalone serial-438 artifact and the section-9 sequential filing are **two retentions of the same documents**) ^[inferred] — see section 9 serials **435 (27 Apr 1964 Albuquerque teletype)**, **436 (28 Apr 1964 Albuquerque teletype + Director's airtel back)**, and **438 (8 May 1964 Byrnes report)**. Notable from section 9: the Director's 28 Apr 1964 airtel (serial 436) instructs *"Submit letterhead memorandum"* to Albuquerque and includes the canonical hedge *"Our policy is not to investigate but assure that Air Force is cognizant"* — confirming the Bureau's [[concepts/fbi-saucer-policy-stasis-1958-1962|policy stasis]] held even for the file's most kinematically anomalous case. ^[inferred]
+
+A **second, parallel sighting** is filed at section 9 serial 435: at ~1 AM **26 Apr 1964** at **La Madera, NM** (~70 miles north of Santa Fe — coincidentally ~150 miles north of Socorro), **Orlando Gallegos** (age 35, Santa Fe NM) reported observing on the ground a *"butane-tank-shaped"* object 12-14 ft high, *"long as a telephone pole"*, with **blue-white flame** *"which appeared to come from port holes"*; motionless, silent, ~1-minute observation. ^[extracted] **NMSP Captain Vigil** confirmed the next morning a *"scorched circular area about thirty to forty feet in diameter"* with **rectangular V-shaped indentations** matching the Socorro physical-trace profile. ^[extracted] Single-witness; never received a separate FBI investigation. The 48-hour, 150-mile coincidence with the Socorro case is **uncommented in the FBI files** but is a **physical-trace cluster** worth flagging for future cross-corpus analysis. ^[inferred]
 
 ## Sequence
 

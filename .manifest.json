@@ -1185,20 +1185,56 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_section_9.json": {
+      "ingested_at": "2026-05-11T03:30:00Z",
+      "size_bytes": 350966,
+      "modified_at": "2026-05-09T13:07:43Z",
+      "content_hash": "sha256:c83a702f1a89052d035b5b2d4a2724290ceafc571235232fd6e1e4c0e552d532",
+      "source_id": "fbi-hq-62-83894-section-9",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "fbi-hq-62-83894",
+      "series_position": "15-of-17",
+      "pages_created": [
+        "references/fbi-hq-62-83894-section-9.md",
+        "references/fbi-roach-belmont-sputnik-memo-1957-11-12.md",
+        "references/sighting-grand-blanc-perry-1960.md",
+        "concepts/three-men-in-black.md",
+        "concepts/sputnik-saucer-reactivation-1957.md",
+        "concepts/fbi-saucer-policy-stasis-1958-1962.md",
+        "entities/albert-k-bender.md",
+        "entities/larry-w-bryant.md"
+      ],
+      "pages_updated": [
+        "references/fbi-hq-62-83894-section-8.md",
+        "references/sighting-socorro-nm-1964-04-24.md",
+        "references/fbi-hq-62-83894-serial-438.md",
+        "references/barker-1956-they-knew-too-much.md",
+        "entities/gray-barker.md",
+        "entities/international-flying-saucer-bureau.md",
+        "entities/fbi-hq-62-83894-file.md",
+        "concepts/engine-stall-phenomenon.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T22:50:00Z",
-      "sources_ingested": 37
+      "last_ingested": "2026-05-11T03:30:00Z",
+      "sources_ingested": 38
     }
   },
   "stats": {
-    "total_sources_ingested": 43,
-    "total_pages": 276,
+    "total_sources_ingested": 44,
+    "total_pages": 284,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-10T22:50:00Z"
+    "last_ingest_at": "2026-05-11T03:30:00Z"
   }
 }

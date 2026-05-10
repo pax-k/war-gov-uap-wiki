@@ -2,7 +2,7 @@
 title: "Engine-Stall Phenomenon"
 category: concepts
 tags: [uap, morphology, electromagnetic, pattern]
-sources: [fbi-detroit-100-26505-100-de-26505, fbi-fd302-serial-3-2023-09-redacted, sources/38_143685_box7_incident_summaries_1-100.json]
+sources: [fbi-detroit-100-26505-100-de-26505, fbi-fd302-serial-3-2023-09-redacted, sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_section_9.json]
 summary: Recurring UAP-adjacent phenomenology — instrument / engine / electrical equipment behaves anomalously coincident with a UAP observation, recovering normally on departure. Earliest corpus anchor: 24 Jun 1947 Cascade Mts (Inc 68 Fred Johnson, compass-and-watch deflection).
 provenance:
   extracted: 0.4
@@ -12,7 +12,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T18:00:00Z
-updated: 2026-05-09T18:00:00Z
+updated: 2026-05-11T03:30:00Z
 ---
 
 # Engine-Stall Phenomenon
@@ -73,7 +73,7 @@ This makes Krasuski's account a **pre-Levelland-witness post-Levelland-report**:
 
 ## Open threads
 
-- Ingest a **Levelland TX November 1957** primary source (police logs, sheriff's reports, USAF investigation file) to anchor that anchor case directly. ^[open]
+- Ingest a **Levelland TX November 1957** primary source (police logs, sheriff's reports, USAF investigation file) to anchor that anchor case directly. ^[open] **Section-9 progress**: the [[references/fbi-roach-belmont-sputnik-memo-1957-11-12|Roach → Belmont memo of 12 Nov 1957]] (62-HQ-83894 serial 387) is now the **HQ-summary anchor** for Levelland — it describes engine-stall reports phenomenologically (*"persons … driving their cars have allegedly seen UFO's that caused the engines in their automobiles to stop"*) but **does not name Levelland** by location. ^[extracted] See also [[concepts/sputnik-saucer-reactivation-1957]].
 - Catalogue any 1948–49 USAF [[references/usaf-flying-discs-1948|Project SIGN]] or [[references/usaf-flying-discs-1949|continuation]] reports that include explicit engine-stall content, and add a row to the table above. ^[inferred]
 - Watch for engine-stall phenomenology in **modern aircraft-engagement** records ([[concepts/uap-aircraft-engagement]]) — particularly the 2025 [[references/sighting-helicopter-orb-encounter-2025|helicopter encounter]] where the orbs approach but no engine effect is described in this version of the witness statement. ^[open]
 - Track how the 2023 **gate anomaly** ([[references/fbi-fd302-serial-3-driver-redacted-2023]]) was logged downstream — facility maintenance / PLC log / FBI follow-through. ^[open]
