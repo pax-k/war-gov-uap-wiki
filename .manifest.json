@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-11T01:00:00Z",
+  "updated": "2026-05-10T13:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -889,6 +889,41 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_section_1.json": {
+      "ingested_at": "2026-05-10T13:00:00Z",
+      "size_bytes": 215937,
+      "modified_at": "2026-05-09T16:07:43Z",
+      "content_hash": "sha256:e217d3dea204c4adb54b8c1bcbc140d1949ddfb915111229c79e0b4d16233d5f",
+      "source_id": "fbi-hq-62-83894-section-1",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "fbi-hq-62-83894",
+      "series_position": "6-of-17",
+      "pages_created": [
+        "references/fbi-hq-62-83894-section-1.md",
+        "references/fbi-bureau-bulletin-42-1947.md",
+        "references/sighting-roswell-1947-07-08.md",
+        "references/sighting-maury-island-1947-06-21.md",
+        "references/sighting-grafton-wisconsin-1947-07-06.md",
+        "references/round-robin-flying-roll-1947.md",
+        "entities/george-f-schulgen.md",
+        "entities/d-m-ladd.md",
+        "entities/s-w-reynolds.md",
+        "entities/n-meade-layne.md",
+        "concepts/saucer-as-hoax-default.md",
+        "concepts/fbi-aaf-saucer-cooperation-1947.md",
+        "concepts/civilian-saucer-hypothesis-1947.md"
+      ],
+      "pages_updated": [
+        "entities/fbi-hq-62-83894-file.md",
+        "entities/fbi.md",
+        "references/sighting-arnold-mt-rainier-1947-06-24.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
@@ -899,8 +934,8 @@
     }
   },
   "stats": {
-    "total_sources_ingested": 34,
-    "total_pages": 192,
+    "total_sources_ingested": 35,
+    "total_pages": 205,
     "total_projects": 1,
     "last_full_rebuild": null
   }

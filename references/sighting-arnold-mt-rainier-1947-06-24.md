@@ -93,13 +93,24 @@ Also on **24 Jun 1947**, Lt Gov **Donald S. Whitehead** of Idaho saw a *"comet-l
 - **Arnold's altitude / speed math.** The 150-MPH file figure conflicts with Arnold's later published speed estimates after he reworked the peak-to-peak distance. The SIGN file preserves the **conservative initial estimate**, not Arnold's later refinement. ^[ambiguous]
 - **The "swerve in and out of mountain peaks" tactic.** This is one of the earliest **terrain-following / contour-following** behavioral signatures in the corpus — recurring in Inc 75 (Snake River Canyon 13 Aug 1947), Inc 58 (NW of Bethel AK 4 Aug 1947), and structurally similar to the post-2017 Navy *"Tic-Tac"* tracking observations. ^[inferred]
 
+## Cross-event linkage — Maury Island and the Davidson/Brown plane crash
+
+[[references/fbi-hq-62-83894-section-1|FBI section 1]] (Jul-Aug 1947) reveals that the **same 4th AAF investigative team** (Capt William L. Davidson + Lt Frank M. Brown of Hamilton Field) that interviewed Harold Dahl and Fred Crisman about Maury Island on **27 Jul 1947** also interviewed **Arnold**, plus Capt E. J. Smith + Ralph Stevens (United Airlines), and Dave Johnson (Idaho Statesman) on the same Pacific-NW tour. ^[extracted] On **1 Aug 1947** Davidson and Brown's B-25 crashed at Kelso WA, killing both — see [[references/sighting-maury-island-1947-06-21]]. The Tacoma News Tribune (via UP wire) reported the plane was carrying Maury Island disc fragments; analysis identified the fragments as **Tacoma slag-mill product**. ^[extracted] Lt Col C. P. Martin (AAF Intelligence) tells the FBI on 6 Aug 1947 the dead CIC agent was on a *"top secret mission"*, possibly **en route to or from interview with Arnold**. ^[extracted]
+
+This places Arnold's case institutionally **one degree of separation** from the 1947 wave's most catastrophic AAF investigative event. ^[inferred]
+
 ## See also
 
 - [[references/project-sign-incident-summaries-1-100]] — parent bundle (Inc 17)
 - [[references/sighting-cascade-mts-johnson-1947-06-24]] — same-day, ~150 mi N, EM-effect parallel
 - [[references/sighting-muroc-1947-07-08]] — first AAF-base cluster 14 days later
 - [[references/sighting-rhodes-phoenix-1947-07-07]] — first photographic evidence
+- [[references/sighting-roswell-1947-07-08]] — 14 days later, the wave's other physical-recovery event
+- [[references/sighting-maury-island-1947-06-21]] — Davidson/Brown post-Arnold interview-tour case
 - [[references/sighting-mantell-godman-1948-01-07]] — first UAP-attributed fatality, 6+ mo later
+- [[references/fbi-hq-62-83894-section-1]] — FBI institutional context
+- [[references/fbi-bureau-bulletin-42-1947]] — FBI policy memo issued during Arnold's wave
+- [[concepts/saucer-as-hoax-default]] — the FBI/AAF framing inverted by Arnold
 - [[concepts/project-sign]]
 - [[concepts/uap-aircraft-engagement]]
 - [[entities/air-materiel-command]]
