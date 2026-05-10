@@ -152,8 +152,12 @@ The 14 Aug 1947 LA-papers Soviet-espionage story (serial 62-63) is **flagged by 
 
 ## See also
 
-- [[entities/fbi-hq-62-83894-file]] — parent file (now N=7 ingested artifacts)
+- [[entities/fbi-hq-62-83894-file]] — parent file (now N=9 ingested artifacts)
 - [[references/fbi-hq-62-83894-section-1]] — predecessor section (serials 1-52)
+- [[references/fbi-hq-62-83894-section-5]] — post-cooperation-regime successor section (serials 186-245, Jul 1949 - Sep 1950); confirms the AAF cooperation regime terminated by Bureau ~Oct 1947 + AF ~Dec 1949 **(NEW)**
+- [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] — section-5 serial 212 confirming both agency exits **(NEW)**
+- [[concepts/project-grudge]] — AF saucer project terminated Dec 1949 **(NEW)**
+- [[concepts/aztec-saucer-myth-1950]] — section-5 4-channel myth-seed laundering **(NEW)**
 - [[concepts/fbi-aaf-saucer-cooperation-1947]] — the regime running at full throttle in this section
 - [[references/fbi-bureau-bulletin-42-1947]] — the operative directive (cited verbatim in serial 66)
 - [[entities/g-d-garrett]] — author of the paradigm-cracking admission (serial 86)

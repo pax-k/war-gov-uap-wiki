@@ -2,8 +2,8 @@
 title: "Sighting — Durango, Mexico (18 March 1950) — Robles Jr. flying-saucer photographs"
 category: references
 tags: [uap, sighting, mexico, 1950, morphology]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_220.json]
-summary: 18 Mar 1950 daylight sighting and photography of a "double truncated cone joined at its bases" object at ~8,000–9,000 ft over Durango, Mexico, by civil-engineering student Germán Horacio Robles Jr.; reported in the Mexican newspaper of 18 Mar 1950 and clipped into FBI HQ 62-HQ-83894 serial 220.
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_section_5.json]
+summary: 18 Mar 1950 daylight sighting and photography of a "double truncated cone joined at its bases" object at ~8,000–9,000 ft over Durango, Mexico, by civil-engineering student Germán Horacio Robles Jr.; reported in the Mexican newspaper of 18 Mar 1950 and clipped into FBI HQ 62-HQ-83894 serial 220 (NY SAC originating filing in section 5, 11 Apr 1950).
 provenance:
   extracted: 0.55
   inferred: 0.4

@@ -3,17 +3,17 @@ title: "FBI-AAF Saucer Cooperation Arrangement (1947)"
 category: concepts
 tags: [uap, fbi, usaaf, policy, 1947]
 aliases: [Schulgen-Reynolds-Ladd cooperation arrangement, FBI saucer cooperation regime, FBI-AAF disc cooperation, 1947 FBI saucer policy]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json]
-summary: The Jul-Sep 1947 institutional arrangement under which the FBI investigated first-witness sincerity for AAF disc reports, conditional on full FBI access to recovered discs — codified in Bureau Bulletin No. 42, eroded operationally within ~6 weeks.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_2.json, sources/65_hs1-834228961_62-hq-83894_section_5.json]
+summary: The Jul-Sep 1947 institutional arrangement under which the FBI investigated first-witness sincerity for AAF disc reports, conditional on full FBI access to recovered discs — codified in Bureau Bulletin No. 42, terminated by the Bureau ~Oct 1947 (BB57).
 provenance:
   extracted: 0.7
   inferred: 0.27
   ambiguous: 0.03
-base_confidence: 0.65
+base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T15:30:00Z
+updated: 2026-05-10T16:30:00Z
 ---
 
 # FBI-AAF Saucer Cooperation Arrangement (1947)
@@ -38,6 +38,9 @@ The institutional bargain negotiated between **FBI HQ and Army Air Forces Intell
 | **30 Aug 1947** | **Hoover Fugate-block teletype** — first formal FBI rejection of joint AAF investigation under BB42, on the Rhodes Phoenix interview. ^[extracted] By the time the teletype reaches Phoenix, the joint interview has already happened. ^[extracted] | section 2 serial 68; see [[references/sighting-rhodes-phoenix-1947-07-07]] |
 | **5 Sep 1947** | **[[entities/george-f-schulgen\|Schulgen]] formal letter to Hoover** (declassified NND 90986): "*a complete survey of research activities discloses that the Army Air Forces has no project with the characteristics similar to those which have been associated with the Flying Discs.*" ^[extracted] | section 2 serial 84 |
 | **~22 Sep 1947** | **THE GARRETT ADMISSION** — Lt Col Garrett tells Reynolds his **personal opinion** is that flying discs are a **highly classified US Government experiment** and that scientist "Mr. Carroll" agrees. ^[extracted] Reynolds escalates to Forney, who confirms with Generals Chamberlin and Todd that the Army runs no such project. Garrett raises with Schulgen who agrees a memo will go from McDonald (A2) to LeMay (R&D). ^[extracted] | section 2 serials 86 + 87 |
+| **~1 Oct 1947** | **BUREAU BULLETIN NO. 57** — Hoover formally terminates FBI saucer investigation ~9 weeks after BB42 opened it; explicitly references handing the topic to the Air Force. ^[inferred] BB57 itself is not yet ingested but referenced from [[references/fbi-hq-62-83894-section-5\|section 5]] serial 206 (Hoover→Denver SAC reply 10 Mar 1950: *"Re Bureau Bulletin Number Five Seven dated October One, Nineteen Fortyseven in captioned matter. NO FURTHER ACTION DESIRED."*) ^[extracted] | **62-83894-141-160** (queued section 3-4); see [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] |
+| Dec 1949 | **AF press release announcing Project [[concepts/project-grudge\|GRUDGE]] termination, "concurred in by Army and Navy"** — closes the regime from the AF side. ^[extracted] | [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] |
+| **28 Mar 1950** | **Boggs-Hearn memo confirms BOTH the FBI (Oct 1947) AND AF (Dec 1949) terminations** to Reynolds via Ladd to Hoover. ^[extracted] The cooperation regime is structurally dead by ~32 months after its founding. ^[inferred] | [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28\|section 5 serial 212]] |
 
 ## What each side got
 
@@ -96,10 +99,13 @@ The arrangement is **silently superseded** rather than formally rescinded. ^[inf
 
 ## See also
 
-- [[references/fbi-hq-62-83894-section-2]] — the empirical source for operational erosion (Aug-Sep 1947) **(NEW)**
-- [[entities/g-d-garrett]] — the AAF officer whose admission destabilizes the regime **(NEW)**
+- [[references/fbi-hq-62-83894-section-5]] — empirical source for the BOTH-SIDES-TERMINATED confirmation (Mar 1950) **(NEW)**
+- [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] — the paradigm-defining 28 Mar 1950 confirmation memo (NEW)
+- [[concepts/project-grudge]] — AF-side terminus (Dec 1949) **(NEW)**
+- [[references/fbi-hq-62-83894-section-2]] — the empirical source for operational erosion (Aug-Sep 1947)
+- [[entities/g-d-garrett]] — the AAF officer whose admission destabilizes the regime
 - [[references/fbi-hq-62-83894-section-1]] — the empirical source for regime founding (Jul-Aug 1947)
-- [[references/fbi-bureau-bulletin-42-1947]] — the codifying directive
+- [[references/fbi-bureau-bulletin-42-1947]] — the codifying directive (30 Jul 1947, opens regime); Bureau Bulletin No. 57 (~1 Oct 1947) closes it
 - [[concepts/saucer-as-hoax-default]] — the operating presumption
 - [[concepts/civilian-saucer-hypothesis-1947]] — the parallel civilian channel
 - [[concepts/flying-disc-reporting-protocol]] — the 1949 successor regime

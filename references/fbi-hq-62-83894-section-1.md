@@ -158,9 +158,11 @@ The N=52 inventory shows: hoax-defaults dominate the operational core (serials 1
 
 ## See also
 
-- [[entities/fbi-hq-62-83894-file]] — parent file (now N=7 ingested)
-- [[references/fbi-hq-62-83894-section-2]] — successor section (serials 53-100, Aug-Sep 1947 — Garrett admission, Schulgen denial, Fugate block) **(NEW)**
-- [[entities/g-d-garrett]] — section 2's structurally-pivotal AAF Intelligence officer **(NEW)**
+- [[entities/fbi-hq-62-83894-file]] — parent file (now N=9 ingested)
+- [[references/fbi-hq-62-83894-section-2]] — successor section (serials 53-100, Aug-Sep 1947 — Garrett admission, Schulgen denial, Fugate block)
+- [[references/fbi-hq-62-83894-section-5]] — post-cooperation-regime tranche (serials 186-245, Jul 1949 - Sep 1950) — confirms BB42 regime closed by Bureau ~Oct 1947 + AF ~Dec 1949 **(NEW)**
+- [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28]] — section-5 serial 212 confirming both agency exits **(NEW)**
+- [[entities/g-d-garrett]] — section 2's structurally-pivotal AAF Intelligence officer
 - [[references/fbi-bureau-bulletin-42-1947]] — the 30 Jul 1947 founding policy memo (within section 1)
 - [[concepts/fbi-aaf-saucer-cooperation-1947]] — the institutional bargain
 - [[concepts/saucer-as-hoax-default]] — the operating presumption

@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T16:00:00Z",
+  "updated": "2026-05-10T16:30:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -986,6 +986,48 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_section_5.json": {
+      "ingested_at": "2026-05-10T16:30:00Z",
+      "size_bytes": 252064,
+      "modified_at": "2026-05-09T13:07:43Z",
+      "content_hash": "sha256:6da41dfce55ec0039e6a89e905bf481dad29a2408c4090cf92f7311342f28b77",
+      "source_id": "fbi-hq-62-83894-section-5",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "fbi-hq-62-83894",
+      "series_position": "9-of-17",
+      "pages_created": [
+        "references/fbi-hq-62-83894-section-5.md",
+        "references/fbi-boggs-hearn-discontinuation-memo-1950-03-28.md",
+        "concepts/project-grudge.md",
+        "references/fbi-hottel-memo-1950-03-22.md",
+        "concepts/aztec-saucer-myth-1950.md",
+        "entities/frank-scully.md",
+        "entities/silas-newton.md",
+        "entities/george-koehler.md",
+        "entities/donald-keyhoe.md",
+        "entities/guy-hottel.md",
+        "references/sighting-oak-ridge-adcock-1950-03.md",
+        "references/sighting-shell-oregon-1949-05-27.md",
+        "references/sighting-phoenix-b29-chase-1950-06-29.md",
+        "references/usnews-flying-saucers-real-1950-04-07.md"
+      ],
+      "pages_updated": [
+        "entities/fbi-hq-62-83894-file.md",
+        "concepts/fbi-aaf-saucer-cooperation-1947.md",
+        "concepts/saucer-as-hoax-default.md",
+        "references/fbi-hq-62-83894-section-1.md",
+        "references/fbi-hq-62-83894-section-2.md",
+        "references/fbi-hq-62-83894-serial-220.md",
+        "entities/fbi.md",
+        "index.md",
+        "log.md",
+        "hot.md",
+        "entities/miguel-angel-garcia-macias.md",
+        "references/sighting-durango-mexico-1950-03.md"
+      ]
     }
   },
   "projects": {
@@ -996,8 +1038,8 @@
     }
   },
   "stats": {
-    "total_sources_ingested": 37,
-    "total_pages": 214,
+    "total_sources_ingested": 38,
+    "total_pages": 228,
     "total_projects": 1,
     "last_full_rebuild": null
   }

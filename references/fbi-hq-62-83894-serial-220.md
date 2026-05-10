@@ -2,8 +2,8 @@
 title: "FBI HQ File 62-HQ-83894 — Serial 220 (García Macías unsolicited letter + Robles Jr. Durango clipping, Mar 1950)"
 category: references
 tags: [uap, fbi, primary-source, declassified, mexico]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_220.json]
-summary: 15-page Mistral-OCR'd FBI HQ artifact filed Apr 1950 — a Records Center routing slip plus an unsolicited Spanish-language saucer letter from a Veracruz Mexican civilian, an FBI in-house English translation, hand-drawn diagrams, and a Mexican-newspaper clipping reproducing Robles Jr.'s 18 Mar 1950 Durango flying-saucer photographs.
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_section_5.json]
+summary: 15-page FBI HQ artifact filed Apr 1950 — a Records Center routing slip plus an unsolicited Spanish-language saucer letter from a Veracruz Mexican civilian, FBI in-house translation, hand-drawn diagrams, and Robles Jr. Durango clipping. Section 5 (this batch) contains the NY SAC originating filing (11 Apr 1950).
 provenance:
   extracted: 0.55
   inferred: 0.42
@@ -12,14 +12,16 @@ base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T23:58:00Z
-updated: 2026-05-10T23:58:00Z
+updated: 2026-05-10T16:30:00Z
 ---
 
 # FBI HQ File 62-HQ-83894 — Serial 220 (García Macías unsolicited letter + Robles Jr. Durango clipping, Mar 1950)
 
 A **15-page Mistral-OCR'd declassified artifact** from the **FBI Central Records Center / FBI HQ**. Filed at **Class 0062 / Case 83894 / Sub —/ Vol 1 / Serial 220 ONLY** with secondary marker **62-HQ-83894-EBF 220 EBF**, FOIPA reference **#129A982**, *DO NOT DESTROY* stamp, and the *"declassification authority derived from FBI Automatic Declassification Guide, issued May 24, 2007"* note. ^[extracted] OCR-visible Records Center processing tag parses as **8/11/12 74164 RRP003IXG6** — likely an internal Records Center processing tag. ^[ambiguous] The artifact carries an **FBI New York stamp dated APR 7 1950**. ^[extracted]
 
-This is the **second artifact ingested in the planned 17-serial 62-HQ-83894 wiki series** (serial 403 was first; see [[references/fbi-hq-62-83894-serial-403]]). ^[inferred] It is, however, ~6 years **earlier** than serial 403 — making this the **earliest FBI-originated UAP-adjacent record in the entire wiki corpus** ^[inferred], displacing the prior 1956 Barker-clipping anchor. The parent-file hub is [[entities/fbi-hq-62-83894-file]].
+This is the **second artifact ingested in the planned 17-serial 62-HQ-83894 wiki series** (serial 403 was first; see [[references/fbi-hq-62-83894-serial-403]]). ^[inferred] It is, however, ~6 years **earlier** than serial 403. The parent-file hub is [[entities/fbi-hq-62-83894-file]].
+
+> **Cross-section confirmation (added 2026-05-10):** [[references/fbi-hq-62-83894-section-5|Section 5]] (this ingest) contains the **NY SAC → Director originating filing** for serial 220 (filed 11 Apr 1950 by Tony G. Stetler with English translation by Mrs. Sophia Saliba), confirming the artifact's intra-file position at serial 220 between serial 219 (Hoover-AEC Adcock letter, 14 Mar 1950) and serial 221 (Hoover-McClaskey acknowledgment, 11 Apr 1950). ^[extracted] Section 5 also contains the **Hoover 17 May 1950 forward to OSI USAF** of the García Macías material — completing the institutional disposition: NY SAC intake → translation → HQ filing → AF referral. ^[extracted]
 
 ## What's in the artifact
 

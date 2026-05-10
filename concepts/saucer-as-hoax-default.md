@@ -3,17 +3,17 @@ title: "Saucer-as-Hoax Default (FBI 1947)"
 category: concepts
 tags: [uap, fbi, pattern, history, 1947]
 aliases: [hoax-default operating presumption, FBI prankster framing, circular-saw-disc template]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json]
-summary: The 1947 FBI/AAF operating presumption that any recovered "flying disc" is a prankster fabrication — propagated through Bureau Bulletin No. 42 and confirmed by ≥9 separate prank-disc events in the file's first 10 weeks.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/65_hs1-834228961_62-hq-83894_section_5.json]
+summary: The 1947 FBI/AAF operating presumption that any recovered "flying disc" is a prankster fabrication — propagated through Bureau Bulletin No. 42 and confirmed by ≥9 events in section 1 (1947) plus 6+ further confirmed-hoax events in section 5 (1949-50).
 provenance:
   extracted: 0.6
   inferred: 0.37
   ambiguous: 0.03
-base_confidence: 0.55
+base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T12:00:00Z
-updated: 2026-05-10T12:00:00Z
+updated: 2026-05-10T16:30:00Z
 ---
 
 # Saucer-as-Hoax Default
@@ -84,14 +84,20 @@ The absence of these from the prank-default disposition exposes the operating pr
 
 ## Related pattern in subsequent sources
 
-Subsequent FBI artifacts in the wiki corpus continue to apply the hoax-default framing, but with diminishing conviction: ^[inferred]
+Subsequent FBI artifacts in the wiki corpus continue to apply the hoax-default framing, but with diminishing conviction in some cases and **strong reinforcement** in others: ^[inferred]
 
-- 1949-1956 — saucer-discourse increasingly accepted as a real reportable phenomenon, hoax-default narrows;
+- 1949-50 [[references/fbi-hq-62-83894-section-5|62-HQ-83894 section 5]] — **6+ confirmed-hoax events strongly reinforce the frame** in the post-cooperation-regime period: ^[extracted]
+  - **Saybrook IL "Flying Disc" recovered 26 Jul 1947** (residual filing in section 1 serial 71): physical disc photographed in 4 views by FBI Springfield, "may be destroyed" if AAF uninterested
+  - **Elmira NY 8 Apr 1950** (section 5 serial 222-223): 40"-diameter cardboard box painted aluminum, Crosley radio tube + loose wires + trucker's red flare scorching grass — *"too fragile to withstand flight"*
+  - **Borden UNM 30-31 Mar 1950** (section 5 serial 214): UNM student admitted fabricating trick photograph by drawing saucers + crashed disc + little men onto a hillside photograph for the school paper
+  - **Halfery New Orleans 24 May 1950** (section 5 serial 229): Wiesbaden-press German-language fabricated infrared-photo "saucers around the Marktkirche + Mister X crashed crew member"; sold for $1.00 to John Esposito
+  - **Hixenbaugh Louisville 27 Jun - 4 Aug 1950** (section 5 serial 240): 16mm "saucer" film ultimately revealed by Courier-Journal staff photographer Steinau as "trick photography focused on a window"; second offense — Hixenbaugh's 1948 night-flying-disc photo had been a previous match-flip-across-focal-plane fabrication
+  - **Alice TX 4 Jul 1950** (section 5 serial 236-238): elliptical 5-ft-diameter "X-147A" + *"DO NOT TOUCH"* welded-airplane-wings disc near Alice TX Airport — built by Alice Airport mechanics as Independence-Day prank
 - 1957 [[references/fbi-detroit-100-26505-krasuski-1957|Krasuski Detroit case]] — FBI agent Rathbun's witness-character note ("intelligent, articulate, no apparent motive for fabrication") is the **inverse** of the hoax-default frame;
 - 1964 [[references/fbi-hq-62-83894-serial-438|Byrnes Albuquerque/Socorro report]] — substantive evidentiary investigation, no hoax framing;
 - 1966 [[references/fbi-hq-62-83894-serial-449|LA SAC AFSCA-magazine memo]] — the political framing eclipses the hoax framing.
 
-The hoax-default thus appears to be a **time-bounded operating presumption** active in 1947-48 and gradually dismantled by the 1949 [[concepts/flying-disc-reporting-protocol|AIRMEM #4 protocol]] which institutionalizes physical-trace investigation procedures (soil samples, Geiger counters, signed witness statements). ^[inferred]
+The hoax-default frame thus shows a **bimodal prevalence pattern**: ^[inferred] dominant in 1947 + 1949-50 (sections 1 + 5), suppressed in the 1957-66 cases (Krasuski, Socorro, AFSCA). The 1949-50 cluster of physical hoaxes is **synchronous** with the [[concepts/aztec-saucer-myth-1950|Aztec myth-seed]] press cycle and the [[concepts/project-grudge|Project GRUDGE]] termination — i.e. the post-cooperation-regime period sees both an **escalation in hoax intake** and an **escalation in press-amplified myth-seeds**, both passively absorbed by the file. ^[inferred]
 
 ## Open threads
 
@@ -102,8 +108,11 @@ The hoax-default thus appears to be a **time-bounded operating presumption** act
 ## See also
 
 - [[references/fbi-hq-62-83894-section-1]] — the empirical source
-- [[references/nrl-flying-saucer-mystery-solved-1947-07-12]] — adjacent optical-reflection-theory frame (12 Jul 1947) **(NEW)**
-- [[references/fbi-hq-62-83894-serial-130]] — parent serial preserving the reflection-theory frame **(NEW)**
+- [[references/fbi-hq-62-83894-section-5]] — 1949-50 reinforcement (6+ confirmed hoaxes) **(NEW)**
+- [[concepts/aztec-saucer-myth-1950]] — synchronous press-amplified myth-seed (Jan-Mar 1950) **(NEW)**
+- [[concepts/project-grudge]] — synchronous AF investigative termination (Dec 1949) **(NEW)**
+- [[references/nrl-flying-saucer-mystery-solved-1947-07-12]] — adjacent optical-reflection-theory frame (12 Jul 1947)
+- [[references/fbi-hq-62-83894-serial-130]] — parent serial preserving the reflection-theory frame
 - [[references/fbi-bureau-bulletin-42-1947]] — codifies the frame
 - [[references/sighting-grafton-wisconsin-1947-07-06]] — the founding instance
 - [[concepts/fbi-aaf-saucer-cooperation-1947]] — institutional context

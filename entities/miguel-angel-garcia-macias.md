@@ -2,8 +2,8 @@
 title: "Miguel Ángel García Macías"
 category: entities
 tags: [uap, mexico, person, 1950]
-sources: [sources/65_hs1-834228961_62-hq-83894_serial_220.json]
-summary: Self-described "Pianist Composer Discoverer and Ideographic Inventor" of Veracruz, Mexico; on 19 Mar 1950 sent FBI HQ a Spanish-language unsolicited letter promoting "Stratospheric Aerostats" as the explanation of flying saucers; FBI translated and filed under 62-HQ-83894 serial 220.
+sources: [sources/65_hs1-834228961_62-hq-83894_serial_220.json, sources/65_hs1-834228961_62-hq-83894_section_5.json]
+summary: Self-described "Pianist Composer Discoverer and Ideographic Inventor" of Veracruz, Mexico; on 19 Mar 1950 sent FBI HQ a Spanish-language unsolicited letter promoting "Stratospheric Aerostats" as the explanation of flying saucers; FBI translated and filed under 62-HQ-83894 serial 220 (NY SAC originating filing 11 Apr 1950 in section 5).
 provenance:
   extracted: 0.7
   inferred: 0.27
