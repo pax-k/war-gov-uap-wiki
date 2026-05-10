@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-10T23:55:00Z*
+*This index is automatically maintained. Last updated: 2026-05-10T23:58:00Z*
 
 ## Concepts
 
@@ -64,9 +64,10 @@ title: Wiki Index
 - [[entities/c-m-grierson]] — Air Commodore, A.C. of S. A-2, SHAEF Air Staff; routed the 1944–45 foo-fighter correspondence ( #uap #ww2 #person #raf)
 - [[entities/c-p-cabell]] — Maj Gen, signed the 1948 directive that established Project SIGN ( #usaf #person #intelligence)
 - [[entities/e-u-hathaway]] — Lt Col US Army; Senate Armed Services Committee staff officer; primary debriefer of the 4 Oct 1955 Trans-Caucasus disc sighting ( #person #witness #uap #us-army)
-- [[entities/fbi]] — Federal Bureau of Investigation; intake authority across 66 years — 1957 (Detroit, WH-routed Krasuski letter, sit-down interview), 1958 (Detroit, Weaver phone-in, SF-64 routing), 1966 (Detroit, OUFORA redirect to USAF), 2023 (parallel FD-302 interviews) ( #fbi #organization #federal-le)
+- [[entities/fbi]] — Federal Bureau of Investigation; intake authority across 73 years — 1950 (HQ, García Macías Mexican civilian saucer-letter, FBI-translated, filed 62-HQ-83894 serial 220), 1956 (HQ, Barker book-jacket clipping, 62-HQ-83894 serial 403), 1957 (Detroit, WH-routed Krasuski letter, sit-down interview), 1958 (Detroit, Weaver phone-in, SF-64 routing), 1966 (Detroit, OUFORA redirect to USAF), 2023 (parallel FD-302 interviews) ( #fbi #organization #federal-le)
 - [[entities/franciszek-grabowski]] — Polish co-witness named in the 1944 Gut Alt Golssen account; uncontactable by 1957; the only co-witness Krasuski could recall ( #person #witness #ww2)
-- [[entities/fbi-hq-62-83894-file]] — FBI HQ Class-62 (administrative miscellaneous) file 62-HQ-83894; multi-year UAP-adjacent topic-clearinghouse file at FBI HQ; planned 17-serial wiki ingest series with serial 403 first ( #fbi #organization #archive #uap)
+- [[entities/fbi-hq-62-83894-file]] — FBI HQ Class-62 (administrative miscellaneous) file 62-HQ-83894; multi-channel UAP-topic accumulation file at FBI HQ spanning at least 1950–1956; 2-of-17 serials ingested (220 + 403) ( #fbi #organization #archive #uap)
+- [[entities/german-horacio-robles-jr]] — Mexican civil-engineering student; reported and photographed a "double truncated cone joined at bases" flying saucer over Durango on 18 Mar 1950; corpus's first Mexican-located UAP sighting ( #uap #mexico #person #witness #1950)
 - [[entities/frank-borman]] — USAF test pilot, NASA "Next Nine" astronaut, Cdr Gemini 7; called "a bogey at ten o'clock high" on the 4 Dec 1965 GT-7 air-to-ground voice loop ( #person #witness #uap #nasa #astronaut)
 - [[entities/gene-cernan]] — USN naval aviator, NASA Group 3 astronaut, Cdr Apollo 17; speaker of the only "unusual sighting" line on the Jan 1973 debriefing — resolves to a recovery-aircraft-carrier misidentification, not a UAP report ( #person #witness #uap #nasa #astronaut)
 - [[entities/gemini-7]] — NASA GT-7 long-duration / rendezvous mission (4–18 Dec 1965); mission frame for the wiki's first orbital UAP-adjacent record ( #nasa #mission #spacecraft #uap)
@@ -82,6 +83,7 @@ title: Wiki Index
 - [[entities/joseph-kerwin]] — USN flight surgeon (MD), NASA Group 4 scientist-astronaut, SP Skylab 2 (May–Jun 1973), first physician in space; primary speaker on the d7 SL-2 §23 cosmic-ray retinal flash testimony with the SAA correlation hypothesis ( #person #witness #uap #nasa #astronaut)
 - [[entities/lincoln-la-paz]] — Director, Institute of Meteoritics, UNM; analyst-and-witness for the Dec 1948 New Mexico green fireball wave (Project SIGN Inc 227) ( #uap #person #1948)
 - [[entities/maxwell-w-hunter]] — NASC Professional Staff member; authored the 1963 "Space Alien Race Question" memo ( #person #nasc #policy)
+- [[entities/miguel-angel-garcia-macias]] — Self-described "Pianist Composer Discoverer and Ideographic Inventor" of Veracruz, Mexico; mailed an unsolicited 19 Mar 1950 Spanish-language saucer-letter to "the President of the Commission of Scientific Investigation of the United States" — FBI-translated and filed under 62-HQ-83894 serial 220 ( #uap #mexico #person #1950)
 - [[entities/michael-collins]] — USAF major-general, NASA Group 3 astronaut, CMP Apollo 11; co-witness on the d4 Day-3 cylinder observation; provided "hollow cylinder ... look right down in its guts" morphology and "high-gain antenna fragment" candidate origin proposal ( #person #witness #uap #nasa #astronaut)
 - [[entities/military-air-transport-service]] — Joint USAF/Navy unified airlift command (1948); recurring 1949 routing-and-triage hub for Project SIGN reports alongside AMC ( #usaf #organization #history)
 - [[entities/nasa]] — National Aeronautics and Space Administration; civilian space agency; first NASA-originating UAP-adjacent record in the corpus (1965 GT-7 PAO tape) ( #nasa #organization #civil-agency)
@@ -131,6 +133,7 @@ title: Wiki Index
 - [[references/fbi-detroit-100-26505-krasuski-1957]] — Declassified 15-page FBI Detroit file 100-26505 (NW 90290) — Nov 1957 WH-routed Krasuski interview about a 1944 Gut Alt Golssen observation, plus Oct 1966 OUFORA inquiry-and-USAF-redirect ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-drone-pilot-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the contractor drone-pilot witness for the Sept 2023 daylight sighting (serial-4) ( #uap #primary-source #fbi)
 - [[references/fbi-fd302-serial-3-driver-redacted-2023]] — Redacted 2-page FBI FD-302 (Rev. 5-8-10), drafted 2 Oct 2023, recording the lead-vehicle driver witness (serial-3) — sister artifact to serial-4, plus a co-temporal gate anomaly ( #uap #primary-source #fbi)
+- [[references/fbi-hq-62-83894-serial-220]] — 15-page Mistral-OCR'd FBI HQ artifact (Apr 1950 intake): Records Center routing slip + unsolicited Spanish-language Mexican civilian saucer-letter (García Macías, Veracruz, 19 Mar 1950) + FBI in-house English translation + enclosed Mexican-newspaper clipping reproducing Robles Jr.'s 18 Mar 1950 Durango flying-saucer photographs + sender's hand-drawn diagrams; **earliest FBI-originated UAP-adjacent record in the wiki corpus** ( #uap #fbi #primary-source #declassified #mexico)
 - [[references/fbi-hq-62-83894-serial-403]] — 3-page Mistral-OCR'd FBI HQ artifact: Records Center routing slip + clipped publisher's book-jacket copy of Gray Barker's 1956 *They Knew Too Much About Flying Saucers*, filed under HQ Class-62 admin file 62-HQ-83894 as serial 403; first HQ-level FBI record in the corpus ( #uap #fbi #primary-source #declassified #civilian-research)
 - [[references/cometa-report-1999]] — 90-page private French COMETA report (Jul 1999) on UFOs and defense; archived in NARA RG 255 via Carol Rosin's 2001 NASA delivery ( #uap #primary-source #policy #france)
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
@@ -157,6 +160,7 @@ title: Wiki Index
 - [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] — 1 March 1945 USAAF reconnaissance pilot sighting of a 12-ft aluminium cylinder hovering vertically at 9,000 ft ( #uap #sighting #ww2)
 - [[references/sighting-dark-kite-western-us]] — Federal LE agents pursue what looks like a car; it lifts off the road, hovers, and reads as a thin dark kite/triangle ( #uap #sighting #federal-le)
 - [[references/sighting-detroit-1958-04-17]] — 0408-LT 17 Apr 1958 single-witness Detroit sighting (David Weaver) of a circular crystal-domed object NE-bound from SW; phoned in to FBI after Selfridge unreachable ( #uap #sighting #michigan)
+- [[references/sighting-durango-mexico-1950-03]] — 18 Mar 1950 daylight photographed sighting of a "double truncated cone joined at its bases" object at ~8,000–9,000 ft over Durango, Mexico, by civil-engineering student Germán Horacio Robles Jr.; reported in *El Universal* (Mexico City) and clipped into FBI HQ 62-HQ-83894 serial 220; corpus's first Mexican-located UAP sighting ( #uap #sighting #mexico #1950 #morphology)
 - [[references/sighting-fairfield-suisun-1948-12]] — AACS tower operators tracked a 30-inch luminous round object that hovered, climbed almost vertically to 20k ft (3 Dec 1948) ( #uap #sighting #california)
 - [[references/sighting-fbi-fd302-drone-pilot-2023-09]] — Sept 2023 daylight UAP sighting at ~07:15–07:30 by a contractor convoy in restricted airspace; documented by two parallel FBI FD-302s (driver + drone-pilot passenger) plus a co-temporal gate anomaly ( #uap #sighting #fbi)
 - [[references/sighting-fiery-orb-western-us]] — Two federal LE agents observe a 12–18 m glowing orange orb hovering near a rock pinnacle for ~1 min ( #uap #sighting #orb)

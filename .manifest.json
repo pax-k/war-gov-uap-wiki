@@ -782,18 +782,44 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_serial_220.json": {
+      "ingested_at": "2026-05-10T23:58:00Z",
+      "size_bytes": 21301,
+      "content_hash": "sha256:ea8ea86fce868543ebff7909cce9191e2c55bc6d776d73bd692f23fc1bba80eb",
+      "source_id": "fbi-hq-62-83894-serial-220-1950",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "signal_class": "structurally-novel",
+      "series": "fbi-hq-62-83894",
+      "series_position": "2-of-17",
+      "pages_created": [
+        "entities/miguel-angel-garcia-macias.md",
+        "entities/german-horacio-robles-jr.md",
+        "references/fbi-hq-62-83894-serial-220.md",
+        "references/sighting-durango-mexico-1950-03.md"
+      ],
+      "pages_updated": [
+        "entities/fbi-hq-62-83894-file.md",
+        "entities/fbi.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T23:55:00Z",
-      "sources_ingested": 28
+      "last_ingested": "2026-05-10T23:58:00Z",
+      "sources_ingested": 29
     }
   },
   "stats": {
-    "total_sources_ingested": 30,
-    "total_pages": 180,
+    "total_sources_ingested": 31,
+    "total_pages": 184,
     "total_projects": 1,
     "last_full_rebuild": null
   }

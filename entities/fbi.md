@@ -2,8 +2,8 @@
 title: "Federal Bureau of Investigation (FBI)"
 category: entities
 tags: [fbi, organization, federal-le, uap]
-sources: [sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json, sources/65_hs1-834228961_62-hq-83894_serial_403.json]
-summary: US Department of Justice investigative agency; in the corpus, intake/monitoring authority spanning 1956 (HQ, clipped publisher jacket of Barker's MIB book) → 1957 (Detroit, WH-routed letter, sit-down interview) → 1958 (Detroit, citizen-call routing memo) → 1966 (Detroit, civilian UFO-org redirect) → 2023 (parallel FD-302 evidentiary interviews).
+sources: [sources/serial-4-redacted_redacted.json, sources/serial-3_redacted.json, sources/65_hs1-101634279_100-de-18221_serial_844.json, sources/65_hs1-101634279_100-de-26505.json, sources/65_hs1-834228961_62-hq-83894_serial_403.json, sources/65_hs1-834228961_62-hq-83894_serial_220.json]
+summary: US Department of Justice investigative agency; in the corpus, intake/monitoring authority spanning 1950 (HQ, unsolicited Mexican civilian saucer-letter, FBI-translated) → 1956 (HQ, clipped Barker MIB book jacket) → 1957 (Detroit, WH-routed letter, sit-down interview) → 1958 (Detroit, citizen-call routing memo) → 1966 (Detroit, civilian UFO-org redirect) → 2023 (parallel FD-302 evidentiary interviews).
 provenance:
   extracted: 0.5
   inferred: 0.5
@@ -12,18 +12,19 @@ base_confidence: 0.72
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-09T17:00:00Z
-updated: 2026-05-10T23:55:00Z
+updated: 2026-05-10T23:58:00Z
 ---
 
 # Federal Bureau of Investigation (FBI)
 
-The FBI is the principal federal investigative agency of the US Department of Justice. The wiki's UAP corpus now contains **FBI-originated UAP-adjacent records spanning 66 years**, from a **November 1957 Detroit Director-driven sit-down interview** of a Polish DP citizen who wrote to the White House, through **April 1958 Detroit phone-in routing memo**, **October 1966 civilian-research-org redirect to USAF**, to **two parallel 2023 FD-302 evidentiary interviews** of co-incident witnesses to a contractor-convoy sighting. Across all eras, the FBI appears as an **intake authority** — but with different *instruments*, *response postures*, and *recording conventions* in each.
+The FBI is the principal federal investigative agency of the US Department of Justice. The wiki's UAP corpus now contains **FBI-originated UAP-adjacent records spanning 73 years**, from an **April 1950 HQ filing** of an unsolicited Spanish-language Mexican civilian saucer-letter (FBI-translated in-house and filed under HQ admin file 62-HQ-83894 as serial 220), through a **1956 HQ filing of a clipped publisher's book jacket** (62-HQ-83894 serial 403), through a **November 1957 Detroit Director-driven sit-down interview** of a Polish DP citizen who wrote to the White House, **April 1958 Detroit phone-in routing memo**, **October 1966 civilian-research-org redirect to USAF**, to **two parallel 2023 FD-302 evidentiary interviews** of co-incident witnesses to a contractor-convoy sighting. Across all eras, the FBI appears as an **intake authority** — but with different *instruments*, *response postures*, and *recording conventions* in each.
 
 ## Records in the corpus
 
 | Era | Office | Instrument | What the FBI did | Source |
 |---|---|---|---|---|
-| **1956** | **HQ** (Washington) | **Filed clipping** — publisher's book-jacket copy of [[references/barker-1956-they-knew-too-much\|Gray Barker's *They Knew Too Much About Flying Saucers*]] (University Books, NYC, 1956) clipped and serialized as **62-HQ-83894 serial 403**. Records Center cover slip; *DO NOT DESTROY*. | **Monitored / clipped**: HQ Class-62 admin file held a clipped publisher's book-jacket as a serial. No FBI-authored investigative content; monitoring posture inferred from a single serial. ^[inferred] | [[references/fbi-hq-62-83894-serial-403]] |
+| **Apr 1950** | **HQ** (via FBI New York stamp) | **Records Center cover slip + unsolicited Spanish-language civilian letter from [[entities/miguel-angel-garcia-macias\|Miguel Ángel García Macías]] (Veracruz, Mexico, 19 Mar 1950) + FBI in-house English translation by Mrs. Sophia Saliba + enclosed Mexican-newspaper clipping reproducing [[entities/german-horacio-robles-jr\|Robles Jr.]]'s 18 Mar 1950 [[references/sighting-durango-mexico-1950-03\|Durango flying-saucer photographs]] + sender's hand-drawn diagrams**, filed as **62-HQ-83894 serial 220**. *DO NOT DESTROY*. | **Filed + translated**: HQ Class-62 admin file accumulated unsolicited foreign-language civilian saucer-correspondence with in-house translation. No FBI-authored investigative content; **content-accumulation posture confirmed across 2 serials** (220 + 403). ^[inferred] **Earliest FBI-corpus record.** | [[references/fbi-hq-62-83894-serial-220]] |
+| **1956** | **HQ** (Washington) | **Filed clipping** — publisher's book-jacket copy of [[references/barker-1956-they-knew-too-much\|Gray Barker's *They Knew Too Much About Flying Saucers*]] (University Books, NYC, 1956) clipped and serialized as **62-HQ-83894 serial 403**. Records Center cover slip; *DO NOT DESTROY*. | **Monitored / clipped**: HQ Class-62 admin file held a clipped publisher's book-jacket as a serial. No FBI-authored investigative content; content-accumulation posture now confirmed by serial 220 (1950) at a different intake channel. ^[inferred] | [[references/fbi-hq-62-83894-serial-403]] |
 | **Nov 1957** | Detroit | **Blank Memo** (3-page narrative interview) + **AIRTEL** (`100-26505-3`) + Director URGENT teletype | **Investigated**: WH-routed citizen letter → Director URGENT teletype → SAC Detroit → SA Cassius Rathbun **sit-down interview** of Wladyslaw Krasuski (see [[entities/wladyslaw-krasuski]]) next day → AIRTEL-with-enclosure back to Director, plus credit / records check. | [[references/fbi-detroit-100-26505-krasuski-1957]] |
 | **Apr 1958** | Detroit | Standard Form 64 "Office Memorandum" (SA → SAC) | **Routed** the call: SA logged a citizen phone-in, SAC's office advised the local Air Force POC by phone same day, no follow-up letter received. No FBI investigation. | [[references/fbi-detroit-100-18221-serial-844-1958]] |
 | **Oct 1966** | Detroit | **Outgoing letter** from SAC (file serial `100-26505-6`) | **Redirected** civilian UFO research org [[entities/oklahoma-ufo-research-association]] to USAF Wright-Patterson AFB. Same disposition as 1958 Weaver, now applied to organization-level inquiries. | [[references/fbi-detroit-100-26505-krasuski-1957]] |
@@ -95,6 +96,12 @@ This extends the trained-observer-witness pattern catalogued in [[synthesis/fede
 
 ## See also
 
+- [[references/fbi-hq-62-83894-serial-220]] — Apr 1950 HQ artifact: García Macías Mexican civilian letter + Robles Durango clipping **(NEW)**
+- [[entities/miguel-angel-garcia-macias]] — 1950 Mexican civilian correspondent **(NEW)**
+- [[entities/german-horacio-robles-jr]] — 1950 Mexican photographer-witness **(NEW)**
+- [[references/sighting-durango-mexico-1950-03]] — 1950 Durango Mexico photographed UAP sighting **(NEW)**
+- [[entities/fbi-hq-62-83894-file]] — parent-file hub for 62-HQ-83894 series
+- [[references/fbi-hq-62-83894-serial-403]] — 1956 HQ Barker book-jacket clipping
 - [[references/fbi-detroit-100-26505-krasuski-1957]] — Nov 1957 Krasuski file + Oct 1966 OUFORA inquiry **(NEW)**
 - [[references/sighting-gut-alt-golssen-1944]] — 1944 wartime-POW sighting, FBI-recorded 1957 **(NEW)**
 - [[entities/wladyslaw-krasuski]] — 1957 witness **(NEW)**
