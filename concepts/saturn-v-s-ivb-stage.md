@@ -3,8 +3,8 @@ title: Saturn V S-IVB (third stage)
 category: concepts
 tags: [nasa, spacecraft, aviation]
 aliases: [S-IVB, Saturn V third stage, AS-506S-IVB, S-IVB-506, S-IVB upper stage]
-sources: [sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json]
-summary: The Saturn V third stage (S-IVB) — single-J-2-engine upper stage that performed Trans-Lunar Injection on Apollo missions; in the wiki's UAP corpus it is the recurring conventional-explanation candidate for early-translunar astronaut sightings.
+sources: [sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json, sources/nasa-uap-d2-apollo-17-transcript-1972.json]
+summary: The Saturn V third stage (S-IVB) — single-J-2-engine upper stage that performed Trans-Lunar Injection on Apollo missions; the recurring conventional-explanation candidate for early-translunar sightings, identified either by ground ranging (d4) or by crew-side morphology + rotation signature (d2).
 provenance:
   extracted: 0.20
   inferred: 0.78
@@ -13,7 +13,7 @@ base_confidence: 0.40
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T22:00:00Z
-updated: 2026-05-10T22:00:00Z
+updated: 2026-05-10T23:30:00Z
 ---
 
 # Saturn V S-IVB (third stage)
@@ -38,6 +38,8 @@ The S-IVB's standard Apollo lunar-mission profile after TLI:
 | **GT-7 1965 Borman "bogey at ten o'clock high"** | S-IVB-equivalent (Titan-II spent stage) is **not ruled out** by source record; Houston offers booster-or-natural-sighting as the dichotomy and Borman declines to choose. ^[ambiguous] [[references/sighting-gemini-7-bogey-1965-12-04]] |
 | **Apollo 11 d4 §6 Day-3 cylinder** (~18 Jul 1969) | **S-IVB explicitly ruled out** by Mission Control range data: *"the S-IVB was 6000 miles away"*. ^[extracted] First ranging-data-eliminated conventional candidate in the corpus. [[references/sighting-apollo-11-cylinder-1969-07]] |
 | **Apollo 12 d1 Bean AOT particle-flash** (~20 Nov 1969) | S-IVB not raised by crew as candidate (the AOT phenomenology — particles, not a discrete object — does not match S-IVB morphology). [[references/nasa-uap-d1-apollo-12-transcript-1969]] |
+| **Apollo 17 d2 SEP fragment field** (~03:34–03:42 GET, 7 Dec 1972) *(NEW)* | **S-IVB explicitly identified by the crew themselves** as the source of the SEP-time particle field: *"off the side of the S-IVB ... ice chunks, possibly. Or maybe there's paint coming off of it"* (Evans, Tape 5/3); morphology characterized as *"flat, flakelike particles. Some may be 6 inches across ... twinkling ... all moving away from us"* (Cernan). ^[extracted] **Second corpus empirical confirmation** of the *"your own debris field"* prior on [[concepts/orbital-uap-sighting]]. [[references/nasa-uap-d2-apollo-17-transcript-1972]] |
+| **Apollo 17 d2 S-IVB-as-flasher visual ID** (~02:18:42–02:21 GET, ~Day 2 8 Dec 1972) *(NEW)* | **First crew-side morphology + rotation S-IVB ID in the corpus** — Schmitt and Cernan visually identify a rotating "flasher" object as the S-IVB based on a **bright/dull two-flash signature** (broadside vs engine bell) without ground-side ranging support. CC: *"FIDO just went out and shot himself, but we'll get working on it ... a real difficult problem for them so far."* ^[extracted] Two flashers later observed (*"they could be SLA panels"*); resolution between S-IVB / SLA-panel candidates not preserved in source. ^[ambiguous] [[references/nasa-uap-d2-apollo-17-transcript-1972]] |
 
 The **Apollo 11 d4 ranging-data elimination** is structurally important: ^[inferred]
 
@@ -46,6 +48,17 @@ The **Apollo 11 d4 ranging-data elimination** is structurally important: ^[infer
 - The **S-IVB elimination is robust at this range** — the inverse-square-law geometry alone closes the candidate, independent of what the bright object actually was.
 
 This is the corpus's **first instance of independent ranging data closing a conventional candidate** rather than relying on witness self-attribution or absence of follow-up. ^[inferred]
+
+## Two S-IVB-identification mechanisms (NEW)
+
+The d4 / d2 contrast establishes the corpus's **two distinct S-IVB-identification mechanisms**:
+
+| Mechanism | Anchor | Geometry | Ground-side support | Crew-side input |
+|---|---|---|---|---|
+| **Ground-side ranging elimination** | [[references/sighting-apollo-11-cylinder-1969-07\|Apollo 11 d4]] (~18 Jul 1969) | At long range (~6,000 mi), inverse-square geometry forecloses morphology resolution; ranging data alone closes the candidate | **Mission Control reports range** | Crew need not visually identify; range eliminates the candidate independently |
+| **Crew-side morphology + rotation visual ID** *(NEW)* | [[references/nasa-uap-d2-apollo-17-transcript-1972\|Apollo 17 d2]] (~Day 2, 8 Dec 1972) | At medium range (~10–12 Earth diameters per Cernan), rotating S-IVB body produces a **bright/dull two-flash signature** distinguishable from a uniformly-flashing point source | **Mission Control unable to compute S-IVB position in real time** (*"FIDO just went out and shot himself, but we'll get working on it"*; *"a real difficult problem for them so far"*) | Crew make a **visual ID by morphology + rotation period**; Schmitt led, Cernan corroborated |
+
+The two mechanisms are **complementary, not redundant**: the d4 ranging mechanism works at any range where ground-tracking has Doppler / S-band data on the spent stage, regardless of crew vantage; the d2 crew-side mechanism works when ground-tracking is unavailable but the crew has visual contact at a range where the S-IVB body's rotation can be discriminated from a uniform light source. ^[inferred] The two mechanisms together establish that **S-IVB elimination has both a ground-side and a crew-side path**, and that the corpus's S-IVB-not-eliminated cases (e.g., GT-7 1965, where Houston offers the booster-or-natural dichotomy and Borman declines to choose) are not eliminated by **either** mechanism — neither ground-side ranging nor crew-side morphology resolution closes the GT-7 candidate. ^[inferred]
 
 ## Why the S-IVB is the recurring default candidate
 
@@ -66,6 +79,7 @@ These four properties combine to make the S-IVB the **canonical first hypothesis
 ## See also
 
 - [[references/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969]] — primary source for the 1969 Mission-Control-range elimination.
+- [[references/nasa-uap-d2-apollo-17-transcript-1972]] — **primary source for the 1972 crew-side morphology + rotation visual ID** (S-IVB-as-flasher Tape 46–47 + SEP fragment field Tape 5).
 - [[references/sighting-apollo-11-cylinder-1969-07]] — sighting-anchor.
 - [[references/sighting-gemini-7-bogey-1965-12-04]] — predecessor case where the booster equivalent is *not* ruled out.
 - [[entities/apollo-11]]

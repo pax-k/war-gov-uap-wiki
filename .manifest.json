@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T23:00:00Z",
+  "updated": "2026-05-10T23:45:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -102,7 +102,7 @@
         "projects/uap/uap.md"
       ]
     },
-    "sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json": {
+    "sources/331_120752_numeric_files_1944\u20131945_37153_german_armament_equipment_documents.json": {
       "ingested_at": "2026-05-09T14:07:00Z",
       "size_bytes": 24313,
       "modified_at": "2026-05-09T13:07:43Z",
@@ -728,18 +728,47 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/nasa-uap-d2-apollo-17-transcript-1972.json": {
+      "ingested_at": "2026-05-10T23:45:00Z",
+      "size_bytes": 24509,
+      "modified_at": "2026-05-09T16:07:44Z",
+      "content_hash": "sha256:a6ac405fb3f77da88871b015ea314ad63e4d857078c22ed0ffecbb294f7151cf",
+      "source_id": "nasa-apollo-17-air-to-ground-voice-transcription-1972-d2",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "signal_class": "null-signal",
+      "mechanism_class": "B",
+      "pages_created": [
+        "references/nasa-uap-d2-apollo-17-transcript-1972.md"
+      ],
+      "pages_updated": [
+        "concepts/orbital-uap-sighting.md",
+        "concepts/cosmic-ray-light-flashes.md",
+        "concepts/saturn-v-s-ivb-stage.md",
+        "entities/apollo-17.md",
+        "entities/gene-cernan.md",
+        "entities/harrison-schmitt.md",
+        "entities/ronald-evans.md",
+        "entities/nasa.md",
+        "projects/uap/uap.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T23:00:00Z",
-      "sources_ingested": 26
+      "last_ingested": "2026-05-10T23:45:00Z",
+      "sources_ingested": 27
     }
   },
   "stats": {
-    "total_sources_ingested": 28,
-    "total_pages": 175,
+    "total_sources_ingested": 29,
+    "total_pages": 176,
     "total_projects": 1,
     "last_full_rebuild": null
   }

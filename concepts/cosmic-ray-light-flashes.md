@@ -3,8 +3,8 @@ title: Cosmic-Ray Light Flashes (in-cabin / retinal)
 category: concepts
 tags: [nasa, astronaut, anomaly, pattern]
 aliases: [cosmic-ray retinal flashes, ALFMED phenomenon, in-cabin light flashes, charged-particle retinal flash, SAA cosmic-ray flash]
-sources: [sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d7-skylab-technical-crew-debriefing-1973.json]
-summary: Charged-particle-on-retina light flashes observed by Apollo crews in cislunar space and by Skylab crews in LEO inside-magnetosphere. Aldrin (1969 Apollo 11) modeled it; Schmitt (1972 Apollo 17 ALFMED) instrumented it; Kerwin/Conrad/Weitz (1973 Skylab 2) extended to LEO with SAA hypothesis. Not UAP; produces UAP-keyword false-positives.
+sources: [sources/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.json, sources/nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.json, sources/nasa-uap-d7-skylab-technical-crew-debriefing-1973.json, sources/nasa-uap-d2-apollo-17-transcript-1972.json]
+summary: Charged-particle-on-retina light flashes observed by Apollo crews in cislunar space and by Skylab crews in LEO. Aldrin (1969 Apollo 11) modeled it; Schmitt (1972 Apollo 17 ALFMED) instrumented it; Cernan (1972 Apollo 17 voice loop) gave the first real-time articulation; Kerwin/Conrad/Weitz (1973 SL-2) extended to LEO with SAA hypothesis. Not UAP.
 provenance:
   extracted: 0.60
   inferred: 0.37
@@ -13,7 +13,7 @@ base_confidence: 0.75
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T22:00:00Z
-updated: 2026-05-10T23:00:00Z
+updated: 2026-05-10T23:30:00Z
 ---
 
 # Cosmic-Ray Light Flashes (in-cabin / retinal)
@@ -29,8 +29,20 @@ The wiki has **three primary-source documentations** of the phenomenon, all from
 | **Jul 1969** | **[[entities/apollo-11\|Apollo 11]]** | **Cislunar coast** (outside magnetosphere) | **[[entities/buzz-aldrin\|Aldrin]]** primary; **[[entities/neil-armstrong\|Armstrong]]** corroborating on last night | [[references/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969\|d4]] (Vol I §6 pp 6-37 to 6-39) | Single flashes ~1/min; double flashes separated by ~1 ft (chord-track); "line with no direction of motion"; correlated with sun-direction; ruled out static electricity; Aldrin proposes *"some sort of penetration ... entry and then impact on something such as the struts"*; Armstrong's closing line *"a neutron or some kind of an atomic particle that would be in the visible spectrum"* |
 | **Jun 1973** *(NEW)* | **[[entities/skylab\|Skylab 2]]** | **LEO inside magnetosphere** (~435 km, traverses SAA) | **[[entities/joseph-kerwin\|Kerwin]]** primary; **[[entities/pete-conrad\|Conrad]] + [[entities/paul-weitz\|Weitz]]** corroborating | [[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973\|d7]] (SL-2 §23 pp 23-20 to 23-21) | **Rate 2–3/min at peak**; **wax-and-wane frequency** consistent with orbital-period SAA modulation; **explicit South Atlantic Anomaly correlation hypothesis** offered by Kerwin; **single-eye localization** (Weitz "primarily in the left eye"; Conrad confirmed possible with concentration); **sunburst-vs-streak two-class morphology** (Conrad — streaks rarer than bursts); **peripheral-vs-central visual field bias** (Conrad — most in periphery); **entrance-streak / exit-streak double events** (Weitz "bing-bing ... one side of the eyeball, and then the other side"; Conrad "in and out - or across the eye") **directly confirming** Aldrin's 1969 chord-track model |
 | **Dec 1972** | **[[entities/apollo-17\|Apollo 17]]** | **Cislunar coast** (outside magnetosphere) | **[[entities/harrison-schmitt\|Schmitt]]** primary; **[[entities/gene-cernan\|Cernan]] + [[entities/ronald-evans\|Evans]]** corroborating | [[references/nasa-apollo-17-technical-crew-debriefing-1973\|d6]] (page 24-4) | Light flashes "just about continuously during the whole flight when we were dark adapted"; one *"flash on the lunar surface"* candidate; **[[entities/alfmed-experiment\|ALFMED]]** experimental blindfolded interval suppressed flashes; resumed that evening after the experiment ^[extracted] |
+| **Dec 1972** *(NEW — voice loop)* | **[[entities/apollo-17\|Apollo 17]]** | **Cislunar coast** (outside magnetosphere) | **[[entities/gene-cernan\|Cernan]]** **first-person real-time articulator** | [[references/nasa-uap-d2-apollo-17-transcript-1972\|d2]] (Tape 46/4, ~02:18:42 GET) | Cernan pre-sleep flash *"like a very bright headlight - like a train coming at you"*; *"sets of the streaks"*; horizon-lighting flashes; sleep-hazy frequency uncertainty; defensive *"no question in my mind but that they're there"* after CC's *"trying to make the data fit the curve"* line — implying NASA-internal cosmic-ray-flash data analysis already underway in real time during Apollo 17 ^[extracted] |
 
-The **3.5-year arc** from Aldrin's first-principles characterization to the Schmitt ALFMED instrumented investigation documents **NASA's response to an astronaut-reported phenomenon** evolving from "we should investigate this" (1969) to "we have instrumented an experiment to characterize this" (1972). ^[inferred] The **d7 Skylab 2 ingest extends the corpus** by adding the **LEO inside-magnetosphere baseline** (1973) — completing a **two-orbital-regime, three-mission witness set** spanning four years and **eight independent astronauts** (Aldrin, Armstrong, Cernan, Evans, Schmitt, Kerwin, Conrad, Weitz). ^[inferred]
+The **3.5-year arc** from Aldrin's first-principles characterization to the Schmitt ALFMED instrumented investigation documents **NASA's response to an astronaut-reported phenomenon** evolving from "we should investigate this" (1969) to "we have instrumented an experiment to characterize this" (1972). ^[inferred] The **d7 Skylab 2 ingest extends the corpus** by adding the **LEO inside-magnetosphere baseline** (1973) — completing a **two-orbital-regime, three-mission witness set** spanning four years and **eight independent astronauts** (Aldrin, Armstrong, Cernan, Evans, Schmitt, Kerwin, Conrad, Weitz). ^[inferred] The **d2 Apollo 17 voice-loop ingest** adds a **fourth artifact-class layer**: real-time, contemporaneous, voice-loop testimony — distinct from the post-mission technical-debrief (d4 Aldrin, d6 Schmitt) and post-mission Skylab debrief (d7 Kerwin/Conrad/Weitz) sources. ^[inferred] Cernan's status upgrades from *post-mission corroborating witness only* (d6) to **the corpus's first contemporaneous-voice-loop cosmic-ray-flash speaker** (d2). ^[inferred]
+
+## Real-time vs. post-mission artifact-class distinction (NEW)
+
+The d2 / d6 pair establishes the corpus's first **same-mission cross-artifact-class** documentation of cosmic-ray-flash testimony — and the artifact-class divergence is itself a structural datum:
+
+| Artifact class | Source | Speaker | Vocabulary register | Phenomenology emphasis |
+|---|---|---|---|---|
+| **Contemporaneous voice loop** *(NEW)* | [[references/nasa-uap-d2-apollo-17-transcript-1972\|d2]] (Tape 46/4, ~02:18:42 GET) | **[[entities/gene-cernan\|Cernan]]** real-time first-person | **Vivid metaphor + sleep-hazy uncertainty + defensive epistemic assertion** ("very bright headlight — like a train coming at you", "I was in a sort of a sleep-hazy mode", "no question in my mind but that they're there") | **First-impression / phenomenological** — what the experience felt like, not yet integrated with mechanism |
+| **Post-mission technical debrief** | [[references/nasa-apollo-17-technical-crew-debriefing-1973\|d6]] (page 24-4) | **[[entities/harrison-schmitt\|Schmitt]]** post-mission summary | **Clinical experimental-design framing** ("just about continuously during the whole flight when we were dark adapted", "just no visible flashes", "one interval either side of it") | **Experiment-correlated** — flashes integrated with [[entities/alfmed-experiment\|ALFMED]] before/during/after intervals |
+
+The vocabulary divergence is **expected**: real-time voice-loop testimony is not yet experiment-correlated, has higher metaphorical content, and carries the speaker's contemporaneous epistemic uncertainty. ^[inferred] Post-mission debriefing testimony has the benefit of completed experimental cycles and the structural framing of the formal interview. The **same crew, same mission, same phenomenon, two artifact classes** demonstrates that **artifact class is a structural variable** in how the same observation is preserved — and that a wiki built only on post-mission debriefings would systematically under-represent the **first-impression / phenomenological / metaphor-rich** layer of astronaut-class cosmic-ray-flash testimony. ^[inferred] The CC's *"we were just trying to make the data fit the curve; you know the old trick"* line on d2 is also evidence that **NASA-internal cosmic-ray-flash data analysis was already underway in real time** during Apollo 17 — there was a *"curve"* the ground team was attempting to fit observation data to — which the post-mission d6 summary obscures by collapsing the experimental context to the ALFMED interval alone. ^[inferred]
 
 ## Two orbital-regime structure (NEW)
 
@@ -120,7 +132,8 @@ The phenomenon is **not a UAP observation**. It is in the corpus because:
 ## See also
 
 - [[references/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969]] — primary source for the 1969 first-principles characterization (cislunar coast).
-- [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — primary source for the 1972 ALFMED-instrumented testimony (cislunar coast).
+- [[references/nasa-apollo-17-technical-crew-debriefing-1973]] — primary source for the 1972 ALFMED-instrumented testimony (cislunar coast, Schmitt post-mission).
+- [[references/nasa-uap-d2-apollo-17-transcript-1972]] — **primary source for the 1972 contemporaneous voice-loop testimony (cislunar coast, Cernan real-time, Tape 46/4).**
 - [[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — primary source for the 1973 LEO-inside-magnetosphere baseline (Skylab 2 §23).
 - [[entities/buzz-aldrin]] — primary 1969 witness; offers the penetration / entry-impact / static-rule-out characterization.
 - [[entities/neil-armstrong]] — 1969 corroborating witness; offers the "neutron or atomic particle in the visible spectrum" model statement.
