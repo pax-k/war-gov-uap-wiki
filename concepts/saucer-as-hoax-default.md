@@ -3,8 +3,8 @@ title: "Saucer-as-Hoax Default (FBI 1947)"
 category: concepts
 tags: [uap, fbi, pattern, history, 1947]
 aliases: [hoax-default operating presumption, FBI prankster framing, circular-saw-disc template]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/65_hs1-834228961_62-hq-83894_section_5.json]
-summary: The 1947 FBI/AAF operating presumption that any recovered "flying disc" is a prankster fabrication — propagated through Bureau Bulletin No. 42 and confirmed by ≥9 events in section 1 (1947) plus 6+ further confirmed-hoax events in section 5 (1949-50).
+sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_section_7.json]
+summary: The 1947 FBI/AAF operating presumption that any recovered "flying disc" is a prankster fabrication — propagated through Bureau Bulletin No. 42, confirmed by ≥9 events in section 1 (1947), 6+ in section 5 (1949-50), and 3 more in section 7 (1952-53).
 provenance:
   extracted: 0.6
   inferred: 0.37
@@ -93,11 +93,15 @@ Subsequent FBI artifacts in the wiki corpus continue to apply the hoax-default f
   - **Halfery New Orleans 24 May 1950** (section 5 serial 229): Wiesbaden-press German-language fabricated infrared-photo "saucers around the Marktkirche + Mister X crashed crew member"; sold for $1.00 to John Esposito
   - **Hixenbaugh Louisville 27 Jun - 4 Aug 1950** (section 5 serial 240): 16mm "saucer" film ultimately revealed by Courier-Journal staff photographer Steinau as "trick photography focused on a window"; second offense — Hixenbaugh's 1948 night-flying-disc photo had been a previous match-flip-across-focal-plane fabrication
   - **Alice TX 4 Jul 1950** (section 5 serial 236-238): elliptical 5-ft-diameter "X-147A" + *"DO NOT TOUCH"* welded-airplane-wings disc near Alice TX Airport — built by Alice Airport mechanics as Independence-Day prank
+- 1952-54 [[references/fbi-hq-62-83894-section-7|62-HQ-83894 section 7]] — **3 further confirmed-hoax events** sustain the frame into the 1952 wave: ^[extracted]
+  - **Watters / Payne / Wilson Mableton GA "monkey from Mars"** (8 Jul 1953, serial 334) — 21" hairless monkey corpse paraded as a saucer-occupant; identified by Dr. W. A. Mickle (Emory University Anatomy) as *"a member of the Rhesus monkey family"* — **first FBI-corpus saucer-crew-member hoax** ^[inferred]
+  - **John Bailey / Bowie MD telephone-prankster** (9 Mar 1953, serial 328) — anonymous phone tip *"vague as to details and nonresponsive"*; LHM to Director: *"the call may have been a prank"* ^[extracted]
+  - **Desvergers Scoutmaster West Palm Beach FL** (19 Aug 1952, serial 315) — FBI Lab burn-pattern analysis on cap *"suggesting the possibility that the cap was not being worn when the singeing took place"* — analytical framing consistent with hoax without explicit declaration; see [[references/sighting-desvergers-scoutmaster-1952-08-19]] ^[extracted]
 - 1957 [[references/fbi-detroit-100-26505-krasuski-1957|Krasuski Detroit case]] — FBI agent Rathbun's witness-character note ("intelligent, articulate, no apparent motive for fabrication") is the **inverse** of the hoax-default frame;
 - 1964 [[references/fbi-hq-62-83894-serial-438|Byrnes Albuquerque/Socorro report]] — substantive evidentiary investigation, no hoax framing;
 - 1966 [[references/fbi-hq-62-83894-serial-449|LA SAC AFSCA-magazine memo]] — the political framing eclipses the hoax framing.
 
-The hoax-default frame thus shows a **bimodal prevalence pattern**: ^[inferred] dominant in 1947 + 1949-50 (sections 1 + 5), suppressed in the 1957-66 cases (Krasuski, Socorro, AFSCA). The 1949-50 cluster of physical hoaxes is **synchronous** with the [[concepts/aztec-saucer-myth-1950|Aztec myth-seed]] press cycle and the [[concepts/project-grudge|Project GRUDGE]] termination — i.e. the post-cooperation-regime period sees both an **escalation in hoax intake** and an **escalation in press-amplified myth-seeds**, both passively absorbed by the file. ^[inferred]
+The hoax-default frame thus shows a **trimodal prevalence pattern**: ^[inferred] dominant in 1947 (section 1), 1949-50 (section 5), AND 1952-54 (section 7), then suppressed in 1957-66 (Krasuski, Socorro, AFSCA). The 1952-54 cluster is **structurally distinct** from the prior two: it sees **the saucer-crew-member hoax category emerge** (Watters Mableton "monkey from Mars") — a structural successor to both the [[concepts/aztec-saucer-myth-1950|Aztec myth-seed]] (third-person crashed-saucer rumor) and the prior FBI-corpus prank-disc events. ^[inferred] The 1952-54 cluster also coincides with **the founding of the organized contactee movement** ([[concepts/contactee-movement-1952-1954|BSRA + IFSB + Bethurum + Adamski]]) — an alternative civilian-credulity frame that the hoax-default does not address but coexists with in the FBI's intake stream. ^[inferred] The frame thus operates **alongside, not against**, the contactee narrative throughout the post-cooperation-regime period. ^[inferred]
 
 ## Open threads
 
@@ -108,7 +112,10 @@ The hoax-default frame thus shows a **bimodal prevalence pattern**: ^[inferred] 
 ## See also
 
 - [[references/fbi-hq-62-83894-section-1]] — the empirical source
-- [[references/fbi-hq-62-83894-section-5]] — 1949-50 reinforcement (6+ confirmed hoaxes) **(NEW)**
+- [[references/fbi-hq-62-83894-section-7]] — 1952-54 reinforcement (3 confirmed hoaxes incl. Watters monkey-from-Mars; Bailey phone-prank; Desvergers Lab analysis) **(NEW)**
+- [[concepts/contactee-movement-1952-1954]] — alternative civilian-credulity frame (1952-54) **(NEW)**
+- [[references/sighting-desvergers-scoutmaster-1952-08-19]] — first FBI Lab physical-evidence exam (NEW)
+- [[references/fbi-hq-62-83894-section-5]] — 1949-50 reinforcement (6+ confirmed hoaxes)
 - [[concepts/aztec-saucer-myth-1950]] — synchronous press-amplified myth-seed (Jan-Mar 1950) **(NEW)**
 - [[concepts/project-grudge]] — synchronous AF investigative termination (Dec 1949) **(NEW)**
 - [[references/nrl-flying-saucer-mystery-solved-1947-07-12]] — adjacent optical-reflection-theory frame (12 Jul 1947)

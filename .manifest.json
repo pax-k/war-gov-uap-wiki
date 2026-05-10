@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T18:00:00Z",
+  "updated": "2026-05-10T20:30:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -1063,18 +1063,50 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/65_hs1-834228961_62-hq-83894_section_7.json": {
+      "ingested_at": "2026-05-10T20:30:00Z",
+      "size_bytes": 285422,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:cefb80058a8e12c2cef4eae09045faf8f98081b673334319187b7a5ccf06c7a3",
+      "source_id": "fbi-hq-62-83894-section-7",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "fbi-hq-62-83894",
+      "series_position": "11-of-17",
+      "pages_created": [
+        "references/fbi-hq-62-83894-section-7.md",
+        "concepts/robertson-panel-runup-1952.md",
+        "concepts/contactee-movement-1952-1954.md",
+        "references/fbi-sac-letter-83-1952.md",
+        "references/sighting-savannah-river-plant-1952-08-08.md",
+        "references/sighting-desvergers-scoutmaster-1952-08-19.md",
+        "references/lang-new-yorker-1952-09-06.md",
+        "references/usaf-flying-saucers-press-fact-sheet-1952.md",
+        "entities/international-flying-saucer-bureau.md",
+        "entities/borderland-sciences-research-associates.md"
+      ],
+      "pages_updated": [
+        "entities/fbi-hq-62-83894-file.md",
+        "concepts/saucer-as-hoax-default.md",
+        "entities/n-meade-layne.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T18:00:00Z",
-      "sources_ingested": 34
+      "last_ingested": "2026-05-10T20:30:00Z",
+      "sources_ingested": 35
     }
   },
   "stats": {
-    "total_sources_ingested": 39,
-    "total_pages": 238,
+    "total_sources_ingested": 40,
+    "total_pages": 248,
     "total_projects": 1,
     "last_full_rebuild": null
   }

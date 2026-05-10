@@ -3,8 +3,8 @@ title: "N. Meade Layne"
 category: entities
 tags: [uap, person, civilian-research, 1947]
 aliases: [Newton Meade Layne, Meade Layne, Borderland Sciences founder]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json]
-summary: N. Meade Layne (San Diego) — civilian writer and founder of Borderland Sciences Research Associates; author of the 1947 9-point Round Robin / Flying Roll memorandum that introduces the inter-dimensional / etheric framing of saucers.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_1.json, sources/65_hs1-834228961_62-hq-83894_section_7.json]
+summary: N. Meade Layne (San Diego) — civilian writer and founder of Borderland Sciences Research Associates (BSRA); author of the 1947 9-point Round Robin memo + still active in 1952 (FBI section 7) — earliest US contactee-adjacent organizational continuity.
 provenance:
   extracted: 0.55
   inferred: 0.42
@@ -63,11 +63,14 @@ Outside the FBI corpus, Layne is documented as the founder of **Borderland Scien
 - **Verify Layne's full name** ("N. Meade Layne" — first initial not expanded in the corpus). ^[open] The standard reading is **Newton Meade Layne** (1882-1961). ^[inferred]
 - **Identify the "university department" Layne claims to have headed** — separately verify the credential. ^[open]
 - **Locate Layne's prior Round Robin output** (1945-46) for the trajectory leading into the 1947 memo. ^[open]
-- **Track whether Layne reappears** in subsequent sections of 62-HQ-83894 — Borderland Sciences continued operating into the 1960s. ^[open]
+- **Track whether Layne reappears** in subsequent sections of 62-HQ-83894 — Borderland Sciences continued operating into the 1960s. ^[open] **PARTIALLY CLOSED**: BSRA reappears in [[references/fbi-hq-62-83894-section-7|section 7]] serials 311-312 (5 Aug 1952 + 18 Aug 1952 SAC San Diego memos) — Layne still listed as Director (with Max Freedom Long as co-Director); BSRA literature and 4-page open letter to the President of the United States retained at HQ; Francis Ohm channel claims members in conversation with saucer-operators. ^[extracted] See [[entities/borderland-sciences-research-associates]] (NEW).
 - **Cross-reference Layne with the contactee tradition** of George Adamski, Truman Bethurum, George Hunt Williamson — many of whom subsequently published in the same etheric / Theosophical / Loka idiom. ^[open]
 
 ## See also
 
+- [[entities/borderland-sciences-research-associates]] — Layne's organization (1945+); FBI section 7 datapoint **(NEW)**
+- [[concepts/contactee-movement-1952-1954]] — broader 1952-54 organizational context **(NEW)**
+- [[references/fbi-hq-62-83894-section-7]] — Aug 1952 BSRA filings **(NEW)**
 - [[references/round-robin-flying-roll-1947]] — the 9-point memorandum
 - [[references/fbi-hq-62-83894-section-1]] — section in which Layne is filed
 - [[concepts/civilian-saucer-hypothesis-1947]] — civilian-letter taxonomy
