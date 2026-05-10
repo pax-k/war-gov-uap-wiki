@@ -57,7 +57,7 @@ NICAP is structurally novel in the wiki corpus as the **first explicitly-credent
 - [[entities/international-flying-saucer-bureau|IFSB]] (Bender, Bridgeport CT, 1952) — civilian hobbyist, ages 23 founder, Civil Defense / Ground Observation Corps cross-recruitment
 - [[entities/amalgamated-flying-saucer-clubs-of-america|AFSCA]] (Green, LA, mid-1960s) — contactee-movement umbrella org, Martian + Alpha-Centaurian narratives
 
-NICAP's credentialed posture made it **the bridge between the contactee movement and the post-1966 Condon-Report-era credibility framework**. ^[inferred]
+NICAP's credentialed posture made it **the bridge between the [[concepts/contactee-movement-1952-1954|contactee movement]] and the post-1966 Condon-Report-era credibility framework**. ^[inferred]
 
 ## Open threads
 

@@ -58,7 +58,7 @@ This is **the earliest preserved witness-side ruleout of a conventional aircraft
 
 ### Pre-photographic chain-of-custody
 
-The bundle does not preserve the photographs themselves — only the witness's textual description and the evaluation that *"Rhodes managed to take one photograph of the object at its lowest point (about 2000 ft) and another as it turned out of its second spiral and started upward."* ^[extracted] The photographs' subsequent custody chain (whether they reached AMC T-2 in original form, were retained by Rhodes, or transferred to FBI / Project GRUDGE) is **not in the 1–100 bundle**. ^[ambiguous]
+The bundle does not preserve the photographs themselves — only the witness's textual description and the evaluation that *"Rhodes managed to take one photograph of the object at its lowest point (about 2000 ft) and another as it turned out of its second spiral and started upward."* ^[extracted] The photographs' subsequent custody chain (whether they reached AMC T-2 in original form, were retained by Rhodes, or transferred to FBI / [[concepts/project-grudge|Project GRUDGE]]) is **not in the 1–100 bundle**. ^[ambiguous]
 
 (Subsequent UAP historiography — outside the bundle's scope — frequently identifies Rhodes' Phoenix photos as one of the first physical-evidence specimens that reached USAF investigation. The bundle's silence on the post-1947 chain-of-custody is consistent with the photos being treated as separately-filed evidence.)
 

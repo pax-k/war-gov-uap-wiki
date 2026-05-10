@@ -84,7 +84,7 @@ The committee also frames the **MacArthur 1962 West Point address** ("ultimate c
 
 ## Appendix 5 — The Roswell Affair and disinformation
 
-A dedicated 8-page treatment, separating "reducing disinformation" (Robertson Panel 1952; Klass-style trivialization of Lakenheath, RB-47, Tehran) from "amplifying disinformation" (Bennewicz / Lear / Cooper trajectory; the questionable "alien autopsy" video). The committee endorses the *extraterrestrial-vessel* hypothesis as plausible, citing General du Bose's 1991 affidavit and Lt Col Marcel's 1978 statements. ^[extracted]
+A dedicated 8-page treatment, separating "reducing disinformation" ([[concepts/robertson-panel-runup-1952|Robertson Panel]] 1952; Klass-style trivialization of Lakenheath, RB-47, Tehran) from "amplifying disinformation" (Bennewicz / Lear / Cooper trajectory; the questionable "alien autopsy" video). The committee endorses the *extraterrestrial-vessel* hypothesis as plausible, citing General du Bose's 1991 affidavit and Lt Col Marcel's 1978 statements. ^[extracted]
 
 ## Provenance details
 

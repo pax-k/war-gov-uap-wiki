@@ -18,7 +18,7 @@ updated: 2026-05-10T12:00:00Z
 
 # NASA Apollo 17 Technical Crew Debriefing — Page 24-4 Excerpt (Jan 4, 1973)
 
-A **2-page Mistral-OCR'd excerpt** of **MSC-07631 — APOLLO 17 TECHNICAL CREW DEBRIEFING (U)**, dated **January 4, 1973**, prepared by the **Training Office, Crew Training and Simulation Division, Manned Spacecraft Center, Houston**. The bundle is a **single isolated transcript page (24-4)** drawn from the multi-hundred-page parent debriefing — captured in the wiki's UAP source corpus by **FOIA / archival keyword match** ("fireball", "sighting", "flash"), not by UAP narrative content. **Filename prefix `nasa-uap-d6-` matches the wiki's NASA-D-prefixed Apollo / Gemini / Skylab debriefing series convention** (d1–d7 covering [[entities/gemini-7|Gemini 7]], Apollo 11, Apollo 12, Apollo 17 transcript + debriefings, Skylab); first of seven such files in this cluster. ^[inferred]
+A **2-page Mistral-OCR'd excerpt** of **MSC-07631 — APOLLO 17 TECHNICAL CREW DEBRIEFING (U)**, dated **January 4, 1973**, prepared by the **Training Office, Crew Training and Simulation Division, Manned Spacecraft Center, Houston**. The bundle is a **single isolated transcript page (24-4)** drawn from the multi-hundred-page parent debriefing — captured in the wiki's UAP source corpus by **FOIA / archival keyword match** ("fireball", "sighting", "flash"), not by UAP narrative content. **Filename prefix `nasa-uap-d6-` matches the wiki's NASA-D-prefixed Apollo / Gemini / Skylab debriefing series convention** (d1–d7 covering [[entities/gemini-7|Gemini 7]], [[entities/apollo-11|Apollo 11]], [[entities/apollo-12|Apollo 12]], Apollo 17 transcript + debriefings, Skylab); first of seven such files in this cluster. ^[inferred]
 
 ## Document profile
 

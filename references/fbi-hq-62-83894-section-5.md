@@ -28,7 +28,7 @@ The first OCR page of this artifact carries the **FBI Records Center cover slip*
 
 | Aspect | Value | Note |
 |---|---|---|
-| **Earliest filing date** | ~11 Jul 1949 | Serial 187 = Cuneo→FBI HQ phone-record on Walter Winchell letter (Peter Cameron Jones LA) ^[extracted] |
+| **Earliest filing date** | ~11 Jul 1949 | Serial 187 = Cuneo→FBI HQ phone-record on [[entities/walter-winchell\|Walter Winchell]] letter (Peter Cameron Jones LA) ^[extracted] |
 | **Earliest document date** | 23 Jun 1949 | Serial 197 = **DIO-11ND ONI Confidential Intelligence Report Serial 23-09** on LtJG Shell's 27 May 1949 Hart Mountain Oregon sighting; FBI HQ receipt 22 Aug 1949 — see [[references/sighting-shell-oregon-1949-05-27]]. Earliest **FBI-authored** document is serial 186 (26 Jul 1949 San Antonio SAC). ^[extracted] |
 | **Latest filing date** | 8 Sep 1950 | Serial 245 = Hoover acknowledgment to Walter D. Jones (Toronto) ^[extracted] |
 | **Section span** | ~14 months | covers the **post-investigation period** — both FBI (Oct 1947) and AF (Dec 1949) had formally exited active saucer investigation |
@@ -162,7 +162,7 @@ The briefing explicitly **rules out** all of (1) space-ships from other planets 
 
 ## Open threads
 
-- **Locate Bureau Bulletin No. 57 (1 Oct 1947)** — the closure-instrument referenced in serial 206 reply. ^[open] Almost certainly in queued section 3.
+- **Locate [[references/fbi-bureau-bulletin-57-1947|Bureau Bulletin No. 57]] (1 Oct 1947)** — the closure-instrument referenced in serial 206 reply. ^[open] Almost certainly in queued section 3.
 - **Ingest sections 3-4** to recover serials 101-185 — including the 62-83894-141-160 Bureau-discontinuation thread referenced from serial 212. ^[open]
 - **Identify "Mr. Carroll"** named by Garrett (section 2 serial 86) — does he reappear in section 5's analytical material (e.g., the D-3 briefing)? ^[open]
 - **Reconcile section 5's serial-245 endpoint** with section 6's start-serial. ^[open]

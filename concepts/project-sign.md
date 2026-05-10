@@ -150,7 +150,7 @@ Through 1949 the SIGN intake apparatus operated continuously under [[concepts/fs
 
 ## Successor programs
 
-Project SIGN was succeeded by Project GRUDGE (formal stand-up early 1950, roughly aligned with the **11 Jan 1950 rescission** of the 26 Oct 1948 worldwide-reporting TWX visible in the 1949 file) and then Project BLUE BOOK (1952–1969). ^[inferred] *(The 1948 and 1949 files do not name successors; this is general historical background.)*
+Project SIGN was succeeded by [[concepts/project-grudge|Project GRUDGE]] (formal stand-up early 1950, roughly aligned with the **11 Jan 1950 rescission** of the 26 Oct 1948 worldwide-reporting TWX visible in the 1949 file) and then Project BLUE BOOK (1952–1969). ^[inferred] *(The 1948 and 1949 files do not name successors; this is general historical background.)*
 
 ## Wartime precursor
 

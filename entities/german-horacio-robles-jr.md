@@ -41,7 +41,7 @@ The double-truncated-cone-joined-at-bases morphology is **structurally distinct*
 
 This is the **wiki's first Mexican-located UAP sighting** ^[inferred] — predating the [[concepts/diplomatic-channel-uap-reporting|2023 DOS Mexico cable]]'s host-country legislative reportage by **73 years** and predating Project SIGN's terminal incident **Inc 233** ([[references/sighting-jackson-ms-1949-01|Jackson MS 1 Jan 1949]]) by **~14 months**. ^[inferred] The sighting is **not** in any of the three SIGN incident-summary bundles in the corpus, suggesting either:
 
-- The sighting **post-dated** Project SIGN's intake window (SIGN was in transition to Project GRUDGE in early 1949–1950); ^[inferred]
+- The sighting **post-dated** Project SIGN's intake window (SIGN was in transition to [[concepts/project-grudge|Project GRUDGE]] in early 1949–1950); ^[inferred]
 - Or the **Mexican-civilian / Mexican-newspaper origin** placed the case outside USAF intake reach, which was CONUS + Alaska + Pacific theatre per the [[references/usaf-flying-discs-1949|1949 file]]'s 26 Oct 1948 worldwide-scope expansion — but in practice the SIGN sequential stream is heavily US-domestic with rare Pacific / Atlantic / European cases. ^[inferred]
 - Or the sighting **was** reported through some channel but did not become a SIGN-numbered incident — the corpus has no visibility into Project GRUDGE-era intake. ^[ambiguous]
 

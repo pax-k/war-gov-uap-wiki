@@ -69,7 +69,7 @@ Armstrong's prior **non-corroboration** during the first 7 days of the mission i
 
 ## Comparator with other corpus astronaut witnesses
 
-Armstrong is the corpus's **fourth named astronaut witness**, after [[entities/frank-borman|Borman]] (GT-7, 1965), [[entities/alan-bean|Bean]] (Apollo 12 d1, 1969), and [[entities/harrison-schmitt|Schmitt]] (Apollo 17 d6, 1972). ^[inferred] The other Apollo 12 and 17 witnesses ([[entities/jim-lovell|Lovell]], [[entities/pete-conrad|Conrad]], [[entities/dick-gordon|Gordon]], [[entities/gene-cernan|Cernan]], [[entities/ronald-evans|Evans]]) are in the corpus but as **secondary or boundary witnesses**, not primary observers of UAP-adjacent events.
+Armstrong is the corpus's **fourth named astronaut witness**, after [[entities/frank-borman|Borman]] (GT-7, 1965), [[entities/alan-bean|Bean]] ([[entities/apollo-12|Apollo 12]] d1, 1969), and [[entities/harrison-schmitt|Schmitt]] ([[entities/apollo-17|Apollo 17]] d6, 1972). ^[inferred] The other Apollo 12 and 17 witnesses ([[entities/jim-lovell|Lovell]], [[entities/pete-conrad|Conrad]], [[entities/dick-gordon|Gordon]], [[entities/gene-cernan|Cernan]], [[entities/ronald-evans|Evans]]) are in the corpus but as **secondary or boundary witnesses**, not primary observers of UAP-adjacent events.
 
 Armstrong's testimony is **sub-class E (strong-positive) on the Day-3 cylinder** and **non-UAP / cosmic-ray-flash anchor** on the in-cabin flashes. ^[inferred] He is the **third NASA Group 2 astronaut** in the corpus after Borman and Lovell — and the **third Apollo program commander** witness after Lovell ([[entities/apollo-13|Apollo 13]] CDR — not yet ingested) and Conrad (Apollo 12 CDR). ^[inferred] **NASA Group 2 cohort presence is now 3 of 9** in the corpus.
 

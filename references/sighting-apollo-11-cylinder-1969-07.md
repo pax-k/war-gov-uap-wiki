@@ -67,7 +67,7 @@ The interpretive close **converges on**:
 - The **in-focus open-book / L-shape / open-suitcase** reading is the more reliable morphology. ^[inferred]
 - The **tumbling motion** (Collins: *"You could see this thing tumbling"*) is consistent with a passive ballistic body, not a controlled platform. ^[inferred]
 
-**This is structurally significant**: prior corpus on-orbit observations have either no morphology (GT-7) or single-instrument morphology (Apollo 12 AOT). Apollo 11 d4 §6 is the corpus's **first multi-instrument morphology resolution**, and the crew themselves perform an **on-the-fly instrument-artifact analysis** to separate object morphology from optical artifact. This is **astronaut-class observational discipline** that strengthens the signal beyond what any single optical configuration would provide.
+**This is structurally significant**: prior corpus on-orbit observations have either no morphology (GT-7) or single-instrument morphology ([[entities/apollo-12|Apollo 12]] AOT). Apollo 11 d4 §6 is the corpus's **first multi-instrument morphology resolution**, and the crew themselves perform an **on-the-fly instrument-artifact analysis** to separate object morphology from optical artifact. This is **astronaut-class observational discipline** that strengthens the signal beyond what any single optical configuration would provide.
 
 ## On the S-IVB elimination
 

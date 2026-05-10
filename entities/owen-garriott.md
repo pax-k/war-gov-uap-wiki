@@ -30,7 +30,7 @@ Garriott's primary articulation appears in both §7 and §20.0 of the SL-3 debri
 
 The substantive content for the corpus:
 
-1. **Range derivation from sunset-shadow timing** — the **5–7 second delay** between Skylab's sunset-shadow ingress and the object's disappearance into darkness implies a co-orbital body **30–50 NM** from Skylab. ^[extracted] This is the **corpus's first witness-side range derivation** in any orbital UAP-adjacent observation. Apollo 11 d4's range data ([[concepts/saturn-v-s-ivb-stage|S-IVB]] at 6,000 mi) came from Mission Control telemetry; Garriott's derivation is **purely from optical / shadow-geometry inferences inside the spacecraft**. ^[inferred]
+1. **Range derivation from sunset-shadow timing** — the **5–7 second delay** between Skylab's sunset-shadow ingress and the object's disappearance into darkness implies a co-orbital body **30–50 NM** from Skylab. ^[extracted] This is the **corpus's first witness-side range derivation** in any orbital UAP-adjacent observation. [[entities/apollo-11|Apollo 11]] d4's range data ([[concepts/saturn-v-s-ivb-stage|S-IVB]] at 6,000 mi) came from Mission Control telemetry; Garriott's derivation is **purely from optical / shadow-geometry inferences inside the spacecraft**. ^[inferred]
 2. **Co-orbital orbital-plane inference** — the persistence of the object's position in the wardroom window over 10 minutes (drifting only 10–20 degrees) is **direct evidence of similar orbital plane and altitude**. ^[extracted] Garriott's "orbit was very close to that of our own" is **a quantitative inference from the multi-minute persistence + small angular drift**, not a guess. ^[inferred]
 3. **Rotation period from brightness variation** — the **10-second period** is read from the brightness modulation. ^[extracted] This is structurally consistent with passive-rotation of a non-spherical body with one specularly-reflective face (or one differently-coloured face).
 4. **Spectral-and-illumination-geometry analysis** — Garriott explicitly **rules out atmospheric reddening** as the cause of the reddish color: *"reddish in color even when we were well above the horizon ... The light from the Sun was not passing close to the Earth's limb at the time."* ^[extracted] The reddish hue is therefore an intrinsic property of the object's reflectance / emission, not a viewing-geometry artifact. ^[inferred]
@@ -67,7 +67,7 @@ Garriott is the corpus's **second physicist-class astronaut witness** (after [[e
 - [[entities/jack-lousma]] — SL-3 Pilot; same crew; initial spotter of the red object.
 - [[entities/nasa]] — employing agency.
 - [[concepts/orbital-uap-sighting]] — Garriott's d7 testimony anchors the corpus's first sub-class F entry.
-- [[entities/harrison-schmitt]] — Group-4 cohort-mate; ALFMED witness (Apollo 17 d6 1972).
+- [[entities/harrison-schmitt]] — Group-4 cohort-mate; ALFMED witness ([[entities/apollo-17|Apollo 17]] d6 1972).
 - [[entities/joseph-kerwin]] — Group-4 cohort-mate; SL-2 cosmic-ray-flash witness.
 
 ## Open questions

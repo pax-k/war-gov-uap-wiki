@@ -65,4 +65,4 @@ Within the wiki we'll call this **"prepared skepticism"**: the writer does not a
 ## Open
 
 - Track whether this posture is a 1960s NASC house-style or a Hunter-personal voice. ^[open]
-- Look for the corresponding posture in CIA's mid-1950s UFO panels (Robertson Panel, etc.) when those sources land in the wiki. ^[open]
+- Look for the corresponding posture in CIA's mid-1950s UFO panels ([[concepts/robertson-panel-runup-1952|Robertson Panel]], etc.) when those sources land in the wiki. ^[open]

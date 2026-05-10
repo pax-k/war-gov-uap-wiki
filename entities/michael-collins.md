@@ -97,7 +97,7 @@ By **role distinction**: Collins is the corpus's **first co-witness whose primar
 - [[concepts/saturn-v-s-ivb-stage]]
 - [[concepts/passive-thermal-control]]
 - [[entities/nasa]]
-- [[entities/alan-bean]] — NASA Group 3 cohort; Apollo 12 LMP.
+- [[entities/alan-bean]] — NASA Group 3 cohort; [[entities/apollo-12|Apollo 12]] LMP.
 - [[entities/dick-gordon]] — NASA Group 3 cohort; Apollo 12 CMP.
-- [[entities/gene-cernan]] — NASA Group 3 cohort; Apollo 17 CDR.
+- [[entities/gene-cernan]] — NASA Group 3 cohort; [[entities/apollo-17|Apollo 17]] CDR.
 - [[projects/uap/uap]]

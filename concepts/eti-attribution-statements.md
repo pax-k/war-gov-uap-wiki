@@ -72,7 +72,7 @@ The narrowness of the set — two attributions across the corpus's ~80-year span
 - Locate any **third corpus instance** of an institutional / foreign-liaison ETI attribution. ^[open]
 - Locate any **third corpus instance** of a witness-side ETI attribution. ^[open]
 - Locate any **U.S.-side institutional ETI attribution** — the corpus has none yet; only foreign-allied (Swedish AIS) institutional attributions and US-witness attributions. The structural absence is itself a tracked observation. ^[inferred]
-- Cross-check the **1953 Robertson Panel** report (not yet in corpus) for any preserved ETI attribution from witness or institutional source. ^[open]
+- Cross-check the **1953 [[concepts/robertson-panel-runup-1952|Robertson Panel]]** report (not yet in corpus) for any preserved ETI attribution from witness or institutional source. ^[open]
 - Cross-check **Project BLUE BOOK** unknown-class case files for any preserved ETI attribution. ^[open]
 - Determine whether the **1948 Swedish AIS** position was internally documented inside Sweden, or whether it survives only in the USAFE relay. ^[open]
 

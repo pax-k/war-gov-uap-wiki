@@ -11,14 +11,10 @@
             "id": "efd4f66ca800772a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/western-us-event-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "western-us-event-2026"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -156,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/western-us-event-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of western-us-event-2026"
+              "title": "Outline"
             }
           }
         ],
@@ -185,32 +180,32 @@
   },
   "active": "efd4f66ca800772a",
   "lastOpenFiles": [
-    "projects/uap/uap.md",
-    "references/fbi-hq-62-83894-serial-220.md",
-    "references/sighting-durango-mexico-1950-03.md",
-    "entities/german-horacio-robles-jr.md",
-    "entities/miguel-angel-garcia-macias.md",
-    "references/barker-1956-they-knew-too-much.md",
-    "entities/gray-barker.md",
-    "entities/fbi-hq-62-83894-file.md",
-    "references/fbi-hq-62-83894-serial-403.md",
-    "references/nasa-uap-d2-apollo-17-transcript-1972.md",
-    "entities/william-pogue.md",
-    "entities/edward-gibson.md",
-    "entities/gerald-carr.md",
-    "entities/jack-lousma.md",
-    "entities/owen-garriott.md",
-    "entities/paul-weitz.md",
-    "entities/joseph-kerwin.md",
-    "entities/skylab.md",
-    "references/nasa-uap-d7-skylab-technical-crew-debriefing-1973.md",
-    "references/sighting-skylab-3-red-object-1973-09.md",
-    "concepts/passive-thermal-control.md",
-    "concepts/saturn-v-s-ivb-stage.md",
-    "entities/michael-collins.md",
-    "entities/buzz-aldrin.md",
-    "entities/neil-armstrong.md",
-    "entities/apollo-11.md",
+    "entities/nep-lopez.md",
+    "entities/usaf.md",
+    "references/sighting-quantico-marines-1954-01.md",
+    "references/drew-pearson-saucers-nil-1950-11-25.md",
+    "references/sighting-schmidt-kearney-1957-11-05.md",
+    "references/sighting-killian-dc6-1959-02-24.md",
+    "references/sighting-caldwell-gray-goose-1949-08.md",
+    "entities/delmer-s-fahrney.md",
+    "entities/nicap.md",
+    "references/fbi-hq-62-83894-sub-a.md",
+    "entities/borderland-sciences-research-associates.md",
+    "entities/international-flying-saucer-bureau.md",
+    "references/usaf-flying-saucers-press-fact-sheet-1952.md",
+    "references/lang-new-yorker-1952-09-06.md",
+    "references/sighting-desvergers-scoutmaster-1952-08-19.md",
+    "references/sighting-savannah-river-plant-1952-08-08.md",
+    "references/fbi-sac-letter-83-1952.md",
+    "concepts/contactee-movement-1952-1954.md",
+    "concepts/robertson-panel-runup-1952.md",
+    "references/fbi-hq-62-83894-section-7.md",
+    "references/western-us-event-2026.md",
+    "entities/walter-winchell.md",
+    "entities/h-b-fletcher.md",
+    "entities/c-d-gasser.md",
+    "references/sighting-kirtland-mass-1949-01-30.md",
+    "references/sighting-noack-helendale-1948-12.md",
     "references/usaf-flying-discs-1949.md.tmp.26524.99683844ac58",
     "references/dos-cable-kazakhstan-1994-01.md.tmp.26524.7575d999763d",
     "concepts/project-sign.md.tmp.26524.6a3d7f5b4aab",

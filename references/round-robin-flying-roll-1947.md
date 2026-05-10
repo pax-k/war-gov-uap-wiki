@@ -46,12 +46,12 @@ The closing addendum describes the craft physically: ^[extracted]
 
 This is **the corpus's earliest eti-attribution document**. ^[inferred] Specifically: ^[inferred]
 
-- It **predates the language of "extraterrestrial"** in mainstream discourse by ~3 years (the term emerges in 1950 with Frank Scully's *Behind the Flying Saucers*).
+- It **predates the language of "extraterrestrial"** in mainstream discourse by ~3 years (the term emerges in 1950 with [[entities/frank-scully|Frank Scully]]'s *Behind the Flying Saucers*).
 - It **introduces the inter-dimensional / "etheric" framing** that will recur in saucer literature (Tibetan-Buddhist Loka cosmology mapped onto the saucer phenomenon).
 - It **predicts disintegrating-ray armament** and **radar (not radio) detectability** — both claims later widely repeated in saucer-paranormal literature without attribution to Layne.
 - It **anticipates the language of materialization/dematerialization** later associated with the abduction phenomenon (1960s+).
 
-Layne is the founder of **Borderland Sciences Research Associates** (1945, San Diego), one of the earliest organized civilian-paranormal-research orgs to engage flying saucers. ^[inferred] The Round Robin / The Flying Roll were his society's mimeographed bulletins. ^[inferred]
+Layne is the founder of **[[entities/borderland-sciences-research-associates|Borderland Sciences Research Associates]]** (1945, San Diego), one of the earliest organized civilian-paranormal-research orgs to engage flying saucers. ^[inferred] The Round Robin / The Flying Roll were his society's mimeographed bulletins. ^[inferred]
 
 ## How the FBI processed it
 

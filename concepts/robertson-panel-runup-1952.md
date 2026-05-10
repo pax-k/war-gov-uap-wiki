@@ -84,7 +84,7 @@ By Dec 1952, ATIC at Wright-Patterson was the **public face of UAP investigation
 
 ## Cross-pattern with other CIA UAP engagement
 
-Section 7 also documents (separately from the IAC chain) a specific **CIA-FBI personnel mention**: the **Mead Layne / Borderland Sciences** literature (serial 312) which the BSRA's **Francis Ohm** asked *"a member of his organization"* whose *"associates have been in conversation with the men operating the flying saucers"* — and the FBI San Diego SAC declines to assign a stenographer. ^[extracted] These two parallel CIA + civilian-contactee engagements coexist in the file but never cross — the CIA pursues the German-scientist-theory institutionally while ignoring the contactee-channel material entirely. ^[inferred]
+Section 7 also documents (separately from the IAC chain) a specific **CIA-FBI personnel mention**: the **Mead Layne / [[entities/borderland-sciences-research-associates|Borderland Sciences]]** literature (serial 312) which the BSRA's **Francis Ohm** asked *"a member of his organization"* whose *"associates have been in conversation with the men operating the flying saucers"* — and the FBI San Diego SAC declines to assign a stenographer. ^[extracted] These two parallel CIA + civilian-contactee engagements coexist in the file but never cross — the CIA pursues the German-scientist-theory institutionally while ignoring the contactee-channel material entirely. ^[inferred]
 
 ## Open threads
 

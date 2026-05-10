@@ -77,7 +77,7 @@ The fact sheet also addresses ^[extracted]:
 
 The fact sheet is structurally significant for the FBI corpus because: ^[inferred]
 
-- It documents the **standardized US-government public-facing posture** on UAP at the peak of the 1952 wave — the position that journalists (Lang, Walter Winchell, Drew Pearson, etc.) were given when they asked.
+- It documents the **standardized US-government public-facing posture** on UAP at the peak of the 1952 wave — the position that journalists (Lang, [[entities/walter-winchell|Walter Winchell]], Drew Pearson, etc.) were given when they asked.
 - It reaffirms that **ATIC at Wright-Patterson is the post-1949 home** of the AF UAP function — superseding [[concepts/project-grudge|Project GRUDGE]] (which the fact sheet calls *"a special project"* that ended Dec 1949).
 - It establishes **Albert Chop (DOD-OPI)** as the **press-relations gatekeeper** for AF UAP information — the function later transferred to the [[entities/usaf|USAF]] Office of Information Services and ultimately to **Project BLUE BOOK's public information officer**.
 - The **categorical no-foreign-state, no-US-secret-weapon, no-interplanetary closure** is **publicly maintained** even as the [[references/fbi-hq-62-83894-section-7|section 7]] serial 323 internal Keay memo (27 Oct 1952) records that *"some Military officials are seriously considering the possibility of interplanetary ships"* — i.e. the **public-vs-internal posture split** is documented in the same FBI file.

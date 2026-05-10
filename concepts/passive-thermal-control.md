@@ -31,7 +31,7 @@ The single corpus instance where PTC's geometric properties are operationally si
 The PTC rotation produced **three-witness sequential observation** ([[entities/neil-armstrong|Armstrong]] + [[entities/buzz-aldrin|Aldrin]] + [[entities/michael-collins|Collins]]) of the same external body through the same instrument suite — converting what would otherwise be a single-witness call into a **multi-witness simultaneous corroboration**. ^[inferred] This is structurally distinct from:
 
 - **GT-7 1965 [[entities/frank-borman|Borman]] bogey** ([[references/sighting-gemini-7-bogey-1965-12-04]]) — Gemini-class spacecraft did not perform PTC; the bogey is a **single-bearing single-witness** call. ^[inferred]
-- **Apollo 12 d1 [[entities/alan-bean|Bean]] AOT particle-flash** ([[references/nasa-uap-d1-apollo-12-transcript-1969]]) — Bean's observation was through the LM's AOT (a fixed-mount instrument), not through cabin windows during PTC; Apollo 12's d1 LM/CSM rendezvous configuration was **not** in PTC. ^[inferred]
+- **[[entities/apollo-12|Apollo 12]] d1 [[entities/alan-bean|Bean]] AOT particle-flash** ([[references/nasa-uap-d1-apollo-12-transcript-1969]]) — Bean's observation was through the LM's AOT (a fixed-mount instrument), not through cabin windows during PTC; Apollo 12's d1 LM/CSM rendezvous configuration was **not** in PTC. ^[inferred]
 
 ## Why PTC matters for orbital UAP-adjacent observations
 

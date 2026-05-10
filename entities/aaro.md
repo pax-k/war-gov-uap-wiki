@@ -38,7 +38,7 @@ AARO is the most recent in a lineage that includes the early-Cold-War USAF progr
 
 - [[concepts/project-sign]] (1948) — first formal collection program.
 - [[concepts/flying-disc-reporting-protocol]] (1948) — the original 10-element witness report template that prefigures the structured intake AARO inherits. ^[inferred]
-- (Project GRUDGE, Project BLUE BOOK — to be added.)
+- ([[concepts/project-grudge|Project GRUDGE]], Project BLUE BOOK — to be added.)
 
 ## Open questions
 

@@ -66,7 +66,7 @@ The structural similarity across 78 years is itself notable. ^[inferred]
 
 This layer now has **two** documents in the corpus (Hunter 1963 + COMETA 1999). Likely candidates to fill the gap further if/when sources land:
 
-- 1953 CIA-convened **Robertson Panel** report (operational/policy hybrid). ^[inferred-as-target]
+- 1953 CIA-convened **[[concepts/robertson-panel-runup-1952|Robertson Panel]]** report (operational/policy hybrid). ^[inferred-as-target]
 - 1968 **Condon Report** (University of Colorado / USAF) — operational with explicit policy framing. ^[inferred-as-target]
 - 2022–2024 **AARO Historical Record Reports** — modern policy-layer self-assessments. ^[inferred-as-target]
 - Any congressional testimony that crosses the operational→policy boundary. ^[inferred-as-target]

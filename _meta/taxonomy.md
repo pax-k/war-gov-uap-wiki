@@ -5,7 +5,7 @@ tags: [taxonomy, meta]
 sources: []
 summary: Canonical controlled vocabulary for tags across the wiki. Source of truth for the tag-taxonomy skill.
 created: 2026-05-09
-updated: 2026-05-10
+updated: 2026-05-11T03:00:00Z
 ---
 
 # Tag Taxonomy
@@ -110,6 +110,7 @@ The subject matter axis — what the page is about.
 | `protocol` | Specific reporting / observational protocols (e.g., Cabell 10-element template). |
 | `institutional` | Institutional posture, framing, or behavior. |
 | `contact` | First-contact / ETI policy framings. |
+| `eti-attribution` | Pages where the extraterrestrial-intelligence attribution itself is the analytical lens (distinct from `contact`'s policy/first-contact framing). |
 | `rhetoric` | Discourse / framing analysis. |
 
 ### Domain-specific
@@ -169,27 +170,30 @@ Tags below are **non-canonical**. Replace with the canonical form when found.
 
 ## Frequency Reference (post-normalization)
 
-**As of 2026-05-10 batch-3 audit:** 99 unique tags across 186 wiki pages. Zero drift — all tags map to canonical vocabulary; zero pages over the 5-tag limit (1 violation resolved this audit: `sighting-mantell-godman-1948-01-07.md` dropped `ohio`, kept `kentucky` as the geographic anchor); zero non-ASCII / whitespace / case issues; zero novel tags introduced by the d-cluster (NASA Apollo 11/12/17, Skylab, Gemini 7) or Project SIGN founding cases ingest. Top tags:
+**As of 2026-05-10 batch-4 audit:** 107 unique tags across 260 wiki pages (41 sources / 256 manifest pages + 4 infrastructure). Equilibrium holds — zero alias usage, zero non-ASCII / whitespace / case / underscore issues, zero pages over the 5-tag limit, zero normalizations applied. One genuinely novel tag accepted this batch: `eti-attribution` (24 pages, broadly distributed). Top tags:
 
 ```
-163 uap                46 sighting            43 primary-source     41 person
-40 nasa                33 history             29 witness            28 astronaut
-25 1948                25 organization        22 declassified       21 intelligence
-18 policy              17 usaf                16 morphology         15 state-department
-14 ww2                 11 aviation            11 pattern            10 fbi
- 9 france               8 diplomacy            8 federal-le          8 military
- 7 civilian-research    7 spacecraft           6 1947                6 mexico
+235 uap                74 primary-source      65 sighting           59 person
+44 fbi                 40 nasa                40 history            36 declassified
+35 witness             31 organization        29 1948               29 1947
+29 intelligence        28 astronaut           28 usaf               27 policy
+17 morphology          16 1950                16 civilian-research  15 state-department
+14 ww2                 14 pattern             13 aviation           13 rhetoric
+10 1949                10 federal-le           9 military            9 france
+ 8 diplomacy            7 california           7 usaaf               7 spacecraft
 ```
 
-Notable shifts from the previous audit:
+Notable shifts from batch-3 audit:
 
-- `astronaut` jumped from below the threshold to **28 uses** (NASA d-cluster: Armstrong, Aldrin, Collins, Conrad, Gordon, Bean, Cernan, Schmitt, Evans, Borman, Lovell, Carr, Pogue, Gibson, Kerwin, Weitz, Garriott, Lousma).
-- `nasa` jumped from 8 → 40, `spacecraft` newly active at 7, `mission` at 5 — all driven by the d-cluster.
-- `astronaut` now sits in the 25–30 band alongside `1948` and `organization` — the corpus has shifted toward a bimodal era distribution (1944–1949 + 1965–1973).
+- `fbi` jumped from **10 → 44** — the batch-4 signature, driven by FBI HQ 62-83894 sections/serials and FBI field-office files.
+- `primary-source` 43 → 74, `declassified` 22 → 36, `sighting` 46 → 65 — all reflect the FBI HQ ingest's mass of declassified field reports.
+- `eti-attribution` newly canonicalized at 24 pages — concept that crystallized across this batch's contactee-movement and ETI-discourse work.
+- `rhetoric` 0 → 13 — emerged with the figurative/discourse-analysis pages from this batch.
+- `1950`, `1949`, `1952`, `1957`–`1958`, `1964`–`1969`, `1972`–`1973`, `1985`, `1940s`, `1950s` all instantiations of the documented `1947 … 1994` year-tag pattern. Not new tags.
 
-The long tail (1–4 uses) is dominated by year tags, US state tags, and country tags — narrow but uniformly applied. Acceptable.
+The long tail (1–4 uses) remains dominated by year tags, US state tags, and country tags — narrow but uniformly applied. Acceptable.
 
-**Canonical-but-unused tags** (zero pages): `1950` (now used — 3 pages), `georgia`, `nevada`, `meta`. `georgia` retained for future Russia-Georgia content (the dos-cable-russia-georgia page remains at 5-tag limit; curatorial decision still deferred). `nevada` retained as standard US-state slot. `meta` is implicit via folder placement.
+**Canonical-but-unused tags** (zero pages): `georgia`, `nevada`, `meta`, `balls-of-fire`, `flying-discs`. `georgia` retained for future Russia-Georgia content. `nevada` retained as standard US-state slot. `meta` is implicit via folder placement. `balls-of-fire` and `flying-discs` retained as collective-noun morphology slots.
 
 ## Adding a New Tag
 

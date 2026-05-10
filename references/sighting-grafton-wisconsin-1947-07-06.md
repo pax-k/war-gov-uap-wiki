@@ -32,7 +32,7 @@ The recovered object: **a steel circular saw blade, ~16-19 inches diameter, ~1/8
 
 The case acquired serial 1 status not because the FBI investigated it but because the **United Press wire flagged the FBI by name** in the original story (Brasky claimed to have notified an FBI agent). ^[extracted] The processing trail: ^[extracted]
 
-- **7 Jul 1947 ~10:45 AM**: SAC Johnson (Milwaukee) called by SA H. B. Fletcher (HQ) — Johnson clarifies that Brasky **never contacted FBI Milwaukee**; UP/AP reporters had been hounding him at his residence between 1-6 AM that morning; AP was already declining to release the story because *"the priest was intoxicated and… all that was involved was a circular saw."* ^[extracted]
+- **7 Jul 1947 ~10:45 AM**: SAC Johnson (Milwaukee) called by SA [[entities/h-b-fletcher|H. B. Fletcher]] (HQ) — Johnson clarifies that Brasky **never contacted FBI Milwaukee**; UP/AP reporters had been hounding him at his residence between 1-6 AM that morning; AP was already declining to release the story because *"the priest was intoxicated and… all that was involved was a circular saw."* ^[extracted]
 - **7 Jul 1947 evening**: HQ instruction to Milwaukee — **no investigation, but report any subsequent contact from Brasky immediately**. ^[extracted]
 - **8 Jul 1947**: Milwaukee SAC sends formal letter to HQ summarizing his telephone exchanges with UP and AP. ^[extracted]
 - **No subsequent investigation. No Bureau lab examination. No physical-fragment retention.** ^[extracted]

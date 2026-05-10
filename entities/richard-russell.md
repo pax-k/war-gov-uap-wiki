@@ -31,7 +31,7 @@ Per [[references/iaf-ir-193-55-russell-1955|USAIRA Prague IR 193-55]] (page 3): 
 Russell is the **first Senatorial-class witness** in the wiki's UAP corpus. ^[inferred] As Chairman of the Senate Armed Services Committee, he had:
 
 - the **highest classified-access of any UAP witness** in the wiki's records;
-- direct **oversight authority** over the USAF (and by extension the [[concepts/project-sign|Project SIGN]] / Project GRUDGE / Project BLUE BOOK lineage that was running at the time of the sighting);
+- direct **oversight authority** over the USAF (and by extension the [[concepts/project-sign|Project SIGN]] / [[concepts/project-grudge|Project GRUDGE]] / Project BLUE BOOK lineage that was running at the time of the sighting);
 - the institutional standing to **demand a full briefing** if he wanted one.
 
 Despite that, Russell **did not attend the 13 October 1955 USAIRA Prague debrief**. He was occupied with Acting Chief of Mission Harold Vedler at the time and the Russell party departed Prague aboard Swissair for Rome on 13 Oct. Everything attributed to Russell in [[references/iaf-ir-193-55-russell-1955|IR 193-55]] arrives via Hathaway and Efron. ^[extracted]

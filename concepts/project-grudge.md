@@ -113,7 +113,7 @@ The memo also confirms that GRUDGE inherits **the green-fireball portfolio** —
 - [[entities/donald-keyhoe]] — author of [[entities/donald-keyhoe|Keyhoe]]'s January 1950 *True Magazine* article
 - [[entities/frank-scully]] — author of January 1950 *Variety Magazine* article + September 1950 *Behind the Flying Saucers*
 - [[entities/c-p-cabell]] — D/I USAF, AIRMEM #4 author
-- [[entities/usaf]] *(if/when created)*
+- [[entities/usaf]] — institutional home of GRUDGE.
 - [[concepts/saucer-as-hoax-default]] — the operating presumption GRUDGE institutionalizes
 - [[entities/fbi-hq-62-83894-file]] — parent file
 - [[projects/uap/uap]]

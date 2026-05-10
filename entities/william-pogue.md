@@ -31,7 +31,7 @@ In the wiki's UAP corpus, Pogue enters as a **named speaker** on the **[[referen
 These passages are **mission-systems content, not UAP-relevant**. ^[extracted] Pogue is included in the corpus because:
 
 1. He is **a member of the SL-4 crew on the d7 §7 page** where [[entities/gerald-carr|Carr]] articulates the corpus's **second [[concepts/orbital-uap-sighting|sub-class D observation]]** (flashing lights, astronaut-self-attributed to Skylab debris/satellites).
-2. By convention in the corpus's astronaut layer, all three crew members of a corpus mission frame enter as entities (compare: [[entities/dick-gordon|Gordon]] on Apollo 12 d1 as CMP; [[entities/edward-gibson|Gibson]] on SL-4 d7 as SP).
+2. By convention in the corpus's astronaut layer, all three crew members of a corpus mission frame enter as entities (compare: [[entities/dick-gordon|Gordon]] on [[entities/apollo-12|Apollo 12]] d1 as CMP; [[entities/edward-gibson|Gibson]] on SL-4 d7 as SP).
 3. Pogue is the corpus's **fourth Group-5 astronaut witness** (after [[entities/paul-weitz|Weitz]] SL-2, [[entities/jack-lousma|Lousma]] SL-3, [[entities/gerald-carr|Carr]] SL-4) — completing the four-of-six Group-5 Skylab footprint in the corpus.
 
 ## Mission record (UAP-relevant only)

@@ -44,7 +44,7 @@ This is the **only** UAP-adjacent observation on the d1 excerpt. Its corpus sign
 
 1. **Closest structural twin**: **Glenn's MA-6 "fireflies"** (Feb 1962) — astronaut sees particle-stream while in-orbit, attributes to spacecraft outgassing. The MA-6 case is on **[[concepts/orbital-uap-sighting]]**'s "watch for" list and remains awaiting primary-source ingest; Bean's d1 entry **does not replace** the MA-6 watch-for (different mission, different instrument, different MET regime), but the **phenomenon class parallels are explicit**. ^[inferred]
 2. **First astronaut-self-attributed-conventional observation** in the corpus's orbital-class sub-corpus — defining sub-class D in the d-cluster typology (see [[references/nasa-uap-d1-apollo-12-transcript-1969]]). ^[inferred]
-3. **First navigation-instrument-mediated UAP-adjacent observation** in the corpus — vs. all prior corpus on-orbit observations through windows (Borman GT-7 rendezvous window, Evans Apollo 17 d6 rendezvous window, Gordon CSM sextant for tracking-light search). ^[inferred]
+3. **First navigation-instrument-mediated UAP-adjacent observation** in the corpus — vs. all prior corpus on-orbit observations through windows (Borman GT-7 rendezvous window, Evans [[entities/apollo-17|Apollo 17]] d6 rendezvous window, Gordon CSM sextant for tracking-light search). ^[inferred]
 
 ## Apollo 12 d1 transcript line (Tape 90/9) — non-UAP avionics anomaly
 
@@ -62,7 +62,7 @@ Bean's second corpus appearance is on the **[[references/nasa-uap-d7-skylab-tech
 
 The substantive content for the corpus:
 
-1. **Multi-instrument failure to resolve morphology** — *"we tried monitors and everything on it but we could never make it into anything other than a bright light"*. ^[extracted] Bean's first-person account of **failed morphology resolution across all available optical instruments** is the central evidence placing the SL-3 observation in **sub-class F (morphology-unresolved)** rather than **sub-class E (morphology-resolved across optical configurations like Apollo 11 d4)**. ^[inferred]
+1. **Multi-instrument failure to resolve morphology** — *"we tried monitors and everything on it but we could never make it into anything other than a bright light"*. ^[extracted] Bean's first-person account of **failed morphology resolution across all available optical instruments** is the central evidence placing the SL-3 observation in **sub-class F (morphology-unresolved)** rather than **sub-class E (morphology-resolved across optical configurations like [[entities/apollo-11|Apollo 11]] d4)**. ^[inferred]
 2. **Single-occurrence observation** — *"We never saw it again. You'd think we would have seen it the next night"* — Bean's expectation that a co-orbital body should reappear weakens the simple co-launched-debris reading and is the crew's own datum that the observation is anomalous. ^[extracted]
 3. **Cross-mission witness corroboration with [[entities/owen-garriott|Garriott]] and [[entities/jack-lousma|Lousma]]** — Bean joins Garriott (range-and-rotation-period analysis) and Lousma (initial spotter, morphology-unresolved characterization) as a **three-witness simultaneous observer**.
 

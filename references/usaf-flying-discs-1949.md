@@ -114,7 +114,7 @@ The 1949 bundle is the **first** in the corpus to show a meaningful diversificat
 
 ## Why this matters for the wiki
 
-This file fills the **largest temporal gap** in the corpus — the year between the [[references/usaf-flying-discs-1948|1948 SIGN startup file]] and the formal launch of Project GRUDGE in late 1949. It documents:
+This file fills the **largest temporal gap** in the corpus — the year between the [[references/usaf-flying-discs-1948|1948 SIGN startup file]] and the formal launch of [[concepts/project-grudge|Project GRUDGE]] in late 1949. It documents:
 
 - the **operational maturation** of the Cabell intake apparatus from a charter directive into a routinized monthly-rate flow of standardized reports;
 - the **geographical extension** of the intake from CONUS-only to global (Canal Zone, Caribbean, Japan, Canada, Alaska, mid-Pacific);

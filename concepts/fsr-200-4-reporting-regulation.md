@@ -42,7 +42,7 @@ A handwritten note on the bottom of the page-129 / page-130 inclosure of the 26 
 
 > **"Rescinded per Ltr Hq USA dtd 11 Jan 50"** ^[extracted]
 
-This rescission **occurs on the same day** as transmission of the [[references/sighting-kansas-city-1950-01|6 Jan 1950 Kansas City]] report up the chain. The rescission affects the **26 Oct 1948 TWX** (the worldwide-reporting modification); whether FSR 200-4 itself was rescinded simultaneously, replaced, or rolled into Project GRUDGE's intake regime is **not specified** in this file. ^[ambiguous] The 11 Jan 1950 date roughly aligns with the formal stand-up of Project GRUDGE.
+This rescission **occurs on the same day** as transmission of the [[references/sighting-kansas-city-1950-01|6 Jan 1950 Kansas City]] report up the chain. The rescission affects the **26 Oct 1948 TWX** (the worldwide-reporting modification); whether FSR 200-4 itself was rescinded simultaneously, replaced, or rolled into [[concepts/project-grudge|Project GRUDGE]]'s intake regime is **not specified** in this file. ^[ambiguous] The 11 Jan 1950 date roughly aligns with the formal stand-up of Project GRUDGE.
 
 ## Parallel D/I-channel instrument: Cabell AIRMEM #4 (15 Feb 1949)
 

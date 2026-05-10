@@ -50,7 +50,7 @@ Together with [[references/fbi-hq-62-83894-section-1|section 1]] (BB42 opens FBI
 | 30 Jul 1947 | [[references/fbi-bureau-bulletin-42-1947\|Bureau Bulletin No. 42]] codifies the cooperation regime | section 1 |
 | 5 Sep 1947 | Schulgen formal denial letter to Hoover | [[references/fbi-hq-62-83894-section-2\|section 2]] serial 84 |
 | ~22 Sep 1947 | [[entities/g-d-garrett\|Garrett]] admits AAF Intelligence cannot solve the saucer problem internally | section 2 serial 86 |
-| **~Oct 1947** | **FBI internal termination** of saucer investigation (Bureau Bulletin No. 57, 1 Oct 1947) ^[inferred] | **62-83894-141-160 (queued section 3)** ^[open] |
+| **~Oct 1947** | **FBI internal termination** of saucer investigation ([[references/fbi-bureau-bulletin-57-1947\|Bureau Bulletin No. 57]], 1 Oct 1947) ^[inferred] | **62-83894-141-160 (queued section 3)** ^[open] |
 | Sep 1947 - Dec 1948 | [[concepts/project-sign\|Project SIGN]] (AF) | [[references/usaf-flying-discs-1948]] |
 | Feb 1949 | [[references/fbi-hq-62-83894-serial-164\|Cabell AIRMEM #4]] reorganizes AF-side reporting | section 5 ingestion gap |
 | Feb 1949 - Dec 1949 | [[concepts/project-grudge\|Project GRUDGE]] (AF) | this memo |

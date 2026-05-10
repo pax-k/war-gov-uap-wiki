@@ -85,7 +85,7 @@ The bundle's analytical footnote (Inc 33C, Capt Duesler) records: *"Later, an as
 
 Capt Carter's footnote on Inc 33D explicitly rejects this rationalization: *"Does not seem to tally with report that the phenomena was 'Venus or a comet'"*. ^[extracted]
 
-The Venus rationalization recurs in subsequent SIGN history (it becomes the Project GRUDGE / 1949 official explanation) but is **explicitly questioned by the original investigators inside the SIGN file itself**. ^[inferred]
+The Venus rationalization recurs in subsequent SIGN history (it becomes the [[concepts/project-grudge|Project GRUDGE]] / 1949 official explanation) but is **explicitly questioned by the original investigators inside the SIGN file itself**. ^[inferred]
 
 The phenomenon's behavior also breaks the Venus identification on multiple grounds preserved in the file: NG 869's report of the object at 15,000 ft moving at 360 MPH (Venus is at 26 million miles); the **vertical-axis shape-flip** documented by Cpl Hudson at Wilmington (cone-up to cone-down); the **stationary 1.5-hour position** reported by Col Hix (Venus moves with diurnal rotation); the **ground-fire-correlated descent** at the Wilmington tail. ^[inferred]
 

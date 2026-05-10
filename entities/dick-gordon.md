@@ -55,7 +55,7 @@ Gordon's later commands (originally backup CDR for Apollo 18 before its cancella
 
 ## Witness pedigree
 
-Gordon is in the same **astronaut-class** witness category as the other Apollo CMPs in the corpus (**[[entities/jim-lovell|Lovell]]** — GT-7 Pilot rather than CMP, but same Group 2 cohort; **[[entities/ronald-evans|Evans]]** — Apollo 17 CMP). Distinguishing feature: Gordon's d1 transmissions are **operational** (rendezvous mechanics) rather than observational (the AOT particle-flash phenomenology that Bean reports). ^[inferred] His on-record contribution to the d1 artifact is the corpus's **first direct astronaut-to-astronaut exchange** between separate spacecraft (LM-CSM rendezvous) — vs. the GT-7 1965 entry, in which Borman and Lovell are aboard the same spacecraft. ^[inferred]
+Gordon is in the same **astronaut-class** witness category as the other Apollo CMPs in the corpus (**[[entities/jim-lovell|Lovell]]** — GT-7 Pilot rather than CMP, but same Group 2 cohort; **[[entities/ronald-evans|Evans]]** — [[entities/apollo-17|Apollo 17]] CMP). Distinguishing feature: Gordon's d1 transmissions are **operational** (rendezvous mechanics) rather than observational (the AOT particle-flash phenomenology that Bean reports). ^[inferred] His on-record contribution to the d1 artifact is the corpus's **first direct astronaut-to-astronaut exchange** between separate spacecraft (LM-CSM rendezvous) — vs. the GT-7 1965 entry, in which Borman and Lovell are aboard the same spacecraft. ^[inferred]
 
 ## Witness-pedigree summary
 

@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-10T20:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-11T02:00:00Z*
 
 ## Concepts
 
@@ -116,6 +116,7 @@ title: Wiki Index
 - [[entities/michael-collins]] — USAF major-general, NASA Group 3 astronaut, CMP Apollo 11; co-witness on the d4 Day-3 cylinder observation; provided "hollow cylinder ... look right down in its guts" morphology and "high-gain antenna fragment" candidate origin proposal ( #person #witness #uap #nasa #astronaut)
 - [[entities/military-air-transport-service]] — Joint USAF/Navy unified airlift command (1948); recurring 1949 routing-and-triage hub for Project SIGN reports alongside AMC ( #usaf #organization #history)
 - [[entities/nasa]] — National Aeronautics and Space Administration; civilian space agency; first NASA-originating UAP-adjacent record in the corpus (1965 GT-7 PAO tape) ( #nasa #organization #civil-agency)
+- [[entities/nep-lopez]] — Sheriff radio operator (Socorro NM); took Officer Zamora's ~5:45 PM radio call on 24 Apr 1964; co-located with FBI SA Byrnes "thirty feet down the hall" at the moment of the call ( #uap #person #witness #1964)
 - [[entities/nasa-pao]] — NASA Public Affairs Office; release-by-default press / commentary channel; intake-and-release node for the GT-7 PAO Tape T-00763(R1b) ( #nasa #organization #public-affairs)
 - [[entities/national-aeronautics-and-space-council]] — Executive Office of the President advisory body; originating office of the 1963 alien-policy memo ( #organization #eop #policy)
 - [[entities/neil-armstrong]] — Civilian test pilot, NASA Group 2 astronaut, Cdr Apollo 11; first person to walk on the Moon; co-witness on the d4 Day-3 cylinder observation; corroborated Aldrin's in-cabin flashes and articulated the "neutron or some kind of an atomic particle" model statement — earliest astronaut-class statement of the cosmic-ray-flash physical mechanism in the corpus ( #person #witness #uap #nasa #astronaut)
@@ -140,6 +141,7 @@ title: Wiki Index
 - [[entities/usafe]] — US Air Forces in Europe; European-theater liaison hub originating the Nov 1948 TS sub-track dispatch (TT 1524) to Cabell ( #usaf #organization #history)
 - [[entities/usaira-prague]] — US Air Attaché office, US Embassy Prague, Czechoslovakia; originating post of IR 193-55 (14 Oct 1955) on the Russell Trans-Caucasus disc sighting ( #usaf #organization #attache #intelligence)
 - [[entities/uk-air-ministry-ddi2]] — UK Air Ministry intelligence branches (DDI2 + A.D.I.(K)) that handled the British-side reply ( #uap #ww2 #organization)
+- [[entities/usaf]] — United States Air Force; institutional home of every formal UAP project (SIGN, GRUDGE, BLUE BOOK) and the addressee/originator of most TS- and SECRET-track UAP material in the 1947-1969 corpus ( #uap #organization #usaf #history)
 - [[entities/uscincpac]] — US Commander-in-Chief Pacific (Honolulu); action addressee of the 28 Jan 1985 DOS cable on PNG overflights ( #usaf #organization #dod)
 - [[entities/union-of-ufologists-turkmenabat]] — Turkmen civil-society NGO founded 1992 with UFO-themed origins; pivoted to NGO-registration / humanitarian work; USAID-considered grant recipient by 2004 ( #uap #turkmenistan #organization #civilian-research)
 - [[entities/wladyslaw-krasuski]] — Polish DP, Detroit brewery worker, ex-WWII POW at Gut Alt Golssen; FBI-interviewed witness in the 1957 100-26505 case ( #person #witness #uap #ww2)

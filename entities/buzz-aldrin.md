@@ -54,7 +54,7 @@ His **closing line** (*"it wasn't a cylinder"*) settles the morphology question 
 
 > **ALDRIN**: *"Sometimes a minute or two would go by and then you'd see the two within the space of 10 seconds. On an average, I'd say just as a guess it was maybe something like one a minute. Certainly more than enough to convince you that it wasn't an optical illusion. It did give you a rather funny feeling to contemplate that something was zapping through the cabin. There wasn't anything you could do about it."* ^[extracted]
 
-Aldrin is the **first astronaut to systematically characterize** the [[concepts/cosmic-ray-light-flashes|cosmic-ray retinal flash phenomenon]]: he **measures rate** (*"about one a minute"*), **distinguishes single from double flashes**, **rules out static electricity** through controlled comparison, **identifies sun-direction correlation**, and **proposes the correct physical model** (penetration of charged particles through the spacecraft and presumably the eye). ^[inferred] **His framing predates Schmitt's d6 ALFMED testimony by 3.5 years** and predates the Apollo 17 ALFMED experiment by 3.5 years.
+Aldrin is the **first astronaut to systematically characterize** the [[concepts/cosmic-ray-light-flashes|cosmic-ray retinal flash phenomenon]]: he **measures rate** (*"about one a minute"*), **distinguishes single from double flashes**, **rules out static electricity** through controlled comparison, **identifies sun-direction correlation**, and **proposes the correct physical model** (penetration of charged particles through the spacecraft and presumably the eye). ^[inferred] **His framing predates Schmitt's d6 ALFMED testimony by 3.5 years** and predates the [[entities/apollo-17|Apollo 17]] ALFMED experiment by 3.5 years.
 
 The **"entry and then impact on something such as the struts"** framing is **structurally correct** at the single-particle level even though the location framing is wrong: the flashes are in Aldrin's eye, not on the struts of the spacecraft cabin. But the **single-particle-two-events model** Aldrin extracts from the double-flash phenomenology is the same model the modern physical understanding uses. ^[inferred]
 
@@ -93,7 +93,7 @@ This is **astronaut-self-attributed as an optical illusion** — Armstrong offer
 
 ## Comparator with other corpus astronaut witnesses
 
-Aldrin is the corpus's **fifth named astronaut witness**, after [[entities/frank-borman|Borman]] (GT-7, 1965), [[entities/alan-bean|Bean]] (Apollo 12 d1, 1969), [[entities/harrison-schmitt|Schmitt]] (Apollo 17 d6, 1972), and [[entities/neil-armstrong|Armstrong]] (Apollo 11 d4, 1969). ^[inferred]
+Aldrin is the corpus's **fifth named astronaut witness**, after [[entities/frank-borman|Borman]] (GT-7, 1965), [[entities/alan-bean|Bean]] ([[entities/apollo-12|Apollo 12]] d1, 1969), [[entities/harrison-schmitt|Schmitt]] (Apollo 17 d6, 1972), and [[entities/neil-armstrong|Armstrong]] (Apollo 11 d4, 1969). ^[inferred]
 
 By **observation count**, Aldrin is the **most-quoted** astronaut in the corpus — four distinct observations on a single document, three of which are substantively analyzed (the Day-3 cylinder, the in-cabin flashes, the laser/lake reattribution) and one of which is a self-attributed optical illusion (Mars).
 

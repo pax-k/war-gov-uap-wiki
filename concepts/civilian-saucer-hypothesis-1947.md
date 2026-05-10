@@ -110,7 +110,7 @@ The civilian-mass-correspondence channel is **distinct** from the **single-civil
 - **Locate later civilian-letter waves** in 62-HQ-83894 sections 2-10 — does the channel persist through 1948-49 and beyond? ^[open]
 - **Cross-reference Bailey's orbital-germ-bomb hypothesis** with subsequent civilian-scientist saucer-hypotheses (e.g. Donald Menzel ionospheric mirage hypothesis 1953). ^[open]
 - **Identify the recurring-correspondent file 62-0-34750** mentioned in Pluskat's acknowledgment. ^[open]
-- **Track Mrs. Merchant** in subsequent FBI material — she promised Walter Winchell a story. ^[open]
+- **Track Mrs. Merchant** in subsequent FBI material — she promised [[entities/walter-winchell|Walter Winchell]] a story. ^[open]
 
 ## See also
 

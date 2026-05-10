@@ -33,7 +33,7 @@ This is the **first radar-tracked critical-facility UAP event** in the wiki FBI 
 | 3 Mar 1950 04:35 | Subsequent radar pickups (multiple times) ^[extracted] | same |
 | 3 Mar 1950 | SA Belmont instructs Knoxville: **observer-only; no investigation** ^[extracted] | Belmont memo |
 | 3 Mar 1950 | Naval Reserve radar at Alcoa Highway Knoxville activated for verification — **no object detected** during that watch ^[extracted] | full investigative-narrative report |
-| 3 Mar 1950 PM | NEPA conference: Col C. D. Gasser + Capt Robert Cross + 3rd Army CIC SA Seagraves + USAF OSI SA Price + AEC representatives. Cross is described as "radar expert"; Gasser arranges Cross to observe with Adcock ^[extracted] | same |
+| 3 Mar 1950 PM | NEPA conference: Col [[entities/c-d-gasser\|C. D. Gasser]] + Capt Robert Cross + 3rd Army CIC SA Seagraves + USAF OSI SA Price + AEC representatives. Cross is described as "radar expert"; Gasser arranges Cross to observe with Adcock ^[extracted] | same |
 | 4 Mar 1950 10:30 | Adcock reports **strongest "pip" yet**, 100,000 ft directly over Oak Ridge; departed easterly 200 mph; faded in <20 min ^[extracted] | same |
 | 4 Mar 1950 PM | Gasser + Cross visit Adcock's home, examine radio + radar equipment + antenna; find **Adcock "in a much inebriated condition"**; equipment "haphazard at best" ^[extracted] | same |
 | 5 Mar 1950 | Gasser + Cross return — Adcock not at residence ^[extracted] | same |

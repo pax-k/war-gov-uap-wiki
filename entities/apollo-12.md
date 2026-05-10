@@ -68,7 +68,7 @@ The Apollo 12 d1 artifact is the corpus's **chronological hinge** between the GT
 - Cross-check whether **Project BLUE BOOK** (closed 17 Dec 1969) opened a case file on Bean's AOT particle-flash observation; the temporal proximity (BLUE BOOK closure within weeks of the observation) would itself be informative. ^[open]
 - Cross-reference the **Apollo 12 onboard 16 mm DAC film** and **70 mm Hasselblad film** for any frames bearing on the AOT particle-flash observation. ^[open]
 - Identify whether **Apollo 12's well-known photographic anomaly** (a series of November 1969 photographs reportedly capturing an unidentified object alongside the spacecraft during translunar coast or LM-jettison) corresponds to any voice-loop segment outside the d1 bundle. ^[open]
-- Cross-reference the **Apollo 11 (corpus sister file d4)** voice loop / debrief — when ingested — for any analogous AOT-class or rendezvous-window astronaut on-orbit ephemeral-light observation. ^[open]
+- Cross-reference the **[[entities/apollo-11|Apollo 11]] (corpus sister file d4)** voice loop / debrief — when ingested — for any analogous AOT-class or rendezvous-window astronaut on-orbit ephemeral-light observation. ^[open]
 
 ## See also
 

@@ -49,7 +49,7 @@ An ONI **Confidential Intelligence Report** (DIO-17ND **Serial 13-49**, dated **
 ## Significance
 
 - **Earliest Navy-originated** UAP intelligence report in the corpus. The 1944–45 [[references/foo-fighters-shaef-1944-1945|SHAEF foo-fighter file]] was Allied air; the 1948 SIGN material was Air Force; this 1949 Kodiak report adds **ONI / Navy operational intelligence** as a third originating agency from a single intake stream that all converges at Wright-Patterson.
-- **CIA on the distribution list** in 1949 — earliest CIA touchpoint with the UAP material in the wiki's corpus. Predates the 1953 CIA Robertson Panel by 4 years. ^[inferred]
+- **CIA on the distribution list** in 1949 — earliest CIA touchpoint with the UAP material in the wiki's corpus. Predates the 1953 CIA [[concepts/robertson-panel-runup-1952|Robertson Panel]] by 4 years. ^[inferred]
 - The "ball of fire" / "tracer shell" / "greenish-blue luminous body" morphology is **structurally similar** to the WWII [[concepts/balls-of-fire-red|"Balls of Fire — Red"]] filing class at SHAEF / Air Ministry DDI2. The institutional connection between the WWII night-light reports and the 1949 Kodiak report is implicit — same morphology, different administrative cluster. ^[inferred]
 - Kodiak's W → E low-altitude flat-trajectory descent could be described in modern terms as an **earth-grazing fireball** (a known meteor sub-class), but the multi-witness no-sparks observation cuts against that explanation, as does the consistent multi-second duration. ^[inferred]
 

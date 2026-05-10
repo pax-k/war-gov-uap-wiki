@@ -52,7 +52,7 @@ Kerwin's pre-Skylab and post-Skylab roles (US Navy MC; NASA Group 4 selection 19
 
 Kerwin is the corpus's **first physician-astronaut witness** — distinct from the prior corpus astronaut classes:
 - **Engineering-test-pilot class**: [[entities/frank-borman|Borman]], [[entities/jim-lovell|Lovell]], [[entities/pete-conrad|Conrad]], [[entities/dick-gordon|Gordon]], [[entities/alan-bean|Bean]], [[entities/neil-armstrong|Armstrong]], [[entities/buzz-aldrin|Aldrin]], [[entities/michael-collins|Collins]], [[entities/gene-cernan|Cernan]], [[entities/ronald-evans|Evans]].
-- **Scientist-astronaut class**: [[entities/harrison-schmitt|Schmitt]] (geologist, Apollo 17), Kerwin (physician, Skylab 2), [[entities/owen-garriott|Garriott]] (electrical engineer / ionospheric physicist, Skylab 3), [[entities/edward-gibson|Gibson]] (solar physicist, Skylab 4).
+- **Scientist-astronaut class**: [[entities/harrison-schmitt|Schmitt]] (geologist, [[entities/apollo-17|Apollo 17]]), Kerwin (physician, Skylab 2), [[entities/owen-garriott|Garriott]] (electrical engineer / ionospheric physicist, Skylab 3), [[entities/edward-gibson|Gibson]] (solar physicist, Skylab 4).
 
 Kerwin's **medical training** is structurally relevant to the d7 §23 testimony — he is the **only witness in the corpus's cosmic-ray-flash sub-corpus with a physician's framework for distinguishing organic visual phenomena from non-physiological optical illusion**. His *"They're not an hallucination"* line is therefore weighted by his professional standing. ^[inferred]
 
@@ -68,11 +68,11 @@ Kerwin's **medical training** is structurally relevant to the d7 §23 testimony 
 
 - [[references/nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — source artifact.
 - [[entities/skylab]] — the orbital station.
-- [[entities/pete-conrad]] — SL-2 Commander; Apollo 12 corpus cohort.
+- [[entities/pete-conrad]] — SL-2 Commander; [[entities/apollo-12|Apollo 12]] corpus cohort.
 - [[entities/paul-weitz]] — SL-2 Pilot.
 - [[entities/nasa]] — employing agency.
 - [[concepts/cosmic-ray-light-flashes]] — Kerwin's d7 §23 testimony substantively answers the concept page's LEO-baseline open question and articulates the SAA correlation hypothesis.
-- [[entities/buzz-aldrin]] — predecessor cosmic-ray-flash witness (Apollo 11 d4 1969).
+- [[entities/buzz-aldrin]] — predecessor cosmic-ray-flash witness ([[entities/apollo-11|Apollo 11]] d4 1969).
 - [[entities/harrison-schmitt]] — Group-4 cohort-mate; ALFMED witness (Apollo 17 d6 1972).
 
 ## Open questions

@@ -103,7 +103,7 @@ The **secondary-marker scheme differs**: serial 403's `E483` is a single-letter 
 - Identify whether **other Mexican-press 1950 saucer reports** were forwarded to FBI HQ via similar civilian-mail-in channels. ^[open]
 - Locate the **original Robles Jr. photographs** in Mexican archives (AGN, UNAM, *El Universal*). ^[open]
 - Resolve whether the file's **Vol 1** marker on this serial implies later serials are in **Vol 2+**. ^[open]
-- Determine whether **Project GRUDGE / BLUE BOOK** has any record of the Robles Durango sighting. ^[open]
+- Determine whether **[[concepts/project-grudge|Project GRUDGE]] / BLUE BOOK** has any record of the Robles Durango sighting. ^[open]
 
 ## See also
 
