@@ -1,19 +1,19 @@
 ---
-title: Flying Disc Reporting Protocol (1948)
+title: Flying Disc Reporting Protocol (1948 → 1949)
 category: concepts
 tags: [uap, history, intelligence, protocol, 1948]
-aliases: [USAF 10-element sighting template, Cabell sighting template]
-sources: [_raw/18_6369445_general_1948_vol_1.json]
-summary: The 10-element observational template specified by Maj Gen Cabell on 27 Feb 1948 for all USAF "Flying Disc" sighting reports — the prototype for every subsequent UAP report schema.
+aliases: [USAF 10-element sighting template, Cabell sighting template, AIRMEM 4 protocol]
+sources: [_raw/18_6369445_general_1948_vol_1.json, sources/65_hs1-834228961_62-hq-83894_serial_164.json]
+summary: The observational template for USAF "Flying Disc" sighting reports — 10-element 1948 Cabell template (27 Feb 1948 AFOIR-CO-5) that AIRMEM #4 (15 Feb 1949) expanded into a ~50-field 1949 schema with object/observer/radar/general sub-blocks.
 provenance:
-  extracted: 0.9
-  inferred: 0.1
+  extracted: 0.88
+  inferred: 0.12
   ambiguous: 0.0
-base_confidence: 0.62
+base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T12:58:46Z
-updated: 2026-05-09T13:13:27Z
+updated: 2026-05-10T00:30:00Z
 ---
 
 # Flying Disc Reporting Protocol (1948)
@@ -58,8 +58,34 @@ This 1948 schema is, in effect, the prototype for every modern UAP report format
 
 Subsequent USAF programs ([[concepts/project-sign|SIGN]], GRUDGE, BLUE BOOK) and the modern [[entities/aaro|AARO]] regime inherit the same observational backbone. ^[inferred]
 
+## 1949 expansion: AIRMEM #4 takes the template from 10 fields to ~50
+
+**Twelve months after** the original 27 Feb 1948 disposition, [[entities/c-p-cabell|Maj Gen Cabell]] — now **Director of Intelligence** — signs **AIR INTELLIGENCE REQUIREMENTS MEMORANDUM NUMBER 4 ("AIRMEM #4")** on **15 February 1949**, subject *"Unconventional Aircraft"* — see [[references/fbi-hq-62-83894-serial-164]]. AIRMEM #4 supersedes residual Army instruments (DA Coll Memo #7 of 21 Jan 1948 and CSGID 425.1 of 25 Mar 1948) and substantially **expands the 1948 template into a four-block ~50-field schema**: ^[extracted]
+
+| Sub-block | 1948 fields | 1949 (AIRMEM #4) fields |
+|---|---|---|
+| **Object** | 10 (number, shape, size, color, speed, heading, maneuverability, altitude, sound, exhaust trail) | **20** — adds: distance/elevation/altitude split; tactics-or-maneuvers (vertical/horizontal/oscillating/fluttering/evasive/aggressive/erratic); exhaust-with-odor/evaporation/sound-correlation; effect-on-clouds; lights (reflected/luminous/blinking); support (wings/aerodynamic-list/vertical-jet/rotating-cylinder/aerostatic-lift); propulsion (propeller/jet/rotor/aerodynamic-vanes); control-and-stability (fins, horizontal & vertical stabilizers); air-ducts; manner-of-disappearance (explode-with-fragments / fade / disappear) |
+| **Observer** | 1 line (name + occupation + reliability) | **10 fields** — name / address / occupation / place-of-business / pertinent hobbies (amateur astronomer, pilot, engineer + length of experience) / ability to determine (color, speed, size at distance) / **reliability of observer with explicit sources: neighbors, Police Dept, FBI records, employer** / how attention was drawn (sound/motion/glint) / fatigue and duration of flight / witnesses / **interrogator's comments on intelligence and character of person interrogated** |
+| **Radar** | (absent) | **2-block radar sub-section** — ground-radar (range/speed/altitude/size, target-turn radius/speed, target-separation on approach) + airborne-radar (radar inductions, extra noise on radio circuits, size/speed/maneuvers) |
+| **General** | 1 line (general remarks) | **10 numbered post-incident fields** — local weather teletype sequences; winds-aloft; local flight schedules of commercial / private / military / Canadian aircraft; possible testing-device releases by Ordnance / Navy / AF / Army / Weather Units / Research Orgs; **soil samples** within and without depression where object landed; **Geiger counter readings** for radioactivity comparing affected vs unaffected aircraft; **photographs (or original negatives) with sketches** of object / terrain / ground-contact / maneuvers / formation; signed statement; fragments or physical evidence; any radio antenna or projection |
+
+The 1948 → 1949 expansion is structurally **3–5×** in field count and substantively introduces several methodologies not present in the 1948 template:
+
+- **Physical-trace investigation** — soil samples, Geiger-counter readings, signed-statement procedures. The Geiger-counter requirement anticipates the on-scene physical-trace investigation later carried out by [[entities/d-arthur-byrnes-jr|SA Byrnes]] at Socorro NM in 1964 — see [[references/fbi-hq-62-83894-serial-438]]. ^[inferred]
+- **FBI as named witness-credibility source** — the *"reliability of observer"* sub-section explicitly names *"FBI records"* as one of four credibility-check sources (alongside neighbors, police, and employer). This is the institutional reverse-pull from the Air Force onto the Bureau, partly explaining why the FBI maintained an indexed UAP-topic file ([[entities/fbi-hq-62-83894-file|62-HQ-83894]]) at HQ. ^[inferred]
+- **Witness-character note** — the *"intelligence and character of person interrogated"* line **institutionalizes** the witness-character note that recurs in every substantive FBI artifact in the corpus (Rathbun on Krasuski 1957; Byrnes on Zamora 1964). ^[inferred]
+- **Foreign-balloon hypothesis testing** — Part II GENERAL item 4 names testing-device releases by **Ordnance, Navy, AF, Army, Weather Units, Research Organizations**, *enabling* the [[references/usaf-flying-discs-1949|Moxon 8 Feb 49 San Andres Islands]] report's speculation about Russian sloops (Omar / Blesk) carrying free-flight balloons. ^[inferred]
+- **Radar sub-block** — explicit ground/airborne radar fields are absent from the 1948 template; the 1949 schema treats radar as a co-equal sensor channel.
+
+The **1948 template** governed the [[concepts/project-sign|Project SIGN]] year-one intake (e.g. the 10-element [[references/sighting-hobson-ohio-1948-05|Hobson, OH report]]). The **1949 template** governs the post-handover SIGN-mature / GRUDGE-prep era, sitting alongside [[concepts/fsr-200-4-reporting-regulation|FSR 200-4]] (which propagates the Cabell instrument into the Flight Service hierarchy on a different command channel).
+
 ## See also
 
 - [[concepts/project-sign]]
+- [[concepts/fsr-200-4-reporting-regulation]] — parallel Flight-Service instrument
 - [[entities/c-p-cabell]]
 - [[references/usaf-flying-discs-1948]]
+- [[references/usaf-flying-discs-1949]]
+- [[references/fbi-hq-62-83894-serial-164]] — AIRMEM #4 (15 Feb 1949), 17 OCR-identical carbons in FBI HQ file
+- [[references/fbi-hq-62-83894-serial-438]] — 1964 Socorro investigation that exemplifies AIRMEM #4 Part II General-block methodology
+- [[entities/fbi-hq-62-83894-file]] — FBI's HQ topic-file holding inbound USAF directives

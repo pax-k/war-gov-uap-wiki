@@ -20,6 +20,8 @@ updated: 2026-05-09T20:30:00Z
 
 A 143-page Mistral-OCR'd USAF inter-office correspondence file from National Archives box 186, file number **319.1 ("Flying Discs")**. Documents span late October 1948 through 9 January 1950 — the **1949 continuation** of the intake stream charted by [[entities/c-p-cabell|Cabell]]'s 27 February 1948 directive, now operating under the codified [[concepts/fsr-200-4-reporting-regulation|Flight Service Regulation 200-4 (2 Nov 1948)]]. The file is the direct sequel to [[references/usaf-flying-discs-1948]].
 
+> **Parallel D/I-channel instrument**: The 1949 reports preserved here all cite *FSR 200-4 + 6 Feb 1948 Cabell letter* — the **Flight Service** chain. A **second co-existing instrument** runs on the **HQ-USAF Directorate of Intelligence** chain: [[references/fbi-hq-62-83894-serial-164|AIRMEM #4 "Unconventional Aircraft" of 15 Feb 1949]], signed by Cabell himself (now Maj Gen, Director of Intelligence), supersedes residual Army instruments and expands the 10-element template into a ~50-field schema. The two instruments converge on the same destination (AMC at Wright-Patterson, MCIAXO-3) but enter via different chains of command. ^[inferred]
+
 ## What the bundle contains
 
 - The reissued Headquarters USAF letter "Reporting of Information on 'Flying Discs'", **6 February 1948**, signed [[entities/c-p-cabell|Brig Gen C. P. Cabell]], establishing direct-to-AMC routing under attention line **TSDIN**. ^[extracted]
