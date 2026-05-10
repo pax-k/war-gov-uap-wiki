@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#astronaut",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
+      "query": "tag:#fbi",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#morphology",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
+      }
+    },
+    {
+      "query": "tag:#intelligence",
+      "color": {
+        "a": 1,
+        "rgb": 7780786
+      }
+    },
+    {
+      "query": "tag:#1948",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
+      }
+    },
+    {
+      "query": "tag:#policy",
+      "color": {
+        "a": 1,
+        "rgb": 15583048
+      }
+    },
+    {
+      "query": "tag:#nasa",
+      "color": {
+        "a": 1,
+        "rgb": 11565217
+      }
+    },
+    {
+      "query": "tag:#sighting",
+      "color": {
+        "a": 1,
+        "rgb": 16751527
+      }
+    },
+    {
+      "query": "tag:#history",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
+      }
+    },
+    {
+      "query": "tag:#person",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 0.886892361111111,
+  "lineSizeMultiplier": 0.825217013888889,
+  "collapse-forces": false,
+  "centerStrength": 0.522873263888889,
+  "repelStrength": 10.7335069444444,
+  "linkStrength": 1,
+  "linkDistance": 301,
+  "scale": 0.6350077582475642,
+  "close": true
+}

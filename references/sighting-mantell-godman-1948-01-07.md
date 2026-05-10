@@ -1,7 +1,7 @@
 ---
 title: Sighting — Mantell / Godman Field 12-hour cross-state cluster (7 Jan 1948)
 category: references
-tags: [uap, sighting, 1948, kentucky, ohio, usaf]
+tags: [uap, sighting, 1948, kentucky, usaf]
 aliases: [Mantell incident, Mantell crash, Godman Field 1948, Inc 30, Inc 33, Inc 48, Capt Thomas Mantell]
 sources: [sources/38_143685_box7_incident_summaries_1-100.json]
 summary: 7 Jan 1948 12-hour cross-state UAP sequence (Edwardsville IL → Kentucky cities → Godman → Lockbourne → Wilmington OH); 4 P-51 pursuit ordered from Godman; Capt Thomas F. Mantell killed after radio cutoff at 20,000 ft. The corpus's first UAP-attributed fatality.

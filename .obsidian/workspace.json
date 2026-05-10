@@ -8,40 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "053e2dc475aa63df",
+            "id": "efd4f66ca800772a",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "projects/uap/uap.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": false,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -0.1,
-                  "nodeSizeMultiplier": 1.08276475694444,
-                  "lineSizeMultiplier": 0.676770833333333,
-                  "collapse-forces": true,
-                  "centerStrength": 0.883203125,
-                  "repelStrength": 15.9505208333333,
-                  "linkStrength": 0.755555555555556,
-                  "linkDistance": 391,
-                  "scale": 1.746388695886059,
-                  "close": true
-                }
+                "file": "references/western-us-event-2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of uap"
+              "icon": "lucide-file",
+              "title": "western-us-event-2026"
             }
           }
         ]
@@ -179,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/uap/uap.md",
+                "file": "references/western-us-event-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of uap"
+              "title": "Outline of western-us-event-2026"
             }
           }
         ],
@@ -206,35 +183,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "053e2dc475aa63df",
+  "active": "efd4f66ca800772a",
   "lastOpenFiles": [
-    "references/hunter-1963-space-alien-race-memo.md",
-    "references/sighting-castro-ranch-1948-09.md",
-    "references/sighting-andrews-1948-11.md",
-    "references/foo-fighters-shaef-1944-1945.md",
-    "references/fbi-detroit-100-18221-serial-844-1958.md",
-    "references/dos-cable-russia-georgia-2001-10.md",
-    "references/cometa-report-1999.md",
-    "synthesis/early-uap-policy-vs-operational-track.md",
-    "synthesis/federal-le-uap-witness-pattern.md",
-    "synthesis/foo-fighters-to-flying-discs.md",
-    "synthesis/horten-thesis-vs-disc-sightings.md",
-    "synthesis/policy-papers-uap-1963-vs-1999.md",
     "projects/uap/uap.md",
-    "references/sighting-norcatur-ks-1948-02.md",
-    "references/sighting-hamel-mn-1948-08.md",
-    "references/sighting-gorman-fargo-1948-10.md",
-    "references/sighting-chiles-whitted-1948-07.md",
-    "references/project-sign-incident-summaries-101-172.md",
-    "references/nasa-pao-t-00763-r1b-gemini-7-1965.md",
-    "references/fbi-fd302-drone-pilot-redacted-2023.md",
-    "references/dos-cable-turkmenistan-2004-11.md",
+    "references/fbi-hq-62-83894-serial-220.md",
+    "references/sighting-durango-mexico-1950-03.md",
+    "entities/german-horacio-robles-jr.md",
+    "entities/miguel-angel-garcia-macias.md",
+    "references/barker-1956-they-knew-too-much.md",
+    "entities/gray-barker.md",
+    "entities/fbi-hq-62-83894-file.md",
+    "references/fbi-hq-62-83894-serial-403.md",
+    "references/nasa-uap-d2-apollo-17-transcript-1972.md",
+    "entities/william-pogue.md",
+    "entities/edward-gibson.md",
+    "entities/gerald-carr.md",
+    "entities/jack-lousma.md",
+    "entities/owen-garriott.md",
+    "entities/paul-weitz.md",
+    "entities/joseph-kerwin.md",
+    "entities/skylab.md",
+    "references/nasa-uap-d7-skylab-technical-crew-debriefing-1973.md",
+    "references/sighting-skylab-3-red-object-1973-09.md",
+    "concepts/passive-thermal-control.md",
+    "concepts/saturn-v-s-ivb-stage.md",
+    "entities/michael-collins.md",
+    "entities/buzz-aldrin.md",
+    "entities/neil-armstrong.md",
+    "entities/apollo-11.md",
     "references/usaf-flying-discs-1949.md.tmp.26524.99683844ac58",
-    "entities/lincoln-la-paz.md",
-    "concepts/green-fireballs-new-mexico.md",
-    "references/sighting-jackson-ms-1949-01.md",
-    "references/sighting-honolulu-1948-10.md",
-    "references/project-sign-incident-summaries-173-233.md",
     "references/dos-cable-kazakhstan-1994-01.md.tmp.26524.7575d999763d",
     "concepts/project-sign.md.tmp.26524.6a3d7f5b4aab",
     "_raw",

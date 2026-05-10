@@ -169,20 +169,27 @@ Tags below are **non-canonical**. Replace with the canonical form when found.
 
 ## Frequency Reference (post-normalization)
 
-**As of 2026-05-10 audit:** 93 unique tags across 140 wiki pages (138 content pages + 2 root). Zero drift — all tags map to canonical vocabulary; zero pages over the 5-tag limit; zero non-ASCII / whitespace / case issues. Top tags:
+**As of 2026-05-10 batch-3 audit:** 99 unique tags across 186 wiki pages. Zero drift — all tags map to canonical vocabulary; zero pages over the 5-tag limit (1 violation resolved this audit: `sighting-mantell-godman-1948-01-07.md` dropped `ohio`, kept `kentucky` as the geographic anchor); zero non-ASCII / whitespace / case issues; zero novel tags introduced by the d-cluster (NASA Apollo 11/12/17, Skylab, Gemini 7) or Project SIGN founding cases ingest. Top tags:
 
 ```
-120 uap                38 sighting            33 history            30 primary-source
-24 organization        23 1948                22 person             21 intelligence
-18 policy              17 declassified        16 usaf               15 state-department
-14 ww2                 12 morphology          12 witness            10 pattern
- 9 france               8 aviation             8 diplomacy           8 federal-le
- 8 military             8 nasa                 7 fbi                 5 analysis
+163 uap                46 sighting            43 primary-source     41 person
+40 nasa                33 history             29 witness            28 astronaut
+25 1948                25 organization        22 declassified       21 intelligence
+18 policy              17 usaf                16 morphology         15 state-department
+14 ww2                 11 aviation            11 pattern            10 fbi
+ 9 france               8 diplomacy            8 federal-le          8 military
+ 7 civilian-research    7 spacecraft           6 1947                6 mexico
 ```
+
+Notable shifts from the previous audit:
+
+- `astronaut` jumped from below the threshold to **28 uses** (NASA d-cluster: Armstrong, Aldrin, Collins, Conrad, Gordon, Bean, Cernan, Schmitt, Evans, Borman, Lovell, Carr, Pogue, Gibson, Kerwin, Weitz, Garriott, Lousma).
+- `nasa` jumped from 8 → 40, `spacecraft` newly active at 7, `mission` at 5 — all driven by the d-cluster.
+- `astronaut` now sits in the 25–30 band alongside `1948` and `organization` — the corpus has shifted toward a bimodal era distribution (1944–1949 + 1965–1973).
 
 The long tail (1–4 uses) is dominated by year tags, US state tags, and country tags — narrow but uniformly applied. Acceptable.
 
-**Canonical-but-unused tags** (zero pages): `1950`, `georgia`. Both retained for future ingest — `georgia` is contextually applicable to `references/dos-cable-russia-georgia-2001-10.md` but that page is at the 5-tag limit; curatorial decision deferred.
+**Canonical-but-unused tags** (zero pages): `1950` (now used — 3 pages), `georgia`, `nevada`, `meta`. `georgia` retained for future Russia-Georgia content (the dos-cable-russia-georgia page remains at 5-tag limit; curatorial decision still deferred). `nevada` retained as standard US-state slot. `meta` is implicit via folder placement.
 
 ## Adding a New Tag
 

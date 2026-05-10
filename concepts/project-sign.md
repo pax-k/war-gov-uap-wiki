@@ -94,7 +94,7 @@ Two cases the corpus's downstream historiography emphasizes are **absent** from 
 - **Roswell, NM (~early Jul 1947)** — no incident-numbered sheet, no cross-reference, no JUDGE/JONES filing-line. ^[extracted]
 - **Maury Island, WA (21 Jun 1947)** — also absent. ^[extracted]
 
-This is itself a structural finding: the most-cited 1947 events in modern UAP discourse are **not** the events SIGN's intake apparatus emphasized. The 1947 cases SIGN tracked instead were the **Muroc AAF cluster** (Inc 1–4) and the **Pacific Northwest patrolman wave** (Inc 5–16, 4 Jul 1947 Portland OR / Vancouver WA). ^[inferred] Whether Roswell/Maury Island were handled in adjacent unfiled correspondence at NARA RG 38 or routed outside the AMC T-2 intake apparatus through CIC/FBI/AFSWP channels is open.
+This is itself a structural finding: the most-cited 1947 events in modern UAP discourse are **not** the events SIGN's intake apparatus emphasized. The 1947 cases SIGN tracked instead were the **Muroc AAF cluster** (Inc 1–4) and the **Pacific Northwest patrolman wave** (Inc 5–16, 4 Jul 1947 Portland OR / Vancouver WA). ^[inferred] Whether Roswell/Maury Island were handled in adjacent unfiled correspondence at NARA RG 38 or routed outside the AMC T-2 intake apparatus through CIC/[[entities/fbi|FBI]]/AFSWP channels is open.
 
 Three SIGN-internal artifacts are documented in this segment for the first time:
 

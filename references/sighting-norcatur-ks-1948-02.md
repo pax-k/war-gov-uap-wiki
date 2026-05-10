@@ -89,7 +89,7 @@ The Norcatur Inc 101 file therefore proves La Paz was not pulled into SIGN's eva
 
 ## Markham's letters (the "moon space-ship" thread)
 
-The Inc 101 supplement preserves a series of letters from **Norman G. Markham** (Pueblo, Colorado, MAIN HOTEL) to the Chief Signal Officer (14 Mar 1948) and others, theorizing that **on June 24, 1947, "something like a space-ship came here from the moon and upon February 18, 1948, returned to the moon"** — i.e. that the [[concepts/eti-attribution-statements|ETI-attributed]] explanation for the 24 Jun 1947 Kenneth Arnold "flying disc" sighting and the 18 Feb 1948 Norcatur fireball is a **single ETI mission with a return trip**. ^[extracted]
+The Inc 101 supplement preserves a series of letters from **Norman G. Markham** (Pueblo, Colorado, MAIN HOTEL) to the Chief Signal Officer (14 Mar 1948) and others, theorizing that **on June 24, 1947, "something like a space-ship came here from the moon and upon February 18, 1948, returned to the moon"** — i.e. that the [[concepts/eti-attribution-statements|ETI-attributed]] explanation for the 24 Jun 1947 [[references/sighting-arnold-mt-rainier-1947-06-24|Kenneth Arnold]] "flying disc" sighting and the 18 Feb 1948 Norcatur fireball is a **single ETI mission with a return trip**. ^[extracted]
 
 Markham's framing is rejected by La Paz as "fantastic" — but its inclusion in the SIGN incident summary file is itself notable: **the SIGN intake stream preserved civilian ETI-attribution letters as part of incident packets**, not just witness-statement intake forms. This is one of the **earliest preserved civilian-ETI-attribution letters retained inside the SIGN paperwork stack** in the corpus. ^[inferred]
 
