@@ -2776,20 +2776,169 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.json": {
+      "ingested_at": "2026-05-11T20:00:00Z",
+      "size_bytes": 11708,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:a87caed92a9d8d01d0fa512197a04f1dac5d3a0549bcc9a0146bc370a8072337",
+      "source_id": "dow-uap-d63-mission-report-strait-of-hormuz-october-2020",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap-foia-release",
+      "series_position": "17-of-40",
+      "ocr_engine": "mistral-ocr-latest",
+      "ocr_pages_processed": 8,
+      "substantive_pages": 8,
+      "header_only_pages": 0,
+      "image_blocks_captured": 0,
+      "image_base64_captured": 0,
+      "document_class": "mission-report-full-usmtf-misrep",
+      "document_subclass": "fourth-top-level-mission-report-sub-class-CONFIRMED-at-N4 (FULL USMTF Misrep multi-segment ^closed-by-dow-uap-d63 on d62's validate-at-N>=4 thread; extends d62's N=3 closure to N=4)",
+      "document_class_anchored_at_N": 4,
+      "document_class_confirmed_at_N4": true,
+      "misrep_identifier": "Misrep 4871281",
+      "misrep_identifier_distinct_from_cluster": "d60 = Misrep 4592219; d61 = Misrep 4685903; d62 = Misrep 4782130; d63 = Misrep 4871281; per-event IDs not per-unit; 7-digit rising sequence (d63 - d62 = +89,151 IDs across 16 days; consistent with high-volume USCENTCOM MISREP counter ^[inferred])",
+      "message_format": "FULL USMTF Misrep — Narrative + Admin (Classification + Operation + MSGID + MSNID) + POC + QC + APPROVER + INGEST + ACEQUIP + Timeline (Landing + Takeoff + On Station + ISR + Off Station) + GENTEXT/ISR + ISR ASSET UTILIZATION + WEATHER + EFFECTIVENESS + GUARDCALL (x5) + GENTEXT/GUARDCALL (x5) — same complete segment set as d60+d61+d62 MINUS the EMI / GENTEXT/EMI segments (zero EMI events at d63 decisively downgrades d62's EMI-canonical-anchor reading; EMI isolated at N=1 d62 alone at N=4). OBSERVATION segment cited in Narrative as SEE OBSERVATION LINE 1 but structured ## OBSERVATION block does not render in OCR pass (likely OCR truncation ^[ambiguous]; possible Block-C variant single-segment placement)",
+      "all_pages_substantive": true,
+      "header_only_padding_pages": "0/8 (zero — matches d60+d61+d62 pattern)",
+      "misrep_id_decoded": "Misrep 4871281 — 7-digit rising sequence consistent with high-volume USCENTCOM MISREP counter (d63 - d62 = +89,151 IDs across 16 days)",
+      "event_date": "2020-10-02",
+      "event_dtg_observation": "021829:00ZOCT20",
+      "event_geographic_area": "Arabian Gulf / Strait of Hormuz / Gulf of Oman; UTM 39R + 40R (witness aircraft) + 39RVM51 (UAP location — not preserved in OCR pass)",
+      "uap_datum_count": 1,
+      "uap_method_of_observation": "FMV ^[inferred] (Narrative does not preserve Method of Observation field; ANDAS4 primary sensor with FMV as canonical method for MQ-9 ANDAS4 datum)",
+      "uap_activity_descriptor": "1X UAP",
+      "uap_kinematics_recorded": false,
+      "uap_morphology_recorded": false,
+      "uap_duration_recorded": false,
+      "uap_observed_at_same_mgrs_as_aircraft": "not preserved in OCR pass (Narrative cites SEE OBSERVATION LINE 1 but structured OBSERVATION block missing); d62's same-10-km-MGRS-square geometry remains isolated at N=1 unless missing segment recovered ^[ambiguous]",
+      "mission_phase_at_observation": "during ISR tasking IVO Arabian Gulf / Strait of Hormuz / Gulf of Oman, after RTB-prior-events sequence",
+      "mission_impact_clause": "not explicitly preserved at UAP datum line (vs d60 NO IMPACT TO MISSION; d61 NO MISSION IMPACTS; d62 NO IMPACT on UAP line but MEDIUM IMPACT on EMI lines)",
+      "guardcall_count": 5,
+      "guardcall_per_mission_distribution_at_N4": "1+1+3+5 (d60+d61+d62+d63) — non-monotonic but rising; d63 anchors upper-tail count",
+      "guardcall_dtg_list": [
+        "020727Z (PROFESSIONAL FL180 40RCP)",
+        "020854Z (PROFESSIONAL FL180 40RDP)",
+        "021122Z (DIRECTIVE FL160 40RCQ70)",
+        "021236Z (PROFESSIONAL FL160 40RCP70)",
+        "021315Z (DIRECTIVE FL160 40RCP70)"
+      ],
+      "guardcall_tone_at_d63": "3 PROFESSIONAL + 2 DIRECTIVE (DIRECTIVE recurrence at N=2 missions with d62)",
+      "guardcall_directive_tone_recurrence_anchored_at_N2_missions": "^closed-by-dow-uap-d63 — DIRECTIVE no longer d62-isolated",
+      "guardcall_same_mgrs_multi_hail_cluster": "second same-MGRS multi-hail cluster in corpus: d63 hails #4+#5 both at 40RCP70 (39 min apart; FL160); first such cluster was d62 hails #1+#2 at 40RCP76 (13 min apart; FL180)",
+      "emi_events_count": 0,
+      "emi_canonical_segment_reading_downgrade": "^closed-by-dow-uap-d63 — d62's `anchors EMI as a previously-unobserved canonical USMTF segment in the schema` reading SUPERSEDED by d63 zero-EMI recurrence test. EMI is now isolated at N=1 (d62 alone) at N=4 full-Misrep ingests — event-specific not canonical. Iranian-EW-emission attribution for d62 EMI events further isolates to d62-only ^[inferred]",
+      "iranian_collateral_observations_count": 3,
+      "iranian_collateral_observations": "1X UI aircraft on runway Abu Musa Island AFLD (1244Z); 1X ATR 72-500 at Abu Musa Island AFLD (1344Z — first ATR 72-500 in dow-uap corpus); 1X POSS Naser-class WAP at Bushehr IRIN Boatyard (1657Z — first Bushehr in corpus, recurrence of Naser-class WAP from d61 at N=2)",
+      "release_framework_block_classification": "Block C — anchored at N=1 (new release pipeline distinct from Block A + Block B)",
+      "release_block_distinct_axes": {
+        "mdr_case": "MDR 26-0028 (single case) — distinct from Block A (MDR 26-0038 to 26-0046, 9-case range) + Block B (MDR 26-0019, single case)",
+        "release_stamp_date": "03/16/26 — distinct from Block A 03/27/26 (11 days after d63) + Block B 01/26/26 (49 days before d63); three distinct release events 60 days span (B 01/26/26 → C 03/16/26 → A 03/27/26)",
+        "page_stamp_digit_scheme": "6-digit 000001 -> 000008 — matches Block A (6-digit 000001 -> 00000N) NOT Block B (3-digit 001 -> 00N); refutes d61-anchored per-Block-digit-scheme reading in its 1:1 form — digit-scheme is per-convention not per-Block (A+C share 6-digit; B is the 3-digit outlier ^[inferred])"
+      },
+      "release_block_distribution_at_N9_testable": "Block A 5-of-9 (55.6%) + Block B 3-of-9 (33.3%) + Block C 1-of-9 (11.1%)",
+      "release_framework_reading_refined": "per-release-event not per-MDR-case-allocation (refines d38-anchored reading); each release event carries its own MDR case allocation + sequence-number convention; dow-uap range-fouler+full-Misrep subset spans at least 3 release events within broader tranche ^[inferred]",
+      "block_class_vs_document_class_correlation_refuted_at_N4": "full-Misrep class now spans all 3 Blocks (1+2+1 = A+B+C distribution at N=4); d62-anchored Block-class-vs-document-class correlation does not survive at higher N ^[inferred]",
+      "same_unit_cluster_extends_to_N4": "^closed-by-dow-uap-d63 on d62's `Test for further d63+ 482ATKS missions in Sep-Oct 2020` thread. d60+d61+d62+d63 = first 4-document same-unit-same-tasking quadruplet in dow-uap corpus across 55 days Aug-Oct 2020. 29-of-31 axis byte-for-byte match (POC unit 482ATKS / wing 432 AEW / APPROVER 609 CAOC / NAVCENT / operation 1.4a / theater / OKAS launch / AREC / ANDAS4 / AH_GMESH ^[inferred]); 2 axes diverge at POC + APPROVER rank introducing third rank tier",
+      "poc_approver_rank_tier_3_introduced": "^closed-by-dow-uap-d63 on d62's `Resolve aircrew rotation within 482ATKS` thread. d63 POC = A1C (E-3 enlisted); d63 APPROVER = Capt (O-3 commissioned). Tier-3 pairing distinct from Tier-1 d60+d61 (1st Lt + 1st Lt) + Tier-2 d62 (SSgt + SrA). Squadron rotates at least 3 distinct aircrew+approver pairings through Aug-Oct 2020 tasking ^[inferred]",
+      "paroc_idat_qc_role_recurrence_n6": "^closed-by-dow-uap-d63 — PAROC explicitly attested at d63 QC Unit field (Wing+Operations Center fields list `Other` rather than 12 AF / DET 3 ^[ambiguous]); cumulative attestations: d50 + d52 + d60 + d61 + d62 + d63 = 6 corpus-wide. PAROC IDAT canonical Quality Control role across dow-uap mission-report cluster's USAF-component ^[inferred]",
+      "subclass_8_dominance_confirmed_at_N3_within_cluster": "^closed-by-dow-uap-d63 — sub-class 8 (FMV-observation + zero-mission-impact + kinematics-blank + morphology-blank) firms to N=3 (d60+d62+d63) dominant at 3-of-4 within 482ATKS cluster; sub-class 9 (d61 formation-track + bounded-duration + heading-axis-only + sensor-PID-loss-on-weather) remains isolated at N=1 within-cluster outlier ^[inferred]",
+      "strait_of_hormuz_subtheater_anchored_at_N2": "d62 (15-16 Sep 2020) + d63 (1-2 Oct 2020) — sub-theater confirmed at N=2; corpus's geographic sub-theater taxonomy now Persian Gulf (d60+d61) + Strait of Hormuz (d62+d63) + Arabian Sea (d44+d56) at N=2 each",
+      "page_banner_ocr_clean_rate": "100% clean (0/8 digit-swap) — first 100%-clean banner at multi-page Misrep in cluster (d60 0/6 clean; d61 1/7 swap; d62 5/9 swap; d63 0/8 clean); per-document variable swap rate non-monotonic at N=4 ^[inferred]",
+      "page_banner_caveat_FOUO_PA": "First explicit `FOUO / Privacy Act applies` page-banner caveat in dow-uap mission-report ingest preserved in OCR (d60+d61+d62 banners did not preserve FOUO line). Consistent with Block C's release framing applied via different reviewer/clerical convention ^[inferred]",
+      "structural_firsts_d63_novel_within_full_misrep_subclass": [
+        "First Block C release pipeline attestation (MDR 26-0028 + 03/16/26 000001-000008)",
+        "First explicit `FOUO / Privacy Act applies` page-banner caveat preserved in OCR",
+        "First A1C (E-3) POC rank in 482ATKS cluster (third rank tier)",
+        "First Capt (O-3) APPROVER rank in 482ATKS cluster",
+        "First ATR 72-500 foreign-aircraft identification in dow-uap corpus",
+        "First Bushehr IRIN Boatyard geographic anchor in dow-uap corpus",
+        "First 5-hail per-mission GUARDCALL count (anchors upper tail; d60=1, d61=1, d62=3, d63=5)",
+        "First 100% clean page-banner OCR at 8 pages (0/8 digit-swap)",
+        "First missing-OBSERVATION-segment OCR pattern (Narrative cites SEE OBSERVATION LINE 1 but structured segment does not render ^[ambiguous])",
+        "First non-EMI follow-on to an EMI-bearing mission (d62 had 2 EMI events; d63 has 0 — decisive recurrence test downgrades EMI canonical-anchor reading)"
+      ],
+      "structural_recurrences_d63_at_N_within_cluster": [
+        "FULL USMTF Misrep document class CONFIRMED at N=4 (all 4 ingests carry zero-padding-page substantive Misreps) ^closed-by-dow-uap-d63",
+        "482ATKS / 432 AEW MQ-9 attribution at N=4 missions across Aug-Oct 2020",
+        "NAVCENT-support tasking at N=4 missions",
+        "OKAS Kuwait launch base at N=4 missions ^[inferred]",
+        "AREC mission type at N=4 missions",
+        "ANDAS4 primary sensor + AH_GMESH avionics at N=4 missions ^[inferred]",
+        "Operation 1.4a portion-redaction at N=4 — same-operation reading firms",
+        "Iranian Air Defense GUARDCALL at N=4 missions with per-mission count 1+1+3+5 + tone variance",
+        "DIRECTIVE GUARDCALL tone at N=2 missions (d62+d63 — not d62-isolated) ^closed-by-dow-uap-d63",
+        "PAROC IDAT QC role at N=6 corpus-wide (d50+d52+d60+d61+d62+d63) ^closed-by-dow-uap-d63",
+        "Abu Musa Island AFLD geographic anchor at N=2 (d61+d63)",
+        "Naser-class WAP Iranian-naval-platform at N=2 (d61+d63)",
+        "GENTEXT/OBSERVATION segment placement cited in d63 Narrative (consistent with d60+d61+d62 placement)"
+      ],
+      "open_threads_status": {
+        "closed": 7,
+        "extended": 3,
+        "contradicted": 1,
+        "reframed": 2,
+        "details": {
+          "closed_by_d63": [
+            "d62 `Test for further d63+ 482ATKS missions in Sep-Oct 2020` — CLOSED positive (quadruplet extends to N=4 across 55 days)",
+            "d62 `Test EMI-event recurrence in dow-uap corpus` — CLOSED negative (zero EMI events at d63; EMI isolated at N=1 d62 alone; canonical-segment reading downgraded)",
+            "d62 `Test the GUARDCALL DIRECTIVE-tone recurrence pattern` — CLOSED positive (DIRECTIVE tone recurrence at N=2 missions d62+d63)",
+            "d62 `Resolve aircrew rotation within 482ATKS` — CLOSED positive (third rank tier A1C+Capt introduced; squadron rotates at least 3 distinct aircrew+approver pairings)",
+            "Block-class-vs-document-class correlation — REFUTED at N=4 (full-Misrep spans all 3 Blocks 1+2+1)",
+            "Iranian Air Defense GUARDCALL recurrence — CONFIRMED at N=4 missions with count + tone variance",
+            "Strait of Hormuz sub-theater anchored at N=2 (d62+d63)"
+          ],
+          "extended": [
+            "Sub-class 8 (FMV-observation + kinematics-blank + morphology-blank) firms to N=3 dominant within 482ATKS cluster (d60+d62+d63 = 3-of-4); sub-class 9 (d61) remains isolated at N=1",
+            "PAROC IDAT QC role recurrence extends to N=6 corpus-wide",
+            "AARO-receiving-authority stamp recurrence firms at N=9 (d63 is 9th attestation)"
+          ],
+          "contradicted": [
+            "d62's `EMI as canonical USMTF Misrep schema axis` reading SUPERSEDED — d63 zero-EMI recurrence test downgrades to event-specific"
+          ],
+          "reframed": [
+            "d38-anchored `release framework is per-MDR-case-allocation` reading REFINED — release framework is per-release-event (each event carries own MDR case + sequence-number convention)",
+            "d61-anchored `per-Block page-stamp digit-scheme correlation` reading PARTIALLY REFINED — digit-scheme is per-convention not per-Block (A+C share 6-digit; B is 3-digit outlier)"
+          ]
+        }
+      },
+      "filename_axis_verification_at_N4": "combined d60+d61+d62+d63 = 26-of-26 internal MGRS coords decode inside body-text-declared operational area (Arabian Gulf / Strait of Hormuz / Gulf of Oman); filename-theater verification rate firms at 100% for full-Misrep sub-class",
+      "filename_internal_date_verification": "filename token `october-2020` matches body DTGs `OCT 20` — verified",
+      "mission_cycle_duration": "21 hours 4 minutes (between d62 20h 56min and d61 21h 5min and d60 21h 8min — consistent ~21-hour MQ-9 sortie cycles)",
+      "imint_hours_at_d63": "17.3 hr (consistent with d60 17.7 + d62 17.3 — IMINT productivity stable across cluster)",
+      "distinct_dtg_anchors_at_d63": 13,
+      "distinct_dtg_anchors_at_cluster_n4": "d60 = 8 / d61 = 14 / d62 = 18 / d63 = 13 — d62 operationally-richest, d63 second-richest; reduction d62-to-d63 consistent with d63's absence of EMI events (d62 EMI events added 4+ DTG anchors that d63 does not carry) ^[inferred]",
+      "page_bottom_release_block_format": "USCENTCOM MDR 26-0028 / Approved for Release to AARO-FOUO / PA applies / 03/16/26 00000N (where N = page index 1-8); 6-digit Block-A digit-scheme; Block C release pipeline",
+      "ocr_ambiguities": [
+        "Missing OBSERVATION segment (Narrative cites SEE OBSERVATION LINE 1 but no structured ## OBSERVATION block / GENTEXT/OBSERVATION renders in OCR pass — likely OCR truncation after GUARDCALL chain on page 7; possible Block-C variant single-segment placement) ^[ambiguous]",
+        "MSGID Submit Date blank (same as d60+d61+d62 cluster pattern)",
+        "QC Wing + Operations Center fields list `Other` rather than 12 AF / DET 3 as in d61+d62 — two readings: (a) PAROC spans multiple parent detachments; (b) form-fill artifact ^[ambiguous]"
+      ],
+      "witness_redaction_format": "Clean `(b)(6)` redaction throughout (no OCR-corruption patterns); `3.5c (b)(6)` page-bottom signature recurrence; `(b)(1)1.4a` + `(b)(1)1.4g` portion-redactions for §1.4(a) military-plans + §1.4(g) vulnerabilities; §1.4(g) extends beyond EMI context to GUARDCALL location MGRS partial-redactions",
+      "pages_created": [
+        "references/dow-uap-d63-mission-strait-of-hormuz-2020-10-02.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/uap-aircraft-engagement.md",
+        "references/dow-uap-d62-mission-strait-of-hormuz-2020-09-16.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-11T18:00:00Z",
-      "sources_ingested": 52
+      "last_ingested": "2026-05-11T20:00:00Z",
+      "sources_ingested": 53
     }
   },
   "stats": {
-    "total_sources_ingested": 62,
-    "total_pages": 333,
+    "total_sources_ingested": 63,
+    "total_pages": 334,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T18:00:00Z"
+    "last_ingest_at": "2026-05-11T20:00:00Z"
   }
 }
