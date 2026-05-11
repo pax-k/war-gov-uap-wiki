@@ -60,3 +60,147 @@ Final           TODO  ⬜ /wiki-synthesize + /wiki-dashboard + /wiki-export + /w
 ## Re-entrancy
 
 Plan restart-able at any commit boundary. Each per-source commit is a clean checkpoint; `.manifest.json` is the single source of truth. To resume: read `/Users/pax/.claude/plans/i-want-to-run-virtual-toast.md` for the orchestration plan, this file for current state, and `/tmp/wiki_ingest_order.txt` for the source order.
+
+## Per-source loop (main agent)
+
+```text
+1. qmd update && qmd embed                         # refresh QMD index over wiki collection
+2. Read line N of /tmp/wiki_ingest_order.txt       # rank, cluster, size, basename
+3. Dispatch ingest subagent with the prompt below
+4. Verify manifest entry:
+     jq '.stats, .sources["sources/<basename>"]' .manifest.json
+   If null → SendMessage agent to finish (esp. manifest write, projects/uap/uap.md,
+   index.md, log.md, hot.md). Common failure: subagent ends mid-flow before manifest.
+5. git add .manifest.json index.md log.md hot.md _meta/taxonomy.md
+   git add concepts/ entities/ references/ synthesis/ projects/ skills/ journal/ 2>/dev/null
+   git commit -m "ingest: <short slug> (N/85)"
+6. Every 10 sources: dispatch hygiene = cross-linker → (wiki-lint + tag-taxonomy in parallel)
+                     → git add -A && git commit -m "hygiene: ... (sources X..Y)"
+```
+
+## Subagent prompt template (per-source ingest)
+
+Hand this to a `general-purpose` subagent in isolation. Customize the marked `<...>` slots for the file at hand: size, sister-file context, QMD queries, paradigm-content hint.
+
+```text
+Single-source ingest into Obsidian wiki at /Users/pax/Documents/Obsidian/obsidian-wiki.
+CWD = vault.
+
+INGEST: sources/<filename>.json (<size> bytes — <one-line description>). No other sources.
+
+## Step 0: Read framework
+1. AGENTS.md
+2. .skills/wiki-ingest/SKILL.md
+3. .skills/llm-wiki/SKILL.md
+4. _meta/taxonomy.md   # canonical tag vocabulary, includes eti-attribution
+
+OBSIDIAN_LINK_FORMAT=wikilink. OBSIDIAN_MAX_PAGES_PER_INGEST=15. Project = uap
+(frontmatter only — pages go in top-level category dirs, not under projects/uap/).
+
+## Step 1: Read source
+Mistral OCR JSON. Read in chunks if needed (Read tool offset/limit). Extract
+`pages[].markdown` + any `pages[].tables[].content`. Compute
+`shasum -a 256 -- <path>`. Confirm not in .manifest.json.
+
+## Step 1b: QMD wiki discovery (MANDATORY)
+Sister-file context: <which series this belongs to, what was already ingested, what
+hypotheses are currently live on the parent-file/concept pages>.
+
+Call mcp__plugin_qmd_qmd__query with:
+  collections=["wiki"]
+  intent="<one-line topic of the source>"
+  searches=[
+    {type:"vec", query:"<semantic phrase — NO negation, no minus signs>"},
+    {type:"lex", query:"<keywords for BM25 exact-match>"}
+  ]
+  limit:8
+
+Skip the papers collection (sources are .json, not .md). Use the returned hits to
+decide which existing pages to UPDATE vs which new pages to CREATE. Existing related
+pages worth checking explicitly: <list known-relevant pages>.
+
+## Steps 2–7: Distill, plan, write
+Per .skills/wiki-ingest/SKILL.md. STRICT cap at 15 new pages.
+
+Strategy:
+- Always create a document-as-reference page (references/<source-slug>.md).
+- For multi-document compilations (sections, large serials, mission-report digests):
+  use a master TABLE inside the reference page; create dedicated sighting/entity
+  pages ONLY for paradigm-defining events or recurring named individuals/orgs.
+- Prefer UPDATING existing concept/synthesis/parent-file pages over creating duplicates.
+- New sighting pages require morphology / duration / co-platform corroboration —
+  not just a kinematic data point.
+
+Use [[category/page-name]] wikilinks. Required frontmatter on every new page:
+  title, category, tags (≤5, from canonical taxonomy),
+  sources (use a stable source_id, not the raw filename),
+  created, updated, summary (≤200 chars), provenance block,
+  base_confidence, lifecycle: active, lifecycle_changed.
+Project: uap.
+
+## State files (atomic) — manifest LAST
+Write the manifest entry as the FINAL step. Prior subagents have stopped mid-flow
+before writing it; resume requests are expensive. Do .manifest.json absolutely last,
+after index.md, log.md, hot.md, projects/uap/uap.md, and all page edits.
+
+Manifest entry shape under sources["sources/<filename>.json"]:
+  ingested_at (ISO now), size_bytes: <N>, modified_at (file mtime),
+  content_hash: "sha256:<hex>", source_id, source_type:"document",
+  source_quality:"official", project:"uap",
+  pages_created:[<paths>], pages_updated:[<paths>].
+Bump stats.total_sources_ingested by 1, stats.total_pages by the count of new pages,
+projects.uap.last_ingested (ISO now), projects.uap.sources_ingested by 1.
+
+Update:
+- index.md (add new pages, refresh timestamp).
+- log.md (append `[ISO] INGEST source="..." pages_created=N pages_updated=M mode=append`).
+- hot.md (refresh Recent Activity to last 3 ops, refresh Active Threads if needed).
+
+## Deliverable (return as your final message)
+status: ok | skipped | failed
+basename: <filename>.json
+qmd_hits: [paths]
+pages_created: [paths]
+pages_updated: [paths]
+manifest_entry_added: true | false
+state_files_updated: [.manifest.json, index.md, log.md, hot.md, ...]
+notes: <key paradigm content, file-function refinement, sister-file pattern updates,
+        deferred work, OCR ambiguities flagged ^[ambiguous] vs ^[inferred] vs ^[extracted]>
+
+Do NOT commit. Main agent commits.
+```
+
+## Subagent prompt template (per-10 hygiene)
+
+Two subagents in parallel (wiki-lint + tag-taxonomy) after a serial cross-linker pass.
+
+```text
+# Cross-linker (run alone first)
+Run /cross-linker on the vault. Apply EXTRACTED (score ≥6) + INFERRED (3-5) links
+in-place. Flag AMBIGUOUS (1-2) and broken targets. Update log.md (CROSS_LINK)
+and hot.md. Do NOT commit. Report links_added / pages_touched / broken_targets
+(distinguishing intentional forward-placeholders).
+
+# Wiki-lint (parallel with tag-taxonomy)
+Run /wiki-lint. Repair broken wikilinks except intentional forward-placeholders.
+Stub heavily-referenced institutional placeholders (e.g. usaf at 11 refs).
+Flag contradictions; do not silently resolve unless a prior ingest already
+established the corrected canonical version (then propagate to stale callers).
+Do NOT commit.
+
+# Tag-taxonomy (parallel with wiki-lint)
+Run /tag-taxonomy. Scan all pages, compare against _meta/taxonomy.md. Apply
+normalizations (singular/plural, diacritics, synonym splits, 5-tag-limit fixes).
+Update _meta/taxonomy.md frequency reference. Do NOT commit. Note: prior 3 audits
+found vault in equilibrium — be efficient.
+```
+
+## Key learnings (apply to every subagent dispatch)
+
+- **Manifest LAST.** Multiple subagents have ended mid-flow before writing `.manifest.json`. Always make the manifest the absolute last write. Resume via `SendMessage <agent-id>` if it happens — the resume costs context but completes cleanly.
+- **15-page cap is strict.** For 200K+ multi-document files, the temptation is to page-ify every incident. Don't — use a master table inside the reference page and reserve dedicated pages for paradigm content.
+- **QMD vec queries reject negation.** Never use `-term` or `NOT term` in vec/hyde queries; use lex search for exclusions.
+- **Sister-file context cuts subagent time in half.** Tell it which series this belongs to, what hypotheses are live, what existing pages cover the topic — otherwise it re-derives.
+- **Filename theater labels are unreliable** (discovered in dow-uap series — Arabian-Gulf filenames decode to Eastern Mediterranean MGRS). Always verify internal metadata.
+- **Project page is curated.** `projects/uap/uap.md` is a hub. Add to it but don't auto-link from cross-linker.
+- **`_meta/taxonomy.md` is statistical metadata.** Cross-linker should skip it.
