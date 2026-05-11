@@ -11,10 +11,14 @@
             "id": "264d9855d1e46191",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "synthesis/uap-phenomenon-nature.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "uap-phenomenon-nature"
             }
           }
         ]
@@ -153,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "synthesis/uap-phenomenon-nature.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of uap-phenomenon-nature"
             }
           }
         ],
@@ -182,6 +187,8 @@
   },
   "active": "264d9855d1e46191",
   "lastOpenFiles": [
+    "references/dow-uap-d63-mission-strait-of-hormuz-2020-10-02.md",
+    "references/dow-uap-d64-mission-iran-2020-11-02.md",
     "references/dow-uap-d62-mission-strait-of-hormuz-2020-09-16.md",
     "references/dow-uap-d61-mission-persian-gulf-2020-08-27.md",
     "concepts/orbital-uap-sighting.md",
@@ -206,8 +213,6 @@
     "entities/oni.md",
     "concepts/project-blue-book.md",
     "entities/edward-u-condon.md",
-    "entities/dod.md",
-    "entities/j-edgar-hoover.md",
     "combined.csv",
     "uap_people.csv",
     "kg.png",
