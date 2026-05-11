@@ -1,5 +1,7 @@
 # war.gov/UFO Knowledge Graph Wiki
 
+👉 Live Wiki: https://publish.obsidian.md/pax-uap/README
+
 An AI agents-ready Obisdian knowledge graph wiki compiled from the OCRd war.gov/UFO files — FBI files, State Department cables, NASA crew debriefings, USAF intelligence directives, Project SIGN incident summaries, and US Navy mission reports — woven together as interconnected Obsidian markdown.
 
 ![](kg.png)
