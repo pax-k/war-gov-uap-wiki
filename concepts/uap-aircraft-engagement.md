@@ -2,7 +2,7 @@
 title: UAP–Aircraft Engagement
 category: concepts
 tags: [uap, behavior, military, pattern]
-sources: [sources/usper-statement-redacted.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/dow-uap-d4-mission-report-arabian-gulf-2020.json]
+sources: [sources/usper-statement-redacted.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/dow-uap-d4-mission-report-arabian-gulf-2020.json, sources/dow-uap-d5-mission-report-arabian-gulf-2020.json]
 summary: A UAP behavioral signature in which objects approach, follow, or break off from one aircraft to pursue another. Documented in the corpus as early as 7 Jan 1948 (Mantell — first UAP-attributed pursuit fatality).
 provenance:
   extracted: 0.55
@@ -12,7 +12,7 @@ base_confidence: 0.45
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T13:41:53Z
-updated: 2026-05-11T04:00:00Z
+updated: 2026-05-11T05:00:00Z
 ---
 
 # UAP–Aircraft Engagement
@@ -66,9 +66,16 @@ The [[references/project-sign-incident-summaries-1-100|1–100 bundle]]'s **Inc 
 
 ### Negative datum — modern Navy mission-report corpus produces brief-observation-class records, not engagement-class
 
-The first substantive ingest from the [[entities/dow-uap-foia-release|DoW-UAP FOIA release]] — [[references/dow-uap-d4-mission-arabian-gulf-2020|DoW-UAP-D4]] — is a **brief, kinematics-only Navy mission-report observation**: pilot at 1258Z observes a UAP in the vicinity of a coordinate, estimates 321 kt velocity, sees a speed-up + eastward turn, and the observation is explicitly *too brief to estimate altitude*. There is **no close approach**, **no co-location with the aircraft for non-trivial time**, **no target-selection across aircraft**, **no phase-of-flight correlation**, and **no morphology**. The record does **not** meet the 4-criterion engagement-class bar above. ^[inferred]
+The first two substantive ingests from the [[entities/dow-uap-foia-release|DoW-UAP FOIA release]] — [[references/dow-uap-d4-mission-arabian-gulf-2020|DoW-UAP-D4]] (single sighting at 1258Z, 321 kt, speed-up + eastward turn) and [[references/dow-uap-d5-mission-arabian-gulf-2020|DoW-UAP-D5]] (two sightings: 1354Z 40-kt constant-velocity single-object at FL160-170, and 2243Z 278-kt two-object speed-up + southward turn) — are **brief, kinematics-only Navy mission-report observations**. Across N=2 reports / 3 datums, there is **no close approach**, **no co-location with the aircraft for non-trivial time**, **no target-selection across aircraft**, **no phase-of-flight correlation**, and **no morphology**. None of the three datums meet the 4-criterion engagement-class bar above. ^[inferred]
 
-This is **expected and useful** as a negative datum: the modern Navy operational-reporting framework produces **brief-observation-class records** that document a kinematics signature without the close-proximity / multi-aircraft-selection envelope that anchors the engagement class. Engagement-class events should remain a small minority of the modern Navy corpus, distinguished from the broader brief-observation report stream. ^[inferred] If a future `dow-uap-` `d*` ingest documents close approach + cross-aircraft target selection, *that* artifact would promote to engagement-class evidence and supersede this negative datum.
+This is **expected and useful** as a negative datum at N=2: the modern Navy operational-reporting framework produces **brief-observation-class records** that document a kinematics signature without the close-proximity / multi-aircraft-selection envelope that anchors the engagement class. Engagement-class events should remain a small minority of the modern Navy corpus, distinguished from the broader brief-observation report stream. ^[inferred] If a future `dow-uap-` `d*` ingest documents close approach + cross-aircraft target selection, *that* artifact would promote to engagement-class evidence and supersede this negative datum.
+
+**Two sub-classes within brief-observation now emerge from `d4` + `d5`** (3 datums, all `^[inferred]`):
+
+1. **Kinematic-anomaly sub-class** (`d4` sole + `d5`-B): speed-up + course-change at moderate velocity (278–321 kt). Multi-object instance (`d5`-B: 2x POSS UAPS, southward turn) demonstrates this sub-class is **not single-object-restricted**.
+2. **Steady-state cruise sub-class** (`d5`-A only): constant velocity at altitude band normally occupied by airliner traffic, but at velocity (40 kt at FL160-170) **incompatible with conventional-platform envelopes** in that altitude band. The signature here is velocity-altitude *mismatch*, not motion change.
+
+The two sub-classes have **different mechanism-candidate spaces**: kinematic-anomaly suggests propulsion/control beyond conventional envelope; steady-state-velocity-altitude-mismatch suggests platform-type beyond conventional inventory. Whether they share an underlying physics is open. ^[inferred]
 
 ## Open hypotheses (not endorsed)
 
@@ -93,5 +100,8 @@ This is **expected and useful** as a negative datum: the modern Navy operational
 - [[references/sighting-andrews-1948-11]] — first sensor-stimulus-response 1948 engagement-class event (Inc 207)
 - [[references/project-sign-incident-summaries-101-172]] — bundle preserving Inc 144 + Inc 172
 - [[references/project-sign-incident-summaries-173-233]] — bundle preserving Inc 207
+- [[references/dow-uap-d4-mission-arabian-gulf-2020]] — modern Navy negative datum (single sighting, kinematic-anomaly sub-class)
+- [[references/dow-uap-d5-mission-arabian-gulf-2020]] — modern Navy negative datum at N=2 (two sightings; introduces steady-state-cruise + multi-object sub-classes)
+- [[entities/dow-uap-foia-release]] — series-level anchor for modern Navy mission-report corpus
 - [[synthesis/federal-le-uap-witness-pattern]]
 - [[projects/uap/uap]]

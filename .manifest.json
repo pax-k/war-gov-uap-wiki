@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-10T22:00:00Z",
+  "updated": "2026-05-11T05:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -1332,20 +1332,44 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/dow-uap-d5-mission-report-arabian-gulf-2020.json": {
+      "ingested_at": "2026-05-11T05:00:00Z",
+      "size_bytes": 1585,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:58a40d60bff42b6b366b0a9f637a169a3101dd0dd88ad9ef9ffd3df30adef23f",
+      "source_id": "dow-uap-d5-mission-arabian-gulf-2020",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap",
+      "series_position": "3-of-40",
+      "signal_class": "brief-obs-multi-event",
+      "mgrs_zones": ["34S", "35T"],
+      "pages_created": [
+        "references/dow-uap-d5-mission-arabian-gulf-2020.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-11T04:00:00Z",
-      "sources_ingested": 42
+      "last_ingested": "2026-05-11T05:00:00Z",
+      "sources_ingested": 43
     }
   },
   "stats": {
-    "total_sources_ingested": 48,
-    "total_pages": 308,
+    "total_sources_ingested": 49,
+    "total_pages": 309,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T04:00:00Z"
+    "last_ingest_at": "2026-05-11T05:00:00Z"
   }
 }

@@ -3,7 +3,7 @@ title: DoW-UAP FOIA Release Series
 category: entities
 tags: [uap, organization, archive, dod, navy]
 aliases: [DoW-UAP, dow-uap series]
-sources: [sources/dow-uap-pr20.json, sources/dow-uap-d4-mission-report-arabian-gulf-2020.json]
+sources: [sources/dow-uap-pr20.json, sources/dow-uap-d4-mission-report-arabian-gulf-2020.json, sources/dow-uap-d5-mission-report-arabian-gulf-2020.json]
 summary: Provisional series-level anchor for the ~40-file "DoW-UAP" FOIA release tranche; mostly Navy-theater UAP mission reports and range-fouler debriefs 2016-2025, cleared through DoD prepublication review.
 provenance:
   extracted: 0.25
@@ -13,12 +13,12 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T22:00:00Z
-updated: 2026-05-11T04:00:00Z
+updated: 2026-05-11T05:00:00Z
 ---
 
 # DoW-UAP FOIA Release Series
 
-A **provisional series-level anchor** for the ~40-file FOIA release tranche whose source-file basenames carry the `dow-uap-` prefix. As of this writing, **2 of ~40 artifacts** are ingested: the opening prepublication clearance-stamp cover [[references/dow-uap-pr20-prepublication-clearance-2026-03|DoW-UAP-PR20]] and the first substantive mission-report [[references/dow-uap-d4-mission-arabian-gulf-2020|DoW-UAP-D4 (Arabian Gulf 2020)]].
+A **provisional series-level anchor** for the ~40-file FOIA release tranche whose source-file basenames carry the `dow-uap-` prefix. As of this writing, **3 of ~40 artifacts** are ingested: the opening prepublication clearance-stamp cover [[references/dow-uap-pr20-prepublication-clearance-2026-03|DoW-UAP-PR20]], the single-sighting mission-report [[references/dow-uap-d4-mission-arabian-gulf-2020|DoW-UAP-D4 (Arabian Gulf 2020)]], and the two-sighting mission-report [[references/dow-uap-d5-mission-arabian-gulf-2020|DoW-UAP-D5 (Arabian Gulf 2020)]].
 
 This page exists so subsequent ingests have a stable target to cross-link to, and so the series-level inferences (provisional scope, theater coverage, document-class taxonomy, mission-report format) can be revised in place as the series is processed rather than re-derived each time.
 
@@ -74,22 +74,35 @@ Pending ingest of the substantive content:
 - **First [[entities/aaro|AARO]]-era operational-intake corpus** — if AARO is the receiving authority for the series, this would be the wiki's first volume-class AARO-pipeline ingest. ^[inferred]
 - **First DoD-prepublication-cleared corpus tranche** at this scale — the existing corpus carries declassified material from earlier eras (FBI HQ 62-83894, NARA RG 38/RG 341/RG 255), but DOPSR-cleared current-era operational material is a different release-pathway class. ^[inferred]
 
-## Mission-report format (first substantive observation, from `d4`)
+## Mission-report format (template anchored by `d4`, validated + extended by `d5`)
 
-The first substantive `d*` ingest ([[references/dow-uap-d4-mission-arabian-gulf-2020|DoW-UAP-D4 — Arabian Gulf 2020]]) establishes the working **structural template** for the ~25 mission-report files in the series. To be validated and revised in place as more `d*` files are processed:
+The first two substantive `d*` ingests ([[references/dow-uap-d4-mission-arabian-gulf-2020|DoW-UAP-D4]] and [[references/dow-uap-d5-mission-arabian-gulf-2020|DoW-UAP-D5]] — both filename-labeled "Arabian Gulf 2020") establish the working **structural template** for the ~25 mission-report files in the series. Elements **confirmed at N=2** (both files) below, with **`d5`-extended variations** explicitly noted:
 
-- **Per-page header `# 1.4(a)`** — recurs on every OCR'd page. This is the [Executive Order 13526](https://www.archives.gov/isoo/policy-documents/eo-13526.html) §1.4(a) classification-category marking (*military plans, weapons systems, or operations*). ^[inferred] Expected to recur across every `d*` mission-report and range-fouler file.
-- **Sparse OCR content** — `d4` carries 5 OCR pages but only **1 substantive page** (the rest are header-only). The underlying PDF (29 KB) is correspondingly small. Working hypothesis: a single-encounter mission report = ~5 OCR pages of which 1 carries the GENTEXT/UAP body. ^[inferred] Range-fouler debriefs and multi-event reports may carry larger bodies.
-- **USMTF `GENTEXT/UAP` segment** — substantive content sits inside a US Message Text Format general-text segment with `UAP` as the segment identifier. ^[inferred] This is consistent with Navy / Joint formal-message conventions.
-- **Portion marking `(S/REL)`** + **banner `SECRET/REL TO USA, FVEY`** — Five Eyes releasability. (The `d4` OCR captures the banner as `FVEV`; the `Y → V` confusion is plausible at this DPI. ^[inferred])
-- **Witness-redaction pattern `PILOT: (b)(6)`** + a second `(b)(6)` line — FOIA exemption b(6) (*personal-privacy*) masks the pilot identity (and likely a second witness or airframe ID). ^[inferred] Expect this pattern to recur — the entire `dow-uap-` corpus is pre-published-cleared per [[references/dow-uap-pr20-prepublication-clearance-2026-03]], so witness identities are systematically masked.
-- **MGRS coordinates** rather than lat/long; **knots** for velocity; **Zulu time** without a calendar date inside the substantive page. ^[inferred] The filename carries the year (`d4-…-2020`); the GENTEXT body in `d4` carries only `1258Z` with no date — meaning **the filename year may be the only date anchor** for some reports if no header survives the OCR.
+- **Per-page header `# 1.4(a)`** — **Confirmed at N=2.** Recurs on every OCR'd page of both `d4` (5 pages) and `d5` (6 pages). This is the [Executive Order 13526](https://www.archives.gov/isoo/policy-documents/eo-13526.html) §1.4(a) classification-category marking (*military plans, weapons systems, or operations*). ^[inferred] Expected to recur across every `d*` mission-report and range-fouler file.
+- **Header-only pages padded around substantive pages** — **Confirmed at N=2.** Pages 0–3 are header-only `# 1.4(a)` markings in both files. `d4` carries 1 substantive page (page 4); `d5` carries **2 substantive pages** (pages 4 + 5). The header-only-prefix is a banner artifact; substantive page count is per-report variable.
+- **Sighting count is per-report variable** — **`d5`-extended.** A single `d*` file may carry **multiple GENTEXT/UAP segments** (`d5` has 2, separated by 8h 49m Zulu, in two different UTM zones). Working hypothesis: report length tracks the number of distinct sightings ingested into that report. ^[inferred] Range-fouler debriefs may show different patterns.
+- **USMTF `GENTEXT/UAP` segment** — **Confirmed at N=2.** Substantive content sits inside a US Message Text Format general-text segment with `UAP` as the segment identifier. ^[inferred] Consistent with Navy / Joint formal-message conventions.
+- **Portion marking `(S/REL)`** + **banner `SECRET/REL TO USA, FVEY`** — `(S/REL)` portion marking confirmed at N=2 (every sighting in both `d4` and `d5` carries it). Banner only captured in `d4` OCR (as `FVEV` — `Y → V` low-DPI confusion ^[inferred]); `d5` OCR does not capture the banner (likely cropped). Classification posture inferred consistent.
+- **Witness-redaction pattern** — **`d5`-extended.** `d4` uses `PILOT: (b)(6)` block format. `d5` uses inline `[REDACTED]` for witness with one `(b)(6)` block. Both apply FOIA exemption b(6) (*personal-privacy*) to mask witness identity. The specific syntax (`PILOT:` block vs inline `[REDACTED]`) is per-report variable. ^[inferred] All `dow-uap-` material is pre-published-cleared per [[references/dow-uap-pr20-prepublication-clearance-2026-03]], so witness identities are systematically masked across the series.
+- **MGRS coordinates** rather than lat/long; **knots** for velocity; **Zulu time** without a calendar date inside the substantive page — **Confirmed at N=2** (3 sightings total). The filename carries the year (`d4-…-2020`, `d5-…-2020`); GENTEXT bodies carry only Zulu times (`1258Z`, `1354Z`, `2243Z`) with no calendar date. **The filename year is the only date anchor** for these reports. ^[inferred]
+- **Altitude reporting is sighting-variable** — **`d5`-extended.** `d4`'s sole sighting and `d5`'s Sighting B do **not** report altitude. `d5`'s Sighting A reports `FL160 TO FL170` (16,000–17,000 ft pressure altitude). Altitude is reported when the observation is sustained enough to derive it; brief sightings carry the explicit *"BRIEF OBSERVATION PRECLUDED UAP ALTITUDE ESTIMATES"* hedge (as in `d4`). ^[inferred]
+- **Object count is sighting-variable** — **`d5`-extended.** `d5` Sighting B is the corpus's first multi-object datum (`2X POSS UAPS`). The `POSS` (possible) hedge is Navy-format hedging on positive UAP-class identification; absent in single-object reports of `d4` and `d5`-A.
+- **Behavioral signatures so far span two sub-classes within brief-observation**: (a) **kinematic-anomaly** (speed-up + course-change) — `d4` (single, east, 321 kt), `d5`-B (multi, south, 278 kt); (b) **steady-state cruise at airliner-altitude band** — `d5`-A (40 kt at FL160-170; velocity-altitude mismatch with conventional platform envelopes). ^[inferred] No engagement-class signatures across N=2 reports / 3 datums.
 
-### Filename-vs-internal-document discrepancy ^[ambiguous]
+### Filename-vs-internal-document discrepancy — **CONFIRMED at N=2** ^[ambiguous]
 
-A **first-instance corpus-level observation**: in `d4`, the filename labels the theater "**Arabian Gulf**" but the internal MGRS coordinate `34SDG9041417044` decodes to UTM zone 34 / band S — i.e. the **Eastern Mediterranean / Aegean / NE Libya / Egypt** area, **not** the Persian Gulf (which falls in UTM zones 39–40). See [[references/dow-uap-d4-mission-arabian-gulf-2020#Coordinate vs. filename — geographic ambiguity|D4 § Coordinate vs. filename]] for the full decoding and candidate reconciliations. ^[inferred]
+A **corpus-level observation confirmed across two consecutive `d*` ingests**: filename theater labels do **not** match internal MGRS coordinates. Both files filename-labeled "**Arabian Gulf 2020**" carry internal coordinates that decode **outside** the Arabian Gulf:
 
-This means the **curator-applied filename theater labels may not be reliable anchors** to the internal-document content. If a second `d*` ingest shows the same kind of mismatch, the working hypothesis shifts from *"OCR error in this one file"* to *"curator labels are unreliable theater anchors and must be corroborated against in-document coordinates."* ^[inferred] Tracking this explicitly.
+| File | Filename theater | Internal MGRS | Decoded region |
+|---|---|---|---|
+| `d4` | Arabian Gulf | `34SDG9041417044` | UTM 34S — Eastern Med / Aegean / NE Libya / Egypt |
+| `d5`-A | Arabian Gulf | `34SCE7566990098` | UTM 34S — Eastern Med (same zone as d4) |
+| `d5`-B | Arabian Gulf | `35TQK1580995057` | UTM 35T — Eastern Europe / Black Sea / Western Russia |
+| *Arabian Gulf reference* | — | (would be UTM 39–40, band Q–R) | Persian Gulf / Strait of Hormuz |
+
+**The hypothesis previously offered as `^[inferred]` (curator-applied filename labels are unreliable theater anchors) is now confirmed at N=2.** Going forward, ingests of `dow-uap-d*` files must **prefer internal MGRS coordinates as theater anchors** over curator filename labels. ^[inferred] See [[references/dow-uap-d5-mission-arabian-gulf-2020#Geographic decoding — coordinate vs. filename|D5 § Geographic decoding]] for the full N=2 decoding.
+
+A **second observation surfaces in `d5`**: a single mission report can carry **two sightings in two different UTM zones** (here 34S Eastern Med and 35T Eastern Europe/Black Sea), separated by ~8h 49m. Working hypothesis: some `d*` files are **multi-theater transit-mission reports** or **multi-platform tasking rollups**. ^[inferred] To be characterized as more `d*` files are processed.
 
 ## Open questions
 
@@ -105,7 +118,8 @@ This means the **curator-applied filename theater labels may not be reliable anc
 ## See also
 
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — Series's prepublication clearance-stamp cover artifact
-- [[references/dow-uap-d4-mission-arabian-gulf-2020]] — First substantive `d*` mission report — establishes the format template
+- [[references/dow-uap-d4-mission-arabian-gulf-2020]] — First substantive `d*` mission report — establishes the format template (single-sighting)
+- [[references/dow-uap-d5-mission-arabian-gulf-2020]] — Second substantive `d*` mission report — validates template, extends to multi-sighting + multi-theater + altitude reporting variants, confirms filename-vs-coordinate mismatch at N=2
 - [[entities/aaro]] — Likely current-era DoD UAP receiving office
 - [[entities/ryan-graves]] — Former US Navy F/A-18F pilot; modern Navy-aviation UAP-witness context for the series
 - [[concepts/uap-aircraft-engagement]] — Modern Navy operational-encounter behavioral framing
