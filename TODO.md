@@ -1,10 +1,10 @@
 # UAP Bulk Ingest — Plan Status
 
-**Updated:** 2026-05-11
+**Updated:** 2026-05-11 (post mid-batch-5 hygiene + d44 ingest)
 
 ## Progress
 
-**49 / 85 sources ingested (58%)** — 310 vault pages, ~60 commits ahead of `a028424 sources`.
+**57 / 85 sources ingested (67%)** — 328 vault pages. 28 ingestible remaining; 25 dropped as image-only (see "Dropped sources" below).
 
 ```
 Sources 1-10    DONE  ✓ (western, usper, 59, 331, 342, dos×2, serial×2, fbi-detroit-844)
@@ -12,12 +12,12 @@ Sources 11-14   DONE  ✓ (fbi-detroit-26505, 341×2, 255-T763)  + hygiene batch
 Sources 15-20   DONE  ✓ (cometa, 059uap×3, 38_box7×2)         + hygiene batch 2
 Sources 21-30   DONE  ✓ (38_box7-final, nasa d-cluster ×7, 65 fbi-hq serial-403 + 220)  + hygiene batch 3
 Sources 31-40   DONE  ✓ (fbi-hq 62-83894: serials 438/449/164, sections 1/2/5/4/7 + sub_a)  + hygiene batch 4
-Sources 41-49   DONE  ✓ (fbi-hq 62-83894 COMPLETE: sections 8/3/9/10/6 + dow-uap pr20/d4/d5/d52)
-Sources 50-50   TODO  ⬜ (dow-uap-d7 — last of batch 5)
-Sources 51-60   TODO  ⬜ + hygiene batch 5
-Sources 61-70   TODO  ⬜ + hygiene batch 6
-Sources 71-80   TODO  ⬜ + hygiene batch 7
-Sources 81-85   TODO  ⬜ + hygiene batch 8
+Sources 41-50   DONE  ✓ (fbi-hq 62-83894 COMPLETE: sections 8/3/9/10/6 + dow-uap pr20/d4/d5/d52/d7) + hygiene batch 5 (484033f)
+Sources 51-57   DONE  ✓ (mid-pipeline open-threads triage dfa63c5 → dow-uap d54/d8/d50/d55/d58/d44 + uap-nature synthesis)
+Sources 58-60   TODO  ⬜ (dow-uap d38 → d56 → d60) + hygiene batch 6
+Sources 61-70   TODO  ⬜ + hygiene batch 7
+Sources 71-80   TODO  ⬜ + hygiene batch 8
+Sources 81-85   TODO  ⬜
 Final           TODO  ⬜ /wiki-synthesize + /wiki-dashboard + /wiki-export + /wiki-status
 ```
 
@@ -43,19 +43,31 @@ Final           TODO  ⬜ /wiki-synthesize + /wiki-dashboard + /wiki-export + /w
 - `references/sighting-trans-en-provence-1981`, `references/sighting-air-france-3532-1994`
 - 4 small-fanout institutional placeholders: `oni`, `afswp`, `army-g-2`, `albert-chop` (1 ref each)
 
-## Next-up sources (50-85)
+## Next-up sources (58-85)
 
 ```
-50  dow-uap  1605  d7-mission-report-arabian-gulf-2020    [last of batch 5 → trigger hygiene]
-51-65  dow-uap small mission reports (1.6-9KB each, theaters: arabian gulf, middle east, iran,
-       iraq, syria, greece, east china sea, united arab emirates, gulf of aden, indopacom, persian gulf,
-       strait of hormuz, mediterranean, djibouti, japan)
-66+    dow-uap d3 7060B arabian gulf, ..., d49 264KB launch-summary feb 2000, d48 416KB sep 1996
-       (the last 2 are the largest and likely have the most paradigm content)
-81-85  remaining sources from order file
+58  dow-uap-d38  3771 B  range-fouler-debrief-middle-east-may-2020   [earliest range-fouler]
+59  dow-uap-d56  3883 B  range-fouler-debrief-arabian-sea-aug-2020   [fills May→Oct gap]
+60  dow-uap-d60  6 pp    mission-report-persian-gulf-aug-2020        [class diversity → trigger hygiene 6]
+61-85  remaining 25 dow-uap (order TBD; ~12-15K char mission reports + 2 large d48/d49 chunking-required):
+       d3, d6 (low-yield single datum), d10, d12, d14, d16, d18, d19, d23, d25, d27, d28,
+       d33, d35, d42 (Japan 2023 range-fouler — breaks CENTCOM clustering at N=4),
+       d48 (181pp/252K — chunking), d49 (113pp/15K — chunking), d51 (email N=3),
+       d57 (range-fouler — reclassified from filename), d61, d62, d63, d64, d65, d74, d75
 ```
 
-(Full ordering pinned at `/tmp/wiki_ingest_order.txt`.)
+(Full ordering pinned at `/tmp/wiki_ingest_order.txt`. On loss, regen from `ls sources/ | sort` minus `jq -r '.sources | keys[]' .manifest.json` minus the Dropped list below.)
+
+## Dropped sources (25 files — image-only, no extractable text)
+
+These appear in `sources/` but cannot be ingested via the text-pipeline because Mistral OCR produced only `![img-N.jpeg]` references + a timestamp / `[tbl-0.md]` reference. They are **dropped from scope** rather than parked. Re-OCR or a vision-LLM pass on the underlying JPEGs would be needed to revisit.
+
+```
+fbi-photo-b1.json  ..  fbi-photo-b24.json     (24 files, 478-817 B each, "12/31/99 18:xx:xx" timestamps)
+2024-04-30-composite-sketch.json              (428 B, single [tbl-0.md] reference)
+```
+
+**Filename-misclassification correction:** `dow-uap-d57-mission-report-gulf-of-aden-september-2020.json` is internally a **Range Fouler Reporting Form** (same form variant as d44), not a mission report. Treat as range-fouler artifact for ingest pattern. Filename theater label "gulf of aden" may still be unreliable per the dow-uap series filename-vs-internal pattern.
 
 ## Re-entrancy
 
