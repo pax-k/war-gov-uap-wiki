@@ -2,22 +2,27 @@
 title: UAP–Aircraft Engagement
 category: concepts
 tags: [uap, behavior, military, pattern]
-sources: [sources/usper-statement-redacted.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/dow-uap-d4-mission-report-arabian-gulf-2020.json, sources/dow-uap-d5-mission-report-arabian-gulf-2020.json]
-summary: A UAP behavioral signature in which objects approach, follow, or break off from one aircraft to pursue another. Documented in the corpus as early as 7 Jan 1948 (Mantell — first UAP-attributed pursuit fatality).
+sources: [sources/usper-statement-redacted.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/dow-uap-d4-mission-report-arabian-gulf-2020.json, sources/dow-uap-d5-mission-report-arabian-gulf-2020.json, sources/dow-uap-d7-mission-report-arabian-gulf-2020.json]
+summary: UAP behavioral signature where objects approach, follow, or break off from one aircraft to pursue another. Documented in the corpus from 7 Jan 1948 (Mantell). d7 (2026-05-11) splits the engagement axis into UAP-toward-aircraft + aircraft-toward-UAP classes.
 provenance:
-  extracted: 0.55
-  inferred: 0.40
+  extracted: 0.50
+  inferred: 0.45
   ambiguous: 0.05
-base_confidence: 0.45
+base_confidence: 0.50
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T13:41:53Z
-updated: 2026-05-11T05:00:00Z
+updated: 2026-05-11T11:24:17Z
 ---
 
 # UAP–Aircraft Engagement
 
-A working concept page for **active UAP behavior toward crewed aircraft** — close approach, apparent tracking, breaking-off-to-pursue patterns. Distinct from the more common "passive hover and depart" report class catalogued under [[concepts/orb-phenomenon]].
+A working concept page for **engagement-class behavior between UAP and crewed aircraft**. The axis splits into two complementary classes:
+
+1. **UAP-toward-aircraft engagement** — UAP approaches, tracks, or breaks off from one aircraft to pursue another. The historical anchor (Mantell 1948 → 2025 helicopter-orb) and the focus of the original concept page.
+2. **Aircraft-toward-UAP engagement-pipeline** — *aircraft* enters fire-control engagement state against a UAP track: weapons-quality track acquisition, NEXT TO SHOOT positioning, TFLIR/ATFLIR visual ID, without (or before) weapons release. **Anchored at [[references/dow-uap-d7-mission-arabian-gulf-2020|DoW-UAP-D7]]** as the corpus's first datum.
+
+The two classes are **distinct phenomena** along the same engagement axis. UAP-toward-aircraft is *UAP behavior*; aircraft-toward-UAP is *aircraft operational posture*. Both are distinct from the more common "passive hover and depart" report class catalogued under [[concepts/orb-phenomenon]] and from the brief-observation-class records that dominate the modern Navy mission-report corpus.
 
 ## Operational definition (working)
 
@@ -64,18 +69,37 @@ The [[references/project-sign-incident-summaries-1-100|1–100 bundle]]'s **Inc 
 - The 2026 [[references/western-us-event-2026|Western U.S. Event]] involves **ground-based federal LE witnesses**, not aircraft. The orb-class behaviors there (launching, hovering, briefly transparent) do not include cross-platform engagement.
 - The 2025 helicopter-orb encounter therefore is **not** the corpus's first engagement-class event — but it remains the **strongest multi-sensor (FLIR + NVG + naked eye)** documented case. ^[inferred]
 
-### Negative datum — modern Navy mission-report corpus produces brief-observation-class records, not engagement-class
+### Negative datum on UAP-toward-aircraft — modern dow-uap mission-report corpus produces brief-observation records, not UAP-side engagement
 
-The first two substantive ingests from the [[entities/dow-uap-foia-release|DoW-UAP FOIA release]] — [[references/dow-uap-d4-mission-arabian-gulf-2020|DoW-UAP-D4]] (single sighting at 1258Z, 321 kt, speed-up + eastward turn) and [[references/dow-uap-d5-mission-arabian-gulf-2020|DoW-UAP-D5]] (two sightings: 1354Z 40-kt constant-velocity single-object at FL160-170, and 2243Z 278-kt two-object speed-up + southward turn) — are **brief, kinematics-only Navy mission-report observations**. Across N=2 reports / 3 datums, there is **no close approach**, **no co-location with the aircraft for non-trivial time**, **no target-selection across aircraft**, **no phase-of-flight correlation**, and **no morphology**. None of the three datums meet the 4-criterion engagement-class bar above. ^[inferred]
+The three substantive mission-report ingests from the [[entities/dow-uap-foia-release|DoW-UAP FOIA release]] — [[references/dow-uap-d4-mission-arabian-gulf-2020|DoW-UAP-D4]] (single sighting at 1258Z, 321 kt, speed-up + eastward turn), [[references/dow-uap-d5-mission-arabian-gulf-2020|DoW-UAP-D5]] (two sightings: 1354Z 40-kt constant-velocity single-object at FL160-170, and 2243Z 278-kt two-object speed-up + southward turn), and [[references/dow-uap-d7-mission-arabian-gulf-2020|DoW-UAP-D7]] (single sighting, balloon morphology, wind-borne drift at 31,000 ft MSL, weapons-quality track + NEXT TO SHOOT + TFLIR ID) — are **kinematics-and-morphology mission-report observations** that do **not** record UAP-side engagement-class behavior. Across N=3 reports / 4 datums, there is **no close approach**, **no UAP co-location with the aircraft for non-trivial time**, **no target-selection across aircraft**, **no phase-of-flight correlation**. None of the four datums meet the 4-criterion UAP-toward-aircraft engagement-class bar above. ^[inferred]
 
-This is **expected and useful** as a negative datum at N=2: the modern Navy operational-reporting framework produces **brief-observation-class records** that document a kinematics signature without the close-proximity / multi-aircraft-selection envelope that anchors the engagement class. Engagement-class events should remain a small minority of the modern Navy corpus, distinguished from the broader brief-observation report stream. ^[inferred] If a future `dow-uap-` `d*` ingest documents close approach + cross-aircraft target selection, *that* artifact would promote to engagement-class evidence and supersede this negative datum.
+This is **expected and useful** as a negative datum at N=3: the modern dow-uap operational-reporting framework produces **brief-observation-class records** that document the UAP-side signature without the close-proximity / multi-aircraft-selection envelope that anchors the engagement class. Engagement-class events should remain a small minority of the modern corpus, distinguished from the broader brief-observation report stream. ^[inferred] If a future `dow-uap-` `d*` ingest documents close approach + cross-aircraft target selection by a UAP, *that* artifact would promote to engagement-class evidence and supersede this negative datum.
 
-**Two sub-classes within brief-observation now emerge from `d4` + `d5`** (3 datums, all `^[inferred]`):
+**Three sub-classes within brief-observation now emerge from `d4` + `d5` + `d7`** (4 datums, all `^[inferred]`):
 
 1. **Kinematic-anomaly sub-class** (`d4` sole + `d5`-B): speed-up + course-change at moderate velocity (278–321 kt). Multi-object instance (`d5`-B: 2x POSS UAPS, southward turn) demonstrates this sub-class is **not single-object-restricted**.
 2. **Steady-state cruise sub-class** (`d5`-A only): constant velocity at altitude band normally occupied by airliner traffic, but at velocity (40 kt at FL160-170) **incompatible with conventional-platform envelopes** in that altitude band. The signature here is velocity-altitude *mismatch*, not motion change.
+3. **Prosaic-candidate wind-borne-drift sub-class** (`d7` sole): balloon-class morphology + wind-coupled motion at airliner-stratum altitude (31,000 ft MSL). The signature is **deliberately prosaic** on phenomenology — the report's epistemic significance comes from the *aircraft-side engagement posture* and the *cross-reference to 48FW*, not from anomalous UAP behavior. ^[inferred]
 
-The two sub-classes have **different mechanism-candidate spaces**: kinematic-anomaly suggests propulsion/control beyond conventional envelope; steady-state-velocity-altitude-mismatch suggests platform-type beyond conventional inventory. Whether they share an underlying physics is open. ^[inferred]
+The three sub-classes have **different mechanism-candidate spaces**: kinematic-anomaly suggests propulsion/control beyond conventional envelope; steady-state-velocity-altitude-mismatch suggests platform-type beyond conventional inventory; prosaic-candidate-wind-borne is consistent with conventional balloon platforms (with the residual question of *why* a balloon is being reported through the UAP intake channel). Whether they share an underlying physics is open. ^[inferred]
+
+### Aircraft-toward-UAP engagement-pipeline — anchored at d7 (2026-05-11)
+
+[[references/dow-uap-d7-mission-arabian-gulf-2020|DoW-UAP-D7]] is the corpus's first datum on the **aircraft-side** of the engagement axis. The phrase **"WEAPONS QUALITY 1 TRACK"** + **"NEXT TO SHOOT"** + **"VISUALLY ID THE UAP IN THE TFLIR"** documents that the reporting aircraft entered the fire-control engagement pipeline against a UAP track. Working interpretation of the vocabulary: ^[inferred]
+
+- **Weapons-quality track (WQT, "Cat 1"):** the highest fire-control track-quality grade — sensor lock stable enough to support weapons employment. Lower grades are search-only or track-only.
+- **NEXT TO SHOOT (NTS):** an aircraft is queued/positioned in the engagement order as the next platform to release weapons on the track. NTS is the immediate-precursor state to a weapons release.
+- **TFLIR visual ID:** Targeting Forward-Looking Infrared (the [[entities/ryan-graves|ATFLIR/TFLIR]] family) confirmed the target visually after track acquisition.
+
+The aircraft did **not** fire — the engagement was carried as far as TFLIR visual ID. This is **the data point**: not the weapons-quality lock alone, but the fact that an aircraft entered NTS state against a UAP and the engagement was carried to visual-ID without release. The combination is consistent with rules-of-engagement that require positive identification before release; the balloon-morphology call + wind-borne-drift kinematics provided the basis for declining to engage. ^[inferred]
+
+**Why this is a distinct engagement class:**
+
+- UAP-toward-aircraft criteria (close approach, co-location, target switching, phase-of-flight correlation) describe **UAP behavior** observed from the cockpit. They do not apply to aircraft-side posture.
+- Aircraft-toward-UAP engagement-pipeline describes **aircraft operational state** against the UAP track. The aircraft, not the UAP, is the active party.
+- Both can be present simultaneously (a UAP-toward-aircraft engagement that triggers an aircraft-toward-UAP fire-control response would be a *bidirectional engagement* — none in the corpus yet). ^[inferred]
+
+If a future `dow-uap-` `d*` ingest documents either WQT-and-shoot or a UAP-side close-approach during an NTS state, the bidirectional-engagement class would be anchored. ^[inferred]
 
 ## Open hypotheses (not endorsed)
 
@@ -100,8 +124,9 @@ The two sub-classes have **different mechanism-candidate spaces**: kinematic-ano
 - [[references/sighting-andrews-1948-11]] — first sensor-stimulus-response 1948 engagement-class event (Inc 207)
 - [[references/project-sign-incident-summaries-101-172]] — bundle preserving Inc 144 + Inc 172
 - [[references/project-sign-incident-summaries-173-233]] — bundle preserving Inc 207
-- [[references/dow-uap-d4-mission-arabian-gulf-2020]] — modern Navy negative datum (single sighting, kinematic-anomaly sub-class)
-- [[references/dow-uap-d5-mission-arabian-gulf-2020]] — modern Navy negative datum at N=2 (two sightings; introduces steady-state-cruise + multi-object sub-classes)
-- [[entities/dow-uap-foia-release]] — series-level anchor for modern Navy mission-report corpus
+- [[references/dow-uap-d4-mission-arabian-gulf-2020]] — modern dow-uap negative datum (single sighting, kinematic-anomaly sub-class)
+- [[references/dow-uap-d5-mission-arabian-gulf-2020]] — modern dow-uap negative datum at N=2 (two sightings; introduces steady-state-cruise + multi-object sub-classes)
+- [[references/dow-uap-d7-mission-arabian-gulf-2020]] — **anchors aircraft-toward-UAP engagement-pipeline class** (WQT + NTS + TFLIR ID against balloon-morphology UAP track); introduces prosaic-candidate sub-class within brief-observation
+- [[entities/dow-uap-foia-release]] — series-level anchor for modern dow-uap mission-report corpus
 - [[synthesis/federal-le-uap-witness-pattern]]
 - [[projects/uap/uap]]

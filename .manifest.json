@@ -1417,20 +1417,44 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/dow-uap-d7-mission-report-arabian-gulf-2020.json": {
+      "ingested_at": "2026-05-11T11:24:17Z",
+      "size_bytes": 1605,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:60953738d34fcec11bfd152607e4c7e369c617fb1342cb8a3ac45e230e222ecd",
+      "source_id": "dow-uap-d7-mission-arabian-gulf-2020",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap",
+      "series_position": "5-of-40",
+      "signal_class": "aircraft-side-engagement-pipeline + prosaic-candidate",
+      "mgrs_zones": [],
+      "pages_created": [
+        "references/dow-uap-d7-mission-arabian-gulf-2020.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-11T10:30:00Z",
-      "sources_ingested": 43
+      "last_ingested": "2026-05-11T11:24:17Z",
+      "sources_ingested": 44
     }
   },
   "stats": {
-    "total_sources_ingested": 50,
-    "total_pages": 320,
+    "total_sources_ingested": 51,
+    "total_pages": 321,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T10:30:00Z"
+    "last_ingest_at": "2026-05-11T11:24:17Z"
   }
 }

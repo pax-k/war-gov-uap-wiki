@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-11T10:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-11T11:24:17Z*
 
 ## Concepts
 
@@ -177,6 +177,8 @@ title: Wiki Index
 - [[references/barker-1956-they-knew-too-much]] — Reference-stub for Gray Barker's 1956 *They Knew Too Much About Flying Saucers* (University Books NYC); wiki holds only the publisher's jacket copy via FBI HQ 62-HQ-83894 serial 403; introduces the *"three men in dark suits"* / MIB trope into commercial publication ( #uap #civilian-research #primary-source #rhetoric)
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — 1-page DoD Office of Prepublication and Security Review clearance stamp (10 Mar 2026); cover artifact for the otherwise-unannotated "DoW-UAP" FOIA-release series; opening anchor of the series in the wiki ( #uap #primary-source #declassified #dod #ocr)
 - [[references/dow-uap-d4-mission-arabian-gulf-2020]] — 5-page Mistral-OCR'd Navy mission report (filename-labeled "Arabian Gulf, 2020"); single GENTEXT/UAP datum — 1258Z brief observation, 321 kt, speed-up + eastward turn; first substantive `d*` ingest of the DoW-UAP series; flags filename-vs-internal-coordinate geographic mismatch ( #uap #primary-source #declassified #navy #dod)
+- [[references/dow-uap-d5-mission-arabian-gulf-2020]] — 6-page Mistral-OCR'd Navy mission report (filename-labeled "Arabian Gulf, 2020"); two GENTEXT/UAP datums — 1354Z 40-kt constant-velocity single-object at FL160-170 and 2243Z 278-kt two-object speed-up + southward turn; second substantive `d*` ingest of the DoW-UAP series; confirms filename-vs-internal-coordinate mismatch at N=2 ( #uap #primary-source #declassified #navy #dod)
+- [[references/dow-uap-d7-mission-arabian-gulf-2020]] — 6-page Mistral-OCR'd mission report (filename-labeled "Arabian Gulf, 2020"); single GENTEXT/UAP datum — balloon-morphology UAP at 31,000 ft MSL traveling with winds, "WEAPONS QUALITY 1 TRACK" + "NEXT TO SHOOT" + TFLIR visual ID, cross-references "PREVIOUSLY REPORTED UAP FROM 48FW"; third substantive `d*` ingest of the DoW-UAP series; introduces morphology + aircraft-toward-UAP fire-control engagement-pipeline + 48FW USAF cross-reference; revises portion-marking (SECRET) and position anchor (bearing-only) ( #uap #primary-source #declassified #dod #military)
 - [[references/dow-uap-d52-email-na-2024]] — 2-page Mistral-OCR'd intra-DoD email thread negotiating UNCLASS tear-line year approval for a 31 Oct 2024 USAF UAP sighting; PAROC Intel Data Analysis Technician at 15 AF / DET 1 ↔ Information Disclosure Analyst; first non-mission-report and first USAF-originating ingest of the DoW-UAP series (oval/orb, low speed, >2 hours eyes-on) ( #uap #primary-source #declassified #usaf #sighting)
 - [[references/dos-cable-kazakhstan-1994-01]] — Declassified 3-page UNCLAS US State Department cable (31 Jan 1994, DUSHANBE 00259) on Tajik Air pilots' UAP encounter at FL410 over Kazakhstan ( #uap #primary-source #state-department)
 - [[references/dos-cable-mexico-2023-09]] — Declassified 7-page UNCLAS US State Department cable (16 Sep 2023, MEXICO 2544) — Mission Mexico's weekly political blotter ¶11 reports the 12 Sep 2023 Mexican Congress UAP hearing with Maussan + Graves; first sub-pattern-C anchor of the diplomatic-channel umbrella ( #uap #primary-source #declassified #state-department #diplomacy)
