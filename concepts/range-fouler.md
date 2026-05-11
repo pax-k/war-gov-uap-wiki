@@ -3,33 +3,36 @@ title: "Range Fouler"
 category: concepts
 tags: [uap, navy, military, behavior, pattern]
 aliases: [range fouler, range-fouler, RF, range foulers]
-sources: [sources/dow-uap-d58-range-fouler-debrief-na-october-2020.json, sources/dow-uap-d44-range-fouler-arabian-sea-october-2020.json, sources/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.json]
-summary: Navy / naval-aviation operational concept for unauthorized contacts intruding on a training range or operational area, prompting directed intercept identification or passive ISR observation. Anchored at N=3 by d38 (14 May 2020 Persian Gulf) + d44 (15 Oct 2020 Gulf of Aden) + d58 (27 Oct 2020) — class confirmed on structural axes; capability signature DIVERGES with d58 isolated at 1-of-3; passive-ISR sub-class dominates at 2-of-3.
+sources: [sources/dow-uap-d58-range-fouler-debrief-na-october-2020.json, sources/dow-uap-d44-range-fouler-arabian-sea-october-2020.json, sources/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.json, sources/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.json]
+summary: Navy / naval-aviation operational concept for unauthorized contacts intruding on a training range or operational area, prompting directed intercept identification or passive observation. Anchored at N=4 by d38 (May 2020 Persian Gulf) + d56 (Aug 2020 North Arabian Sea HSM-73 — first internal Navy user) + d44 (Oct 2020 Gulf of Aden) + d58 (Oct 2020) — class structure-CONFIRMED on 13-of-13 axes; capability DIVERGES with d58 isolated at 1-of-4; passive sub-class dominates at 3-of-4.
 provenance:
-  extracted: 0.50
-  inferred: 0.45
+  extracted: 0.52
+  inferred: 0.43
   ambiguous: 0.05
-base_confidence: 0.75
+base_confidence: 0.80
 lifecycle: stable
 lifecycle_changed: 2026-05-11
 created: 2026-05-11T21:00:00Z
-updated: 2026-05-11T23:00:00Z
+updated: 2026-05-11T23:30:00Z
 project: uap
 ---
 
 # Range Fouler
 
-A **Navy / naval-aviation operational concept** for unauthorized contacts — aircraft, drones, balloons, or other unidentified objects — intruding on or near a designated training range or operational area, prompting directed intercept identification by airborne fighter or ISR assets, or passive ISR observation by a loitering platform.
+A **Navy / naval-aviation operational concept** for unauthorized contacts — aircraft, drones, balloons, or other unidentified objects — intruding on or near a designated training range or operational area, prompting directed intercept identification by airborne fighter or ISR assets, or passive observation by a loitering platform.
 
-**Anchored at N=3** in the wiki corpus by:
+**Anchored at N=4** in the wiki corpus by:
 
 - [[references/dow-uap-d38-range-fouler-middle-east-may-2020|DoW-UAP-D38]] (**14 May 2020 2040Z night ISR tasking**, Persian Gulf coast near Ras Tanura / Bahrain margin ^[inferred]; 1X round IR-cold "solid white" object on Black-Hot polarity at ~20,000 ft over water; intermittent track + 4× zoom + erratic in-track movements; sensor-operator narrative; **earliest range-fouler in the corpus** — 5 months before d44/d58)
+- [[references/dow-uap-d56-range-fouler-arabian-sea-august-2020|DoW-UAP-D56]] (**24 Aug 2020 0004Z night SSC mission, HSM-73 MH-60R Seahawk** ^[inferred], North Arabian Sea; **first internal Navy user anchor in the range-fouler subset**; 3X round-plus-Wings/Airframe contacts on westerly formation-flying heading; **negative ES, radar track, IFF track** triple-negative passive sensor signature; **no interaction**)
 - [[references/dow-uap-d44-range-fouler-arabian-sea-october-2020|DoW-UAP-D44]] (15 Oct 2020 1418Z daytime Gulf of Aden encounter, 172 ATKS Michigan ANG MQ-9 Reaper user ^[inferred], 1X round IR-cold contact at ~140 ft over sea surface ^[inferred], 73-second track with abrupt directional changes)
 - [[references/dow-uap-d58-range-fouler-debrief-2020-10|DoW-UAP-D58]] (27 Oct 2020 0112Z night DCA encounter, 77 EFS user, 2X balloon-shaped metallic UAPs with red blinking strobes, 16.9 NM standoff, 1/30-s disappearance, noise jamming received)
 
-**N=3 validation outcome**: the document class is **CONFIRMED on structural axes** (form schema, SPEAR intake pipeline, Navy-aviation form-template attribution, filename convention) and **DIVERGES further on capability-signature axes** at N=3 — d58's capability triad (sub-frame disappearance + active EW + standoff maintenance) is now isolated at **1-of-3 attestations**. The class catalogs **the full range-intrusion event distribution**; d58 is the high-anomaly tail and d38 + d44 are the lower-anomaly mid-distribution. The passive-ISR-observation sub-class (d38 + d44) is now the **dominant sub-class** within the range-fouler-debrief document class at 2-of-3.
+**N=4 validation outcome**: the document class is **CONFIRMED on 13-of-13 testable schema axes** (form schema, SPEAR intake pipeline, Navy-aviation form-template attribution, filename convention, EA Indications block, mission classification, etc.). **DIVERGES on capability-signature axes** — d58's capability triad (sub-frame disappearance + active EW + standoff maintenance) is now isolated at **1-of-4 attestations**. The class catalogs **the full range-intrusion event distribution**; d58 is the high-anomaly tail and d38 + d44 + d56 are the lower-anomaly mid-distribution. The passive-observation sub-class (d38 + d44 + d56) is now the **dominant sub-class** within the range-fouler-debrief document class at 3-of-4 — **anchored across two platform configurations** (fixed-wing ISR via d38 + d44; rotary-wing maritime SSC via d56).
 
-**At N=3 the release framework is no longer byte-for-byte uniform within the class.** d55 + d58 + d44 share `MDR 26-0038 to 26-0046` + `03/27/26 000001`; **d38 carries a distinct block** `MDR 26-0019` + `01/26/26 001`. The "byte-for-byte recurrence at N=3" finding previously committed to the corpus (from the d44 ingest) is **partial at N=4** of release-block-testable artifacts. The release framework is per-MDR-case-allocation, not per-tranche-uniform. ^[inferred]
+**At N=5 release-block-testable, Block A firms to 4-of-5 dominance.** d55 + d58 + d44 + **d56** all share `MDR 26-0038 to 26-0046` + `03/27/26 000001` (Block A); **d38 alone carries Block B** (`MDR 26-0019` + `01/26/26 001`). The d56 ingest **firms the per-MDR-case-allocation reading** (from d38) and **reveals the Block A/Block B split as asymmetric** — Block A is the dominant allocation in the dow-uap range-fouler+mission-record subset; d38 is the lone Block B outlier. ^[inferred]
+
+**HSM-73 is the headline finding at N=4**: previous range-fouler attestations were filled by USAF Active (d58) + USAF ANG (d44) + unattributed (d38) users on a Navy-aviation form. d56's HSM-73 (Helicopter Maritime Strike Squadron 73 "Battlecats", Navy MH-60R Romeo Seahawk community) ^[inferred] anchors the **first internal Navy user** within the range-fouler debrief class, closing the Navy-form-vs-Navy-user attribution gap and validating the Navy-aviation-origination reading at the user level (not only at the template level). Multi-service originating-anchor count for the dow-uap corpus rises to **7 at N=13 ingests**: 5 USAF (4 Active + 1 ANG) + **2 Navy** (P-8A/TF 67.1 fixed-wing from d55 + MH-60R/HSM-73 rotary-wing from d56) + Navy-aviation form-template attribution.
 
 ## Working definition
 
@@ -39,32 +42,37 @@ A **range fouler** is, in Navy / naval-aviation usage:
 2. **Intruding on a designated airspace area** — typically a warning area (e.g. `W-72 1A` per the [[references/dow-uap-d58-range-fouler-debrief-2020-10|d58 form's]] example field) or a CENTCOM-AOR training-range corridor.
 3. **Requiring positive identification** — either to clear the range for the planned activity, to ascertain identity (commercial overflight, foreign military, hostile, anomalous), or to remove the contact from the operational area.
 
-The term is **Navy / naval-aviation-community vocabulary** ^[inferred] — the d58 + d44 + d38 forms' pre-printed sensor option set (`AIM-9x Self-Track`, `ATFLIR Autotrack`) and template-example filename (`4 May VFA-106 HUD.wmv`) anchor the form in the F/A-18 community. The d58 user is USAF Active Component (77 EFS Expeditionary Fighter Squadron); the d44 user is USAF Reserve Component (172 ATKS Michigan ANG MQ-9 Reaper community ^[inferred]); the d38 user is unattributed (squadron field blank in OCR). The form is **extended for joint-service use** in CENTCOM AOR across at least three components at N=2 ^[inferred].
+The term is **Navy / naval-aviation-community vocabulary** ^[inferred] — the d58 + d44 + d38 + d56 forms' pre-printed sensor option set (`AIM-9x Self-Track`, `ATFLIR Autotrack`) and template-example filename (`4 May VFA-106 HUD.wmv`) anchor the form in the Navy F/A-18 / VFA-106 FRS community. At N=4 the user-service distribution is: d58 = USAF Active Component (77 EFS); d44 = USAF Reserve Component (172 ATKS Michigan ANG MQ-9 Reaper ^[inferred]); d38 = unattributed (squadron field blank in OCR); **d56 = US Navy** (HSM-73 Helicopter Maritime Strike Squadron 73 "Battlecats", MH-60R Romeo Seahawk community) ^[inferred]. The form is **anchored as Navy-aviation-originated AND Navy-user-attested** at N=1 with d56, while remaining **extended for joint-service use** by USAF Active + ANG at 2-of-4 attestations.
 
-**The term "range fouler" is institutional-form vocabulary, not pilot/operator vernacular** — strengthened at N=2 by d38. The form's title uses it; pilots/operators may pick it up (d58 narrative) or use generic "object/contact" language (d44 + d38 narratives both use generic language). 2 of 3 witness narratives at N=3 use the generic vernacular; only d58 picks up the form's headline term. ^[inferred]
+**The term "range fouler" is institutional-form vocabulary, not pilot/operator vernacular** — firmed at N=3 by d56. The form's title uses it; pilots/operators may pick it up (d58 narrative) or use generic "air contact" / "object" / "contact" language (d56 + d44 + d38 narratives all use generic language). 3 of 4 witness narratives at N=4 use the generic vernacular; only d58 picks up the form's headline term. ^[inferred]
 
 ## Why "range fouler" is a meaningful behavioral category for the UAP corpus
 
 The Navy-operational usage encompasses prosaic intrusions (lost commercial aircraft, foreign drones, weather balloons) **and** anomalous intrusions. The class catalogs both ends of the distribution — d38 + d44 sit closer to the prosaic-candidate-compatible end (slow IR-cold "solid/bright white" objects on Black-Hot polarity with in-track kinematic anomaly, readable as drone / kite / controlled balloon / anomalous) while d58 sits at the high-anomaly tail (radar evasion + active EW + standoff maintenance triad).
 
-**Anomaly signature distribution at N=3:**
+**Anomaly signature distribution at N=4:**
 
-| Signature | d58 | d44 | d38 | At-N=3 verdict |
-|---|---|---|---|---|
-| Sub-second disappearance | ☑ (1/30 s) | ☐ (bounded 73-s track) | ☐ (intermittent lose-and-reacquire) | **d58-isolated at 1-of-3** |
-| Active EW reception | ☑ (noise jamming, two-chevron RWR) | ☐ (all 5 EA boxes unchecked) | ☐ (all 5 EA boxes unchecked) | **d58-isolated at 1-of-3** |
-| Standoff floor enforcement | ☑ (16.9 NM minimum) | n/a (passive observation) | n/a (passive observation) | **d58-isolated at 1-of-3** |
-| Multi-object with intra-group interaction | ☑ (2 contacts, one circling other) | ☐ (1 contact) | ☐ (1 contact) | **d58-isolated at 1-of-3** |
-| Radar lock + visual tally | ☑ | ☐ (IR-only, no tally) | ☐ (IR-only, no tally) | **d58-isolated at 1-of-3** |
-| Slow drift (low-Mach kinematics) | ☑ (060°/20 KT) | ☑ (261°/30 mph, 319°/20 mph) | (not captured; narrative `erratic moments`) | confirmed at N=2 (d44 + d58); d38 silent |
-| Kinematic anomaly (in-track) | ☑ (sub-second exit) | ☑ (abrupt directional changes) | ☑ (erratic movements + intermittent track) | **CONFIRMED at N=3** but anomaly classes differ |
-| IR-cold thermal polarity (Black Hot + bright/white object) | ☐ (red blinking strobes, visible-light) | ☑ (bright-white-on-Black-Hot) | ☑ (solid-white-on-Black-Hot) | **IR-cold anchors at N=2 (d38+d44)** |
-| Round-only morphology checkbox | ☐ (5 checkboxes) | ☑ (sole Round) | ☑ (sole Round) | **Round-only anchors at N=2 (d38+d44)** |
-| Passive ISR observation posture | ☐ (DCA intercept) | ☑ (MTS-B turret loiter) | ☑ (ISR tasking) | **passive-ISR anchors at N=2 (d38+d44)** |
-| Mission descriptor | DCA | (not captured) | ISR | DCA + ISR at N=2 captured |
-| Bounded encounter duration | n/a (sub-second exit) | ☑ (73 sec start-to-end) | (not captured) | d44-introduced |
-| Intermittent trackfile | ☐ (Stable Yes) | ☐ (blank) | ☑ (Intermittent + lose-and-reacquire) | **d38-introduced datum** |
-| Sensor zoom + operator manipulation | ☐ | ☐ | ☑ (4× zoom + sensor-operator slewing) | **d38-introduced datum** |
+| Signature | d58 | d44 | d38 | d56 | At-N=4 verdict |
+|---|---|---|---|---|---|
+| Sub-second disappearance | ☑ (1/30 s) | ☐ (bounded 73-s track) | ☐ (intermittent lose-and-reacquire) | ☐ (lost-behind-cloud then regained with 2X additional) | **d58-isolated at 1-of-4** |
+| Active EW reception | ☑ (noise jamming, two-chevron RWR) | ☐ (all 5 EA boxes unchecked) | ☐ (all 5 EA boxes unchecked) | ☐ (all 5 EA boxes unchecked) | **d58-isolated at 1-of-4** |
+| Standoff floor enforcement | ☑ (16.9 NM minimum) | n/a (passive observation) | n/a (passive observation) | n/a (passive SSC, distance unknown) | **d58-isolated at 1-of-4** |
+| Multi-object with intra-group interaction | ☑ (2 contacts, one circling other) | ☐ (1 contact) | ☐ (1 contact) | ☑ (3 contacts, formation-flying — maintain relative course/speed/altitude) | **multi-object kinematics at 2-of-4 (d58 + d56) — distinct types** |
+| Radar lock + visual tally | ☑ | ☐ (IR-only, no tally) | ☐ (IR-only, no tally) | ☐ (negative radar track, no tally) | **d58-isolated at 1-of-4** |
+| Slow drift (low-Mach kinematics) | ☑ (060°/20 KT) | ☑ (261°/30 mph, 319°/20 mph) | (not captured; narrative `erratic moments`) | partial (270° heading, speed UNK) | confirmed at N=2 explicit; partial at d56+d38 |
+| Kinematic anomaly (in-track) | ☑ (sub-second exit) | ☑ (abrupt directional changes) | ☑ (erratic movements + intermittent track) | ☑ (formation-flying with lost-then-regained + 2X-additional-emerging) | **CONFIRMED at N=4** but 4 distinct anomaly types |
+| IR-cold thermal polarity (Black Hot + bright/white object) | ☐ (red blinking strobes, visible-light) | ☑ (bright-white-on-Black-Hot) | ☑ (solid-white-on-Black-Hot) | (not captured — passive night SSC, no narrative thermal-polarity attestation) | **IR-cold anchors at N=2 (d38+d44)** unchanged by d56 |
+| Round morphology checkbox | ☐ (5 checkboxes) | ☑ (sole Round) | ☑ (sole Round) | ☑ (Round + Wings/Airframe — dual check) | **Round anchors at 3-of-4 (d56+d44+d38)** — dominant morphology |
+| Dual-morphology check | ☐ | ☐ | ☐ | ☑ (Round + Wings/Airframe) | **d56-introduced datum** |
+| Passive observation posture | ☐ (DCA intercept) | ☑ (MTS-B turret loiter) | ☑ (ISR tasking) | ☑ (SSC tasking) | **passive sub-class anchors at 3-of-4** (dominant) |
+| Mission descriptor | DCA | (not captured) | ISR | SSC | DCA + ISR + SSC at N=3 captured — three distinct missions |
+| Bounded encounter duration | n/a (sub-second exit) | ☑ (73 sec start-to-end) | (not captured) | (not captured) | d44-introduced |
+| Intermittent trackfile | ☐ (Stable Yes) | ☐ (blank) | ☑ (Intermittent + lose-and-reacquire) | ☐ (No — explicit negative track) | **Stable-Trackfile values at N=4: Yes / Intermittent / No / blank — full distribution** |
+| Sensor zoom + operator manipulation | ☐ | ☐ | ☑ (4× zoom + sensor-operator slewing) | ☐ | **d38-introduced datum** |
+| Triple-negative sensor channel (Negative ES + radar + IFF) | ☐ | ☐ | ☐ | ☑ (Negative ES, Negative radar track, Negative IFF track) | **d56-introduced datum** |
+| Formation-flying (multi-object kinematic coordination) | ☐ (circling — different type) | n/a (single) | n/a (single) | ☑ (3 contacts maintain relative course/speed/altitude) | **d56-introduced datum** |
+| Rotary-wing platform | ☐ (manned fighter) | ☐ (UAV/MQ-9) | ☐ (fixed-wing ISR unattributed) | ☑ (HSM-73 MH-60R Romeo Seahawk ^[inferred]) | **d56-introduced datum** |
+| Internal Navy user | ☐ (USAF Active) | ☐ (USAF ANG ^[inferred]) | ☐ (unattributed) | ☑ (HSM-73 US Navy ^[inferred]) | **d56-introduced datum — first Navy user in range-fouler subset** |
 
 When an unidentified range-fouler contact:
 
@@ -75,34 +83,37 @@ When an unidentified range-fouler contact:
 
 …the contact escalates from *prosaic range fouler* (resolvable through standard ID-and-clear procedures) to **anomalous range fouler** — which the [[entities/dow-uap-foia-release|DoW-UAP FOIA release series]] explicitly catalogs as a UAP-class concern (the form is titled "Range Fouler Reporting Form" / "Range Fouler Debrief Form" — see *Form title variants* below — and routes through Navy SPEAR sanitization + USCENTCOM MDR + AARO release).
 
-## Form title variants at N=3 — form-version-evolution reading rejected by non-monotonicity
+## Form title variants at N=4 — Debrief variant firms as dominant
 
-The three range-fouler-debrief artifacts in the corpus carry **two distinct form titles in non-monotonic temporal order**:
+The four range-fouler-debrief artifacts in the corpus carry **two distinct form titles in non-monotonic temporal order**:
 
 | Source | Date | Form title (verbatim) |
 |---|---|---|
 | **d38 (14 May 2020)** | **earliest** | **`# Range Fouler Debrief Form`** |
-| d44 (15 Oct 2020) | middle | `# Range Fouler Reporting Form` |
+| **d56 (24 Aug 2020)** | second | **`# Range Fouler Debrief Form`** |
+| d44 (15 Oct 2020) | third | `# Range Fouler Reporting Form` |
 | d58 (27 Oct 2020) | latest | `# Range Fouler Debrief Form` |
 
-**At N=3 the form-version-evolution reading is rejected for non-monotonicity** — the title sequence is Debrief → Reporting → Debrief, not a monotonic rename in either direction. The d44 page (and an earlier version of this concept page) had previously committed to "form-version evolution most probable given 12-day spread"; d38 falsifies that reading because the earliest artifact (May 2020) carries the same title as the latest (Oct 27) but not the middle (Oct 15) ^[inferred].
+**At N=4 the form-version-evolution reading remains rejected for non-monotonicity** — the title sequence is Debrief → Debrief → Reporting → Debrief, not a monotonic rename in either direction. The d56 addition (Aug 2020 Debrief) firms the non-monotonic pattern; the d44 Reporting variant is **temporally bracketed** between Debrief attestations on both sides.
 
-Two readings remain live ^[ambiguous]:
+At N=4 the **Debrief variant firms as dominant** at 3-of-4 (d38 + d56 + d58); d44 is the lone Reporting attestation.
 
-1. **Two co-existing form variants in parallel** — SPEAR maintained both a `Reporting Form` and a `Debrief Form` simultaneously through at least May–Oct 2020. The two variants were assigned to different events, different intake operators, or different witness contexts rather than evolved chronologically. **Most probable at N=3** ^[inferred] given the non-monotonic ordering. The two-variant distribution at N=3 is 2 Debrief (d38 + d58) + 1 Reporting (d44).
-2. **OCR variance** — at least one of the three OCR passes mistranscribed the title; the underlying form text is identical. Three OCR passes producing two internally-consistent renderings (one Reporting, two Debrief) is less consistent with three independent OCR errors than with two genuine variants. Weak at N=3.
+Two readings remain live ^[ambiguous] and the dominant reading firms:
 
-The class can be unified at the schema level regardless — the form bodies (instruction block, identity grid, event metadata, position grid, sensor+track grid, morphology checkboxes, narrative, submission instructions, SPEAR clause) match byte-for-byte at N=3 modulo the title. (The release-framework block does NOT match at N=3 — see *Release framework at N=4* below.)
+1. **Two co-existing form variants in parallel** — SPEAR maintained both a `Reporting Form` and a `Debrief Form` simultaneously through at least May–Oct 2020. The two variants were assigned to different events, different intake operators, or different witness contexts rather than evolved chronologically. **Firms as most probable at N=4** ^[inferred] given the non-monotonic ordering and the Debrief dominance. Distribution at N=4: **3 Debrief (d38 + d56 + d58) + 1 Reporting (d44)**.
+2. **OCR variance** — at least one of the four OCR passes mistranscribed the title; the underlying form text is identical. Four OCR passes producing two internally-consistent renderings (one Reporting, three Debrief) is now less plausible than at N=3 — multiple independent OCR errors producing one consistent variant (Debrief) is implausible. **Weakens further at N=4.**
+
+The class can be unified at the schema level regardless — the form bodies (instruction block, identity grid, event metadata, position grid, sensor+track grid, morphology checkboxes, narrative, submission instructions, SPEAR clause) match byte-for-byte at N=4 modulo the title. (The release-framework block does NOT match at N=4 — see *Release framework at N=5* below.)
 
 ## Range-fouler vs other UAP-encounter framings
 
-The dow-uap series carries **three top-level mission-record document classes** at N=12 ingests:
+The dow-uap series carries **three top-level mission-record document classes** at N=13 ingests:
 
 | Class | Anchor | Distinguishing feature |
 |---|---|---|
 | Mission report — USMTF GENTEXT/UAP | d4 + d5 + d7 + d54 + d8 | Narrative segment in standard military-text format; emphasizes UAP kinematic + morphology description |
 | Mission report — CTG narrative | d55 | BLUF / Timeline / Weather / Comments; carries explicit prosaic-candidate identification by the originating CTG |
-| **Range-fouler debrief** | **d38 + d44 + d58 (N=3 confirmed)** | **Fielded form** with pre-printed schema; emphasizes intercept-or-observation posture + sensor-channel acquisition + range-management context |
+| **Range-fouler debrief** | **d38 + d56 + d44 + d58 (N=4 confirmed)** | **Fielded form** with pre-printed schema; emphasizes intercept-or-observation posture + sensor-channel acquisition + range-management context |
 
 The **range-fouler debrief class is distinct from the mission-report class** in three structural ways:
 
@@ -110,11 +121,11 @@ The **range-fouler debrief class is distinct from the mission-report class** in 
 2. **Range-management context, not theater-mission context** — mission reports document a UAP encountered *during* a mission (DCA, CAS, BFM, RTB). Range-fouler debriefs document a UAP encountered *because* the UAP intruded on the operational area, prompting an unscheduled intercept or persistent ISR observation.
 3. **Centralized SPEAR intake** — the form's instruction block routes submissions to a single email address (FOIA-`(b)(6)` redacted) for analysis. The SPEAR program (^[inferred] Navy-aviation intelligence-analysis pipeline) sanitizes each form on receipt — a different intake pathway from the USMTF mission-report flow. **Confirmed at N=2** with d44.
 
-## Two distinct in-class behavioral sub-classes at N=3 — sub-class B is dominant
+## Two distinct in-class behavioral sub-classes at N=4 — sub-class B is dominant at 3-of-4
 
-The d38 + d44 + d58 trio anchors **two distinct in-class behavioral sub-classes** within the range-fouler-debrief document class. Sub-class B (passive-ISR-observation) is now **dominant at 2-of-3 attestations**.
+The d38 + d56 + d44 + d58 quartet anchors **two distinct in-class behavioral sub-classes** within the range-fouler-debrief document class. Sub-class B (passive-observation) is now **dominant at 3-of-4 attestations** with **two platform configurations** anchored.
 
-### Sub-class A: range-fouler-attempted-ID (d58 only at N=3)
+### Sub-class A: range-fouler-attempted-ID (d58 only at N=4)
 
 - **Aircraft posture**: directed intercept-for-identification (DCA mission, KINGPIN tasking).
 - **Aircraft platform**: manned fighter (F/A-18 or similar; 77 EFS).
@@ -122,25 +133,33 @@ The d38 + d44 + d58 trio anchors **two distinct in-class behavioral sub-classes*
 - **Closure attempt**: yes; blocked at 16.9 NM standoff floor.
 - **Anomaly signature**: sub-second disappearance + active EW reception + standoff maintenance triad.
 - **Engagement-pipeline alignment**: intercept-blocked (not weapons-quality).
-- **Attestations at N=3**: 1 (d58 only) — **isolated at N=3**.
+- **Attestations at N=4**: 1 (d58 only) — **isolated at N=4**.
 
-### Sub-class B: range-fouler-passive-ISR-observation (d44 + d38 at N=2 — dominant)
+### Sub-class B: range-fouler-passive-ISR-observation (d44 + d38 + d56 at N=3 — dominant)
 
-- **Aircraft posture**: passive ISR observation / ISR tasking. No intercept attestation.
-- **Aircraft platform**: EO/IR turret-equipped ISR platform — d44 = MQ-9 Reaper ^[inferred]; d38 = unattributed but compatible with P-8A / MQ-9 / MQ-4C / RQ-4 / EP-3 / rotary-wing ISR ^[inferred].
-- **Sensor channels**: EO/IR turret on Black-Hot polarity; d44 narrative confirms MTS-B IR-channel; d38 narrative confirms IR turret + 4× zoom + Lin gain mode + ULTN mode-token; no radar, no AIM-9X, no ATFLIR, no tally in either.
-- **Closure attempt**: none in both; observed passively.
-- **Anomaly signature**: in-track kinematic anomaly (d44 = abrupt directional changes during bounded 73-sec encounter; d38 = erratic movements + intermittent track with lose-and-reacquire); zero EA reception in both (5-row EA Indications block structurally confirmed at N=2 in pre-printed form schema); **IR-cold thermal polarity** in both (bright/solid-white on Black-Hot = colder-than-ambient).
+- **Aircraft posture**: passive non-intercept observation. Mission descriptors at N=3: ISR (d38) + ISR (d44 — MTS-B passive loiter ^[inferred]) + **SSC** (d56 — Surface Search and Control). No intercept attestation in any.
+- **Aircraft platform — TWO CONFIGURATIONS at N=3**:
+  - **Fixed-wing ISR (d38 + d44)** — EO/IR turret-equipped: d44 = MQ-9 Reaper ^[inferred]; d38 = unattributed but compatible with P-8A / MQ-9 / MQ-4C / RQ-4 / EP-3 ^[inferred].
+  - **Rotary-wing maritime surveillance (d56)** — **HSM-73 MH-60R Romeo Seahawk** ^[inferred] (Navy maritime-strike helicopter). First rotary-wing platform in the range-fouler subset.
+- **Sensor channels**:
+  - d44 + d38 = EO/IR turret on Black-Hot polarity (IR-cold morphology call); d44 MTS-B IR-only; d38 IR turret + 4× zoom + Lin gain mode + ULTN mode-token.
+  - **d56 = passive triple-negative sensor channel — Negative ES, Negative radar track, Negative IFF track** ^[inferred] (AN/ALQ-210 ESM + AN/APS-153 radar + Mode S transponder receiver — all returned no track on the contacts). Distinct from d44+d38's active-IR-tracking pattern; d56 is fully-passive observation.
+- **Closure attempt**: none in any; observed passively. d56's narrative explicit: `No interaction took place between 1.4a and the unknown air contacts`.
+- **Anomaly signature**:
+  - d44: in-track abrupt directional changes during bounded 73-sec encounter; IR-cold + Round + Black-Hot.
+  - d38: erratic in-track movements + intermittent track with lose-and-reacquire; IR-cold + Round + Black-Hot + 4× zoom.
+  - **d56: lost-behind-cloud then regained with 2X additional contacts emerging due east; formation-flying 3-contact group maintaining relative course/speed/altitude; westerly heading + speed UNK; Round + Wings/Airframe dual-morphology**. d56 distinguishes within the sub-class by **multi-object formation kinematics** + **dual-morphology** + **triple-negative sensor channel**.
+  - **Zero EA reception** in all three (5-row EA Indications block all-unchecked — structurally confirmed at N=3 in pre-printed form schema).
 - **Engagement-pipeline alignment**: passive observation (no engagement attempt).
-- **Attestations at N=3**: 2 (d44 + d38) — **dominant at N=3**.
+- **Attestations at N=4**: 3 (d44 + d38 + d56) — **dominant at N=4**.
 
-The two sub-classes diverge on **aircraft posture × platform × sensor channels × closure × anomaly signature**, but converge on **slow-kinematic baseline, single-event range-intrusion framing, SPEAR intake routing, AARO release pathway, and CENTCOM-AOR placement**. ^[inferred] The sub-class B IR-cold + round + single-contact + Black-Hot signature is a **within-class behavioral cluster** at N=2 attestations ^[inferred] — both passive-ISR-observation events in the corpus produce the same morphology + thermal-polarity signature.
+The two sub-classes diverge on **aircraft posture × platform × sensor channels × closure × anomaly signature**, but converge on **single-event range-intrusion framing, SPEAR intake routing, AARO release pathway, and CENTCOM-AOR placement**. ^[inferred] **Within sub-class B**, the d38+d44 IR-cold + Round + single-contact + Black-Hot signature is a **fixed-wing ISR behavioral cluster** at N=2; **d56 anchors a distinct rotary-wing-SSC variant** with multi-object + dual-morphology + triple-negative-sensor signature. Sub-class B at N=3 spans **two platform configurations** (fixed-wing ISR + rotary-wing SSC) and **two within-class signatures** (single-contact IR-cold-Black-Hot fixed-wing vs multi-object formation-flying rotary-wing). ^[inferred]
 
-## Release framework at N=4 — two distinct allocations within the dow-uap range-fouler subset
+## Release framework at N=5 — Block A firms to 4-of-5 dominant; d38 Block B isolated
 
-d38's release block **does not match** d44/d58's block. The "byte-for-byte release-block recurrence at N=3" finding (d55 + d58 + d44 share `MDR 26-0038 to 26-0046` + `03/27/26 000001`) is **partial at N=4** of release-block-testable artifacts:
+d56 carries **Block A**, matching d55+d58+d44 byte-for-byte. The Block A/Block B split anchored at the d38 ingest now reveals as **asymmetric** at N=5 release-block-testable: Block A is the dominant allocation in the dow-uap range-fouler+mission-record subset; d38 alone carries Block B.
 
-| Field | d55 / d58 / d44 (Block A) | d38 (Block B) | Match? |
+| Field | Block A (d55 + d58 + d44 + d56 = 4-of-5) | Block B (d38 alone = 1-of-5) | Match? |
 |---|---|---|---|
 | Declassification authority | MG Richard A. Harrison | MG Richard A. Harrison | **MATCH** |
 | MDR case | `26-0038 to MDR 26-0046` (9-case range) | `26-0019` (single case) | **DIFFERS** |
@@ -148,16 +167,17 @@ d38's release block **does not match** d44/d58's block. The "byte-for-byte relea
 | Release-stamp date | `03/27/26` | `01/26/26` | **DIFFERS** (60 days earlier) |
 | Release sequence number | `000001` (6-digit) | `001` (3-digit) | **DIFFERS** (format + value) |
 
-**Findings at N=4**:
+**Findings at N=5 release-block-testable**:
 
-- **At least 2 distinct USCENTCOM MDR allocations** within the dow-uap range-fouler subset (`26-0019` for d38; `26-0038 to 26-0046` for d55/d58/d44 triplet). The release framework is **per-MDR-case-allocation**, not per-tranche-uniform. ^[inferred]
-- **At least 2 distinct release dates** within the subset (`01/26/26` for d38; `03/27/26` for d55/d58/d44). The dow-uap-tranche release was **incremental** over ~60+ days, not single-batch. ^[inferred]
-- **Per-batch sequence-number reading strengthens decisively** — d38 `001` (3-digit) in one allocation + d55/d58/d44 `000001` (6-digit) in another. The OCR-artifact reading of identical `000001` is now rejected (a uniform corruption pattern would produce `001` everywhere, or `000001` everywhere). The per-MDR-case reading is most probable; each batch carries its own sequence start. ^[inferred]
-- **The 9-document USCENTCOM sub-batch hypothesis** (from d55/d58/d44) is refined: d55 + d58 + d44 are 3 of the 9 cases in their batch; d38 sits in a different batch (`26-0019` single case). The dow-uap range-fouler subset is **distributed across multiple MDR allocations**, not concentrated in one.
+- **Block A is dominant at 4-of-5 attestations** — d55 (Syria 2016 CTG-narrative) + d58 (range-fouler 77 EFS Oct 27 2020) + d44 (range-fouler 172 ATKS Oct 15 2020) + **d56 (range-fouler HSM-73 Aug 24 2020)** — all carry the identical 5-axis stamp set. d38 (range-fouler May 14 2020) alone carries Block B. **The per-MDR-case-allocation reading firms; the Block A/Block B distribution is heavily Block A-weighted.** ^[inferred]
+- **At least 2 distinct USCENTCOM MDR allocations** within the dow-uap range-fouler+mission-record subset (`26-0019` for d38; `26-0038 to 26-0046` for the 4-document Block A set). The release framework is **per-MDR-case-allocation**, not per-tranche-uniform. ^[inferred]
+- **At least 2 distinct release dates** within the subset (`01/26/26` for d38; `03/27/26` for the Block A set). The dow-uap-tranche release was **incremental** over ~60+ days, not single-batch. ^[inferred]
+- **Per-batch sequence-number reading firms decisively at N=5** — d38 `001` (3-digit) in one allocation + d55/d58/d44/d56 `000001` (6-digit) in another. The OCR-artifact reading of identical `000001` is **definitively rejected** at N=5 (four independent OCR passes producing the same `000001` corruption is implausible, and d38's clean `001` is internally consistent). The per-MDR-case reading is most probable; each batch carries its own sequence start. ^[inferred]
+- **The 9-document USCENTCOM sub-batch hypothesis** (from d55/d58/d44) is refined: d55 + d58 + d44 + d56 = 4 documents in the `26-0038 to 26-0046` 9-case range. **The Block A allocation now covers 4 documents in 9 cases**; the remaining 5 cases may correspond to unread `d*` files or to documents outside the range-fouler+mission-record subsets. d38's `26-0019` single case is a separate per-document allocation. ^[inferred]
 
-Despite the release-framework divergence, the **form template + SPEAR clause + submission instructions + Navy-aviation pre-printed sensor schema all match byte-for-byte at N=3** across d38 + d44 + d58. The form is unchanged; only the post-form release-stamp differs by MDR-case allocation. ^[inferred]
+Despite the release-framework divergence between Blocks A and B, the **form template + SPEAR clause + submission instructions + Navy-aviation pre-printed sensor schema all match byte-for-byte at N=4** across d38 + d56 + d44 + d58. The form is unchanged; only the post-form release-stamp differs by MDR-case allocation. ^[inferred]
 
-## Source observations (N=3 from d38 + d44 + d58)
+## Source observations (N=4 from d38 + d56 + d44 + d58)
 
 From [[references/dow-uap-d38-range-fouler-middle-east-may-2020|d38]] (14 May 2020, **earliest range-fouler in the corpus**):
 
@@ -173,7 +193,25 @@ From [[references/dow-uap-d38-range-fouler-middle-east-may-2020|d38]] (14 May 20
 - **Position**: DMS-style coordinate `28°31'4"N 49°52'4"E` ^[inferred] = Persian Gulf, Saudi Arabian coast near Ras Tanura / Bahrain margin. **First explicit Persian Gulf body-text coordinate in the dow-uap corpus** ^[inferred].
 - **Altitude**: 20,000 ft, Constant (Yes).
 - **EA Indications**: all 5 boxes unchecked (zero EA reception); pre-printed 5-row block structurally confirmed at N=2 with d44.
-- **CENTCOM-AOR placement**: explicit (Persian Gulf coordinate in CENTCOM AOR). Third CENTCOM-AOR anchor in the class at N=3.
+- **CENTCOM-AOR placement**: explicit (Persian Gulf coordinate in CENTCOM AOR). First explicit CENTCOM-AOR anchor in the class.
+
+From [[references/dow-uap-d56-range-fouler-arabian-sea-august-2020|d56]] (24 Aug 2020, **first internal Navy user**):
+
+- **Mission descriptor**: `SSC` (Surface Search and Control) — first SSC descriptor in dow-uap range-fouler subset and dow-uap corpus.
+- **Aircraft posture**: passive SSC observation; no intercept attempt; no closure; no engagement pipeline; explicit `No interaction took place` narrative attestation.
+- **Platform**: **US Navy MH-60R Romeo Seahawk** ^[inferred] (HSM-73 "Battlecats", NAS North Island CA; Side No. 705 + Buno 168122 + `Pilot` crew position + SSC mission + helicopter-compatible night-low-altitude maritime profile).
+- **Sensor signature**: **Negative ES, Negative radar track, Negative IFF track** — first explicit triple-negative passive-sensor-channel datum in the dow-uap corpus. Implicates AN/ALQ-210 ESM + AN/APS-153 radar + Mode S transponder receiver all returning no track. ^[inferred] Contacts were non-emitting, sub-radar-threshold, and non-squawking.
+- **Stable trackfile**: **No** — first explicit `No` value in range-fouler class at N=4 (Yes/Intermittent/No/blank distribution).
+- **Group structure**: **3 contacts** — first 3-contact group in range-fouler class. Group-size distribution at N=4: 1/1/2/3 — full distribution.
+- **Morphology**: **Round + Wings/Airframe** dual-check — first dual-morphology call in the range-fouler class. ^[inferred] Possible readings: dual-morphology of single contact at varying distance, or witness-inferred airframe based on small-contact size at unknown distance.
+- **Kinematics**: **Westerly heading (270°)** at **speed UNK**; all 3 contacts maintain relative course/speed/altitude (**formation-flying**). First formation-flying multi-object kinematic-coordination datum in the dow-uap corpus.
+- **Encounter narrative**: Initial 1X contact tracked, lost behind cloud, regained, then 2X additional contacts emerged due east of original location; all 3 then maintained formation. **First lost-then-regained-with-additional-contacts narrative pattern** in the dow-uap corpus.
+- **Position**: Lat redacted (`1.4a` portion-redaction); narrative explicit `North Arabian Sea` — first explicit North Arabian Sea body-text anchor in the dow-uap corpus.
+- **Altitude**: not captured (blank). Altitude Constant: Yes (matches d38).
+- **Wind**: 310°/5 — first Wind Direction + Wind Speed values captured in range-fouler class.
+- **EA Indications**: all 5 boxes unchecked (zero EA reception); EA Indications block structurally anchors at N=3 (d44 + d38 + d56) — d58 OCR-missed.
+- **CENTCOM-AOR placement**: explicit (North Arabian Sea body-text anchor in NAVCENT / 5th Fleet AOR). Fourth CENTCOM-AOR anchor in the class at N=4.
+- **Working Area**: `21440` — first Working Area value captured in range-fouler class; format does not match form's pre-printed `W-72 1A` example; reading ^[ambiguous] (FOIA-redaction artifact most coherent).
 
 From [[references/dow-uap-d44-range-fouler-arabian-sea-october-2020|d44]] (15 Oct 2020):
 
@@ -219,40 +257,56 @@ Adjacent operational concepts ^[inferred]:
 - **MTS-B vs ATFLIR** — d44's MQ-9 sensor schema (MTS-B + AN/APY-8 Lynx ground-imaging radar) vs d58's F/A-18 sensor schema (ATFLIR + APG-79). The range-fouler form's pre-print is Navy-fighter-centric; the form accommodates non-Navy-fighter platforms via blank-value honesty (d44's empty radar/AIM-9X/ATFLIR fields).
 - **EA Indications block** — d44's pre-printed Electronic Attack reception schema (ECM / Arc / Letter Identifier / False Trackfiles / Other-Ambiguous). Captures structured EA-reception signaling that d58's narrative covered in free-text.
 
-## CENTCOM-AOR anchoring at N=3 — all three artifacts in CENTCOM AOR
+## CENTCOM-AOR anchoring at N=4 — all four artifacts in CENTCOM AOR
 
-The range-fouler debrief class is now **CENTCOM-AOR-anchored at N=3** with:
+The range-fouler debrief class is now **CENTCOM-AOR-anchored at N=4** with:
 
 - **d38**: **explicit** Persian Gulf coordinate ^[inferred] (DMS 28°31'N 49°52'E near Ras Tanura / Bahrain margin, eastern Saudi Arabia) — first Persian Gulf body-text coordinate in the dow-uap corpus
+- **d56**: **explicit** North Arabian Sea body anchor; filename `arabian-sea` confirmed at body-text level; NAVCENT 5th Fleet AOR
 - d44: **explicit** Gulf of Aden + MGRS 40Q BD body-text anchor
 - d58: **inferred** via USCENTCOM-prefix MDR + 77 EFS rotation history + KINGPIN callsign
 
-The class is now **CENTCOM-AOR-anchored at 100% of attestations**. All three range-fouler-debrief events fall in CENTCOM AOR; the class is implicitly **a CENTCOM-AOR institutional pattern** ^[inferred].
+The class is now **CENTCOM-AOR-anchored at 100% of attestations** at N=4. All four range-fouler-debrief events fall in CENTCOM AOR; the class is firmly **a CENTCOM-AOR institutional pattern** ^[inferred].
 
-**At N=3, the within-CENTCOM theater distribution diverges**: d38 = Persian Gulf (Saudi eastern coast near Ras Tanura / Bahrain margin); d44 = Gulf of Aden (Arabian Peninsula southern grid); d58 = CENTCOM-inferred but no specific sub-theater attestation. The class is not concentrated in any single sub-theater within CENTCOM AOR. ^[inferred]
+**At N=4, the within-CENTCOM theater distribution spans 3 sub-theaters**: d38 = Persian Gulf (Saudi eastern coast near Ras Tanura / Bahrain margin); d56 = North Arabian Sea (5th Fleet maritime patrol area); d44 = Gulf of Aden (Arabian Peninsula southern grid); d58 = CENTCOM-inferred but no specific sub-theater attestation. The class is **not concentrated in any single sub-theater** within CENTCOM AOR — three explicit sub-theaters in 3 explicit attestations. ^[inferred]
 
-**Paired-incident hypothesis revision**: at N=2 the d44 + d58 October-2020 pair anchored the paired-incident reading at the operational-area level (both Oct 2020 CENTCOM). At N=3 with d38 (May 2020, 5 months earlier, different sub-theater Persian Gulf vs Gulf of Aden), **the paired-incident hypothesis is rejected as a class-defining pattern** — the class catalogs events distributed across at least 2 sub-theaters and 2 quarters within CENTCOM AOR. ^[inferred] d44 + d58 may still be a paired incident at the operational-area level, but the broader class is not. d38 sits as an independent earlier datum.
+**Paired-incident hypothesis revision firms at N=4**:
+- **Class-defining level**: REJECTED. The class spans at least 3 sub-theaters and 2 quarters (May 2020 + Aug 2020 + Oct 2020) at N=4; no single paired event covers the whole class.
+- **Sub-theater Arabian-Sea cluster at N=2 with d56+d44**: The d56 (24 Aug 2020 North Arabian Sea HSM-73 MH-60R SSC) + d44 (15 Oct 2020 Gulf of Aden 172 ATKS MQ-9 ISR) pair are both `arabian-sea` filename-tagged, both Aug-Oct 2020, both passive non-intercept maritime surveillance, both Block A release framework, separated by **52 days**. The **Arabian-Sea sub-theater paired-incident reading firms at N=2** with d56 + d44 as a within-Arabian-Sea cluster, independent of d38 (Persian Gulf) and d58 (CENTCOM-inferred). ^[inferred] This is a 2020-Aug-Oct NAVCENT / 5th Fleet maritime surveillance cluster within the broader range-fouler class.
+- **October-2020 cluster (d44 + d58)**: holds at N=2 (both Oct 2020 CENTCOM) but doesn't anchor to a specific sub-theater (d58's sub-theater not captured).
 
-## Platform breadth at N=3 — 2-of-3 platforms unattributed at the squadron level
+## Platform breadth at N=4 — first internal Navy user anchor closes Navy-form-vs-Navy-user gap
 
-The range-fouler class at N=3 carries **witnessing-platform anchors with varying attribution depth**:
+The range-fouler class at N=4 carries **witnessing-platform anchors with three resolved + one unattributed**:
 
 - **d58**: manned fighter — 77 EFS USAF Active Component (likely F-16C/CM Fighting Falcon) ^[inferred] — explicit squadron
 - **d44**: USAF/ANG RPA — 172 ATKS Michigan ANG MQ-9 Reaper ^[inferred] — explicit squadron
 - **d38**: unattributed at the squadron level (Squadron field blank/unrendered in OCR); narrative + sensor-mode evidence is compatible with **EO/IR turret-equipped ISR platform** (P-8A / MQ-9 / MQ-4C / RQ-4 / EP-3 / rotary-wing) ^[inferred] but the platform space is not constrained to one type
+- **d56**: **US Navy rotary-wing — HSM-73 "Battlecats" MH-60R Romeo Seahawk** ^[inferred] (Helicopter Maritime Strike Squadron 73, NAS North Island CA); Buno 168122 + Side No. 705 + Crew Position `Pilot` + Mission `SSC` (Surface Search and Control) corroborate the MH-60R reading. **First internal Navy user anchor in the dow-uap range-fouler subset.**
 
-The form's pre-printed sensor schema is **Navy-fighter-centric** (AIM-9X + ATFLIR + Navy-aviation VFA-106 template example) but **the witnessing platforms at N=3 are non-Navy-fighter in 2 of 3 attestations** (d44 = USAF/ANG MQ-9; d58 = USAF F-16 ^[inferred]; d38 = compatible-with-non-Navy-fighter). The form is **Navy-template-but-multi-service-used** at N=2 confirmed via explicit attestation; d38 is **structurally compatible** with the multi-service-use reading but does not add a unit-anchor. ^[inferred] The form's flexibility in handling non-Navy-fighter platforms (blank values honest for non-applicable schema slots) is now anchored at N=3.
+The form's pre-printed sensor schema is **Navy-fighter-centric** (AIM-9X + ATFLIR + Navy-aviation VFA-106 FRS template example) but **the witnessing platforms at N=4 span 4 distinct platform types**:
+
+| Platform type | Attestation | Service |
+|---|---|---|
+| Manned fighter (F-16C/CM ^[inferred]) | d58 | USAF Active |
+| Fixed-wing UAV (MQ-9 Reaper ^[inferred]) | d44 | USAF ANG |
+| Fixed-wing ISR (P-8A / MQ-9 / MQ-4C / RQ-4 / EP-3 ^[inferred]) | d38 | unattributed |
+| **Rotary-wing maritime surveillance (MH-60R Romeo Seahawk ^[inferred])** | **d56** | **US Navy** |
+
+**The Navy-form-vs-Navy-user attribution gap closes at N=1 with d56.** Previous N=3 had 2 USAF + 1 unattributed users; d56 anchors the first US Navy user within the range-fouler class. The form is now **Navy-aviation-originated AND Navy-aviation-user-attested at the rotary-wing maritime-strike configuration**, while remaining **extended for joint-service use** at 2-of-4 explicit attestations (USAF Active + USAF ANG). ^[inferred] The form's flexibility — blank values honest for non-applicable Navy-fighter schema slots when the user platform is non-Navy-fighter — is now anchored at N=3 (d44 + d38 + d56 all use blank pre-printed Navy-fighter slots).
+
+**Multi-service originating-anchor count for the dow-uap corpus rises to 7 at N=13 ingests**: 5 USAF unit anchors (4 Active + 1 ANG) + **2 Navy platform anchors** (P-8A / TF 67.1 fixed-wing from d55 + MH-60R / HSM-73 rotary-wing from d56) + Navy-aviation form-template attribution.
 
 ## Open questions
 
-- **What does SPEAR stand for?** — Navy-aviation intelligence-analysis pipeline; the form's centralized intake operator. **Confirmed at N=3 via verbatim clause recurrence** (d38 + d44 + d58). SPEAR pipeline existence anchored at May 2020 (d38) — at least 5 months earlier than previously attested. Open-source identification still pending.
+- **What does SPEAR stand for?** — Navy-aviation intelligence-analysis pipeline; the form's centralized intake operator. **Confirmed at N=4 via verbatim clause recurrence** (d38 + d56 + d44 + d58). SPEAR pipeline existence anchored at May 2020 (d38) — at least 5 months earlier than previously attested; firmed at Aug 2020 by d56. Open-source identification still pending.
 - **What was the bullseye `ZIM`?** — first-detection bullseye reference in d58; bullseye name keyed to a specific operational area. d38 + d44 used DMS + MGRS coordinates respectively (not bullseye), so `ZIM` remains d58-isolated at N=3.
 - **Are range-fouler debriefs systematically routed through a different intake than mission reports?** — d38 + d44 + d58 SPEAR pipeline + [[references/dow-uap-d50-email-indopacom-2025-04|d50's]] OUSD(I&S) pipeline + [[references/dow-uap-pr20-prepublication-clearance-2026-03|PR20's]] DOPSR pipeline collectively suggest the dow-uap corpus carries **at least three distinct intake/clearance pathways**. SPEAR intake confirmed at N=3 for the range-fouler subset.
 - **Does the range-fouler debrief class always carry anomalous content?** — by design, the class catalogs *all* range-intrusion events for analysis. The dow-uap subset catches the anomalous tail. At N=3, d38 + d44 sit closer to the prosaic-candidate-compatible mid-distribution; d58 sits at the high-anomaly tail. The class catalogs high + mid distribution at 1:2 ratio at N=3.
 - ~~**Form-title variant (`Reporting` vs `Debrief`) at N=3**~~ ^closed-by-dow-uap-d38 — **PARTIALLY CLOSED at N=3**: d38 carries `Debrief Form`. The form-version-evolution reading is **rejected** for non-monotonicity (Debrief → Reporting → Debrief). Two-co-existing-variants reading is most probable at N=3. Distribution at N=3: 2 Debrief (d38 + d58) + 1 Reporting (d44). Further test at N≥4 would refine which variant is dominant.
 - ~~**EA Indications block recurrence at N=3**~~ ^closed-by-dow-uap-d38 — **CLOSED at N=2 structurally** (d44 + d38 both capture the pre-printed 5-row block, both all-unchecked). The block is structurally part of the form schema. d58's narrative-substitute (noise-jamming free-text) is a fallback for when the witness narratively describes EW reception rather than checking boxes.
-- ~~**Does the capability triad (sub-frame disappearance + active EW + standoff maintenance) recur at N=3?**~~ ^closed-by-dow-uap-d38 — **NEGATIVE-CLOSURE at N=3**: d38 does **not** carry any element of the d58 capability triad. The triad is now **isolated at 1-of-3 attestations**. The triad is **not** a class-defining signature; d58 is the high-anomaly outlier. ^[inferred]
-- ~~**Does the passive-ISR-observation posture (d44) recur at N=3?**~~ ^closed-by-dow-uap-d38 — **CLOSED at N=2**: d38 anchors a second passive-ISR-observation attestation. Sub-class B is now dominant at 2-of-3 attestations within the range-fouler-debrief class. d44 is no longer the isolated passive-ISR outlier.
+- ~~**Does the capability triad (sub-frame disappearance + active EW + standoff maintenance) recur at N=3?**~~ ^closed-by-dow-uap-d38 ^closed-by-dow-uap-d56 — **NEGATIVE-CLOSURE FIRMS at N=4**: d38 + d56 both **fail** to carry any element of the d58 capability triad. The triad is now **isolated at 1-of-4 attestations**. The triad is firmly **not** a class-defining signature; d58 is the high-anomaly outlier. ^[inferred]
+- ~~**Does the passive-ISR-observation posture (d44) recur at N=3?**~~ ^closed-by-dow-uap-d38 ^closed-by-dow-uap-d56 — **CLOSED AT N=3**: d38 + d56 both anchor additional passive-observation attestations. Sub-class B is now **dominant at 3-of-4** attestations within the range-fouler-debrief class with **two platform configurations** (fixed-wing ISR via d38+d44 + rotary-wing maritime SSC via d56). d44 is no longer the isolated passive-ISR outlier; the sub-class is the within-class majority pattern.
 - ~~**Test the paired-incident hypothesis**~~ ^closed-by-dow-uap-d38 — **REVISED at N=3**: the paired-incident hypothesis at the class-defining level is rejected by d38 (May 2020, 5 months earlier, different sub-theater Persian Gulf vs Gulf of Aden). d44 + d58 may still be a paired incident at the October-2020 / CENTCOM-AOR level, but the class as a whole spans at least 2 quarters and 2 sub-theaters at N=3.
 - **Were there more pre-October-2020 range-fouler debriefs in the original SPEAR queue that did not make the dow-uap release tranche?** — d38 (14 May 2020) anchors at least one such event in the dow-uap release. The question opens further at N=3: how many additional May-Oct 2020 range-fouler events sit in the broader SPEAR queue?
 - **Decode `ULTN` sensor-mode token in d38** — not a standard FLIR-vocabulary expansion. Open-source IR-sensor vocabulary references would resolve.
@@ -263,16 +317,25 @@ The form's pre-printed sensor schema is **Navy-fighter-centric** (AIM-9X + ATFLI
 - **Test the per-batch sequence-number reading at N≥4** — d38 `001` + d55/d58/d44 `000001` strongly supports the per-MDR-case allocation. Does the next range-fouler ingest carry a sequence number consistent with one of the two existing batches, or with a third? A third sequence in a different MDR case would further refine the per-batch reading.
 - **Test the IR-cold + Round + single-contact + Black-Hot signature recurrence at N≥4** — d38 + d44 anchor this passive-ISR sub-class signature at N=2. Does the next passive-ISR range-fouler artifact carry the same signature, or diverge? Recurrence would establish a behavioral cluster within the class.
 - **172 ATKS open-source rotation history** to USAFCENT in Oct 2020 — confirms the MQ-9 / CENTCOM placement of d44 at the squadron-rotation level if recoverable.
+- **HSM-73 open-source rotation history** to NAVCENT / 5th Fleet in Aug 2020 — confirms the MH-60R / CENTCOM placement of d56 at the squadron-rotation level if recoverable.
+- **Test the d56 dual-morphology (Round + Wings/Airframe) reading at N≥2** — first dual-morphology call in the range-fouler class. Does the next range-fouler artifact carry a dual-morphology check?
+- **Test the d56 formation-flying multi-object kinematic pattern at N≥2** — d56's 3-contact group maintaining relative course/speed/altitude is the first formation-flying datum in the class.
+- **Test the d56 triple-negative sensor channel reading at N≥2** — d56's `Negative ES, Negative radar track, Negative IFF track` is the first explicit triple-negative sensor-channel datum.
+- **Test the rotary-wing platform variant within sub-class B at N≥2** — d56 anchors first rotary-wing range-fouler debrief; sub-class B previously was fixed-wing-only.
+- **Resolve the d56 Working Area code `21440`** — does not match form's pre-printed `W-72 1A` syntax; reading is ambiguous (FOIA-redaction artifact most coherent).
+- **Test the Block A 9-document sub-batch hypothesis at N≥6 release-block-testable** — at N=5, 4 documents (d55+d58+d44+d56) sit in the 9-case `26-0038 to 26-0046` range. Are the remaining 5 cases preserved in unread `d*` files, or do they cover documents outside the range-fouler+mission-record subsets?
+- **Test paired-Arabian-Sea cluster at N≥3** — d56 + d44 anchor an Aug-Oct 2020 Arabian-Sea sub-theater pair (52 days apart, both passive non-intercept maritime surveillance, both Block A). Does the next Arabian-Sea-tagged range-fouler artifact (or mission report) sit in this cluster?
 
 ## See also
 
-- [[references/dow-uap-d38-range-fouler-middle-east-may-2020]] — **Anchor artifact #1 by chronology** (N=3 extension; 14 May 2020 Persian Gulf coast; passive-ISR sub-class; **earliest range-fouler in the corpus**; carries the distinct release-framework Block B `MDR 26-0019` + `01/26/26 001` — falsifies byte-for-byte release-block recurrence)
-- [[references/dow-uap-d44-range-fouler-arabian-sea-october-2020]] — Anchor artifact #2 (15 Oct 2020 Gulf of Aden; passive-ISR sub-class; sister to d38 in the dominant sub-class)
-- [[references/dow-uap-d58-range-fouler-debrief-2020-10]] — Anchor artifact #3 (27 Oct 2020 intercept posture; **high-anomaly outlier** isolated at 1-of-3 with sub-second-disappearance + active-EW + standoff-maintenance triad)
-- [[entities/dow-uap-foia-release]] — Series-level anchor; range-fouler debrief is the third top-level mission-record document class confirmed at N=3 (structure-CONFIRMED on 12-of-13 axes; release-framework PARTIAL at 2 distinct allocations)
-- [[concepts/uap-aircraft-engagement]] — Behavioral framework — d58 anchors sub-class 6 (range-fouler-attempted-ID); d44 + d38 anchor sub-class 7 (range-fouler-passive-ISR-observation) at N=2
-- [[references/dow-uap-d7-mission-arabian-gulf-2020]] — Closest behavioral analog on the aircraft-toward-UAP axis (d7 = WQT + NTS + TFLIR; d58 = radar lock + TGT-pod video + 16.9 NM standoff; d44 + d38 = EO/IR turret + passive observation)
-- [[references/dow-uap-d55-mission-syria-2016-11-18]] — Release-framework Block A first attestation (now N=3 within Block A with d58 + d44; d38 carries distinct Block B)
-- [[entities/aaro]] — Receiving authority for the dow-uap series; SPEAR may feed AARO downstream; AARO routing now anchored at N=4 across two distinct MDR-case allocations
-- [[entities/ryan-graves]] — Navy F/A-18F pilot; operational analog for the form's AIM-9x + ATFLIR Navy-aviation template (now contrasted at N=2 attested with USAF Active + ANG users)
+- [[references/dow-uap-d38-range-fouler-middle-east-may-2020]] — **Anchor artifact #1 by chronology** (N=3 extension; 14 May 2020 Persian Gulf coast; passive-ISR sub-class; **earliest range-fouler in the corpus**; carries the distinct release-framework Block B `MDR 26-0019` + `01/26/26 001` — Block B isolated at 1-of-5 at N=4)
+- [[references/dow-uap-d56-range-fouler-arabian-sea-august-2020]] — **Anchor artifact #2 by chronology** (N=4 extension; 24 Aug 2020 North Arabian Sea HSM-73 MH-60R; **first internal Navy user anchor in range-fouler subset**; passive sub-class with rotary-wing maritime SSC platform variant; carries Block A — firms 4-of-5 Block A dominance)
+- [[references/dow-uap-d44-range-fouler-arabian-sea-october-2020]] — Anchor artifact #3 (15 Oct 2020 Gulf of Aden; passive-ISR sub-class; **sister to d56 in the Arabian-Sea sub-theater cluster**)
+- [[references/dow-uap-d58-range-fouler-debrief-2020-10]] — Anchor artifact #4 (27 Oct 2020 intercept posture; **high-anomaly outlier** isolated at 1-of-4 with sub-second-disappearance + active-EW + standoff-maintenance triad)
+- [[entities/dow-uap-foia-release]] — Series-level anchor; range-fouler debrief is the third top-level mission-record document class confirmed at N=4 (structure-CONFIRMED on 13-of-13 axes; release-framework Block A dominant at 4-of-5; d38 Block B isolated)
+- [[concepts/uap-aircraft-engagement]] — Behavioral framework — d58 anchors sub-class 6 (range-fouler-attempted-ID); d44 + d38 + d56 anchor sub-class 7 (range-fouler-passive-ISR-observation) at N=3 across two platform configurations
+- [[references/dow-uap-d7-mission-arabian-gulf-2020]] — Closest behavioral analog on the aircraft-toward-UAP axis (d7 = WQT + NTS + TFLIR; d58 = radar lock + TGT-pod video + 16.9 NM standoff; d44 + d38 + d56 = passive observation)
+- [[references/dow-uap-d55-mission-syria-2016-11-18]] — Release-framework Block A first attestation (now N=4 within Block A with d58 + d44 + d56; d38 carries distinct Block B isolated at 1-of-5)
+- [[entities/aaro]] — Receiving authority for the dow-uap series; SPEAR may feed AARO downstream; AARO routing now anchored at N=5 corpus-wide across two distinct MDR-case allocations
+- [[entities/ryan-graves]] — Navy F/A-18F pilot; operational analog for the form's AIM-9x + ATFLIR Navy-aviation template (now contrasted at N=4 attested with USAF Active + ANG users + first internal Navy user via d56 HSM-73 rotary-wing variant)
 - [[projects/uap/uap]]
