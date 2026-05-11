@@ -95,3 +95,7 @@ All wiki content is compiled from US Government declassified materials (public d
 ## How this was built
 
 Built on the [obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) framework — a skill-based system where everything is markdown instructions any AI coding agent can read and execute. No scripts, no dependencies, no infrastructure beyond a vault directory and a configured agent. See the project [[README]] and `AGENTS.md` for the full ingestion pipeline.
+
+## Author
+
+Andrei (Pax) — [PaxDynamics.com](https://paxdynamics.com) · [x.com/elitepax](https://x.com/elitepax)
