@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-11T20:45:00Z",
+  "updated": "2026-05-11T21:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -1680,6 +1680,133 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/dow-uap-d58-range-fouler-debrief-na-october-2020.json": {
+      "ingested_at": "2026-05-11T21:00:00Z",
+      "size_bytes": 3416,
+      "modified_at": "2026-05-09T16:07:44Z",
+      "content_hash": "sha256:d3fe35f2eff829d71d7a8456e4c8a7fff1a4b137dec4367f607867949e92103d",
+      "source_id": "dow-uap-d58-range-fouler-debrief-2020-10",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap-foia-release",
+      "series_position": "10-of-40",
+      "ocr_engine": "mistral-ocr-latest",
+      "ocr_pages_processed": 1,
+      "original_doc_size_bytes": 301419,
+      "substantive_pages": 1,
+      "header_only_pages": 0,
+      "image_blocks_captured": 0,
+      "image_base64_captured": 0,
+      "document_class": "range-fouler-debrief",
+      "document_subclass": "fielded-form",
+      "document_class_first_anchor_at_N": 1,
+      "message_format": "Range Fouler Debrief Form — fielded schema (identity / event metadata / position grid / sensor+track grid / 12-checkbox morphology grid / free-text narrative / submission instructions)",
+      "classification_marking_extracted": "(none on this 1-page artifact; series convention is per-page # 1.4(a) header on multi-page mission reports)",
+      "declassification_authority_citation_ocr": "U.S.C. 3 / Section 3.1",
+      "declassification_authority_citation_inferred": "EO 13526 §3.1 (declassification authority)",
+      "declassification_authority": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+      "release_stamp_date": "2026-03-27",
+      "release_sequence_no": "000001",
+      "release_sequence_identical_to": [
+        "sources/dow-uap-d55-mission-report-syria-november-2016.json"
+      ],
+      "release_sequence_identicality_reading": "ambiguous (per-MDR-case vs per-batch vs OCR-artifact)",
+      "mdr_case_range": "USCENTCOM MDR 26-0038 to MDR 26-0046",
+      "mdr_case_range_identical_to": [
+        "sources/dow-uap-d55-mission-report-syria-november-2016.json"
+      ],
+      "receiving_authority": "AARO",
+      "receiving_authority_closure": "firmed-at-N=2 (^closed-by-dow-uap-d58 recurrence anchor on top of d55 initial closure)",
+      "intake_pipeline_name": "SPEAR",
+      "intake_pipeline_attribution": "Navy-aviation (inferred from form template VFA-106 example + AIM-9x/ATFLIR pre-printed sensor schema)",
+      "form_filename_schema": "Date_Squadron_RF.pdf",
+      "form_class_abbreviation": "_RF",
+      "form_template_navy_fr_reference": "VFA-106 HUD.wmv (Fleet Replacement Squadron for F/A-18E/F community, NAS Oceana)",
+      "form_pre_printed_sensor_schema": [
+        "AIM-9x Self-Track",
+        "ATFLIR Autotrack"
+      ],
+      "originating_service_user": "USAF (77 EFS) — provisional fourth USAF unit anchor in the series",
+      "originating_unit_user": "77 EFS (USAF 77th Expeditionary Fighter Squadron — inferred)",
+      "originating_service_form": "Navy-aviation (form template) — first joint-service form-template-vs-user attribution split",
+      "rank_user": "O-3 (Capt USAF / Lt USN equivalent)",
+      "controller_callsign": "KINGPIN (CENTCOM-AOR airborne controller — inferred)",
+      "mission_classification": "DCA (Defensive Counter Air)",
+      "lfe_flag": "No (not a Large Force Exercise)",
+      "day_night": "Night",
+      "event_date": "2020-10-27",
+      "event_time": "0112:21Z",
+      "event_duration_seconds": null,
+      "object_count": 2,
+      "object_morphology_checkboxes": [
+        "Balloon-shaped",
+        "Other Shape",
+        "Metallic",
+        "Opaque",
+        "Reflective"
+      ],
+      "object_visual_signature_narrative": "2X RED BLINKING STROBES",
+      "object_kinematics_speed_heading": "060/20 KT (slow eastward drift)",
+      "intra_group_kinematic_interaction": "one circling around the other (first in dow-uap corpus)",
+      "disappearance_timescale": "1/30 second (one TGT-pod video frame at 30 fps — inter-frame disappearance, inferred)",
+      "active_em_signature": "noise jamming received, indicated by two chevrons (Navy RWR display convention — inferred); first active EW emission attributed to UAPs in the dow-uap corpus",
+      "closest_approach_floor_nm": 16.9,
+      "first_detection_position": "B/E ZIM 248/17 (bullseye-relative bearing 248° at range 17 NM)",
+      "first_detection_position_format": "bullseye-relative bearing/range",
+      "aircraft_posture": "intercept-for-identification (radar lock + TGT-pod video acquired + tally achieved); intercept-blocked at 16.9 NM standoff; no weapons-quality / NTS / shoot-stance",
+      "sensor_channels": [
+        "radar (Other-class, stable trackfile)",
+        "TGT-pod video (2 IR-significant contacts)"
+      ],
+      "filename_theater_label": "na (honest)",
+      "filename_theater_internally_verified": null,
+      "filename_date_label": "october-2020",
+      "filename_date_internally_verified": true,
+      "filename_date_internal_value": "10/27/20",
+      "filename_date_verification_at_N": 3,
+      "behavioral_sub_class": "range-fouler-attempted-ID (sixth distinct brief-observation sub-class in the dow-uap corpus)",
+      "behavioral_sub_class_distinctness": "Sits between d4/d5/d8 brief-observation kinematic-anomaly and d7 fire-control pipeline. Strongest UAP-side capability signature in the corpus to date (radar evasion + active EW + active standoff maintenance simultaneously). Inferred.",
+      "structural_firsts": [
+        "first range-fouler debrief artifact in the corpus (third top-level mission-record document class)",
+        "first fielded-form artifact in the corpus",
+        "first explicit data-pipeline name (SPEAR)",
+        "first explicit Navy-aviation FRS template attribution (VFA-106 example filename)",
+        "first explicit pre-printed Navy-aviation sensor schema (AIM-9x + ATFLIR)",
+        "first joint-service form-template-vs-user attribution split (Navy form + USAF user)",
+        "provisional fourth USAF unit anchor (77 EFS)",
+        "first KINGPIN tactical-controller callsign",
+        "first DCA mission classification",
+        "first explicit night-time encounter",
+        "first explicit body-text calendar date in a 2020-event dow-uap artifact",
+        "first multi-object datum with intra-group kinematic interaction (one circling the other)",
+        "first sub-second-timescale disappearance (1/30 s — TGT-pod inter-frame at 30 fps)",
+        "first electronic-warfare reception event (noise jamming, two-chevron RWR)",
+        "first red-blinking-strobe morphology call",
+        "first explicit closest-approach floor (16.9 NM)",
+        "first bullseye-coordinate datum (B/E ZIM 248/17)",
+        "first explicit class-abbreviation in a filename schema (_RF in Date_Squadron_RF.pdf)",
+        "second filename-date-internally-verified artifact (after d55)",
+        "sixth distinct behavioral sub-class in the corpus (range-fouler-attempted-ID)",
+        "first byte-for-byte release-block recurrence at N=2 (firms AARO-receiving-authority closure on entities/dow-uap-foia-release ^closed-by-dow-uap-d58)"
+      ],
+      "thread_closures": [
+        "entities/dow-uap-foia-release.md#AARO-receiving-authority (firmed-at-N=2 — recurrence anchor on top of d55 initial closure)",
+        "entities/dow-uap-foia-release.md#range-fouler-document-class-characterisation (closed-at-N=1 template anchor)"
+      ],
+      "pages_created": [
+        "references/dow-uap-d58-range-fouler-debrief-2020-10.md",
+        "concepts/range-fouler.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "timeline.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
@@ -1690,10 +1817,10 @@
     }
   },
   "stats": {
-    "total_sources_ingested": 55,
-    "total_pages": 325,
+    "total_sources_ingested": 56,
+    "total_pages": 327,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T20:45:00Z"
+    "last_ingest_at": "2026-05-11T21:00:00Z"
   }
 }

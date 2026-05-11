@@ -6,7 +6,7 @@ aliases: [Chronology, Reading Order, Timeline Index]
 sources: []
 summary: Chronological index of wiki pages by the event date they cover — proposed reading order for the corpus, 1944 → 2026. Sibling to index.md (alphabetical) and log.md (ingest activity).
 created: 2026-05-11T15:30:00Z
-updated: 2026-05-11T20:45:00Z
+updated: 2026-05-11T21:00:00Z
 ---
 
 # Timeline
@@ -269,6 +269,7 @@ updated: 2026-05-11T20:45:00Z
 
 ### 2020
 
+- **27 Oct 2020** — [[references/dow-uap-d58-range-fouler-debrief-2020-10]] — 1-page Mistral-OCR'd Range Fouler Debrief Form (Navy-aviation fielded-form template; SPEAR centralized intake); 0112Z night DCA, 77 EFS user (USAF), KINGPIN-directed intercept ID; 2X balloon-shaped metallic UAPs with red blinking strobes; 16.9 NM standoff floor; one circling around the other; vanish in 1/30 s; noise jamming received. First range-fouler debrief and first sub-second-disappearance + active-EW datum in the dow-uap corpus.
 - **2020** — [[references/dow-uap-d4-mission-arabian-gulf-2020]] — 5-page Mistral-OCR'd Navy mission report (filename-labeled "Arabian Gulf, 2020"); single GENTEXT/UAP datum — 1258Z brief observation, 321 kt, speed-up + eastward turn, pilot identity redacted (b)(6).
 - **2020** — [[references/dow-uap-d5-mission-arabian-gulf-2020]] — 6-page Mistral-OCR'd Navy mission report (filename "Arabian Gulf, 2020"); two GENTEXT/UAP datums — 1354Z 40-kt constant-velocity single-object at FL160-170, and 2243Z 278-kt two-object speed-up +…
 - **2020** — [[references/dow-uap-d7-mission-arabian-gulf-2020]] — 6-page Mistral-OCR'd mission report; balloon-like UAP at 31,000 ft MSL bearing 323°, weapons-quality-1 track + NEXT TO SHOOT + TFLIR visual ID; cross-references "PREVIOUSLY REPORTED UAP FROM 48FW" …
