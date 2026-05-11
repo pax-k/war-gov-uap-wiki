@@ -1310,20 +1310,42 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/dow-uap-d4-mission-report-arabian-gulf-2020.json": {
+      "ingested_at": "2026-05-11T04:00:00Z",
+      "size_bytes": 1315,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:beccf4157c52c1407342b107b78fc887b3bb32563a2de090ba750618709052d6",
+      "source_id": "dow-uap-d4-mission-arabian-gulf-2020",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap",
+      "series_position": "2-of-40",
+      "pages_created": [
+        "references/dow-uap-d4-mission-arabian-gulf-2020.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-10T22:00:00Z",
-      "sources_ingested": 41
+      "last_ingested": "2026-05-11T04:00:00Z",
+      "sources_ingested": 42
     }
   },
   "stats": {
-    "total_sources_ingested": 47,
-    "total_pages": 307,
+    "total_sources_ingested": 48,
+    "total_pages": 308,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-10T22:00:00Z"
+    "last_ingest_at": "2026-05-11T04:00:00Z"
   }
 }

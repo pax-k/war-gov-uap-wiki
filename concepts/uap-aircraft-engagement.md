@@ -2,7 +2,7 @@
 title: UAP–Aircraft Engagement
 category: concepts
 tags: [uap, behavior, military, pattern]
-sources: [sources/usper-statement-redacted.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json]
+sources: [sources/usper-statement-redacted.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/38_143685_box7_incident_summaries_101-172.json, sources/38_143685_box7_incident_summaries_1-100.json, sources/65_hs1-834228961_62-hq-83894_serial_130.json, sources/dow-uap-d4-mission-report-arabian-gulf-2020.json]
 summary: A UAP behavioral signature in which objects approach, follow, or break off from one aircraft to pursue another. Documented in the corpus as early as 7 Jan 1948 (Mantell — first UAP-attributed pursuit fatality).
 provenance:
   extracted: 0.55
@@ -12,7 +12,7 @@ base_confidence: 0.45
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T13:41:53Z
-updated: 2026-05-09T18:00:00Z
+updated: 2026-05-11T04:00:00Z
 ---
 
 # UAP–Aircraft Engagement
@@ -63,6 +63,12 @@ The [[references/project-sign-incident-summaries-1-100|1–100 bundle]]'s **Inc 
 **Browning's same-day twin**: [[references/fbi-hq-62-83894-serial-130|FBI HQ 62-HQ-83894 serial 130]] preserves Browning's **16 Jul 1947 sworn statement at AAF HQ Pentagon** (received AFBIR-CO same-day) — alongside **Capt James H. Burniston's 24th-Article-of-War sworn statement at Fairfield-Suisun AAB CA**, **same date (6 Jul 1947)**, observing an object "**rolled from side to side three times in its path across the sky**" at 10,000+ ft, "faster than any type of aircraft seen by me flown at that approximate altitude". ^[extracted] The Browning + Burniston **6-Jul-1947 same-day east-vs-west sworn-statement pair** is the corpus's **earliest two-AAF-officer-sworn-statement signature** documenting **passive-observation-with-anomalous-disappearance** behavior, fed forward into the [[references/afbir-co-18-sighting-analysis-1947-07-30|AFBIR-CO 30 Jul 1947 18-sighting analysis]] as Reports #9 (Browning, air) + #10 (Burniston, ground). ^[inferred]
 - The 2026 [[references/western-us-event-2026|Western U.S. Event]] involves **ground-based federal LE witnesses**, not aircraft. The orb-class behaviors there (launching, hovering, briefly transparent) do not include cross-platform engagement.
 - The 2025 helicopter-orb encounter therefore is **not** the corpus's first engagement-class event — but it remains the **strongest multi-sensor (FLIR + NVG + naked eye)** documented case. ^[inferred]
+
+### Negative datum — modern Navy mission-report corpus produces brief-observation-class records, not engagement-class
+
+The first substantive ingest from the [[entities/dow-uap-foia-release|DoW-UAP FOIA release]] — [[references/dow-uap-d4-mission-arabian-gulf-2020|DoW-UAP-D4]] — is a **brief, kinematics-only Navy mission-report observation**: pilot at 1258Z observes a UAP in the vicinity of a coordinate, estimates 321 kt velocity, sees a speed-up + eastward turn, and the observation is explicitly *too brief to estimate altitude*. There is **no close approach**, **no co-location with the aircraft for non-trivial time**, **no target-selection across aircraft**, **no phase-of-flight correlation**, and **no morphology**. The record does **not** meet the 4-criterion engagement-class bar above. ^[inferred]
+
+This is **expected and useful** as a negative datum: the modern Navy operational-reporting framework produces **brief-observation-class records** that document a kinematics signature without the close-proximity / multi-aircraft-selection envelope that anchors the engagement class. Engagement-class events should remain a small minority of the modern Navy corpus, distinguished from the broader brief-observation report stream. ^[inferred] If a future `dow-uap-` `d*` ingest documents close approach + cross-aircraft target selection, *that* artifact would promote to engagement-class evidence and supersede this negative datum.
 
 ## Open hypotheses (not endorsed)
 
