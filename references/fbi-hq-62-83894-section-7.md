@@ -13,7 +13,7 @@ base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T19:30:00Z
-updated: 2026-05-10T19:30:00Z
+updated: 2026-05-11
 ---
 
 # FBI HQ File 62-HQ-83894 — Section 7 (Serials 302-343)
@@ -237,6 +237,7 @@ The **Soul Craft Press / Silver Shirt Legion / William Dudley Pelley link** (ser
 - **Identify the Africa observation** in detail — Chadwell's *"recent observation"* later identified as a meteor; still no location/date given. ^[open]
 - **Recover the Robertson Panel report** itself — section 7 ends at serial 343 (27 Jun 1954), 17 months after the panel concluded. ^[open]
 - **Ingest section 6** to bridge sections 5 and 7 — recover serials 246-301 (Sep 1950 - Aug 1952), including serial 273 (May 1952 Eekhout) referenced from serial 319. ^[open]
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-section-6]]]**
 - **Identify the "Navy-photographer 35-feet-of-film"** referenced in serial 323 — most-likely candidate is **WO Delbert C. Newhouse Tremonton UT 2 Jul 1952**, but section 7 does not name the photographer. ^[ambiguous]
 - **Locate file 62-101030** (out-recategorization destination of serials 336+337+339+340 on 5 May 1954). ^[open]
 - **Track the *Valor* / Soul Craft Press / Silver Shirt Legion / Pelley pipeline** beyond section 7. ^[open]

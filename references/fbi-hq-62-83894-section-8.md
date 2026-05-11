@@ -13,7 +13,7 @@ base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-11
 created: 2026-05-11T00:00:00Z
-updated: 2026-05-11T03:30:00Z
+updated: 2026-05-11
 ---
 
 # FBI HQ File 62-HQ-83894 — Section 8 (Serials 344-384)
@@ -162,6 +162,7 @@ See [[references/fbi-detroit-100-26505-krasuski-1957]] (UPDATED) and [[entities/
 - **Cross-reference NSC J. Patrick Coyne's office** — Coyne's role in the Krasuski intake suggests an NSC standing inbox for citizen UAP letters. Locate Coyne's other UAP-routing actions in 1955-1958. ^[open]
 - **CLOSED ✓ — section 9 picks up post-Sputnik exactly as anticipated.** [[references/fbi-hq-62-83894-section-9]] (serials 385-447, 14 Nov 1957 → 21 Jul 1966) opens with the **[[references/fbi-roach-belmont-sputnik-memo-1957-11-12|12 Nov 1957 Roach → Belmont memo]]** explicitly framed *"Ever since the Russians released 'Sputnik'"* — the FBI-side canonical primary source for the [[concepts/sputnik-saucer-reactivation-1957|post-Sputnik UAP-report surge]]. ^[extracted] The memo enumerates Vernal UT (10 Oct 1957), Nebraska contactee, Albany→Miami fireball, Coast Guard cutter, and the Levelland engine-stall wave under one frame, all dispositioned by AF as *"non-authentic"*. ^[extracted]
 - **Locate the NACA→NASA transition's effect on UAP institutional posture** — section 9-10 likely capture how NACA's Dryden/Doolittle position carries into NASA after Oct 1958. ^[inferred] (Section 9 ingest does not show a NACA→NASA transition signal; the file's [[concepts/fbi-saucer-policy-stasis-1958-1962|policy-stasis annual reviews 1958-1962]] cite only the BB-57 + 11/12/57 AF-assurance anchors, not NACA/NASA.) ^[inferred]
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-section-9]]]**
 
 ## See also
 

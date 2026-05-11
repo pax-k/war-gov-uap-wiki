@@ -12,7 +12,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Three Men in Black (MIB) — FBI-Era Origin
@@ -123,7 +123,7 @@ Section 9 carries multiple traces of the broader 1958-1960 contactee scene that 
 
 These figures **post-date the Bender 1953 silencing** but are **structurally adjacent** to the MIB rumor — each one builds the broader *"government-knows-but-suppresses"* civilian frame that gives the MIB myth its discursive home. ^[inferred]
 
-## Open Questions
+## Open questions
 
 - **Was Albert K. Bender ever actually approached by federal agents?** ^[ambiguous] The wiki's primary-source position is **non-committal** — see [[entities/albert-k-bender]].
 - **What's in Barker's 1956 book that the FBI considered noteworthy?** ^[open] The wiki holds the **publisher's jacket copy** ([[references/barker-1956-they-knew-too-much]]) but does not yet hold the body of the book, even though Chicago SAC mailed a copy to HQ on 12 Feb 1959. The actual Bureau-retained book copy may exist in a separate FBI file class.

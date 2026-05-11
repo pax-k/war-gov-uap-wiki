@@ -12,7 +12,7 @@ base_confidence: 0.5
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Albert K. Bender
@@ -64,7 +64,7 @@ The fact that the wiki's primary-source coverage of Bender is **only via Marck (
 - [[references/fbi-hq-62-83894-section-9]] — section spine
 - [[references/fbi-hq-62-83894-section-7]] — IFSB Jan 1953 *Space Review* retention
 
-## Open Questions
+## Open questions
 
 - **Was Bender ever actually visited by federal agents in 1953?** ^[ambiguous] Cannot resolve from the FBI corpus alone.
 - **Is there a New Haven SAC file on Bender or the IFSB?** ^[open] The wiki has no such retention; subsequent 62-HQ-83894 sections (6, 10) might cite one.

@@ -12,7 +12,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Sighting — Grand Blanc, MI (21 February 1960) — Joseph Perry telescope photograph
@@ -77,7 +77,7 @@ This **multi-channel disposition** is distinctive — most section-9 cases are s
 
 The case shows the **Hoover-personal-correspondence channel** in good operational form: Perry receives a personal Hoover letter on 21 Apr 1960 (serial 416) — the same letter form Hoover uses for citizen UFO inquiries (Maney 394, Mastroberte 428, etc.) but with **case-specific operational detail** rather than the generic policy disclaimer. ^[inferred] This is unusual within section 9.
 
-## Open Questions
+## Open questions
 
 - **Did the Detroit Times ever retract the *"FBI is interested in the picture"* framing?** ^[open]
 - **Did NICAP ever publish on the Perry case?** ^[open] Their letter to Perry (per the Flint Journal article) suggests they were monitoring it.

@@ -13,7 +13,7 @@ base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T22:00:00Z
-updated: 2026-05-11T11:24:17Z
+updated: 2026-05-11
 ---
 
 # DoW-UAP FOIA Release Series
@@ -144,8 +144,10 @@ A **second observation surfaces in `d5`**: a single mission report can carry **t
 - Confirm whether [[entities/aaro|AARO]] is the receiving / routing authority for the series, or whether the series originates from a different DoD-component intake pipeline.
 - Resolve **PAROC** initialism (introduced in `d52`); resolve whether *Information Disclosure Analyst* sits inside DOPSR, USAF FOIA, AARO, or a separate component.
 - Confirm the email-correspondence document class at N≥2 (queue: `d50`, `d51`).
+  <br/>**[expected-source: sources/dow-uap-d50-email-correspondence-indopacom-april-2025.json]**
 - Confirm the `d*` / `pr*` artifact-class split with at least one more `pr*` file ingest.
 - Characterise the "range fouler" document class as a structural artifact type — fields, witness conventions, release-redaction pattern.
+  <br/>**[expected-source: sources/dow-uap-d44-range-fouler-arabian-sea-october-2020.json]**
 - **Validate the mission-report template** above against the next 2–3 mission-report ingests. (Now at N=3 with `d7`'s introduction of named-field bullets + bearing position + `(SECRET)` portion-marking + morphology + cross-reference + fire-control vocabulary.)
 - **Resolve the filename-theater-vs-internal-coordinate question** with the next `d*` ingest that carries an MGRS or other resolvable internal coordinate. (`d7` was untestable.)
 - **Resolve the filename-date-vs-internal-date question** (introduced by `d52`: filename `august-2024` vs internal `31 OCT 24`; `d7` extends to filename-only-date with no internal date).

@@ -13,7 +13,7 @@ base_confidence: 0.5
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T22:00:00Z
-updated: 2026-05-10T22:00:00Z
+updated: 2026-05-11
 ---
 
 # National Investigations Committee on Aerial Phenomena (NICAP)
@@ -62,6 +62,7 @@ NICAP's credentialed posture made it **the bridge between the [[concepts/contact
 ## Open threads
 
 - **NICAP-FBI direct correspondence**: queued sections 8-10 of the main file may yield Director-level NICAP correspondence, since NICAP's stated mission included publicizing its findings. ^[open]
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-section-8]]]**
 - **NICAP press-shadow continuation post-May 1959**: sub-A's date span ends 25 May 1959; later sub-files (Vol 2?) or the post-1960 main-file serials may have additional NICAP press-shadow. ^[open]
 - **Reconciling Keyhoe's pre-1957 NICAP-director references** with the 15 Jan 1957 organizational-meeting date. ^[open]
 

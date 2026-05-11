@@ -13,7 +13,7 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-11
 created: 2026-05-11T00:50:00Z
-updated: 2026-05-11T00:50:00Z
+updated: 2026-05-11
 ---
 
 # CIA / Intelligence Advisory Committee UAP Engagement
@@ -95,6 +95,7 @@ The 1955 IAC engagement connects to: ^[inferred]
 - **Cross-check whether the 18 Oct 1955 IAC suppression decision was honored** — i.e., whether any post-Oct-1955 US Government public statement on Russell's sighting exists. ^[open]
 - **Locate parallel CIA OSI / OCI engagements** with UAP between 1953-55 (post-Robertson, pre-Russell) — e.g., post-Robertson-Panel residual investigations, the [[references/fbi-hq-62-83894-section-7|section 7]] *"creditable Navy-photographer film"* admission. ^[inferred]
 - **Track later IAC / USIB UAP discussions** in queued FBI sections 9-10 — section 8 closes Nov 1957, post-Sputnik; subsequent IC engagement would be Sputnik-shaped. ^[inferred]
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-section-9]]]**
 - **Identify the 18 Oct 1955 IAC member-list** — the IAC membership rotated; Belmont's attendance for the FBI is documented, but other agencies' representatives at the Executive Session are not preserved in section 8. ^[open]
 - **Cross-reference the Oct 1955 decision's effect on Sen. Russell's later UAP posture** — did Russell's Senate Armed Services Committee chairmanship continue to receive UAP material after Oct 1955? ^[open]
 

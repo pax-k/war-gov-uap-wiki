@@ -12,7 +12,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Condon Committee (University of Colorado UFO Study, 1966-1968)
@@ -85,7 +85,7 @@ The Condon Committee is the **bridge** between the [[concepts/fbi-saucer-policy-
 - **NAS panel review** (1969): 6-page review; concurs with Condon's recommendations. ^[extracted from Fact Sheet description]
 - **Termination** (17 Dec 1969): Blue Book closes per the Condon recommendation chain.
 
-## Open Questions
+## Open questions
 
 - **Did Condon's "answer the letter" follow-up to the landing-prediction correspondent (serial 456) yield any record?** ^[open] No follow-up appears in section 10.
 - **Were any Condon Committee members or staff documented in the FBI corpus?** ^[ambiguous] None visible in section 10 beyond Condon himself.

@@ -12,7 +12,7 @@ base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # FBI HQ File 62-HQ-83894 — Section 10 (Serials 448-486)
@@ -241,7 +241,7 @@ For completeness — content adjacent to the roster in the same enclosure, **not
 
 The FBI's intake of the UFO CONTACT igap journal Vol 2 No 5 via Hullett's 22 Aug 1967 letter (serial 462) — and the Bureau's filing of the full ~50-page journal in the HQ topic file — means **the FBI's 62-HQ-83894 holds, by 1967, the most comprehensive single-document characterization of the international civilian-UFO-research network in any U.S. government file** ^[inferred]. There is no evidence in section 10 that the Bureau **analyzed** this roster — but the **filing itself** is the institutional act: the file is the documentary commons of the topic. ^[inferred]
 
-## Open Questions
+## Open questions
 
 - **What is in section 6?** — and does it extend the file's terminus past 1977? ^[open]
 - **Why are the 1970-1973 years near-empty in section 10?** — were UFO filings routed to a different file during this period, or did intake genuinely drop? ^[open]

@@ -128,6 +128,28 @@ With Plan B chunking protocol applied to every subagent for the remaining 35 sou
 
 Sections named `## Open threads` (159 in vault) and `## Open questions` (85) carry unresolved leads, dangling references, and follow-up work. Treat them as live pipeline inputs at every stage — not page decoration.
 
+### Mid-pipeline triage (2026-05-11, after batch 5 hygiene)
+
+Step 1c is **reactive** — it only touches threads on QMD-hit pages. Threads on pages that don't QMD-hit a new source stay orphaned. Repair passes (COMETA, section_10, box7) also left a backlog of caller-side threads unmarked. Mid-pipeline triage flips this to **proactive**.
+
+**One-shot triage subagent dispatch** before resuming source 51:
+
+1. Build full bullet inventory: scan all pages in `concepts/ entities/ references/ synthesis/ projects/` for `## Open threads` and `## Open questions` sections, extract each bullet with its page context.
+2. Classify each bullet into 5 buckets:
+   - **genuinely-open** — no corpus source can close (leave as-is)
+   - **forward-anchored** — answer expected in a not-yet-ingested source from `/tmp/wiki_ingest_order.txt` lines 51-85 (annotate with `[expected-source: <basename>]`)
+   - **stale** — answered by another existing wiki page (annotate with `[possibly answered by: [[X]]]` — do NOT close)
+   - **repair-backlog** — answered by the 3 recent repair passes (COMETA pages 47-93, section_10 mid-file, box7 101-172) — close with `^closed-by` footnote
+   - **contradicts** — multiple sources, real synthesis problem (leave; tag for synthesis)
+3. Apply annotations in-place (non-destructive for buckets 1-3 and 5; closures only for bucket 4 with evidence-bound footnotes).
+4. Heading-case normalization: lowercase `## Open threads` / `## Open questions` everywhere. Collapse singular variants.
+5. Output inventory table: bucket × count per page; total counts per bucket.
+6. Update `log.md` with `THREAD_TRIAGE` entry; update `hot.md`.
+
+After triage, sources 51-85 ingest subagents will be able to grep `[expected-source: <their-basename>]` and find ALL threads expecting them — regardless of QMD relevance. This makes Step 1c proactive instead of reactive.
+
+
+
 **Per-source ingest** (formalized in Step 1c of the subagent template below):
 
 - After the QMD hits land, the subagent reads every hit page's `## Open threads` / `## Open questions`.

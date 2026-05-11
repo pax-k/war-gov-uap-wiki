@@ -12,7 +12,7 @@ base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-11T03:30:00Z
+updated: 2026-05-11
 ---
 
 # Sighting — Socorro, NM (24 April 1964) — Lonnie Zamora landing
@@ -123,6 +123,7 @@ Socorro is the corpus's **first 1960s FBI-involved UAP case** and the **first FB
 - **Confirm the suspect speeding-Chevrolet driver** (*"Floyd Reynolds' boy, Vivian, about 17"*) was ever interviewed — Zamora's chase was abandoned, so this driver is a potential (though distant) co-witness to the flame/roar. ^[open]
 - **Cross-reference the dynamite-shack location** (Zamora's reference landmark) against any Stallion Range / White Sands Missile Range proximity claim. ^[open] Socorro NM is geographically close to the WSMR perimeter.
 - **Locate any FBI follow-on serial in 62-HQ-83894** by Byrnes or the Albuquerque field office — the queued ingest still includes serial 449. ^[inferred]
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-serial-449]]]**
 - **Cross-reference the ~10–15 ft object/trace scale** with any prior or subsequent corpus events of similar scale (the 1948 Hamel object is much smaller at 2 ft). ^[open]
 
 ## See also

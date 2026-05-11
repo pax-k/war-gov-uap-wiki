@@ -12,7 +12,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Post-Blue-Book UAP Coordination Question (Carter White House, June 1977)
@@ -86,7 +86,7 @@ This concept anchors the **Carter-era institutional position** in the wiki's pol
 - **1977** (THIS PAGE): Carter White House asks if any coordination exists. Answer: No.
 - *(later)*: AARO (2022 → present) — see [[entities/aaro]] for the eventual successor coordination function 45 years after the Carter question.
 
-## Open Questions
+## Open questions
 
 - **What prompted Powell's question on 14 Jun 1977?** ^[open] A press inquiry? An internal Carter administration interest? The OCR doesn't say.
 - **Did Schneider call back?** ^[open] No record in section 10.

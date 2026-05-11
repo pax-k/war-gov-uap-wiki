@@ -12,7 +12,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Project Blue Book Termination (17 December 1969)
@@ -90,7 +90,7 @@ Blue Book's termination sits at the **end of the post-1947 institutional saucer 
 - **Termination** (Dec 1969): **THIS PAGE** — Blue Book closes; AFR 80-17 rescinded; documentation transferred to NARA.
 - **Post-termination question** (Jun 1977): [[concepts/post-bb-uap-coordination-question-1977|Carter White House coordination inquiry]] — the question of whether *anyone* in the Executive Branch coordinates UFO information now that BB is closed.
 
-## Open Questions
+## Open questions
 
 - **Did the FBI receive any direct AF notification of the 17 Dec 1969 closure at the time?** ^[ambiguous] The 1977 McClanahan letter's framing *"apprising us of the termination of your project"* suggests not — but section 10 covers only the HQ-level filing, and a field-office letter notification is possible. ^[inferred]
 - **What was the precise date the AF's referral function became inoperative?** ^[open] Was it 17 Dec 1969 (announcement) or some later date (program close-out, document transfer)?

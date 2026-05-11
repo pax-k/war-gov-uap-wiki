@@ -12,7 +12,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Dallas Anonymous Informant ETI Claims (FBI Dallas, 9 Oct 1967)
@@ -79,7 +79,7 @@ The Dallas Anonymous Informant case sits at the intersection of three corpus thr
 
 It is the **most kinematically detailed** anonymous-informant case in the FBI corpus ^[inferred] — most anonymous-informant filings in 62-HQ-83894 stop at *"saw a saucer"* without attaching specific recovery, shootdown, or geosynchronous-altitude claims.
 
-## Open Questions
+## Open questions
 
 - **Was the informant identified later?** ^[open] No follow-up appears in section 10.
 - **Are any of the four UAP claims (22 May 1962 Africa antimissile, ~6 Aug 1967 22,000-mile detection, 20 Aug 1967 Antarctica, late Aug/Oct 1967 DEW Line) independently corroborable?** ^[ambiguous] None match known contemporaneous press or government UFO records. The DEW Line shootdown claim has no counterpart in NORAD or AF Blue Book records. ^[inferred]

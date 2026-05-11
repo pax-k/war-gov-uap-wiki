@@ -12,7 +12,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Peyerl WW2 Black-Forest Saucer Disclosure (FBI Miami, 26 Apr 1967)
@@ -98,7 +98,7 @@ The Peyerl disclosure connects to several wiki concepts ^[inferred]:
 
 The **disc-as-Nazi-prototype hypothesis** that Peyerl's 1967 disclosure exemplifies has substantial post-1990s civilian-research literature (e.g., Renato Vesco's *Intercept UFO*) but is generally **rejected by mainstream WW2-aerospace historians** ^[ambiguous]. Peyerl's specific claim — KUEHR + 21-foot radio-controlled rotating-exterior + 7,000m altitude — does not appear in mainstream WW2-aerospace records. ^[inferred]
 
-## Open Questions
+## Open questions
 
 - **Who was "KUEHR"?** ^[open] Not identifiable in standard WW2 German-aerospace records.
 - **Did the Inspector General USAF (Form 6-11-67 referral) take any follow-up?** ^[open]

@@ -12,7 +12,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Larry W. Bryant
@@ -98,7 +98,7 @@ The 1974 filing serial is **62-HQ-83894-481** ^[extracted]; the formal FOI reply
 
 Bryant's 1974 letter is structurally the **first FBI-corpus citizen FOIA-style records request invoking Presidential-policy framing as warrant** ^[inferred] — Bryant cites Nixon's privacy assurance (this is months before Nixon's Aug 1974 resignation), pre-figuring the 1974 FOIA-amendment expansion of citizen records access.
 
-## Open Questions
+## Open questions
 
 - ~~**What was the date of Bryant's interview with SA John S. Castles?**~~ **RESOLVED** — 17 September 1963 per Section 10 serial 481 (1974 records-request internal NOTE). ^[extracted]
 - **Did the Second Army G-2 background check produce any finding?** ^[open] Sections 9-10 have no follow-up filing.

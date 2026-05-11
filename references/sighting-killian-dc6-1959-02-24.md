@@ -13,7 +13,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T22:00:00Z
-updated: 2026-05-10T22:00:00Z
+updated: 2026-05-11
 ---
 
 # Sighting — Killian AAL DC-6 Newark→Detroit (24 Feb 1959)
@@ -56,6 +56,7 @@ The 35-passenger witness population would be **very hard to dismiss as misidenti
 - **AF investigation outcome** — did ATIC (or Project Blue Book by 1959) publish a resolution? ^[open]
 - **Cleveland OH descent endpoint** — does an Air Defense Command radar track exist for the same window? ^[open]
 - **NICAP follow-up** — did Killian or the passengers contact NICAP under [[entities/delmer-s-fahrney|Fahrney]]? Sub-A's later items don't surface a direct NICAP-Killian coupling but the queued main-file sections 8-10 (1954-1964) might. ^[open]
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-section-8]]]**
 - **OCR ambiguity on altitude** ("850 feet") — the AP wire as OCR'd reads 850 ft for the first sighting altitude, which is implausibly low for a Newark-Detroit DC-6 flight near Philipsburg PA. Likely an OCR error for 8,500 ft or 18,500 ft. ^[ambiguous]
 
 ## See also

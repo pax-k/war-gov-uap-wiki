@@ -13,7 +13,7 @@ base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T16:30:00Z
-updated: 2026-05-10T16:30:00Z
+updated: 2026-05-11
 ---
 
 # FBI HQ File 62-HQ-83894 — Section 5 (Serials 186-245)
@@ -163,11 +163,13 @@ The briefing explicitly **rules out** all of (1) space-ships from other planets 
 ## Open threads
 
 - **Locate [[references/fbi-bureau-bulletin-57-1947|Bureau Bulletin No. 57]] (1 Oct 1947)** — the closure-instrument referenced in serial 206 reply. ^[open] Almost certainly in queued section 3.
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-section-3]]]**
 - **Ingest sections 3-4** to recover serials 101-185 — including the 62-83894-141-160 Bureau-discontinuation thread referenced from serial 212. ^[open]
 - **Identify "Mr. Carroll"** named by Garrett (section 2 serial 86) — does he reappear in section 5's analytical material (e.g., the D-3 briefing)? ^[open]
 - **Reconcile section 5's serial-245 endpoint** with section 6's start-serial. ^[open]
 - **Verify whether Mrs Pervier's pre-WW2 letters to Marshall / FDR / Dies** are recoverable in any other Hoover-corpus file. ^[open]
 - **Identify "Coulter" / "Coulter from Denver Ford agency"** named in serial 203 OSI TWX as the Aztec-myth source — does the name re-appear in queued sections? ^[open]
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-section-10]]]**
 - **Identify "Albert Holmberg"** of the "Danse Macabre" letter (serial 241-243) — Chicago SAC indices were negative; PETRONE's Midwest Times sample circulation 15,000 limited NW Chicago. ^[open]
 - **Locate the FBI Crime Records Section review** of [[entities/donald-keyhoe|Keyhoe]]'s *The Flying Saucers Are Real* (Fawcett 1950) referenced in serial 239 NOTE. ^[open]
 - **Trace serial 244's recategorization** to file 62-48563-7X (13 Nov 1951) — does this file exist in the FBI Vault? ^[open]

@@ -12,7 +12,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Cochran-Schneider Carter White House UFO Coordination Inquiry (FBI HQ, 14-15 Jun 1977)
@@ -107,7 +107,7 @@ The Cochran-Schneider exchange is the FBI corpus's:
 | **1977 (Jun) — THIS PAGE** | **Carter White House asks if any coordination exists. Answer: No.** |
 | 2022+ | [[entities/aaro\|AARO]] — the eventual successor coordination function 45 years later |
 
-## Open Questions
+## Open questions
 
 - **What prompted Powell's UFO-coordination question on 14 Jun 1977?** ^[open] The OCR records the chain *"Jody Powell of the President's staff has raised the question"* but not the precipitating event.
 - **Did Schneider call back?** ^[open] No record in section 10.

@@ -12,7 +12,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # D. Arthur Byrnes Jr.
@@ -51,6 +51,7 @@ The **5-year personal acquaintance** between Byrnes and the witness is **structu
 
 - **Identify Byrnes's full FBI service record** — Albuquerque tenure, prior field-office postings, role in any other UAP-adjacent or non-UAP cases. ^[open]
 - **Identify whether Byrnes filed any follow-on serial in 62-HQ-83894** (e.g. serial 449) on subsequent investigative work. ^[inferred] The queued ingest still includes serial 449.
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-serial-449]]]**
 - **Cross-reference Byrnes's authorship** with any Project BLUE BOOK 8766 file material — whether Byrnes coordinated with USAF (Quintanilla / [[entities/j-allen-hynek|Hynek]]) or the FBI report was filed independently of USAF. ^[open]
 - **Resolve "D. Arthur Byrnes Jr."** vs alternate spellings — the OCR is consistent across all four carbon copies but no signature page is preserved in the OCR. ^[ambiguous]
 

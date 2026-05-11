@@ -13,7 +13,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-11
 created: 2026-05-11T00:30:00Z
-updated: 2026-05-11T00:30:00Z
+updated: 2026-05-11
 ---
 
 # Wilbur B. Smith
@@ -50,6 +50,7 @@ Project Magnet (Canada DOT 1950-54) is referenced **by name in section 8 serial 
 - **Identify the 1 Aug 1954 radio-contact-test outcome** — Smith would have logged it institutionally if it was performed. ^[open]
 - **Cross-reference Smith's 1950 "Top Secret" memorandum** to the Canadian Department of Transport (the famous "the matter is the most highly classified subject in the United States Government, rating higher even than the H-bomb") ^[inferred] against the section 8 serial 346 chronology — Smith's institutional ETI-friendly position predates the Swan case by ~4 years.
 - **Watch for additional Canadian-Project-Magnet correlates** in the wiki's queued sections 9-10 of [[entities/fbi-hq-62-83894-file|62-HQ-83894]]. ^[open]
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-section-9]]]**
 
 ## See also
 

@@ -12,7 +12,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # USAF UFO Fact Sheet (McClanahan-Malmfeldt, 14 Jan 1977)
@@ -108,7 +108,7 @@ The Fact Sheet is the **only FBI-corpus retention of the verbatim 1969 Blue Book
 - Pre-figures (by 5 months) the [[references/fbi-cochran-schneider-1977|Carter White House coordination question]] — the Fact Sheet's "no successor" statement is exactly the gap Powell asks about.
 - Establishes the **transfer-to-NARA disposition** which the FBI corpus inherits when later FOIA requests on Blue Book material are routed.
 
-## Open Questions
+## Open questions
 
 - **Who was Mr. Malmfeldt** at FBI Room 7825 in January 1977? ^[ambiguous] Section 10 doesn't give his title or division. Likely an External Affairs Division correspondence-handler, given that Donald W. Moore Jr. (External Affairs AD) responds on his behalf. ^[inferred]
 - **Who was the citizen inquirer whose UFO inquiry triggered the McClanahan letter?** ^[open] Section 10 has no separate filing for this inquiry.

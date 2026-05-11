@@ -12,7 +12,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # FBI Saucer-Policy Stasis (1958-1962 Annual Reviews)
@@ -88,7 +88,7 @@ This is a useful **negative finding**: the absence of a 1963 review memo is **it
 
 This concept extends — but does not replace — [[concepts/saucer-as-hoax-default]]. ^[inferred] The hoax-default concept describes the **operating presumption** that any given saucer report is a fabrication. The policy-stasis concept describes the **institutional reflex** for memorializing that presumption as standing policy across time. ^[inferred] Both concepts are wholly compatible; the stasis concept is the **temporal-institutional dimension** of the hoax default.
 
-## Open Questions
+## Open questions
 
 - **Where is the 1963 annual review?** ^[open] Either it was filed under a different serial number that we have not yet ingested, or the chain ends with serial 427.
 - **Did the policy chain resume after Socorro?** ^[open] If a 1965 or 1966 review exists, it would be in a later section. ^[inferred]

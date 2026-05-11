@@ -13,7 +13,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-11
 created: 2026-05-11T00:45:00Z
-updated: 2026-05-11T08:30:00Z
+updated: 2026-05-11
 ---
 
 # Aerial Phenomena Research Organization (APRO)
@@ -79,6 +79,7 @@ This is the **first FBI-corpus by-name attribution of Coral Lorenzen as APRO fou
 - **Identify Jim Lorenzen** (Coral's husband, APRO co-founder) by name in the FBI corpus — serial 369 references *"the A.P.R.O. Bulletin"* but does not name him; section-10 names Coral but not Jim. ^[open]
 - **Locate the APRO Bulletin issue clipped at serial 369** — the issue would be the Aug 1956 issue based on Wold's 31 Aug 1956 subscription-receipt timing. ^[inferred]
 - **Track APRO's later FBI-corpus appearances** in queued sections 9-10 of [[entities/fbi-hq-62-83894-file|62-HQ-83894]] — APRO operated through 1988. ^[inferred]
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-section-9]]]**
 - **Cross-reference the McDonnell Aircraft St. Louis defense-contractor context** for additional 1956-57 saucer-related employee tips. ^[open]
 
 ## See also

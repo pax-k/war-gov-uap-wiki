@@ -13,7 +13,7 @@ base_confidence: 0.66
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T22:00:00Z
-updated: 2026-05-10T22:00:00Z
+updated: 2026-05-11
 ---
 
 # FBI HQ File 62-HQ-83894 — Sub-File A
@@ -234,6 +234,7 @@ Sub-A's latest items (1957-59) are particularly informative because the main num
 - **Other sub-files (B, C, …)?** Sub-A is the first sub-file in the wiki corpus. Other sub-files of 62-HQ-83894 may exist holding photographs, oversized exhibits, classified holds, or PII redactions — i.e. the original guess at what sub-A would contain. ^[inferred]
 - **Joe Perry color-slide return** (page 1) — first FBI-corpus instance of FBI returning physical evidence to a civilian after Eisenhower-letter intervention. ^[open] Worth a serial-level lookup if the main file has a parallel.
 - **Helena MT FBI investigation** (page 46, 1953-54) — explicit press citation of FBI investigation contradicts BB-57 standing posture; deserves cross-reference if the queued sections 8-10 yield a main-file analogue. ^[open]
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-section-8]]]**
 - **"Saucer Denial Held Valuable to Russia"** (page 77-78, Apr 1950) — explicit Cold-War counter-intel framing predates the [[references/fbi-boggs-hearn-discontinuation-memo-1950-03-28|Boggs-Hearn memo]] by ~weeks; may predate or post-date depending on the day-precise date. ^[open]
 - **OCR digit-drift** — page 1 OCR'd `102-83894-A`, page 35 OCR'd `162-83899-A`, most pages `162-83894-A`. Canonical form is `62-HQ-83894-A` per FBI Vault. ^[ambiguous]
 

@@ -12,7 +12,7 @@ base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Roach → Belmont "Sputnik" UFO Memo (12 November 1957)
@@ -69,7 +69,7 @@ The memo **does not name Levelland** as a place — readers in 1957 would have k
 - **62-83894-373** is referenced in serial 395 (Wolcott letter, 11 Dec 1958) — the *"Aerial Phenomena Research Club, Bartow, FL"* 1957 referral.
 - **62-83894-387** (this memo) becomes the file's **standing reference** for AF commitment to keep Bureau informed.
 
-## Open Questions
+## Open questions
 
 - **Was an earlier (pre-Sputnik) post-Levelland Roach memo drafted and not retained?** ^[open] The 12 Nov 1957 memo is filed *after* both Vernal and Levelland but before the Donahoe/Sanders policy reviews — so timeline-wise it is the **first HQ-level retained acknowledgement** of the post-Sputnik surge. ^[inferred]
 - **Did Belmont annotate the memo?** The OCR shows only a routing checkmark and *"October 28"* in the margin (page 7) — the latter is unexplained in context. ^[ambiguous]

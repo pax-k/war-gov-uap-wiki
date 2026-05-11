@@ -12,7 +12,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Sputnik-Era Saucer Reactivation (Oct-Nov 1957)
@@ -71,7 +71,7 @@ The Sputnik-era reactivation is the **second major engine-stall wave** in the co
 
 A future ingest of Project Blue Book Levelland-case records would close the chronology. ^[open]
 
-## Open Questions
+## Open questions
 
 - **Why does the Roach memo bury Levelland behind Vernal?** ^[ambiguous] Vernal had no AF-disconfirming finding yet on 12 Nov 1957; Levelland by 12 Nov already had the [[entities/j-allen-hynek|Hynek]]-led investigation underway. ^[inferred]
 - **Did the FBI ever circulate Sputnik-attribution framing externally?** ^[open] No external letters in section 9 use the *"ever since Sputnik"* phrasing — it appears only internally.

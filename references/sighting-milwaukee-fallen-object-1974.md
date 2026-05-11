@@ -12,7 +12,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T00:00:00Z
-updated: 2026-05-10T00:00:00Z
+updated: 2026-05-11
 ---
 
 # Milwaukee Fallen Object — NMCC Inquiry (FBI Command Center, 22 Aug 1974)
@@ -80,7 +80,7 @@ The Milwaukee Fallen Object case sits at the intersection of three threads ^[inf
 - **Post-Blue-Book interagency channels** — earliest FBI-corpus instance of NMCC routing UFO debris-recovery to FBI. ^[inferred]
 - **Institutional-coordination gap** — pre-figures the [[concepts/post-bb-uap-coordination-question-1977|June 1977 Carter White House coordination question]] by 3 years.
 
-## Open Questions
+## Open questions
 
 - **What was the object?** ^[open] Section 10 has no follow-up. Possible candidates include: meteorite, aircraft debris, balloon-related fragment, satellite-reentry fragment. The *"internal heat source"* descriptor weakly favors the recent-reentry hypothesis. ^[inferred]
 - **Did NMCC follow up with Captain Wills as Morris suggested?** ^[open]

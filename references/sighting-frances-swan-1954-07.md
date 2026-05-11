@@ -13,7 +13,7 @@ base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-11
 created: 2026-05-11T00:15:00Z
-updated: 2026-05-11T00:15:00Z
+updated: 2026-05-11
 ---
 
 # Sighting / Channeling — Frances Swan (May-July 1954)
@@ -107,6 +107,7 @@ The **letter goes to OSI/AF rather than to USAF Intelligence directly** ^[inferr
 - **Identify whether the 1 Aug 1954 radio-test attempt by Wilbur Smith produced any institutional follow-up** in either US or Canadian records. ^[open]
 - **Cross-reference Knowles's earlier WWII service record** — Adm Knowles was active in convoy-screen / ASW operations; his 1954 advocacy for a psychic-channeling case is structurally unusual for a flag officer of his era and may correlate with WWII paranormal-research-program contacts. ^[inferred]
 - **Watch for the Swan case's later disposition** in the wiki's queued sections 9-10 of [[entities/fbi-hq-62-83894-file|62-HQ-83894]]. ^[open]
+  <br/>**[possibly answered by: [[references/fbi-hq-62-83894-section-9]]]**
 
 ## See also
 
