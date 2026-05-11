@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-11T07:30:00Z*
+*This index is automatically maintained. Last updated: 2026-05-11T10:30:00Z*
 
 ## Concepts
 
@@ -151,6 +151,7 @@ title: Wiki Index
 - [[entities/ruben-efron]] — Senate Armed Services Committee Consultant; co-witness and contemporaneous note-keeper for the 4 Oct 1955 Trans-Caucasus disc sighting ( #person #witness #uap #senate-staff)
 - [[entities/ryan-graves]] — Former US Navy F/A-18F pilot; post-2017 UAP witness who testified to both US Congress and Mexico's Congress (12 Sep 2023); publicly criticized Maussan's alleged-corpse display as an "unsubstantiated stunt" ( #uap #person #navy #witness #aviation)
 - [[entities/russia-mfa]] — Russian Ministry of Foreign Affairs (MID); counterparty department in MOSCOW 13169; source of Tereoken's "UFO" denial trope ( #russia #foreign-government #organization #diplomacy)
+- [[entities/russell-j-carey]] — 1st Lt USAF, Base Intelligence Officer with the 331st AFBU (Reserve Training) at Stout Field Indianapolis in July 1948; investigated and hand-signed morphology sketches for Project SIGN Inc 151 (Toney/Huggins broad-propeller) and Inc 152 (Swigert cymbal disc) ( #uap #usaf #person #intel-witness #1948)
 - [[entities/shaef-air-staff]] — Allied combined-air-forces intelligence/operations hub (1944–45) that routed the foo-fighter correspondence ( #uap #ww2 #organization)
 - [[entities/skylab]] — NASA's first orbital station (1973–79); three crewed visits SL-2/3/4; mission frame for the d7 Technical Crew Debriefings — sub-class F + sub-class D extension + cosmic-ray-flash LEO baseline ( #nasa #mission #spacecraft #uap #astronaut)
 - [[entities/state-department]] — US Department of State; parent agency of all American embassies and the cable-traffic backbone of the corpus's diplomatic-channel UAP intake pattern ( #state-department #organization #diplomacy)
@@ -281,11 +282,13 @@ title: Wiki Index
 - [[references/sighting-apollo-11-cylinder-1969-07]] — ~18 Jul 1969 Day-3 translunar three-witness instrument-mediated sighting (Armstrong + Aldrin + Collins) of an unidentified object resolved as cylinder/two-rings/open-suitcase morphology through cabin window/monocular/sextant; S-IVB explicitly ruled out by Mission Control range (6,000 mi) — corpus's first sub-class E strong-positive ( #uap #sighting #nasa #astronaut #morphology)
 - [[references/sighting-arnold-mt-rainier-1947-06-24]] — 24 Jun 1947 sighting by private pilot Kenneth Arnold of 9 mirror-like craft over Mt Rainier WA — founding event of the 1947 Flying Disc wave; SIGN Inc 17; origin of "flying saucer" terminology ( #uap #sighting #1947 #washington #aviation)
 - [[references/sighting-bakersfield-1948-03]] — Two falling-object observations near Bakersfield, CA in March 1948 ( #uap #sighting #california)
+- [[references/sighting-bonneville-bfg-1948-05]] — 17 May 1948 ~2330 20-min roadside sighting by W.A. Bonneville (Territory Manager, B.F. Goodrich Co.) of a fast bright white "ball" performing arcs over the Powder River Bridge between Plevna and Miles City MT; triggers 15 Jun 1948 Col W.R. Clingerman follow-up letter at Wright Field MCIAXO-3 (Project SIGN Inc 130) ( #uap #sighting #1948 #primary-source)
 - [[references/sighting-cascade-mts-johnson-1947-06-24]] — 24 Jun 1947 same-day-as-Arnold sighting by 40-yr-experienced prospector Fred M. Johnson of 5–6 round discs in the Cascade Mts OR; combination compass-and-watch deflected during disc passage. Earliest EM-effect datum in the corpus (SIGN Inc 68) ( #uap #sighting #1947 #oregon #electromagnetic)
 - [[references/sighting-castro-ranch-1948-09]] — 23 Sep 1948 daylight observation by Col Horace Eakins (US Army, Ret) of a translucent gray "amoeba-like" object with three forward and two aft flapping appendages near San Pablo CA — unique morphology in the corpus (Project SIGN Inc 176) ( #uap #sighting #california #1948 #morphology)
 - [[references/sighting-chiles-whitted-1948-07]] — 24 Jul 1948 02:45 close-approach of a 100-ft cigar with red-orange flame trail and blue underbelly glow toward an EAL DC-3 over Montgomery AL — Project SIGN Inc 144, earliest 1948 engagement-class precedent ( #uap #sighting #aviation #1948 #morphology)
 - [[references/sighting-cylindrical-object-vicinity-f5710-1945-03-01]] — 1 March 1945 USAAF reconnaissance pilot sighting of a 12-ft aluminium cylinder hovering vertically at 9,000 ft ( #uap #sighting #ww2)
 - [[references/sighting-dark-kite-western-us]] — Federal LE agents pursue what looks like a car; it lifts off the road, hovers, and reads as a thin dark kite/triangle ( #uap #sighting #federal-le)
+- [[references/sighting-delaware-ashley-oh-1948-04]] — 8 Apr 1948 daylight 7-witness 2-town cluster in central Ohio — same white cylindrical/spherical object reported 1400–1430 from Ashley (Paines/Slack + Stephens) and Delaware (Mr & Rev Stephenson + Mr & Rev Bergen + Mrs Kirkpatrick), incl. 2 Methodist pastors; both Delaware airport + Perkins Observatory alerted during sighting (Project SIGN Inc 112 / 112a-f) ( #uap #sighting #1948 #ohio #morphology)
 - [[references/sighting-detroit-1958-04-17]] — 0408-LT 17 Apr 1958 single-witness Detroit sighting (David Weaver) of a circular crystal-domed object NE-bound from SW; phoned in to FBI after Selfridge unreachable ( #uap #sighting #michigan)
 - [[references/sighting-durango-mexico-1950-03]] — 18 Mar 1950 daylight photographed sighting of a "double truncated cone joined at its bases" object at ~8,000–9,000 ft over Durango, Mexico, by civil-engineering student Germán Horacio Robles Jr.; reported in *El Universal* (Mexico City) and clipped into FBI HQ 62-HQ-83894 serial 220; corpus's first Mexican-located UAP sighting ( #uap #sighting #mexico #1950 #morphology)
 - [[references/sighting-fairfield-suisun-1948-12]] — AACS tower operators tracked a 30-inch luminous round object that hovered, climbed almost vertically to 20k ft (3 Dec 1948) ( #uap #sighting #california)
@@ -300,6 +303,7 @@ title: Wiki Index
 - [[references/sighting-hobson-ohio-1948-05]] — Night-time multi-witness phosphorescent disc sighting by NY Central rail workers ( #uap #sighting #ohio)
 - [[references/sighting-holland-coast-1948-09-05]] — Three crews of USAF 307th BG track an unidentified high-performance jet off the Dutch coast at 30,000 ft during Op Daggar (5 Sep 1948, USAFE B-2 evaluation) ( #uap #sighting #1948 #netherlands)
 - [[references/sighting-honolulu-1948-10]] — 18 Oct 1948 four-glimpse silver disc sighting at Honolulu, T.H. by USAF Maj Robert C. Drum — earliest Pacific-theater multi-glimpse disc-class observation (Project SIGN Inc 178) ( #uap #sighting #usaf #1948)
+- [[references/sighting-indianapolis-1948-07]] — Two same-week Indianapolis sightings — 29 Jul 1948 broad-short-propeller-shaped 6–8 ft aluminum object with cup protrusions at 30 ft tree-top altitude (Toney+Huggins, Inc 151) and 31 Jul 1948 cymbal-shaped 20-ft white flat disc at 2000 ft (Swigert+wife, Inc 152) — both investigated by 1st Lt Russell J. Carey Jr. at 331st AFBU Stout Field ( #uap #sighting #1948 #morphology #low-altitude)
 - [[references/sighting-jackson-ms-1949-01]] — 1 Jan 1949 sighting of a 60-ft cigar-shaped wingless dark object on landing approach to Jackson MS by ex-AAF pilot Tom Rush + wife (Project SIGN Inc 233) — terminal incident in the 173–233 numbered series ( #uap #sighting #1949 #aviation)
 - [[references/sighting-japan-glow-1949-01]] — Six-station Japanese CMO multi-vantage glow phenomenon with delayed thunder-roar (25 Jan 1949) ( #uap #sighting #japan)
 - [[references/sighting-kansas-city-1950-01]] — Two motionless brilliant-white spheres flashing orange/red over Kansas City KS / Olathe KS (6 Jan 1950) ( #uap #sighting #kansas)

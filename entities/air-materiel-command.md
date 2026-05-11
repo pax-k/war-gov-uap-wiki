@@ -36,7 +36,7 @@ This made AMC the operational hub of [[concepts/project-sign]]. ^[extracted]
 |---|---|
 | `MCI` | Initial attention line on AMC inbound mail (1948) |
 | `TSDIN` | Later attention line, also at AMC (1948) |
-| `MCIAXO-3` | 1949 standard attention line on all FSR-200-4-routed sighting reports — the office where Project SIGN intake landed by mid-1949 |
+| `MCIAXO-3` | Standard attention line on FSR-200-4-routed sighting reports — the office where Project SIGN intake landed. **First documented use: 15 June 1948** (Col W.R. Clingerman's request-for-elaboration letter to civilian witness W.A. Bonneville on Inc 130; see [[references/sighting-bonneville-bfg-1948-05]]). The same `MCIAXO-3` line then becomes the 1949 standard attention line. ^[extracted] |
 | `TSNAD-2B` | Office that drafted the [[references/loedding-flying-disc|Loedding Flying Disc]] memo |
 
 The "T-2" prefix on AMC reports refers to its intelligence (technical-intelligence) division. ^[inferred]

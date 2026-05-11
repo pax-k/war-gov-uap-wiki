@@ -533,7 +533,11 @@
         "references/sighting-chiles-whitted-1948-07.md",
         "references/sighting-gorman-fargo-1948-10.md",
         "references/sighting-hamel-mn-1948-08.md",
-        "references/sighting-norcatur-ks-1948-02.md"
+        "references/sighting-norcatur-ks-1948-02.md",
+        "references/sighting-delaware-ashley-oh-1948-04.md",
+        "references/sighting-bonneville-bfg-1948-05.md",
+        "references/sighting-indianapolis-1948-07.md",
+        "entities/russell-j-carey.md"
       ],
       "pages_updated": [
         "concepts/project-sign.md",
@@ -546,8 +550,12 @@
         "projects/uap/uap.md",
         "index.md",
         "log.md",
-        "hot.md"
-      ]
+        "hot.md",
+        "references/project-sign-incident-summaries-101-172.md",
+        "entities/air-materiel-command.md"
+      ],
+      "repaired_at": "2026-05-11T10:30:00Z",
+      "repair_reason": "witness-detail thin at Inc 112 + 130 + 151; mid-file triage gap"
     },
     "sources/38_143685_box7_incident_summaries_1-100.json": {
       "ingested_at": "2026-05-10T11:00:00Z",
@@ -1414,15 +1422,15 @@
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-11T09:00:00Z",
+      "last_ingested": "2026-05-11T10:30:00Z",
       "sources_ingested": 43
     }
   },
   "stats": {
     "total_sources_ingested": 50,
-    "total_pages": 316,
+    "total_pages": 320,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T07:30:00Z"
+    "last_ingest_at": "2026-05-11T10:30:00Z"
   }
 }

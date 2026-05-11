@@ -60,7 +60,7 @@ This bundle is the **first primary source in the corpus** to:
 
 ## Incidents at a glance
 
-The 66 incidents in the bundle, by date and location. Only Inc 101, 144, 162, and 172 receive dedicated wiki pages — the rest are summarized here. **Six numbers (111, 131, 132, 133, 134, 135, 136) are absent from the OCR.** Like the 173–233 bundle's gaps, possibilities include withdrawn-during-declassification-review, never-completed investigations rolled into other incidents, or pages physically lost in a prior reproduction pass. ^[ambiguous]
+The 66 incidents in the bundle, by date and location. Inc 101, 112, 130, 144, 151+152, 162, and 172 receive dedicated wiki pages — the rest are summarized here. **Six numbers (111, 131, 132, 133, 134, 135, 136) are absent from the OCR.** Like the 173–233 bundle's gaps, possibilities include withdrawn-during-declassification-review, never-completed investigations rolled into other incidents, or pages physically lost in a prior reproduction pass. ^[ambiguous]
 
 | # | Date | Location | Object summary | Witness | Notes |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@ The 66 incidents in the bundle, by date and location. Only Inc 101, 144, 162, an
 | 106 | 5 Mar 1948, 1610–1655 | Bakersfield, CA | Two falling objects "seemingly on fire", black-and-red smoke | George L. Buchner | Cross-listed in [[references/sighting-bakersfield-1948-03]] (4th AF route via Hamilton Field) |
 | 107, 108, 109 | 8–9 Mar 1948 | Bakersfield, CA | Bakersfield cluster (followups) | various | Same-area follow-on cases |
 | 110 | 23 Mar 1948, 0300–0500 | Baltimore (Hamilton), MD | "Peculiar sounding noises in the sky" — sound-only event, FBI-routed via SAC A-2B | Anonymous Legion-active housewife | **Sound-only; first non-visual incident in the bundle** |
-| 112 | 8 Apr 1948, 1400–1430 | Ashley, OH | Silver oblong "long and narrow" object, slow SW course | Miss Winifred Paines + Mrs Bertha Slack | |
+| 112 / 112a-f | 8 Apr 1948, 1400 (Ashley) / 1430 (Delaware) | Ashley OH + Delaware OH (~17 mi SW) | **2-town 7-witness cluster**: silver oblong "long and narrow" at Ashley (Paines/Slack + Stephens), then white cylindrical/spherical-with-vapor-streaks at Delaware (Mr & Rev Stephenson + Mr & Rev Bergen + Mrs Kirkpatrick); single SW-bound object, 30-min ground-track ~34 mph | **Ashley**: Miss Winifred Paines + Mrs Bertha Slack (bank Asst Cashier + housekeeper); Mrs Lelah Stephens (newspaper reporter). **Delaware**: Mrs James B. Stephenson + Rev James B. Stephenson (Pastor); Mrs John Bergen + Rev John H. Bergen (Pastor); Mrs H.S. Kirkpatrick. | **Delaware airport** + **Perkins Observatory** both alerted during sighting (negative result); two Methodist pastors among witnesses; **movement against the wind** ruled out balloon/cloud drift. See [[references/sighting-delaware-ashley-oh-1948-04]] |
 | 113 | 9 Apr 1948, 1510 | Air over Montgomery, AL | 8-ft silver disc + cable + canister/ball — **balloon-candidate morphology** | **Lt Col Robert B. Hughes** (USAF, Air Tactical School Tyndall) | Likely balloon (cf. Inc 194 MIT cosmic-ray cluster in the 173–233 file) ^[ambiguous] |
 | 114 | 18 Apr 1948, 1306 | Approx 1 mi N of Fairbanks, AK | 8" silvery flat-round oscillating horizontal-to-vertical, ~250–300 mph | **Lt Aytch Johnson** (since-discharged USAF pilot) | Note: "may have been the reflection of sun from wings of these aircraft" — agent-skeptical eval |
 | 115 | 19 Apr 1948, 1615 | Greenville AFB, SC | 3 white elliptical objects (1 then 2 more), hovering then rapid acceleration N in trail formation, no exhaust, ~2 min | **1st Lt Francis W. Hennin Jr. + 1st Lt Robert G. Loomis** (USAF) | Witnesses ruled out balloons because of acceleration |
@@ -89,7 +89,7 @@ The 66 incidents in the bundle, by date and location. Only Inc 101, 144, 162, an
 | 127 | 7 May 1948 | Lake Doiran, Yugoslav-Greek frontier | (witnesses N/S) | | Balkan foreign-theater case |
 | 128 | 8 May 1948, night | Middleport (Hobson), OH, 30°00'N 82°03'W | (Hobson, OH NY-Central rail-worker witnesses; phosphorescent disc) | Hobson rail crew | Same-area cluster as [[references/sighting-hobson-ohio-1948-05]] (Inc 128 sheet here only) |
 | 129 | 31 May 1948, 1320 | Wilmington, NC, 34°14'N 77°57'W | (witnesses N/S) | | |
-| 130 | 17 May 1948, night | Between Plevna and Miles City, MT | (witnesses N/S) | | |
+| 130 | 17 May 1948, ~2330 | US Hwy #12, just W of Plevna MT (Powder River Bridge) | **Fast bright white "ball"** performing arcs ~2500 ft from witness; 20 min duration; **twice speed of Northwest Airlines planes**; long bright light shooting from under it; engine-off field-glass observation | **Mr W.A. Bonneville**, Territory Manager, **The B.F. Goodrich Company** (Bismarck ND) | Industrial-corporate witness class; **23 May 1948 letter from Bonneville → US Army Intelligence Div Washington**; **15 June 1948 follow-up letter from Col W.R. Clingerman** at Wright Field carrying **"Refer - MCIAXO-3"** — earliest documented MCIAXO-3 routing line in the wiki corpus (pushes prior 1949 anchor back ~6 months). 5-question elaboration exchange (size / speed / pattern / moon-reflection-eliminated). See [[references/sighting-bonneville-bfg-1948-05]] |
 | 137 | 7 Jul 1948, 2114–2115 | Chapel Hill, NC | **3 cigar-shaped objects**, "blunt front tapering to a point in the rear", high speed, ENE; ~1 min | UNC Mathematics Instructor + Capt H.W. Daniels (Inf. Reserve) | Two-witness daylight cigar-class — same morphology as [[concepts/foo-fighter-phenomenon|Inc 144 Chiles-Whitted]] 17 days later |
 | 138 | 8 Jul 1948, 0920 | Columbus, OH | 2 silver cigar/torpedo objects, "bobbing up and down", NE then N; ~3-4 min | Mrs Wilda Zittek (housewife) | "Subject's powers of observation were checked on a/c flying in the area and were found to be good as far as direction and movement but poor for distance and altitude"; **2 P-80s known in the area at the time** |
 | 139 | 9 Jul 1948, 2147 | N end of Osborn, OH | (Osborn is 4 mi N of Wright-Patterson AFB) | (witnesses N/S) | **Adjacent-to-WPAFB case** |
@@ -103,8 +103,8 @@ The 66 incidents in the bundle, by date and location. Only Inc 101, 144, 162, an
 | 148 | 28 Jul 1948, 0400 | Springfield, OH | Yellow basketball-size round object, **hovering ~5 then ~15 min**, faded away | Mrs Rose Henry (housewife) | Same town, next morning, *very different* morphology — orb-class hover vs. orange-tail meteor-class |
 | 149 | 19 Jan 1948, 0730 | North Jutland (Hjerrin / The Scaw / Hjerup), Denmark | **3 ball-saucer rocket-like objects** with green-light tails, "suddenly stopped, exploded and disappeared", E→W | (witnesses N/S — multi-vantage Danish) | Scandinavian green-tail rocket cluster — cf. [[references/sighting-swedish-lake-crash-1948|Swedish ghost-rocket-era material]] |
 | 150 | ~1 Mar 1948, 0930 | Swedish Coast (enroute Aalborg→Oslo) | **Bluish-green flame** projectile at 20,000 ft, no trail, 4 sec, SE→NW following earth's surface; **MA R-130-48 / NAD 20560** | A Norwegian pilot + co-pilot (former Royal Norwegian AF in GB) | Routing note: "Similar missiles have been observed at **Rjuken**, Norway & Finse, Norway. In this connection, it is of interest to know that heavy water is currently being produced in **Rjuken**." — **explicit institutional flag tying the missiles to Norwegian heavy-water production** |
-| 151 | 29 Jul 1948, 0955 | NE Indianapolis, IN | **Aluminum 6-8 ft × 1.5-2 ft "broad short propeller" object**, gliding 25-30 mph, 30 ft above tree-tops, banking left, "went down in wooded area" | Mr James W. Toney + Mr Robert Huggins | Low-altitude propeller-shape — very unusual morphology |
-| 152 | 31 Jul 1948, 0825 | Indianapolis, IN (S-Central) | **20-ft cymbal-shaped white flat object**, ratio 3:1, level course at 2000 ft, ~1800 mph, 90° E, "shimmered as if spinning" | Mr & Mrs Vernon Swigert (electrician + housewife) | Same city as Inc 151 two days earlier; cymbal/disc morphology |
+| 151 | 29 Jul 1948, 0955 | NE Indianapolis, IN (cantilever bridge / Fall Creek nr E 56th St) | **Aluminum 6-8 ft × 1.5-2 ft "broad short propeller" object** with **round protruding cups on upper side of blades**, gliding 25-30 mph, 30 ft above tree-tops, banking left ~20°, "went down in wooded area" | **Mr James W. Toney + Mr Robert Huggins** (truck-passing civilians; 235 So Bradley + 5040 Indianapolis) | Low-altitude propeller-shape — very unusual morphology. **Investigated by 1st Lt Russell J. Carey Jr. (Base Intel Officer, 331st AFBU Stout Field) + Lt John E. Hoskins (Base PIO)**; Carey hand-signs 2 morphology sketches + 1 location diagram. See [[references/sighting-indianapolis-1948-07]] and [[entities/russell-j-carey]] |
+| 152 | 31 Jul 1948, 0825 | Indianapolis, IN (S-Central; 2020 Boyd St.) | **20-ft cymbal-shaped white flat object**, ratio 3:1, level course at 2000 ft, ~1800 mph, 90° E, "shimmered as if spinning" | Mr & Mrs Vernon Swigert (electrician + housewife) | Same city as Inc 151 two days earlier; cymbal/disc morphology. **Same-day callout investigation by 1st Lt Russell J. Carey Jr.** on phone call from Mr Swigert; **two-window sight-line verification** (bathroom W-facing + kitchen S-facing); Carey hand-signs 1 morphology sketch. See [[references/sighting-indianapolis-1948-07]] |
 | 153 | 5 Aug 1948, 0100 | Between Parrott GA and Richland GA | Blue-white "rocket-like" streak, 20-35k ft, ~3600 mph estimated, 250°, level flight; **trail of sparks several miles long lasting 45–60 sec** | **James Amaral** (former AF pilot) | Witness explicitly states it was **not celestial** — "appeared to be a burst of power applied to a rocket or rocket ship" |
 | 154 | 2 Aug 1948, 1945 | 1337 Clifton Ave, Columbus, OH | **Shape-changing object 20-30 ft diameter** — perimeter constant grey-black, center transparent; first parallelogram side-view, then circular, then back; once hesitated and emitted thin trail of smoke; 10–15 min | **Charles Saunders** (attorney) | **Shape-changing + partially-transparent** — joint signature linking [[concepts/transparent-uap]] to morphology drift; "thin trail of smoke" is unusual |
 | 155 | 31 Jul 1948, 1630 | 480 N. Monroe Ave., Columbus OH | (Columbus cluster) | (Columbus residents) | |
@@ -146,6 +146,12 @@ The bundle preserves four forms in addition to the 25-field Check-List:
 
 Officers and named scientific witnesses who appear in 101–172 and were not in the prior 1948 file:
 
+- **Col W.R. Clingerman**, USAAF, **Wright Field, Dayton OH (MCIAXO-3)** — sends a 15 June 1948 follow-up letter to civilian witness Bonneville on Inc 130 carrying the "Refer - MCIAXO-3" reference line. **Earliest documented use of MCIAXO-3 in the wiki corpus** (predates the prior 1949 anchor by ~6 months). See [[references/sighting-bonneville-bfg-1948-05]] and [[entities/air-materiel-command]].
+- **1st Lt Russell J. Carey Jr.**, USAF, **Base Intelligence Officer, 331st AFBU Reserve Training, Stout Field, Indianapolis IN** — investigates Inc 151 (Toney/Huggins) and Inc 152 (Swigert), hand-signs the morphology sketches and location diagrams on both cases. See [[entities/russell-j-carey]] and [[references/sighting-indianapolis-1948-07]].
+- **Lt John E. Hoskins**, Base PIO, 331st AFBU Stout Field (Inc 151) — searched the wooded area with Carey after the Toney/Huggins sighting.
+- **W.A. Bonneville**, Territory Manager, **The B.F. Goodrich Company** (Inc 130) — earliest preserved national-corporation-territory-manager-class witness in the corpus's 1948 SIGN stream.
+- **Rev James B. Stephenson + Rev John H. Bergen**, Methodist pastors at Delaware OH (Inc 112c + 112e) — clergy-pair witness depth in the same-event 7-witness Ashley+Delaware cluster.
+- **Mrs Lelah Stephens**, newspaper reporter, Ashley OH (Inc 112a) — trained-observer civilian witness in the Inc 112 cluster.
 - **Lt Col Robert B. Hughes**, USAF Pilot, Tactics Div. Air Tactical School, Tyndall AFB (Inc 113) — first USAF Lt-Col-level pilot witness in the corpus.
 - **1st Lt Francis W. Hennin Jr. + 1st Lt Robert G. Loomis**, Liaison Sq. Greenville AFB (Inc 115).
 - **Lt Aytch Johnson**, USAF (since-discharged), Ft Worth TX (Inc 114).
@@ -168,8 +174,11 @@ Officers and named scientific witnesses who appear in 101–172 and were not in 
 |---|---|
 | Inc 101 | [[references/sighting-norcatur-ks-1948-02]] (NEW) — Norcatur meteor + Sammons close-encounter + La Paz April 1948 letter |
 | Inc 106–109 | [[references/sighting-bakersfield-1948-03]] (Bakersfield, original sighting documented in [[references/usaf-flying-discs-1948|the AFOIR file]]) |
+| Inc 112 / 112a-f | [[references/sighting-delaware-ashley-oh-1948-04]] (NEW, **repair**) — 2-town 7-witness cluster (Ashley + Delaware OH, 8 Apr 1948 1400–1430); two Methodist pastors among witnesses |
 | Inc 128 | [[references/sighting-hobson-ohio-1948-05]] (Hobson, OH 8 May 1948) |
+| Inc 130 | [[references/sighting-bonneville-bfg-1948-05]] (NEW, **repair**) — W.A. Bonneville (B.F. Goodrich) Plevna–Miles City MT + Clingerman MCIAXO-3 follow-up letter 15 Jun 1948 |
 | Inc 144 | [[references/sighting-chiles-whitted-1948-07]] (NEW) — the Chiles-Whitted EAL DC-3 cigar-craft event |
+| Inc 151 + 152 | [[references/sighting-indianapolis-1948-07]] (NEW, **repair**) — Toney/Huggins + Swigert Indianapolis dual cluster; investigated by 1st Lt Russell J. Carey Jr. at Stout Field |
 | Inc 162 | [[references/sighting-hamel-mn-1948-08]] (NEW) — first 1948 corpus physical-trace landing |
 | Inc 167 | [[references/sighting-honolulu-1948-10]] (Honolulu Inc 178 = later Pacific-theater event) |
 | Inc 172 | [[references/sighting-gorman-fargo-1948-10]] (NEW) — the Gorman dogfight |
@@ -200,9 +209,13 @@ The most consequential wiki-impacting findings from this file:
 - [[references/project-sign-incident-summaries-173-233]] — Sep 1948 – Jan 1949 bundle (immediate successor; same form, same archive)
 - [[references/usaf-flying-discs-1949]] — Oct 1948 – Jan 1950 continuation file
 - [[references/sighting-norcatur-ks-1948-02]] — Inc 101 dedicated page
+- [[references/sighting-delaware-ashley-oh-1948-04]] — Inc 112 cluster dedicated page (repair)
+- [[references/sighting-bonneville-bfg-1948-05]] — Inc 130 dedicated page (repair)
 - [[references/sighting-chiles-whitted-1948-07]] — Inc 144 dedicated page
+- [[references/sighting-indianapolis-1948-07]] — Inc 151 + 152 dedicated page (repair)
 - [[references/sighting-hamel-mn-1948-08]] — Inc 162 dedicated page
 - [[references/sighting-gorman-fargo-1948-10]] — Inc 172 dedicated page
+- [[entities/russell-j-carey]] — Stout Field intel officer who investigated Inc 151 + 152
 - [[concepts/project-sign]] — the program these reports feed
 - [[concepts/flying-disc-reporting-protocol]] — the 10-element template these sheets expand
 - [[concepts/uap-aircraft-engagement]] — Inc 144 + Inc 172 push the engagement-class precedent earlier
