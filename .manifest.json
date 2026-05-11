@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-11T21:00:00Z",
+  "updated": "2026-05-11T22:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -1807,6 +1807,167 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/dow-uap-d44-range-fouler-arabian-sea-october-2020.json": {
+      "ingested_at": "2026-05-11T22:00:00Z",
+      "size_bytes": 3588,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:55fb9e2bb6f44579968aaf716c57df52d3857c9bedd783ee8e69d594fdbf2e6a",
+      "source_id": "dow-uap-d44-range-fouler-arabian-sea-october-2020",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap-foia-release",
+      "series_position": "11-of-40",
+      "ocr_engine": "mistral-ocr-latest",
+      "ocr_pages_processed": 1,
+      "original_doc_size_bytes": 297873,
+      "substantive_pages": 1,
+      "header_only_pages": 0,
+      "image_blocks_captured": 0,
+      "image_base64_captured": 0,
+      "document_class": "range-fouler-debrief",
+      "document_subclass": "fielded-form",
+      "document_class_first_anchor_at_N": 1,
+      "document_class_validated_at_N": 2,
+      "form_title_variant": "Range Fouler Reporting Form (vs d58 Range Fouler Debrief Form) — three readings: form-version evolution (most probable given 12-day spread), OCR variance (weak), two co-existing variants (plausible)",
+      "message_format": "Range Fouler Reporting Form — fielded schema identical to d58 modulo title; first capture of pre-printed EA Indications block (ECM / Arc / Letter Identifier / False Trackfiles / Other-Ambiguous)",
+      "classification_marking_extracted": "(none on this 1-page artifact; portion-redaction shorthand `1,4a` / `1.4a` in narrative — inferred EO 13526 §1.4(a))",
+      "declassification_authority_citation_ocr": "U.S.C. 35552",
+      "declassification_authority_citation_inferred": "EO 13526 §3.1 (declassification authority) — third distinct OCR-corruption variant in the corpus (after `U.S.C. 3552` d55 + `U.S.C. 3 / Section 3.1` d58); three independent OCR passes producing different corruptions supports underlying EO-13526-citation reading",
+      "declassification_authority": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+      "release_stamp_date": "2026-03-27",
+      "release_sequence_no": "000001",
+      "release_sequence_identical_to": [
+        "sources/dow-uap-d55-mission-report-syria-november-2016.json",
+        "sources/dow-uap-d58-range-fouler-debrief-na-october-2020.json"
+      ],
+      "release_sequence_identicality_reading": "ambiguous at N=3 — per-MDR-case vs per-batch vs OCR-artifact; per-batch reading strengthens substantially (three independent OCR passes producing identical corruption implausible)",
+      "mdr_case_range": "USCENTCOM MDR 26-0038 to MDR 26-0046",
+      "mdr_case_range_identical_to": [
+        "sources/dow-uap-d55-mission-report-syria-november-2016.json",
+        "sources/dow-uap-d58-range-fouler-debrief-na-october-2020.json"
+      ],
+      "mdr_case_range_recurrence_at_N": 3,
+      "receiving_authority": "AARO",
+      "receiving_authority_closure": "firmed-at-N=3 (^closed-by-dow-uap-d44 third recurrence anchor on top of d55 + d58)",
+      "intake_pipeline_name": "SPEAR",
+      "intake_pipeline_attribution": "Navy-aviation (confirmed at N=2 via recurring sanitization clause + identical form schema)",
+      "intake_pipeline_recurrence_at_N": 2,
+      "form_filename_schema": "Date_Squadron_RF.pdf",
+      "form_class_abbreviation": "_RF",
+      "form_template_navy_fr_reference": "VFA-106 HUD.wmv (Fleet Replacement Squadron for F/A-18E/F community, NAS Oceana) — confirmed at N=2",
+      "form_pre_printed_sensor_schema": [
+        "AIM-9x Self-Track",
+        "ATFLIR Autotrack"
+      ],
+      "form_ea_indications_schema_first_captured": [
+        "ECM",
+        "Arc",
+        "Letter Identifier",
+        "False Trackfiles",
+        "Other/Ambiguous"
+      ],
+      "originating_service_user": "USAF Air National Guard (172 ATKS Michigan ANG) — first ANG anchor in the dow-uap corpus; multi-service originating-anchor count now 6 at N=11 (5 USAF — 4 Active + 1 ANG — + 1 Navy)",
+      "originating_unit_user": "172 ATKS (172d Attack Squadron, Michigan Air National Guard, Battle Creek MI; MQ-9 Reaper community — inferred)",
+      "originating_service_form": "Navy-aviation (form template) — joint-service-use reading extends from 2 to 3 components (Navy form + Active USAF d58 + ANG USAF d44)",
+      "rank_user": "O-2 (First Lieutenant USAF / Lt jg USN equivalent — junior officer)",
+      "crew_position": "Other (reading: MQ-9 Sensor Operator — inferred from squadron + sensor-geometry stack)",
+      "platform_witness": "MQ-9 Reaper (USAF/ANG RPA) — inferred from 172 ATKS attribution + Other crew position + blank radar/AIM-9X/ATFLIR fields + sensor-geometry pattern + MTS-B IR-channel narrative",
+      "platform_witness_first_anchors": [
+        "first UAV / RPA platform in dow-uap corpus",
+        "first non-fighter (excepting d55 P-8A) in dow-uap corpus",
+        "first Air National Guard unit anchor in dow-uap corpus",
+        "first MQ-9 Reaper in wider UAP wiki corpus",
+        "first MTS-B sensor-channel data in wider UAP wiki corpus"
+      ],
+      "controller_callsign": null,
+      "mission_classification": null,
+      "lfe_flag": null,
+      "day_night": "Day",
+      "event_date": "2020-10-15",
+      "event_time": "1418:39Z",
+      "event_duration_seconds": 73,
+      "event_duration_start_end": "14:18:39Z to 14:19:52Z (first explicit start/end encounter timestamps in range-fouler class)",
+      "object_count": 1,
+      "object_morphology_checkboxes": [
+        "Round"
+      ],
+      "object_visual_signature_narrative": "round, cold object in IR; bright-white on black-hot polarity = IR-cold (colder than ambient scene)",
+      "object_thermal_polarity": "IR-cold (first explicit cold-target morphology in dow-uap corpus; contrasts d8 WHITE HOT thermal-warm polarity)",
+      "object_kinematics_speed_heading": "261/30 mph (form) ↔ 319/20 mph (narrative, later in track) — two-snapshot reading most coherent given 'abrupt directional changes' during 1-min contact",
+      "object_kinematics_anomaly": "abrupt directional changes during bounded 73-sec track; slow drift (20-30 mph) low-Mach regime",
+      "intra_group_kinematic_interaction": null,
+      "disappearance_timescale": null,
+      "active_em_signature": "zero EA reception (all 5 EA Indications boxes unchecked: ECM, Arc, Letter Identifier, False Trackfiles, Other-Ambiguous) — first explicit pre-printed EW-reception schema capture in corpus",
+      "closest_approach_nm": 4.06,
+      "closest_approach_note": "passive observation, no closure attempt (no intercept tasking); slant 4.06 NM ≈ 7.5 km",
+      "sensor_geometry": "slant 4.06 NM + ground 4.78 km + sensor angle -50° below platform altitude; vertical-separation derivation puts contact at ~140 ft HAT over sea surface (19,073 ft platform − ~18,930 ft vertical separation)",
+      "sensor_channels": [
+        "MTS-B IR turret (black-hot polarity) — inferred"
+      ],
+      "first_detection_position": "MGRS 40Q BD 6: 1,4a 19 1,4a (Gulf of Aden — Arabian Peninsula southern grid / Horn of Africa CENTCOM-AOR waters); narrative names 'Gulf of Aden' explicitly",
+      "first_detection_position_format": "MGRS (first explicit MGRS body-text coordinate in range-fouler class)",
+      "platform_altitude": "19,073 HAT (Height Above Terrain — first explicit HAT reference in dow-uap corpus)",
+      "aircraft_posture": "passive ISR observation (MQ-9 loiter; no intercept tasking, no radar acquisition, no AIM-9X, no ATFLIR, no tally, no closure attempt) — first explicit passive-ISR-observation posture in dow-uap corpus",
+      "centcom_aor_anchoring": "explicit (Gulf of Aden + MGRS 40Q BD body anchor) — first CENTCOM-AOR body-text anchor in range-fouler class; firms class to N=2 CENTCOM-AOR-anchored (d44 explicit + d58 inferred via MDR + 77 EFS + KINGPIN)",
+      "filename_theater_label": "arabian-sea",
+      "filename_theater_internally_verified": true,
+      "filename_theater_internal_value": "Gulf of Aden (body narrative) + MGRS 40Q BD grid (Arabian Peninsula southern grid)",
+      "filename_date_label": "october-2020",
+      "filename_date_internally_verified": true,
+      "filename_date_internal_value": "10/15/20",
+      "filename_date_verification_at_N": 4,
+      "filename_axis_2_of_2_verified": "first 2-of-2 filename-axis-internally-verified artifact in dow-uap corpus",
+      "behavioral_sub_class": "range-fouler-passive-ISR-observation (seventh distinct brief-observation sub-class in dow-uap corpus)",
+      "behavioral_sub_class_distinctness": "Distinct from d58's sub-class 6 (range-fouler-attempted-ID, intercept posture). d44 = passive ISR observation, no closure attempt, no engagement pipeline. Class catalogs intercept-attempted (d58) and passive-observation (d44) variants of the range-fouler-debrief class at N=2.",
+      "n2_validation_outcome": "CONFIRMED on structural axes (11-of-11 testable schema axes match); DIVERGES on capability-signature axes (no sub-second disappearance, no jamming, single contact, daytime, passive-ISR vs intercept). d58 capability triad (sub-frame disappearance + active EW + standoff maintenance) is d58-isolated at N=2 — not class-defining signature.",
+      "vocabulary_observation": "'range fouler' is institutional-form vocabulary, not pilot/operator vernacular — d44 narrative uses generic 'object/contact'; d58 narrative used 'range fouler/range foulers'. First evidence at N=2.",
+      "structural_firsts": [
+        "second range-fouler debrief artifact / N=2 class validation",
+        "first form-title variant in range-fouler class (Reporting Form vs Debrief Form)",
+        "first explicit EA Indications schema captured in dow-uap corpus (5-row pre-printed block)",
+        "first UAV / RPA platform in dow-uap corpus",
+        "first non-fighter witnessing platform in dow-uap corpus (excepting d55 P-8A)",
+        "first Air National Guard unit anchor in dow-uap corpus (172 ATKS Michigan ANG)",
+        "first explicit MGRS coordinate in body text for range-fouler artifact",
+        "first explicit Gulf of Aden anchor in dow-uap corpus",
+        "first CENTCOM-AOR body-text anchor in range-fouler class",
+        "first explicit HAT altitude reference in dow-uap corpus",
+        "first IR-cold morphology call in dow-uap corpus (contrasts d8 WHITE HOT thermal-warm polarity)",
+        "first explicit start/end encounter timestamps in range-fouler class (73-sec bounded duration)",
+        "first IR-only sensor channel datum in range-fouler class",
+        "first sensor-geometry datum in dow-uap corpus (slant + ground + angle enabling vertical-separation derivation)",
+        "first low-altitude over-water contact derivation (~140 ft HAT)",
+        "first range-fouler-class single-contact datum",
+        "first range-fouler-class daytime datum",
+        "first range-fouler-class abrupt-directional-changes kinematic",
+        "first passive-ISR-observation posture in dow-uap corpus",
+        "seventh distinct behavioral sub-class in dow-uap corpus (range-fouler-passive-ISR-observation)",
+        "first explicit unit-mismatch between platform sensor schema and form pre-print (MQ-9 lacks AIM-9X + ATFLIR; blank values honest)",
+        "third witness with Other crew position (reading: MQ-9 Sensor Operator)",
+        "release framework recurrence at N=3 (d55 + d58 + d44 byte-for-byte identical)",
+        "first 2-of-2 filename-axis-internally-verified artifact in dow-uap corpus",
+        "first evidence that 'range fouler' is institutional-form vocabulary not pilot/operator vernacular",
+        "first range-fouler-class zero-EA-reception datum"
+      ],
+      "thread_closures": [
+        "entities/dow-uap-foia-release.md#range-fouler-document-class-characterisation (firmed-at-N=2 — ^closed-by-dow-uap-d44 validation anchor on top of d58 N=1 template anchor)",
+        "entities/dow-uap-foia-release.md#validate-d58-range-fouler-debrief-class-at-N=2 (closed-at-N=2 with structure-CONFIRMED / capability-DIVERGES outcome)",
+        "entities/dow-uap-foia-release.md#d44-forward-anchor (closed — expected-source d44 ingested at N=2)",
+        "entities/dow-uap-foia-release.md#AARO-receiving-authority (firmed further at N=3 stamp recurrence on top of d55 + d58 closure)"
+      ],
+      "pages_created": [
+        "references/dow-uap-d44-range-fouler-arabian-sea-october-2020.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/range-fouler.md",
+        "index.md",
+        "timeline.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
@@ -1817,10 +1978,10 @@
     }
   },
   "stats": {
-    "total_sources_ingested": 56,
-    "total_pages": 327,
+    "total_sources_ingested": 57,
+    "total_pages": 328,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T21:00:00Z"
+    "last_ingest_at": "2026-05-11T22:00:00Z"
   }
 }
