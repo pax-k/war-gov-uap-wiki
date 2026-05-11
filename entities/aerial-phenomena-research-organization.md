@@ -3,17 +3,17 @@ title: "Aerial Phenomena Research Organization (APRO)"
 category: entities
 tags: [organization, civilian-research, uap, fbi, new-mexico]
 aliases: [APRO, A.P.R.O., APRO Bulletin, Lorenzen APRO Alamogordo]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_8.json]
-summary: Civilian saucer-research organization founded by Coral and Jim Lorenzen ~1952 (Wisconsin), relocated to Alamogordo NM by 1956; published the APRO Bulletin from 1712 Van Court, Alamogordo; first FBI-corpus appearance Sep 1956.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_8.json, sources/65_hs1-834228961_62-hq-83894_section_10.json]
+summary: Civilian saucer-research organization founded by Coral and Jim Lorenzen ~1952 (Wisconsin), relocated to Alamogordo NM by 1956; published the APRO Bulletin from 1712 Van Court, Alamogordo; first FBI-corpus appearance Sep 1956; Coral Lorenzen named as founder in 1967 ICUFON UN-proposal roster.
 provenance:
-  extracted: 0.45
-  inferred: 0.5
+  extracted: 0.48
+  inferred: 0.47
   ambiguous: 0.05
-base_confidence: 0.55
+base_confidence: 0.6
 lifecycle: draft
 lifecycle_changed: 2026-05-11
 created: 2026-05-11T00:45:00Z
-updated: 2026-05-11T00:45:00Z
+updated: 2026-05-11T08:30:00Z
 ---
 
 # Aerial Phenomena Research Organization (APRO)
@@ -60,16 +60,33 @@ APRO and CRIFO are **research-and-publication** organizations without a personal
 - **First defense-contractor-employee-tip** UAP intake into 62-HQ-83894 ^[inferred] (Wold at McDonnell Aircraft St. Louis).
 - **Structurally similar to the [[concepts/contactee-movement-1952-1954|contactee-period]] orgs** in passive-accumulation handling, but differs in content modality (research-publication, not personal-encounter narrative). ^[inferred]
 
+## Section 10 ICUFON-roster continuation (this batch): Coral Lorenzen named as APRO founder
+
+[[references/fbi-hq-62-83894-section-10|Section 10]] **serial 462 enclosure (Aug 1967)** — the *UFO CONTACT igap journal Vol 2 No 5 (Jun 1967)* reproducing the **ICUFON Press Release No. 6** — names **Coral E. Lorenzen** in tier C (Pioneer UFO Researchers in Global Coverage) of VonKeviczky's proposed delegate list, regional coverage **NORTH AMERICA AND ARCTIC**: ^[extracted]
+
+> *"Coral E. Lorenzen — founder of the APRO (Aerial Phenomena Research Organization). NORTH AMERICA AND ARCTIC."*
+
+This is the **first FBI-corpus by-name attribution of Coral Lorenzen as APRO founder**, ~11 years after APRO's serial-369 first appearance in 1956 ^[inferred] — closing the section-8 open thread *"Identify Coral and Jim Lorenzen by name in the FBI corpus"*. ^[inferred]
+
+**Structural significance**: ^[inferred]
+
+- **APRO is the U.S. North-America-Arctic delegate**: VonKeviczky's tier-C regional schema designates APRO as the principal **U.S. civilian-research org** for the entire NORTH AMERICA AND ARCTIC region — a structurally important framing distinct from a NICAP-centered or AFSCA-centered U.S. civilian-research mapping. ^[inferred] [[entities/donald-keyhoe|Keyhoe / NICAP]] is co-listed in tier B (scientific researchers), while APRO/Lorenzen is in tier C — indicating ICUFON differentiates NICAP (scientific-research-advocacy) from APRO (regional-coverage-research). ^[inferred]
+- **Roster co-listing with international peers**: Lorenzen is positioned alongside Arduino Albertini (*Clypeus*, Italy — South Europe & Asia Minor), Walter Bühler (Brazil — South America & Antarctic), Ronald Caswell (UFO CONTACT, North Europe), Aimé Michel (France — Middle East & Europe), Hans Petersen (Denmark — Middle Europe), Karl Veit (Germany / DUIST — Europe). ^[extracted] APRO is the **single U.S. tier-C entry**, structurally distinct from the U.S.-resident tier-B figures (Hynek, Keyhoe, Vallée). ^[inferred]
+- **Confirms APRO's 1960s international standing**: by 1967, APRO is named alongside [[entities/nicap|NICAP]] as a peer U.S. civilian-research-org on an international UN-Outer-Space-Conference delegate roster. ^[inferred] This is the **wiki's strongest single-document evidence** for APRO's mid-1960s international civilian-research standing. ^[inferred]
+
 ## Open threads
 
-- **Identify Coral and Jim Lorenzen by name in the FBI corpus** — serial 369 references *"the A.P.R.O. Bulletin"* but does not name the publishers. ^[open]
+- **Identify Jim Lorenzen** (Coral's husband, APRO co-founder) by name in the FBI corpus — serial 369 references *"the A.P.R.O. Bulletin"* but does not name him; section-10 names Coral but not Jim. ^[open]
 - **Locate the APRO Bulletin issue clipped at serial 369** — the issue would be the Aug 1956 issue based on Wold's 31 Aug 1956 subscription-receipt timing. ^[inferred]
 - **Track APRO's later FBI-corpus appearances** in queued sections 9-10 of [[entities/fbi-hq-62-83894-file|62-HQ-83894]] — APRO operated through 1988. ^[inferred]
 - **Cross-reference the McDonnell Aircraft St. Louis defense-contractor context** for additional 1956-57 saucer-related employee tips. ^[open]
 
 ## See also
 
-- [[references/fbi-hq-62-83894-section-8]] — primary-source filing
+- [[references/fbi-hq-62-83894-section-8]] — primary-source filing (1956 first appearance)
+- [[references/fbi-hq-62-83894-section-10]] — section-10 serial 462 enclosure carries 1967 ICUFON-roster Coral Lorenzen by-name attribution **(NEW this batch)**
+- [[entities/j-allen-hynek]] — co-listed in same ICUFON roster (tier B) (NEW)
+- [[entities/jacques-vallee]] — co-listed in same ICUFON roster (tier B) (NEW)
 - [[entities/leonard-h-stringfield]] — Cincinnati CRIFO contemporary (NEW)
 - [[entities/civilian-research-interplanetary-flying-objects]] — Cincinnati CRIFO (NEW)
 - [[entities/international-flying-saucer-bureau]] — Bridgeport IFSB

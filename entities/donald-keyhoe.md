@@ -3,17 +3,17 @@ title: Donald Keyhoe
 category: entities
 tags: [uap, person, rhetoric, 1950]
 aliases: [Donald E. Keyhoe, Major Donald Keyhoe, Donald Kehoe]
-sources: [sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_sub_a.json]
-summary: Retired US Marine Corps major and aviation journalist; True Magazine 1950 + book "The Flying Saucers Are Real" popularized ETI hypothesis; later director of investigations for NICAP under Fahrney as board chair.
+sources: [sources/65_hs1-834228961_62-hq-83894_section_5.json, sources/65_hs1-834228961_62-hq-83894_sub_a.json, sources/65_hs1-834228961_62-hq-83894_section_10.json]
+summary: Retired US Marine Corps major and aviation journalist; True Magazine 1950 + book "The Flying Saucers Are Real" popularized ETI hypothesis; NICAP founder; named in 1967 ICUFON UN-proposal roster as international UFO-research delegate.
 provenance:
-  extracted: 0.4
-  inferred: 0.55
+  extracted: 0.42
+  inferred: 0.53
   ambiguous: 0.05
-base_confidence: 0.65
+base_confidence: 0.7
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-10T16:30:00Z
-updated: 2026-05-10T22:00:00Z
+updated: 2026-05-11T08:30:00Z
 ---
 
 # Donald Keyhoe
@@ -75,6 +75,22 @@ Keyhoe's January 1950 *True* article *"The Flying Saucers Are Real"* and its Sep
 
 This trajectory **transitions Keyhoe from press-amplifier of the Aztec / Newton-Koehler myth-seed** (1950) to **institutional director of a credentialed civilian-research organization** (NICAP, 1957-onward). ^[inferred] Keyhoe is the **single individual in the wiki corpus who bridges the contactee / myth-seed era with the NICAP-credentialed-research era**. ^[inferred]
 
+### Section 10 ICUFON-roster continuation (this batch): named in 1967 UN-proposal delegate list
+
+[[references/fbi-hq-62-83894-section-10|FBI HQ 62-HQ-83894 section 10]] **serial 462 enclosure (Aug 1967)** — the *UFO CONTACT igap journal Vol 2 No 5 (Jun 1967)* reproducing the **Intercontinental UFO Observer and Analytic Network (ICUFON) Press Release No. 6** — places Keyhoe in **Section B (Scientific Researchers)** of VonKeviczky's proposed delegate list for the U.N. Peaceful Uses of Outer Space Conference (Sep 1967, Vienna). ^[extracted]
+
+The roster characterization: ^[extracted]
+
+> *"Donald E. Keyhoe — US major ret., pioneer UFO researcher, founder of NICAP. USA."*
+
+This is the **third FBI-corpus characterization of Keyhoe as NICAP founder** ^[inferred] — corroborating the sub-A pages 10 + 17 + 35-36 entries (1953-1959 window) and refining the wiki's institutional placement: by 1967, ICUFON's international civilian-research roster treats Keyhoe's NICAP-founder status as canonical. ^[inferred]
+
+**Structural significance**: ^[inferred]
+
+- **Tier-B co-listing with [[entities/j-allen-hynek|Hynek]] and [[entities/jacques-vallee|Vallée]]**: by 1967 the ICUFON taxonomy places Keyhoe (civilian-research / NICAP) **on the same tier** as Hynek (AF-consultant astronomer) and Vallée (Northwestern academic) — collapsing the AF-consultant / academic / civilian-research distinction. ^[inferred] This is structurally distinct from Keyhoe's earlier (1950) framing in the corpus, where he was strictly a press-amplifier of the Aztec myth-seed independent of academic or AF-consultant channels.
+- **Roster co-listing with [[entities/aerial-phenomena-research-organization|APRO]] founder Coral Lorenzen** (tier C, NORTH AMERICA AND ARCTIC): by 1967 NICAP and APRO are treated as the **two principal U.S. civilian-research orgs** by the international ICUFON network. ^[inferred]
+- **The 1967 ICUFON roster's framing as *"pioneer UFO researcher, founder of NICAP"*** completes Keyhoe's wiki-corpus trajectory: from 1950 press-amplifier (channel δ via Koehler) → 1953-1959 NICAP director (sub-A) → 1967 international-civilian-research delegate (ICUFON). ^[inferred]
+
 ## Open threads
 
 - **Verify Keyhoe's full biographical context** — Marine Corps service, Naval Academy class, aviation journalism credentials beyond *True Magazine*. ^[open]
@@ -87,7 +103,10 @@ This trajectory **transitions Keyhoe from press-amplifier of the Aztec / Newton-
 
 ## See also
 
-- [[references/fbi-hq-62-83894-sub-a]] — sub-A pages 10 + 17 + 35-36 carry the 1953-1959 Keyhoe / NICAP-director coverage **(NEW this batch)**
+- [[references/fbi-hq-62-83894-section-10]] — section-10 serial 462 enclosure carries the 1967 ICUFON-roster reference **(NEW this batch)**
+- [[entities/j-allen-hynek]] — co-listed in same ICUFON-roster tier B (NEW)
+- [[entities/jacques-vallee]] — co-listed in same ICUFON-roster tier B (NEW)
+- [[references/fbi-hq-62-83894-sub-a]] — sub-A pages 10 + 17 + 35-36 carry the 1953-1959 Keyhoe / NICAP-director coverage
 - [[entities/nicap]] — NICAP, the org Keyhoe directs from at-latest 1953 **(NEW this batch)**
 - [[entities/delmer-s-fahrney]] — NICAP board chair 1957 **(NEW this batch)**
 - [[concepts/aztec-saucer-myth-1950]] — the myth-seed Keyhoe was in direct contact with via Koehler

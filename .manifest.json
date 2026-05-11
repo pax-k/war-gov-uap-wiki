@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-11T05:00:00Z",
+  "updated": "2026-05-11T09:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -1257,7 +1257,9 @@
         "references/sighting-dallas-anonymous-eti-1967.md",
         "references/sighting-milwaukee-fallen-object-1974.md",
         "references/fbi-cochran-schneider-1977.md",
-        "references/fbi-blue-book-termination-fact-sheet-1977.md"
+        "references/fbi-blue-book-termination-fact-sheet-1977.md",
+        "entities/j-allen-hynek.md",
+        "entities/jacques-vallee.md"
       ],
       "pages_updated": [
         "entities/fbi-hq-62-83894-file.md",
@@ -1268,8 +1270,14 @@
         "concepts/fbi-saucer-policy-stasis-1958-1962.md",
         "index.md",
         "log.md",
-        "hot.md"
-      ]
+        "hot.md",
+        "references/fbi-hq-62-83894-section-10.md",
+        "entities/donald-keyhoe.md",
+        "entities/aerial-phenomena-research-organization.md",
+        "entities/fbi-hq-62-83894-file.md"
+      ],
+      "repaired_at": "2026-05-11T09:00:00Z",
+      "repair_reason": "mid-file triage gap; p45 youth correspondence + p92 international researcher roster"
     },
     "sources/65_hs1-834228961_62-hq-83894_section_6.json": {
       "ingested_at": "2026-05-10T21:25:00Z",
@@ -1406,13 +1414,13 @@
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-11T07:30:00Z",
+      "last_ingested": "2026-05-11T09:00:00Z",
       "sources_ingested": 43
     }
   },
   "stats": {
     "total_sources_ingested": 50,
-    "total_pages": 314,
+    "total_pages": 316,
     "total_projects": 1,
     "last_full_rebuild": null,
     "last_ingest_at": "2026-05-11T07:30:00Z"

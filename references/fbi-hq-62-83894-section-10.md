@@ -57,8 +57,8 @@ The section's intake-channel inventory therefore grows from **12 to 14**, and th
 | 452 | 1 Nov 1966 | (h)/(b) | Internal Hoover memo re Newsweek Condon coverage — files for record only ^[inferred] | 31 |
 | **453** | 30 Nov 1966 | (b) | **J. A. Hennessey** (London, NICAP/AIAA member) second letter — fire destroyed prior records — Hoover encloses copy of 26 Jan 1965 letter (filed 62-83894-442); see also Aug 1969 Liaison memo at serial 462b ^[inferred] | 32-37 |
 | 454 | 21 Dec 1966 | (b) | **Police Chief Joe Thorn** (Princeton WV, 22-yr veteran) — *"if these things land I am greatly concerned as to what kind of reception they might receive from the inhabitance of this country"* — Hoover refers to OSI | 38-43 |
-| 455 | 18 Jan 1967 | (k) | **Newsweek 23 Jan 1967 issue** — Condon Committee begins investigation; quotes Hillsdale College / Hopkinsville KY narratives, Klass ball-lightning hypothesis, Keyhoe / NICAP rebuttal, Gerald Ford's Congressional inquiry posture | 44-47 |
-| 456 | 24 Jan 1967 | (b)/(d) | LA Times wire on Condon receiving a UFO landing-prediction letter — *"He suggested we contact the space travelers and make friends with them"* — clipping filed | 48 |
+| **455** | 27 Dec 1966 | (b) | **Judith Goodman** (Bradford PA, science-fair student) — youth-curiosity correspondence (school science-fair UFO query, 20 Dec 1966 letter to Hoover personal residence at 4936 30th Place, two near-identical drafts at 12 / 13 Williams Street); Hoover form-letter reply 27 Dec 1966; referred to OSI/AF; first FBI-corpus **explicit-youth-correspondent** UAP letter ^[inferred] (REPAIR — earlier table entry mis-assigned "Newsweek 23 Jan 1967" to this serial; the actual Newsweek 31 Oct 1966 ARMED FORCES "Focus on UFO" article is filed earlier in the section, at OCR pp 28-29, alongside the Condon-Committee contract-award context). See *Youth-curiosity correspondence cluster* sub-section below. | 41-46 |
+| 456 | 18 Jan 1967 | (k)/(d) | **UPI-133 Boulder wire (18 Jan 1967)** — Edward U. Condon discloses receipt of a letter from a correspondent giving "exact date" and "exact location" for a flying-saucer landing — *"He suggested we contact the space travelers and make friends with them"*; Washington Capital News Service routing; FBI internal annotation *"Condon is a 'publicity ground'"*; clipping filed | 48 |
 | 457 | 7 Feb 1967 | (k)/(d) | More Condon-era press clippings | 49 |
 | 458 | n/d 1967 | (k)/(d) | Press file (Hoover-letter mailings: Mar 1967 Iden) | 50-51 |
 | 459 | early 1967 | n/a | Routing slip — possible Hoover-internal | 52-53 |
@@ -93,7 +93,7 @@ The section's intake-channel inventory therefore grows from **12 to 14**, and th
 
 **Section 10's most paradigm-defining content is its documentation of the institutional-end of the AF saucer regime** ^[inferred]:
 
-1. **The 1966-1969 Condon Committee press echo** ([[concepts/condon-committee]]) — serials 451, 455-457 — the FBI clips Newsweek coverage of the 12 Oct 1966 contract award, the 23 Jan 1967 study-launch coverage (Klass / Keyhoe / Hopkinsville bookend), and the LA Times wire on a UFO landing-prediction letter received by Condon. ^[extracted] **No actual Condon Report (the 1,465-page January 1969 final volumes) is filed in section 10** — only the press-echo coverage and one reference in the 1977 Fact Sheet enclosure (483). ^[extracted] The FBI never received the report, and the Bureau's posture during the 1966-1968 study period is **passive** — clipping press, not engaging substantively. ^[inferred]
+1. **The 1966-1969 Condon Committee press echo** ([[concepts/condon-committee]]) — serials 451, 456-457 + the Newsweek "Focus on UFO" coverage at OCR pp 28-29 — the FBI clips Newsweek coverage of the 12 Oct 1966 contract award, the 23 Jan 1967 study-launch coverage (Klass / Keyhoe / Hopkinsville bookend), and the UPI-133 Boulder wire (18 Jan 1967) on Condon receiving a UFO landing-prediction letter. ^[extracted] (REPAIR — earlier wiki narrative attributed the 23 Jan 1967 Newsweek Condon coverage to serial 455; the actual stamped serial 455 is the Judith Goodman youth-correspondence letter — see corrected master serial table.) **No actual Condon Report (the 1,465-page January 1969 final volumes) is filed in section 10** — only the press-echo coverage and one reference in the 1977 Fact Sheet enclosure (483). ^[extracted] The FBI never received the report, and the Bureau's posture during the 1966-1968 study period is **passive** — clipping press, not engaging substantively. ^[inferred]
 2. **The 17 Dec 1969 Project Blue Book termination is filed back into the file 7+ years later** — via the McClanahan-Moore correspondence pair at serials 483-484 (Jan 1977). ^[extracted] The 1977 UFO Fact Sheet is the canonical FBI-side primary-source artifact of the closure ^[inferred] — it preserves verbatim the three Blue Book "conclusions" (no national-security indication, no scientific-anomaly indication, no extraterrestrial indication), the 1947-1969 sighting summary (totaling 12,618 sightings, 701 unidentified per the Fact Sheet's chart), and the post-closure NARA transfer instructions. See [[references/fbi-blue-book-termination-fact-sheet-1977]] and [[concepts/project-blue-book-termination-1969]].
 3. **The Carter-era 14 Jun 1977 White House → FBI coordination question** — Stanley Schneider (OSTP) phones Jay Cochran Jr. asking whether *"there is any coordination within the Executive Branch relating to information concerning this subject"*; the question originated with **Jody Powell** (Press Secretary). ^[extracted] Cochran's response: *"there appears to be no conceivable jurisdiction for us to conduct any inquiries upon receipt of information relating to a UFO sighting"* — the [[concepts/saucer-as-hoax-default|standard-policy disclaimer]] now functioning ~30 years post-BB-57 with neither Hoover nor Project Blue Book extant. ^[inferred] See [[references/fbi-cochran-schneider-1977]].
 
@@ -136,6 +136,110 @@ The [[concepts/fbi-saucer-policy-stasis-1958-1962|annual saucer-policy review ch
 Pending the missing **section 6** ingest, **section 10's serial 486 (14 Jun 1977 Cochran-McDermott memo)** is the file's effective last filing. ^[ambiguous] The OCR contains no later 1977, 1978, 1979, or 1980+ material. The file's accumulation period is therefore **6 Jul 1947 → 14 Jun 1977 = ~30 years**. ^[inferred]
 
 Section 6 may contain late-1970s or 1980s material that revises this terminus — the FBI's Cochran-Schneider exchange (serial 486) does not foreclose later filings. ^[ambiguous] But on present evidence, the **Carter-era White House coordination question** is the file's last substantive event. ^[inferred]
+
+## Youth-curiosity correspondence cluster (serial 455, Dec 1966)
+
+**REPAIR (2026-05-11)** — the initial section-10 distillation triaged the **Judith Goodman youth-correspondence letter** (serial 455, 23 Dec 1966) below the cut-off threshold. ^[inferred] This cluster is structurally distinct from the file's adult **policy / sighting / civilian-research** correspondence channels and warrants its own anchor.
+
+### The Goodman letter (OCR pp 41-46)
+
+**Judith Goodman**, a school-age student in Bradford PA, sends a handwritten letter dated **20 December 1966** addressed to *"Mr. J. Edgar Hoover, 4936 30th Place, Washington, D.C."* — Hoover's **personal residence**, not the FBI HQ. ^[extracted] The letter is filed at FBI HQ under serial 62-83894-455 anyway, indicating Bureau intake of misdirected personal-residence mail. ^[inferred]
+
+The letter's verbatim text: ^[extracted]
+
+> *"Dear Mr. Hoover, I am doing my Science Fair project on U.F.O.s. Could you please send me any and all information you have on this subject? I would also appreciate any information you may have as to how many planes we have lost chasing U.F.O.s. Why has this information been kept a secret? Why is it important to national defense? Also would you happen to know if any other [countries] besides ourself have spotted U.F.O.s in [recent times]?"*
+
+**Two near-identical drafts** are filed (pp 43 + 45) — one addressed from **12 Williams Street**, one from **13 Williams Street** (likely OCR digit confusion or genuine address-correction). ^[ambiguous] The duplicate filing pattern is structurally consistent with Bureau intake of both incoming-mail copy and stamped routing copy. ^[inferred]
+
+Hoover's reply (27 Dec 1966, drafter BGH:gda): ^[extracted]
+
+> *"Although I would like to be of assistance, matters pertaining to Unidentified Flying Objects are not within the jurisdiction of the FBI. Inasmuch as your communication is of interest to another governmental agency, I am referring a copy of it to the Director of Special Investigations, The Inspector General, Department of the Air Force, Washington, D. C. 20333."*
+
+Reply is **standard form-letter language identical to the adult-correspondent template** ^[extracted] — no register-shift for the youth correspondent. The NOTE *"Bufiles contain no record of correspondent"* applies to a school-age letter writer, the file's first documented instance of a Bureau records-check against a minor for UAP correspondence. ^[inferred]
+
+### Structural significance of the cluster
+
+The Goodman letter anchors a **youth-curiosity correspondence channel** in the file that has been visible but unnamed across the prior 9 sections ^[inferred]:
+
+- **Children-as-correspondents have appeared sporadically**: the section-10 **Brassington / Smith / Hargreaves Ontario boys** (ages 12-13, serial 475 Oct 1969) — three Canadian schoolchildren asking the FBI to confirm a magazine photo of *"two FBI agents leading a person from outer space down the street"*. ^[extracted] The Brassington/Smith/Hargreaves and Goodman letters together establish that **school-age correspondents are a non-trivial fraction** of the Bureau's UAP-correspondence intake by the late 1960s. ^[inferred]
+- **The Goodman letter combines four youth-curiosity markers**: (a) school-context framing (*"Science Fair project"*); (b) cover-up suspicion (*"Why has this information been kept a secret?"*); (c) national-security framing (*"Why is it important to national defense?"*); (d) international-comparative curiosity (*"any other [countries] besides ourself"*). ^[extracted] All four markers reappear in subsequent youth-correspondent letters. ^[inferred]
+- **Hoover's personal-residence as inbound address** is itself a youth-marker: an adult correspondent versed in Bureau structure would address the FBI HQ, while a child reaches for the publicly-known *J. Edgar Hoover* persona and addresses his home. ^[inferred] Section-10 serial 455 is the **first documented case** of a misaddressed-to-residence UAP correspondence in the wiki corpus. ^[inferred]
+
+### Channel observation — the file's vertical reach
+
+The Goodman letter, taken together with the section-10 international roster (below) and the existing adult-policy / researcher / civilian-org channels, demonstrates that **62-HQ-83894's correspondence intake reaches from school-age children up through international-civilian-research networks** during the 1966-1969 window. ^[inferred] The file is not just an adult-policy / press-echo accumulator — it captures the **full vertical-demographic range** of mid-1960s UFO-correspondent interest in the FBI's posture, with **no register-differentiation** in the Bureau's outbound reply template. ^[inferred] See updated [[entities/fbi-hq-62-83894-file]] for the corrected channel observation.
+
+## 1970s international UFO research-network roster (serial 462 enclosure, OCR pp 91-92)
+
+**REPAIR (2026-05-11)** — the initial section-10 distillation noted that serial 462's enclosure was the **UFO CONTACT igap journal Vol 2 No 5 (Jun 1967)** ([[concepts/contactee-movement-1952-1954]]) but did not extract the journal's **ICUFON UN-proposal roster** at pp 91-92. ^[inferred] This roster is a discrete artifact in the file deserving its own anchor.
+
+### The ICUFON Press Release No. 6 (2 Feb 1967)
+
+The journal reproduces in full the **Intercontinental UFO Observer and Analytic Network (ICUFON) Press Release No. 6 (2 February 1967, New York)** ^[extracted] — issued by **Colman VonKeviczky** (33-50 75th Street 1C, Jackson Heights NY) as ICUFON representative. The release requests **U.N. Secretary General U Thant** invite a representation of world-leading UFO-researcher scientists to the **U.N. Peaceful Uses of Outer Space Conference (Vienna, Sep 1967)**. ^[extracted] The accompanying *Memorandum addressed on February 1st, 1967 to His Excellency U Thant* (reproduced verbatim) requests UFO-research-team participation alongside **Dr. Kurt Waldheim** (then Austrian Ambassador to the U.N. — later U.N. Secretary General). ^[extracted]
+
+The release also documents **two prior ICUFON proposals**: ^[extracted]
+
+- **PROJECT UN-UFO** — international-analytic-team scheme within the U.N. Secretary General's staff to control UFO global surveillance + 125-document corpus; rejected by the U.S. as *"nonsense"*; the U.S. then funded the **Univ of Colorado Condon Committee** ([[concepts/condon-committee]]) for $300K three months later. ^[extracted] VonKeviczky's framing: *"the U.S. government has casually been investigating UFO cases, classified as 'Confidential' since 1944, under project names, such as, Sigma, Grudge, and Bluebook"* — the **earliest civilian-research-side enumeration** in the wiki corpus of the AF UAP-investigation project-name chain. ^[inferred] (Note: VonKeviczky's claim of *"Sigma"* is structurally novel — possibly an early-1944-period AAF project absent from the wiki's existing [[concepts/project-blue-book-termination-1969|Blue Book lineage page]]. ^[ambiguous])
+- **INTERCONTINENTAL SPACE SECURITY PACT proposal (10 May 1966)** — VonKeviczky claims **five articles + paragraphs** were transferred from his proposal into the 19 Dec 1966 **U.N. Outer Space Treaty** governing-principles, signed by 62 nations. ^[extracted] Whether ICUFON's contribution is corroborated by the OST drafting record is **unverified** in the wiki corpus. ^[ambiguous]
+
+### The ICUFON Enclosure No. 1 roster
+
+The journal reproduces *ICUFON Enclosure No. 1* — VonKeviczky's proposed invitation list to the U.N. Outer Space Conference, organized in **four sections**: ^[extracted]
+
+**A. SCIENTISTS** — academic-credentialed UFO researchers in scientific posts: ^[extracted]
+
+- **Prof. Dr. Hermann Oberth** (Germany) — *"father of astronautics"*, internationally-acclaimed rocket scientist; named as proposed delegation head ^[extracted]
+- **Prof. Dr. Gabriel Alvial** (Chile) — director of Cosmic Radiation Institute, Santiago ^[extracted]
+- **Prof. Dr. Alexander Kazantsev** (USSR) — Soviet radio astronomer and archeologist ^[extracted]
+- **Prof. Dr. Carl Sagan** (USA) — astronomer, astrophysicist, NASA member ^[extracted]
+- **Prof. Dr. Mitrovan Zverer** (USSR) — radio astronomer ^[extracted]
+- **Representative of Colorado University, UFO research project** (USA) — i.e. a Condon-Committee delegate ^[extracted]
+
+**B. SCIENTIFIC RESEARCHERS** — professional UFO-research figures: ^[extracted]
+
+- **Knut Hammarskjöld** (Canada) — general director of the International Air Transport Association ^[extracted] (IATA's then-DG, who happens to be Dag Hammarskjöld's nephew — though the journal frames him as a UFO-researcher delegate ^[inferred])
+- **[[entities/j-allen-hynek|Prof. Dr. Allen J. Hynek]]** (USA) — astronomer, *"UFO investigator since 20 years at Air Force"* (NEW — see entity page) ^[extracted]
+- **[[entities/donald-keyhoe|Donald E. Keyhoe]]** (USA) — *"US major ret., pioneer UFO researcher, founder of NICAP"* (UPDATED — see existing entity page; this is the **third FBI-corpus characterization of Keyhoe as NICAP founder**) ^[extracted]
+- **[[entities/jacques-vallee|Jacques Vallee]]** (USA) — *"mathematician and astronomer of Northwestern University, Mars Map Project"* (NEW — see entity page) ^[extracted]
+
+**C. PIONEER UFO RESEARCHERS IN GLOBAL COVERAGE** — VonKeviczky's regional representatives, by region: ^[extracted]
+
+- **Arduino Albertini** — Italian research analyst, editor of *"Clypeus"*; SOUTH EUROPE & ASIA MINOR ^[extracted]
+- **Dr. Walter Bühler** — research analyst investigator, President of Brazilian UFO Res. Org.; SOUTH AMERICA & ANTARCTIC ^[extracted]
+- **Ronald Caswell** — editor of *"UFO CONTACT"* (the journal itself); International research analyst; NORTH EUROPE ^[extracted]
+- **Eng. Leonard G. Cramp** — noted technical analyst and technical writer; British Interplanetary Society ^[extracted]
+- **Coral E. Lorenzen** — founder of the [[entities/aerial-phenomena-research-organization|APRO (Aerial Phenomena Research Organization)]]; NORTH AMERICA AND ARCTIC (UPDATED — first FBI-corpus by-name attribution of Coral Lorenzen as APRO founder; see entity page) ^[extracted]
+- **Yusuke Matsumura** — Japanese pilot, UFO expert photogr. and analyst, President of Cosmic Brotherhood Ass.; FAR EAST - ASIA ^[extracted]
+- **Eng. Aimé Michel** — French mathematician, scientific researcher, noted writer; M. EAST, EUROPE ^[extracted]
+- **Hans C. Petersen** — Danish Air Force major, researcher, co-editor of *"UFO CONTACT"* bi-monthly; MIDDLE EUROPE ^[extracted]
+- **Edgar Sievers** — scientific research analyst; AFRICA ^[extracted]
+- **Bhissley Le Poer** [OCR; likely **Brinsley Le Poer Trench** ^[ambiguous]] — *"French pioneer British researcher, chairman of the Intern'l Sky Scouts"*; FAR EAST - OCEANIA ^[extracted]
+- **Karl L. Veit** — President of DUIST, noted European UFO analyst, writer-publisher and editor of *"UFO Nachrichten"*; EUROPE ^[extracted]
+
+**D. DOCUMENTATION** — three-part exhibit proposal: *"1. The UFO Evidence. 2. The Space Ships. 3. The Planetarians."* ^[extracted]
+
+### Structural significance of the roster
+
+The ICUFON Enclosure No. 1 roster is **the wiki's most comprehensive single-document characterization of the mid-1960s international civilian-UFO-research network** ^[inferred]:
+
+- **Global coverage by design**: VonKeviczky organizes the roster by geographic-coverage region (South Europe + Asia Minor, South America + Antarctic, North Europe, North America + Arctic, Far East - Asia, Middle East + Europe, Middle Europe, Africa, Far East - Oceania, Europe), reflecting a **conscious global-network construction** rather than a U.S.-centered one. ^[inferred] This is structurally distinct from the **NICAP / APRO / AFSCA U.S.-centered** corpus the FBI file has thus far accumulated. ^[inferred]
+- **Three-tier credentialing**: the roster's A/B/C tiers distinguish (A) academic-credentialed scientists with UFO interest, (B) professional UFO-researchers, (C) regional civilian-network analysts — a **tiering scheme not previously documented** in the FBI corpus. ^[inferred] The tier-A category at this point includes Oberth, Sagan, and Kazantsev — i.e. the proposal frames Soviet, German, and U.S. scientific establishment as parallel.
+- **Soviet-bloc inclusion**: Kazantsev + Zverer are USSR-side proposed delegates ^[extracted] — placing the proposal **across the Cold-War divide** and structurally aligned with Zigel's *Smena* article ([[references/fbi-hq-62-83894-section-10]] same-section serial 462 enclosure pp 87-91) which the same journal reproduces. ^[extracted]
+- **Multi-language journal infrastructure visible**: the roster names editors of *"Clypeus"* (Italian), *"UFO CONTACT"* (English / multi-language, IGAP-affiliated), *"UFO Nachrichten"* (German), reproduced material from *"Jyllands-Posten"* (Danish, p87) + *"EL HERALDO"* (Mexican, p85) + *"Sputnik"* monthly digest (Soviet, p92). The civilian-research network operates **at multi-lingual journal scale** by 1966-1967. ^[inferred]
+
+### Other journal content surfaced at OCR pp 85-91 (serial 462 enclosure)
+
+For completeness — content adjacent to the roster in the same enclosure, **not previously surfaced**:
+
+- **P. M. H. Edwards' Victoria BC reports** (April 1967) — multiple Vancouver-Island colored-light sightings; light-dimming co-occurrence at Campbell River; relayed via Tommy Helmer, Bromma, Stockholm, Sweden. ^[extracted]
+- **Dr. José A. Lanuza Mexican photographs** (per *EL HERALDO* 26 Feb 1967) — Sorbonne / Mexican Autonomous National University professor takes 3 UFO photos aboard Compañía Mexicana de Aviación flight Mexico City → Guadalajara. ^[extracted]
+- **Juan Reyes Febles ANTARES Observatory photographs** (Montevideo, Uruguay) — 21 color photos, 100-min observation, *"mother-saucer"* + ejected sub-craft, height ~6km. ^[extracted]
+- **Robert J. Low / Rex Heflin 1965 Santa Ana photograph reactivation** (early 1967) — Condon-Committee project-coordinator Robert J. Low travels to Santa Ana CA to re-evaluate the Heflin 1965 Orange County Highway Department photograph previously discredited by the AF; calls it *"among the top four or five"* items of UFO photographic evidence. ^[extracted] This is the **wiki's first FBI-corpus documentation of Low's pre-Condon-Report fieldwork** and is the precursor to the controversial Low Memorandum debate that later collapsed the Condon Committee credibility. ^[inferred]
+- **Adamski continuation passages**: Steckling 7 Sep 1966 8mm film, Madeleine Rodeffer NASA-vetted film, *"royal audience"* Queen Juliana 18 May 1959 narrative, Soviet F. Zigel *Smena* article on radar-detected UFOs, Wernher von Braun "Science and God" essay (translated from *Jyllands-Posten*). ^[extracted] All consistent with the existing [[concepts/contactee-movement-1952-1954|contactee-movement page]]'s post-1965 Adamski-continuation framing.
+
+### Why the FBI retained this material
+
+The FBI's intake of the UFO CONTACT igap journal Vol 2 No 5 via Hullett's 22 Aug 1967 letter (serial 462) — and the Bureau's filing of the full ~50-page journal in the HQ topic file — means **the FBI's 62-HQ-83894 holds, by 1967, the most comprehensive single-document characterization of the international civilian-UFO-research network in any U.S. government file** ^[inferred]. There is no evidence in section 10 that the Bureau **analyzed** this roster — but the **filing itself** is the institutional act: the file is the documentary commons of the topic. ^[inferred]
 
 ## Open Questions
 

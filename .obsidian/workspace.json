@@ -175,11 +175,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "efd4f66ca800772a",
   "lastOpenFiles": [
+    "entities/jacques-vallee.md",
+    "entities/j-allen-hynek.md",
     "references/pocantico-colloquium-1997.md",
     "references/sighting-russia-airport-2001-01-27.md",
     "references/boston-globe-ufo-2000-05-21.md",
@@ -208,8 +211,6 @@
     "references/lapaz-seventh-report-1950-05-23.md",
     "concepts/project-twinkle.md",
     "references/fbi-hq-62-83894-section-6.md",
-    "references/fbi-blue-book-termination-fact-sheet-1977.md",
-    "references/fbi-cochran-schneider-1977.md",
     "references/usaf-flying-discs-1949.md.tmp.26524.99683844ac58",
     "references/dos-cable-kazakhstan-1994-01.md.tmp.26524.7575d999763d",
     "concepts/project-sign.md.tmp.26524.6a3d7f5b4aab",
