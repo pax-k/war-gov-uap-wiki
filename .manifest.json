@@ -1477,20 +1477,66 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/dow-uap-d8-mission-report-djibouti-2025.json": {
+      "ingested_at": "2026-05-11T19:30:00Z",
+      "size_bytes": 1933,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:5ffa625ecc692d798f95777e0fb66896814b366d3fa8d816f7184a959a237e84",
+      "source_id": "dow-uap-d8-mission-djibouti-2025",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap",
+      "series_position": "7-of-40",
+      "artifact_class": "mission-report",
+      "signal_class": "kinematic-anomaly-with-morphology + thermal-sensor-channel + first-FIN-SWE-FVEY-NATO-release + filename-date-verifiable + djibouti-label-mismatch",
+      "internal_coordinate_format": "MGRS",
+      "internal_coordinate": "35SQT3423692957",
+      "mgrs_zones": ["35S"],
+      "decoded_region": "Eastern Mediterranean (35S QT — SE Crete / SW Cyprus / N Egypt margin)",
+      "filename_theater_match": false,
+      "filename_theater_label": "Djibouti",
+      "filename_date_verifiable": true,
+      "release_framework_floor": "2024-03",
+      "morphology": "round and white hot",
+      "object_count": 2,
+      "uap_velocity_kt": 240,
+      "uap_motion_descriptor": "DYNAMIC SOUTH",
+      "operational_phase": null,
+      "witness_aircraft_altitude_ft_msl": null,
+      "witness_aircraft_speed_kt": null,
+      "event_time_z": "1653Z",
+      "event_date": null,
+      "portion_marking": "(SECRET/REL TO USA, FIN, SWE, FVEN/FVEY, NATO)",
+      "sensor_channel_implicit": "FLIR-thermal-imaging",
+      "originating_unit": null,
+      "originating_service": null,
+      "thread_closures": ["entities/dow-uap-foia-release.md#morphology-reporting-is-form-driven"],
+      "pages_created": [
+        "references/dow-uap-d8-mission-djibouti-2025.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-11T13:00:00Z",
-      "sources_ingested": 45
+      "last_ingested": "2026-05-11T19:30:00Z",
+      "sources_ingested": 46
     }
   },
   "stats": {
-    "total_sources_ingested": 52,
-    "total_pages": 322,
+    "total_sources_ingested": 53,
+    "total_pages": 323,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T13:00:00Z"
+    "last_ingest_at": "2026-05-11T19:30:00Z"
   }
 }
