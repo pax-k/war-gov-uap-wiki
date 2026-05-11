@@ -13,7 +13,7 @@ base_confidence: 0.78
 lifecycle: draft
 lifecycle_changed: 2026-05-11
 created: 2026-05-11T23:50:00Z
-updated: 2026-05-11T23:50:00Z
+updated: 2026-05-12T01:00:00Z
 event_date: 2020-08-08
 project: uap
 ---
@@ -334,7 +334,7 @@ d60 introduces or extends the following in the dow-uap corpus (now N=14 ingests)
 
 ## Open questions
 
-- **Validate the full-Misrep document class at N≥2** — d60 is the first all-substantive multi-page Misrep in dow-uap. The next ingest of a similarly-sized multi-page mission-report artifact will confirm or refute whether the full-Misrep class is a stable third sub-class within the mission-report tranche.
+- **Validate the full-Misrep document class at N≥2** — ^closed-by-dow-uap-d61. [[references/dow-uap-d61-mission-persian-gulf-2020-08-27|DoW-UAP-D61]] (26-27 Aug 2020, Misrep 4685903) is a second full-Misrep with 7 substantive pages and complete USMTF segment set — class CONFIRMED at N=2.
 - **Test the extract-vs-full-Misrep hypothesis** — are d4/d5/d7/d8/d54 (single-substantive-page-with-header-padding) extracts of parent multi-page Misreps like d60? If subsequent ingests carry full-Misrep parent documents whose extracted GENTEXT segments match d4/d5/d7/d8/d54's UAP datums, the extract hypothesis is confirmed.
 - **Resolve the segment-name distinction** — `GENTEXT/OBSERVATION` (d60) vs `GENTEXT/UAP` (d4/d5/d7/d8/d54). Is the d60 reading (curator-renamed `GENTEXT/OBSERVATION` → `GENTEXT/UAP` at release) correct, or do the two segment-names reflect different originating-service conventions?
 - **Confirm 482ATKS / 432 AEW MQ-9 attribution** — open-source unit-history validation of 482ATKS as a 432 AEW Active-component MQ-9 squadron in Aug 2020 would firm the platform reading.
@@ -342,9 +342,9 @@ d60 introduces or extends the following in the dow-uap corpus (now N=14 ingests)
 - **Confirm `OKAS` ICAO = Ali Al Salem AB, Kuwait** — open-source ICAO database verification.
 - **Decode `DGS1` and `AIRHANDLER`** — DGS1 likely the Langley AFB PED node; AIRHANDLER likely a named SIGINT payload. Both first-attestations in dow-uap corpus; both warrant entity-level pages if recurrent.
 - **Resolve `603 AOC` vs `609 AOC`** — page 0 Operation block lists `Operations Center: 609th`; page 1 POC block lists `Operations Center: 603 AOC`; page 1 APPROVER block lists `Operations Center: 609 CAOC`. ^[ambiguous] The 603 AOC is USAFE/AFRICOM-anchored, while the 609 CAOC is USCENTCOM-anchored. Three readings: (a) OCR error; (b) the POC was administratively assigned to 603 AOC at a different point in their career; (c) joint 603 + 609 routing of the mission record. ^[ambiguous]
-- **Test the multi-segment-Timeline structure at N≥2** — if subsequent full-Misrep ingests carry the same Landing / GUARDCALL / OBSERVATION / Takeoff / On Station / ISR / Off Station Timeline structure, the d60 schema firms as the canonical USMTF-Misrep Timeline schema in the dow-uap corpus.
+- **Test the multi-segment-Timeline structure at N≥2** — ^closed-by-dow-uap-d61. d61 carries the same Landing / GUARDCALL / OBSERVATION / Takeoff / On Station / ISR / Off Station Timeline sub-segments. The d60 schema firms as the canonical USMTF-Misrep Timeline schema at N=2.
 - **Decode the redacted `Operation 1,4a` name** — the Narrative explicitly names the supported NAVCENT operation but portion-redacts the operation name. Open-source 5th Fleet Aug 2020 operational history might recover the name.
-- **Test the Iranian Air Defense GUARDCALL recurrence pattern** — does the next dow-uap full-Misrep carry a foreign-state direct hail? If recurrent, GUARDCALL is a class-level signature of CENTCOM-AOR ISR missions, not a d60 outlier. If isolated, d60 is the unique Iranian-Air-Defense-hail attestation in the corpus.
+- **Test the Iranian Air Defense GUARDCALL recurrence pattern** — ^closed-by-dow-uap-d61. d61 carries an Iranian Air Defense direct hail at 270532Z with `PROFESSIONAL` tone and standard exchange (UTM 40R / CP — same eastern-Persian-Gulf approach as d60's hail at 081250Z UTM 40R / CP). Foreign-state direct hails are now a **class-level signature** of CENTCOM-AOR MQ-9 ISR missions, not a d60 outlier. Temporal sequencing relative to UAP event varies (post-UAP at d60; pre-UAP at d61) — no causal link between GUARDCALL and UAP events. ^[inferred]
 - **Resolve the `Declassification Date 20450301`** — is this a 2045-Mar-01 future declassification date (i.e. document still classified through 2045 at originating time, with applied Harrison declassification authority overriding to 2026), or an OCR error?
 - **Decode `Tasking Order: BP`** — Battle Plan / numbered ATO. The 2-letter `BP` token may map to an open-source USAFCENT 2020 ATO designator.
 - **Validate the `IVO 39RWL08` body-coord precision** — partial portion-redaction prevents exact decoding; full MGRS would supply ~5–10 km precision instead of the inferred ~100-km square level.
@@ -363,6 +363,7 @@ d60 introduces or extends the following in the dow-uap corpus (now N=14 ingests)
 - [[references/dow-uap-d56-range-fouler-arabian-sea-august-2020]] — Range-fouler 24 Aug 2020 North Arabian Sea HSM-73 MH-60R; sister Aug-2020 artifact 16 days after d60; both Block A
 - [[references/dow-uap-d44-range-fouler-arabian-sea-october-2020]] — Range-fouler 15 Oct 2020 Gulf of Aden 172 ATKS MQ-9; same MQ-9 platform-class as d60 but different document class
 - [[references/dow-uap-d58-range-fouler-debrief-2020-10]] — Range-fouler 27 Oct 2020 77 EFS CENTCOM; sister CENTCOM-AOR 2020 artifact
+- [[references/dow-uap-d61-mission-persian-gulf-2020-08-27]] — **Second FULL USMTF Misrep (Misrep 4685903, 26-27 Aug 2020); same 482ATKS / 432 AEW MQ-9 ^[inferred] / same NAVCENT support / same operation 1.4a — 19-day same-unit repeat-mission pair with d60; closes 3 of d60's open threads**
 - [[references/dow-uap-d52-email-na-2024]] — Email-correspondence class (15 AF / DET 1 PAROC IDAT)
 - [[references/dow-uap-d50-email-indopacom-2025-04]] — Email-correspondence class (12 AF / DET 3)
 - [[concepts/uap-aircraft-engagement]] — Behavioral framing; d60 increments mission-report UAP-datum counter to N=6 / 7 datums; anchors 8th brief-observation sub-class (kinematics-blank + morphology-blank + FMV-observation + ISR-mission-context + zero-mission-impact)
