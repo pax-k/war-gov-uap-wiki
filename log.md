@@ -4,6 +4,8 @@ title: Wiki Log
 
 # Wiki Log
 
+- [2026-05-11T19:00:00Z] SYNTHESIZE page="synthesis/uap-phenomenon-nature.md" mode=multi-agent agents=7 lenses="observables,witness-stratification,behavior,history,hypotheses,disclosure-epistemics,whistleblower-gap+adversarial-null" wikilinks=~95 result="integrated synthesis on the nature of the UAP phenomenon — layered evidence + 80-yr invariant core + hypothesis space + shape-of-secrecy + modern-whistleblower-gap + steelmanned prosaic null + 3 hardest 1949 instrument-tracked residual cases"
+- [2026-05-11T18:55:00Z] SKILL_PATCH skill=wiki-query+wiki-ingest reason="qmd MCP tool name + parameter shape drift" fixes="tool name mcp__qmd__query → mcp__plugin_qmd_qmd__query, collection (singular) → collections (plural array), call out -negation and \"quoted phrases\" are lex-only (vec/hyde raise InputValidationError)" files=".skills/wiki-query/SKILL.md, .skills/wiki-ingest/SKILL.md"
 - [2026-05-09T12:50:15Z] INIT vault_path="/Users/pax/Documents/Obsidian/obsidian-wiki" categories=concepts,entities,skills,references,synthesis,journal,projects
 - [2026-05-09T12:58:46Z] INGEST source="_raw/18_6369445_general_1948_vol_1.json" pages_created=13 pages_updated=0 mode=raw project=uap source_type=document
 - [2026-05-09T13:13:27Z] CROSS_LINK pages_scanned=13 links_added=7 pages_modified=6 orphans_remaining=0 misc_affinity_updated=0 promotion_candidates=0

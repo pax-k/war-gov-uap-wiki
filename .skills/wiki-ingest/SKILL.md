@@ -102,15 +102,21 @@ When `QMD_PAPERS_COLLECTION` is set:
 Before extracting knowledge from a document, check whether related papers are already indexed that could enrich the page you're about to write:
 
 ```
-mcp__qmd__query:
-  collection: <QMD_PAPERS_COLLECTION>   # e.g. "papers"
+mcp__plugin_qmd_qmd__query:
+  collections: [<QMD_PAPERS_COLLECTION>]   # plural array, e.g. ["papers"]; omit to search all collections
   intent: <what this document is about>
   searches:
-    - type: vec    # semantic — finds papers on the same topic even with different vocabulary
+    - type: vec    # semantic — plain natural language only (NO "quotes", NO -negation)
       query: <topic or thesis of the source being ingested>
-    - type: lex    # keyword — finds papers citing the same methods, tools, or authors
+    - type: lex    # keyword — the ONLY type that supports "phrase" matching and -negation
       query: <key terms, author names, method names from the source>
 ```
+
+**Common pitfalls** — getting these wrong returns a validation error from the server:
+
+- Tool name is `mcp__plugin_qmd_qmd__query` (not `mcp__qmd__query`).
+- `collections` is **plural** and takes a **JSON array of strings**, not a singular string.
+- Negation (`-term`) and `"quoted phrases"` work in `lex` ONLY. In `vec` or `hyde` they raise `Structured search: Negation (-term) is not supported in vec/hyde queries.` — phrase those sub-queries as plain natural language and put exclusions in a separate `lex` sub-query.
 
 Use the returned snippets to:
 1. **Surface related papers** you may not have thought to link — add them as cross-references in the wiki page

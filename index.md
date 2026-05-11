@@ -355,6 +355,7 @@ title: Wiki Index
 - [[synthesis/foo-fighters-to-flying-discs]] — Continuity of the Allied UAP-reporting apparatus from WWII SHAEF (1944–45) through 1948 USAF Project SIGN ( #uap #analysis #history #ww2)
 - [[synthesis/horten-thesis-vs-disc-sightings]] — Cross-cutting analysis of the 1948 Horten conventional-explanation thesis ( #uap #analysis #history)
 - [[synthesis/policy-papers-uap-1963-vs-1999]] — Direct comparison of Hunter 1963 (US, EOP, conditional) and COMETA 1999 (France, private, declarative) ( #uap #policy #analysis #france)
+- [[synthesis/uap-phenomenon-nature]] — 7-lens integrated synthesis on the nature of the UAP phenomenon: layered evidence, 80-yr invariant core, hypothesis space, shape-of-secrecy, modern-whistleblower gap, adversarial null + hardest residual ( #uap #analysis #hypothesis #witness #history)
 
 ## Journal
 

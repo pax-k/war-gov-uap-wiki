@@ -70,18 +70,33 @@ If you're in **index-only mode**, stop here. Answer from `summary:` fields, titl
 
 > **No QMD?** Skip to Step 3 and use `Grep` directly on the vault. QMD is faster and concept-aware but the grep path is fully functional. See `.env.example` for setup.
 
-If `QMD_WIKI_COLLECTION` is set and the index pass didn't produce clear candidates — or the question requires semantic matching rather than exact terms — use QMD before reaching for `Grep`:
+If `QMD_WIKI_COLLECTION` is set and the index pass didn't produce clear candidates — or the question requires semantic matching rather than exact terms — use QMD before reaching for `Grep`.
 
+**Exact tool name and parameter shape (common pitfall — get this wrong and every call returns a validation error):**
+
+- Tool name: `mcp__plugin_qmd_qmd__query` (not `mcp__qmd__query`)
+- `collections` is **plural** and takes a **JSON array of strings**, not a singular string. With only one collection, you may omit it entirely — the server defaults to searching all collections.
+- `searches` is **required** — an array of `{type, query}` sub-queries. Types: `lex` | `vec` | `hyde`. First sub-query gets 2× weight.
+- `intent` is optional but recommended — a one-line description that disambiguates the search; does not search on its own.
+- **Negation (`-term`) and `"quoted phrases"` are `lex` ONLY.** Putting `-term` into a `vec` or `hyde` query raises `Structured search (hyde): Negation (-term) is not supported in vec/hyde queries. Use lex for exclusions.` Same for `vec`. If you need to exclude a term, add a `lex` sub-query with `-term`; keep the `vec`/`hyde` sub-query phrased in plain natural language.
+
+```jsonc
+mcp__plugin_qmd_qmd__query({
+  "collections": ["wiki"],            // plural array; omit to search all collections
+  "intent": "the user's question, one line",
+  "searches": [
+    { "type": "lex", "query": "\"exact phrase\" key terms -excluded" },     // BM25; ONLY type that supports "phrase" and -negation
+    { "type": "vec", "query": "natural-language question rephrased" },      // semantic; NO -negation, NO "quotes"
+    { "type": "hyde", "query": "50–100 word passage that looks like the answer" }  // optional; NO -negation, NO "quotes"
+  ]
+})
 ```
-mcp__qmd__query:
-  collection: <QMD_WIKI_COLLECTION>   # e.g. "knowledge-base-wiki"
-  intent: <the user's question>
-  searches:
-    - type: lex    # keyword match — good for exact names, file paths, error messages
-      query: <key terms>
-    - type: vec    # semantic match — good for concepts, patterns, "what is X like"
-      query: <question rephrased as a description>
-```
+
+**Companion tools (same `mcp__plugin_qmd_qmd__` prefix):**
+
+- `get({ file: "path/to/page.md" })` — full document by path or `#docid` (supports `path:LINE` and `fromLine`/`maxLines`).
+- `multi_get({ pattern: "references/dow-uap-*.md" })` — batch by glob or comma-list; skips files over `maxBytes` (default 10 KB).
+- `status()` — collection list + doc counts; useful sanity check if a query returns nothing.
 
 The returned snippets act as pre-read section summaries. If they answer the question fully, skip Step 3 and go straight to Step 4 (reading only the pages QMD ranked highest). If not, use the ranked file list to guide which files to grep or read in Step 3.
 
