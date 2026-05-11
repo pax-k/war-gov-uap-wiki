@@ -102,7 +102,7 @@
         "projects/uap/uap.md"
       ]
     },
-    "sources/331_120752_numeric_files_1944\u20131945_37153_german_armament_equipment_documents.json": {
+    "sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json": {
       "ingested_at": "2026-05-09T14:07:00Z",
       "size_bytes": 24313,
       "modified_at": "2026-05-09T13:07:43Z",
@@ -1345,13 +1345,43 @@
       "series": "dow-uap",
       "series_position": "3-of-40",
       "signal_class": "brief-obs-multi-event",
-      "mgrs_zones": ["34S", "35T"],
+      "mgrs_zones": [
+        "34S",
+        "35T"
+      ],
       "pages_created": [
         "references/dow-uap-d5-mission-arabian-gulf-2020.md"
       ],
       "pages_updated": [
         "entities/dow-uap-foia-release.md",
         "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
+    },
+    "sources/dow-uap-d52-email-correspondance-na-august-2024.json": {
+      "ingested_at": "2026-05-11T06:00:00Z",
+      "size_bytes": 1588,
+      "modified_at": "2026-05-09T16:07:44Z",
+      "content_hash": "sha256:d9a8b853d5d1aa2de5f99bdad130c83039cc3662f4096570fa5ed628592b0aa5",
+      "source_id": "dow-uap-d52-email-na-2024",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap",
+      "series_position": "4-of-40",
+      "artifact_class": "email-correspondence",
+      "signal_class": "disclosure-workflow-email+series-multi-service-first",
+      "event_date": "2024-10-31",
+      "originating_unit": "15 AF / DET 1",
+      "originating_service": "USAF",
+      "pages_created": [
+        "references/dow-uap-d52-email-na-2024.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/orb-phenomenon.md",
         "index.md",
         "log.md",
         "hot.md"
@@ -1366,10 +1396,10 @@
     }
   },
   "stats": {
-    "total_sources_ingested": 49,
-    "total_pages": 309,
+    "total_sources_ingested": 50,
+    "total_pages": 310,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T05:00:00Z"
+    "last_ingest_at": "2026-05-11T06:00:00Z"
   }
 }

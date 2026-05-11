@@ -2,8 +2,8 @@
 title: Orb Phenomenon
 category: concepts
 tags: [uap, morphology, sighting, pattern]
-sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/38_143685_box7_incident_summaries_173-233.json]
-summary: Recurring UAP morphology — small to medium luminous or solid spherical / disc-class bodies, with sub-classes including flash-orbs, sustained hovers (≥30 min as old as 1948), "mother / daughter" launches, and sequential flare formations.
+sources: [sources/western_us_event_slides_5.08.2026.json, sources/usper-statement-redacted.json, sources/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.json, sources/38_143685_box7_incident_summaries_173-233.json, sources/dow-uap-d52-email-correspondance-na-august-2024.json]
+summary: Recurring UAP morphology — small to medium luminous or solid spherical / disc-class bodies, with sub-classes including flash-orbs, sustained hovers (≥30 min as old as 1948 and ≥2 h in 2024), "mother / daughter" launches, and sequential flare formations.
 provenance:
   extracted: 0.5
   inferred: 0.45
@@ -12,7 +12,7 @@ base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-10
 created: 2026-05-09T13:33:54Z
-updated: 2026-05-10T02:00:00Z
+updated: 2026-05-11T06:00:00Z
 ---
 
 # Orb Phenomenon
@@ -63,6 +63,12 @@ The combined 1948 picture: **sustained hover (15+ min) by silver / bright-white 
 
 [[references/sighting-fairfield-suisun-1948-12|The Fairfield-Suisun 3 Dec 1948 event]] — preserved both as the corpus's first complete EEI Project SIGN form **and** as **Inc 215** in the 173–233 bundle — is the wiki's earliest **clean luminous-orb signature**: a 30-inch round colorless white light, no exhaust / no sound, climbing almost vertically from ~3,000 ft to ~20,000 ft. The **light-only-no-body** signature is structurally adjacent to the modern flash-orb and sustained-glow orb sub-classes by 77+ years.
 
+## Modern sustained-hover datum (2024)
+
+[[references/dow-uap-d52-email-na-2024|DoW-UAP-D52]] preserves the wiki's **most recent multi-hour sustained orb-class datum**: on **31 Oct 2024** a U.S. Aircraft observed a possible UAP described as **"oval/orb shaped, likely moving at a low speed"** with **eyes-on for over 2 hours**. The tear-line text is itself terse (~30 words) — the artifact is an email thread about clearance of the tear line, not a full mission report — but the **2-hour duration + oval/orb morphology + low speed** is structurally identical to the Aug 1948 Godman AFB / Project SIGN Inc 187 signature (2-hour stationary-bright-object). ^[inferred]
+
+The difference is provenance: the 1948 case was **resolved as Venus**; the 2024 case **passed prepublication review at SECRET//NOFORN with year-of-event approval iteratively negotiated** — a much more institutionally-vetted UAP designation than the 1948 case. ^[inferred] This makes Godman + D52 a useful **2-hour-orb provenance contrast pair** when arguing about how the operational-intake apparatus has changed in 76 years.
+
 ## Compare and contrast
 
 - **Disc/wing morphology** — see [[concepts/horten-flying-wing]] and the 1948 [[references/usaf-flying-discs-1948|USAF "Flying Disc" file]]. The 1948 corpus rarely describes objects this self-luminous in the body; "fluorescent" or "phosphorescent" descriptors do appear (see [[references/sighting-hobson-ohio-1948-05]]) but are typically attached to disc-shaped objects, not spheres.
@@ -82,3 +88,5 @@ The combined 1948 picture: **sustained hover (15+ min) by silver / bright-white 
 - [[concepts/orb-flare-formation]]
 - [[concepts/uap-aircraft-engagement]]
 - [[synthesis/federal-le-uap-witness-pattern]]
+- [[references/dow-uap-d52-email-na-2024]] — Modern (31 Oct 2024) 2-hour oval/orb sustained-hover datum from USAF 15 AF / DET 1
+- [[entities/dow-uap-foia-release]] — Multi-service modern Navy/USAF UAP FOIA release series carrying the 2024 datum

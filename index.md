@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-11T05:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-11T06:00:00Z*
 
 ## Concepts
 
@@ -94,7 +94,7 @@ title: Wiki Index
 - [[entities/d-m-ladd]] — FBI Assistant Director (1947), gatekeeper for the FBI's flying-disc cooperation arrangement with the AAF ( #fbi #person #1947 #uap)
 - [[entities/h-b-fletcher]] — FBI Inspector at HQ ~1948-49; runs the Noack Helendale dispatch (Dec 1948) and drafts SAC Letter No. 38 (Mar 1949); structurally important figure in the FBI's nonlinear post-cooperation-regime saucer policy ( #uap #fbi #person #1948 #1949)
 - [[entities/walter-winchell]] — American newspaper / radio columnist; informal Hoover-tip-relay channel for civilian saucer-tips (3 Apr-May 1949 relays in 62-HQ-83894 section 4) ( #uap #person #rhetoric #federal-le #1949)
-- [[entities/dow-uap-foia-release]] — Provisional series-level anchor for the ~40-file "DoW-UAP" FOIA release tranche; mostly Navy-theater UAP mission reports + range-fouler debriefs 2016-2025, cleared through DoD prepublication review ( #uap #organization #archive #dod #navy)
+- [[entities/dow-uap-foia-release]] — Provisional series-level anchor for the ~40-file "DoW-UAP" FOIA release tranche; multi-service (Navy + USAF attested at N=4) UAP mission reports, range-fouler debriefs, and disclosure-workflow emails 2016-2025, cleared through DoD prepublication review ( #uap #organization #archive #dod #navy)
 - [[entities/donald-keyhoe]] — Retired US Marine Corps major and aviation journalist; January 1950 *True Magazine* article + September 1950 book *The Flying Saucers Are Real* canonized ETI hypothesis in mid-century UFOlogy ( #uap #person #rhetoric #1950)
 - [[entities/frank-scully]] — American journalist and *Variety* magazine columnist; January 1950 article + September 1950 book *Behind the Flying Saucers* canonized the Aztec/Newton/Koehler crashed-saucer myth-seed ( #uap #person #rhetoric #1950)
 - [[entities/george-f-schulgen]] — Brig Gen, AAF Requirements Intelligence Branch chief (1947); originator of the FBI-AAF cooperation request that produced Bureau Bulletin No. 42 ( #usaf #person #intelligence #1947)
@@ -173,6 +173,7 @@ title: Wiki Index
 - [[references/barker-1956-they-knew-too-much]] — Reference-stub for Gray Barker's 1956 *They Knew Too Much About Flying Saucers* (University Books NYC); wiki holds only the publisher's jacket copy via FBI HQ 62-HQ-83894 serial 403; introduces the *"three men in dark suits"* / MIB trope into commercial publication ( #uap #civilian-research #primary-source #rhetoric)
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — 1-page DoD Office of Prepublication and Security Review clearance stamp (10 Mar 2026); cover artifact for the otherwise-unannotated "DoW-UAP" FOIA-release series; opening anchor of the series in the wiki ( #uap #primary-source #declassified #dod #ocr)
 - [[references/dow-uap-d4-mission-arabian-gulf-2020]] — 5-page Mistral-OCR'd Navy mission report (filename-labeled "Arabian Gulf, 2020"); single GENTEXT/UAP datum — 1258Z brief observation, 321 kt, speed-up + eastward turn; first substantive `d*` ingest of the DoW-UAP series; flags filename-vs-internal-coordinate geographic mismatch ( #uap #primary-source #declassified #navy #dod)
+- [[references/dow-uap-d52-email-na-2024]] — 2-page Mistral-OCR'd intra-DoD email thread negotiating UNCLASS tear-line year approval for a 31 Oct 2024 USAF UAP sighting; PAROC Intel Data Analysis Technician at 15 AF / DET 1 ↔ Information Disclosure Analyst; first non-mission-report and first USAF-originating ingest of the DoW-UAP series (oval/orb, low speed, >2 hours eyes-on) ( #uap #primary-source #declassified #usaf #sighting)
 - [[references/dos-cable-kazakhstan-1994-01]] — Declassified 3-page UNCLAS US State Department cable (31 Jan 1994, DUSHANBE 00259) on Tajik Air pilots' UAP encounter at FL410 over Kazakhstan ( #uap #primary-source #state-department)
 - [[references/dos-cable-mexico-2023-09]] — Declassified 7-page UNCLAS US State Department cable (16 Sep 2023, MEXICO 2544) — Mission Mexico's weekly political blotter ¶11 reports the 12 Sep 2023 Mexican Congress UAP hearing with Maussan + Graves; first sub-pattern-C anchor of the diplomatic-channel umbrella ( #uap #primary-source #declassified #state-department #diplomacy)
 - [[references/dos-cable-papua-new-guinea-1985-01]] — Declassified 3-page US State Department cable (28 Jan 1985, PORT M 00199) on PNG NIO inquiry into 24 Jan 1985 high-altitude overflights ( #uap #primary-source #state-department)
