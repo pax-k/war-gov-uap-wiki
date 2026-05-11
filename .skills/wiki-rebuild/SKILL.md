@@ -38,6 +38,7 @@ $OBSIDIAN_VAULT_PATH/
 │   │   ├── journal/
 │   │   ├── projects/
 │   │   ├── index.md
+│   │   ├── timeline.md
 │   │   ├── log.md
 │   │   └── .manifest.json
 │   └── 2026-03-15T08-00-00Z/
@@ -68,7 +69,7 @@ When the user wants to snapshot the current state without rebuilding.
 ### Steps:
 
 1. Create archive directory: `_archives/YYYY-MM-DDTHH-MM-SSZ/`
-2. Copy all category directories, `index.md`, `log.md`, `.manifest.json`, and `projects/` into the archive
+2. Copy all category directories, `index.md`, `timeline.md`, `log.md`, `.manifest.json`, and `projects/` into the archive
 3. Write `archive-meta.json` with reason `"snapshot"`
 4. Append to `log.md`:
    ```
@@ -91,7 +92,7 @@ Remove all content from the category directories (`concepts/`, `entities/`, `ski
 - `.obsidian/` (Obsidian config)
 - `.env` (if present in vault)
 
-Reset `index.md` to the empty template. Reset `log.md` with just the rebuild entry. Delete `.manifest.json` (it'll be recreated during ingest).
+Reset `index.md` to the empty template. Reset `timeline.md` to the empty template (header + decade scaffold, no entries — they will be re-added by subsequent ingests). Reset `log.md` with just the rebuild entry. Delete `.manifest.json` (it'll be recreated during ingest).
 
 ### Step 3: Rebuild
 

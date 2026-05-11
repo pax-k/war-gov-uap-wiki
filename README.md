@@ -23,7 +23,8 @@ See [TODO.md](TODO.md) for orchestration plan, batch cadence, and remaining sour
 
 ```text
 .manifest.json          # Single source of truth — every ingested file with content hash
-index.md                # Master index of every page
+index.md                # Master index of every page (alphabetical, by category)
+timeline.md             # Chronological index — pages by event date (proposed reading order)
 log.md                  # Chronological activity log (every ingest, lint, cross-link)
 hot.md                  # ~500-word session hot cache — recent activity + active threads
 _meta/taxonomy.md       # Controlled tag vocabulary
@@ -59,7 +60,7 @@ Every page has frontmatter: `title`, `category`, `tags` (≤5 canonical), `sourc
 
 If you're reading this wiki:
 
-- **Browse**: open in [Obsidian](https://obsidian.md) for the graph view and live wikilinks. Start at [index.md](index.md) or one of the major hub pages listed above.
+- **Browse**: open in [Obsidian](https://obsidian.md) for the graph view and live wikilinks. Start at [index.md](index.md) (alphabetical, by category), [timeline.md](timeline.md) (chronological, by event date — proposed reading order), or one of the major hub pages listed above.
 - **Query via the framework**: from any agent that supports the obsidian-wiki skills, say *"what do I know about \<topic\>"* — the [wiki-query](https://github.com/Ar9av/obsidian-wiki) skill scans titles, summaries, and tags first, then opens page bodies as needed, and returns wikilink-cited answers.
 - **Sources are tracked**: every page lists its source documents in frontmatter under `sources:`. The hash of each ingested document is in [.manifest.json](.manifest.json) for idempotency. Run `wiki-ingest` again on the same file and it skips by SHA-256.
 

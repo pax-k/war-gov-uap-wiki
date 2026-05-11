@@ -283,6 +283,8 @@ Update `stats.total_sources_ingested` and `stats.total_pages`.
 - Project mode: under `## Projects > <project-name>`
 - Misc mode: under `## Misc` (create the section at the bottom if it doesn't exist)
 
+**`timeline.md`** — if the page has a **datable event** (article publish date, an article describing a dated incident, a paper publication date), add or update its entry per the **Timeline Maintenance** convention in `AGENTS.md`. Date precedence: filename date suffix > frontmatter `event_date` > year tag. Skip if none resolves.
+
 **`log.md`** — append:
 
 Project mode:
@@ -309,5 +311,5 @@ Read `$OBSIDIAN_VAULT_PATH/hot.md` (create from the template in `wiki-ingest` if
 - [ ] Provenance markers applied; `provenance:` frontmatter block present
 - [ ] In project mode: project overview updated with link to new reference
 - [ ] In misc mode: `affinity` and `promotion_status` fields present
-- [ ] `.manifest.json`, `index.md`, and `log.md` updated
+- [ ] `.manifest.json`, `index.md`, `timeline.md` (if datable), and `log.md` updated
 - [ ] Stub pages reported to user if fetch failed

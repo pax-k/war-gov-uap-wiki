@@ -188,6 +188,8 @@ Every note must link to at least 2 existing wiki pages. Search `index.md` before
 
 **`index.md`** — Add the new page under its category section.
 
+**`timeline.md`** — if the captured note covers a **datable event** (a specific incident, a dated decision, a meeting, a journal entry), add or update its entry per the **Timeline Maintenance** convention in `AGENTS.md`. Date precedence: filename date suffix > frontmatter `event_date` > year tag. Most captures (concepts, distilled knowledge) are not datable — skip in those cases.
+
 **`log.md`** — Append:
 ```
 - [TIMESTAMP] CAPTURE type=<type> page="<path>" title="<title>"
@@ -210,5 +212,5 @@ Type: synthesis
 - [ ] Type classified correctly; target path is in the right folder
 - [ ] Frontmatter complete with title, category, tags, sources, summary, provenance
 - [ ] At least 2 wikilinks to existing pages
-- [ ] `index.md`, `log.md`, and `hot.md` updated
+- [ ] `index.md`, `timeline.md` (if datable), `log.md`, and `hot.md` updated
 - [ ] Confirmed save path to user

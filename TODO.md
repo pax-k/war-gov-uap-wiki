@@ -71,7 +71,7 @@ Plan restart-able at any commit boundary. Each per-source commit is a clean chec
      jq '.stats, .sources["sources/<basename>"]' .manifest.json
    If null → SendMessage agent to finish (esp. manifest write, projects/uap/uap.md,
    index.md, log.md, hot.md). Common failure: subagent ends mid-flow before manifest.
-5. git add .manifest.json index.md log.md hot.md _meta/taxonomy.md
+5. git add .manifest.json index.md timeline.md log.md hot.md _meta/taxonomy.md
    git add concepts/ entities/ references/ synthesis/ projects/ skills/ journal/ 2>/dev/null
    git commit -m "ingest: <short slug> (N/85)"
 6. Every 10 sources: dispatch hygiene = cross-linker → (wiki-lint + tag-taxonomy in parallel)
@@ -266,7 +266,7 @@ Project: uap.
 ## State files (atomic) — manifest LAST
 Write the manifest entry as the FINAL step. Prior subagents have stopped mid-flow
 before writing it; resume requests are expensive. Do .manifest.json absolutely last,
-after index.md, log.md, hot.md, projects/uap/uap.md, and all page edits.
+after index.md, timeline.md, log.md, hot.md, projects/uap/uap.md, and all page edits.
 
 Manifest entry shape under sources["sources/<filename>.json"]:
   ingested_at (ISO now), size_bytes: <N>, modified_at (file mtime),
@@ -278,6 +278,15 @@ projects.uap.last_ingested (ISO now), projects.uap.sources_ingested by 1.
 
 Update:
 - index.md (add new pages, refresh timestamp).
+- timeline.md (for every created/updated page with a datable event — primary corpus
+  pattern: sightings, memos, directives, cables, mission reports. Date precedence:
+  filename suffix `*-YYYY-MM-DD.md` > `*-YYYY-MM.md` > `*-YYYY.md` > frontmatter
+  `event_date` > year tag in `tags:`. Update existing entries in place — never
+  duplicate. Entry format:
+  `- **<date label>** — [[category/slug]] — <summary ≤200 chars>`.
+  Within-year sort: day-resolved → month-only → year-only. See AGENTS.md →
+  "Timeline Maintenance" for the canonical convention. Skip pages with no
+  resolvable date.).
 - log.md (append `[ISO] INGEST source="..." pages_created=N pages_updated=M mode=append`).
 - hot.md (refresh Recent Activity to last 3 ops, refresh Active Threads if needed).
 
@@ -288,7 +297,7 @@ qmd_hits: [paths]
 pages_created: [paths]
 pages_updated: [paths]
 manifest_entry_added: true | false
-state_files_updated: [.manifest.json, index.md, log.md, hot.md, ...]
+state_files_updated: [.manifest.json, index.md, timeline.md, log.md, hot.md, ...]
 notes: <key paradigm content, file-function refinement, sister-file pattern updates,
         deferred work, OCR ambiguities flagged ^[ambiguous] vs ^[inferred] vs ^[extracted]>
 
@@ -327,6 +336,15 @@ Heading normalization: canonical lowercase `## Open threads` and
 `## Open questions`. Rewrite the 21 capitalized `## Open Questions` outliers
 and rare singular variants (`## Open thread`, `## Open question carried in source`).
 
+Timeline consistency check (see .skills/wiki-lint/SKILL.md §6b): walk all pages in
+references/, concepts/, entities/, synthesis/, journal/. Resolve each page's event
+date by filename suffix > frontmatter `event_date` > year tag. For each datable
+page, confirm a single entry exists in timeline.md keyed by [[category/slug]];
+confirm date label and summary match. Flag missing / stale / duplicate entries
+and repair in place. If drift exceeds 10% of datable pages, regenerate the whole
+timeline.md from a filesystem rescan rather than line-patching. Report
+`timeline_drift: missing=N stale=M duplicate=K repaired=R`.
+
 # Tag-taxonomy (parallel with wiki-lint)
 Run /tag-taxonomy. Scan all pages, compare against _meta/taxonomy.md. Apply
 normalizations (singular/plural, diacritics, synonym splits, 5-tag-limit fixes).
@@ -345,3 +363,4 @@ found vault in equilibrium — be efficient.
 - **`_meta/taxonomy.md` is statistical metadata.** Cross-linker should skip it.
 - **Open threads are pipeline inputs, not page decoration.** Subagents must apply the `closes` / `extends` / `contradicts` protocol from the "Open threads / Open questions handling" section during every write phase — not leave threads as silent backlog. The 159 `## Open threads` + 85 `## Open questions` already in the vault are the highest-yield input for the final `/wiki-synthesize` pass.
 - **Heading case is canonical.** Lowercase `## Open threads` and `## Open questions`. Don't introduce capitalized variants — `/wiki-lint` rewrites them but it's cheaper not to create them.
+- **`timeline.md` updates are mandatory for datable pages.** Every reference/sighting/mission/cable/memo page lands in `timeline.md` keyed by the filename date suffix (`*-YYYY-MM-DD.md` > `*-YYYY-MM.md` > `*-YYYY.md`). Update existing entries in place — never duplicate. See AGENTS.md → "Timeline Maintenance" for the canonical convention. Cheaper to write the entry during the ingest write phase than to repair drift in hygiene.

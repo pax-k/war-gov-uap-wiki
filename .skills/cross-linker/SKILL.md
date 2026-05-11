@@ -181,7 +181,7 @@ Pages in misc/ that have ≥ 3 connections to a single project — ready to be p
 To promote: move the page to `projects/<project-name>/references/` and update all backlinks.
 
 ### Pages Skipped: 3
-- `index.md`, `log.md` — special files
+- `index.md`, `timeline.md`, `log.md` — special files
 - `_archives/*` — archived content
 ```
 

@@ -35,6 +35,9 @@ The published wiki has six top-level sections:
 ### [[index|Index]]
 Master catalogue of every page in the wiki, grouped by category, with a one-line summary and tags for each entry. **Start here if you want a directory view.**
 
+### [[timeline|Timeline]]
+Chronological index of every datable wiki page, grouped by decade and year (1944 → 2026). Within each year, day-resolved events come first, then month-only, then year-only. **Start here if you want a proposed reading order through the corpus as a single narrative** — from the 1944 SHAEF foo-fighters file to the 2026 Western US event slides.
+
 ### [Concepts](concepts/) (46)
 Abstract ideas, recurring patterns, mental models — the analytic backbone of the graph. Examples: [[concepts/orbital-uap-sighting]], [[concepts/diplomatic-channel-uap-reporting]], [[concepts/figurative-ufo-rhetoric]], [[concepts/fbi-aaf-saucer-cooperation-1947]], [[concepts/project-sign]], [[concepts/eti-attribution-statements]], [[concepts/cia-iac-uap-engagement]], [[concepts/green-fireballs-new-mexico]].
 

@@ -140,6 +140,39 @@ Chronological append-only record tracking every operation. Each entry is parseab
 - [2024-03-17T10:05:00Z] REBUILD archived_to="_archives/..." previous_pages=87
 ```
 
+### `timeline.md`
+
+Chronological index of wiki pages by the **event date their content covers** — a proposed reading order for the corpus. Sibling to `index.md` (alphabetical-by-category) and `log.md` (ingest-activity log). Where `index.md` answers *"what pages exist?"*, `timeline.md` answers *"in what order should I read them?"*.
+
+```markdown
+## 1940s
+
+### 1947
+
+- **8 Jul 1947** — [[references/sighting-roswell-1947-07-08]] — hexagonal disc + 20-ft balloon recovered…
+- **Jul 1947** — [[references/sighting-newfoundland-cluster-1947-07]] — 6 distinct Newfoundland sightings…
+- **1947** — [[concepts/fbi-aaf-saucer-cooperation-1947]] — institutional Jul-Sep 1947 arrangement…
+```
+
+Maintenance rules (the **timeline maintenance convention**, applied by every write skill):
+
+1. **Date precedence.** Determine the page's event date in this order:
+   1. **Filename date suffix** — `*-YYYY-MM-DD.md` > `*-YYYY-MM.md` > `*-YYYY.md`. Authoritative.
+   2. **`event_date`** in frontmatter (optional, ISO date) if no filename date is present.
+   3. **Year tag** in `tags:` (e.g. `1947`) — year-level only.
+2. **If none of the above resolve a date, do not add an entry.** Not every page belongs in the timeline.
+3. **One entry per page.** When updating a page that's already in the timeline, update the existing line in place — never duplicate.
+4. **Ordering within a year:** day-resolved entries (chronological) → month-only entries (chronological) → year-only entries (alphabetical by slug).
+5. **Entry format:**
+
+   ```text
+   - **<date label>** — [[category/slug]] — <summary (≤200 chars, no trailing period)>
+   ```
+
+   Date labels: `**8 Jul 1947**` (day), `**Jul 1947**` (month), `**1947**` (year).
+6. **Exclusions by design.** Most `concepts/`, most `entities/` (people/orgs without a single event date), and `synthesis/` pages stay out of the timeline. They live in `index.md` only.
+7. **Bulk regenerate** when many pages move at once (e.g. after `wiki-rebuild` or a large `wiki-lint` pass). The filename-date convention makes a full rescan cheap.
+
 ### `.manifest.json`
 Tracks every source file that has been ingested — path, timestamps, what wiki pages it produced. This is the backbone of the delta system. See the `wiki-status` skill for the full schema.
 

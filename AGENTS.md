@@ -19,6 +19,7 @@ The resolved config sets `OBSIDIAN_VAULT_PATH` (where the wiki lives). It may al
 ```
 $OBSIDIAN_VAULT_PATH/
 ├── index.md                # Master index — every page listed, always kept current
+├── timeline.md             # Chronological index — pages by event date (proposed reading order)
 ├── log.md                  # Chronological activity log (ingests, updates, lints)
 ├── hot.md                  # Session hot cache — ~500-word semantic snapshot of recent activity
 ├── .manifest.json          # Tracks every ingested source: path, timestamps, pages produced
@@ -118,11 +119,40 @@ See `wiki-query` and `wiki-export` skills for how the filter is applied.
 ## Core Principles
 
 - **Compile, don't retrieve.** The wiki is pre-compiled knowledge. Update existing pages — don't append or duplicate.
-- **Track everything.** Update `.manifest.json` after ingesting, `index.md`, `log.md`, and `hot.md` after any write operation.
+- **Track everything.** Update `.manifest.json` after ingesting, `index.md`, `timeline.md`, `log.md`, and `hot.md` after any write operation.
 - **Connect with `[[wikilinks]]`.** Every page should link to related pages. This is what makes it a knowledge graph, not a folder of files.
 - **Frontmatter is required.** Every wiki page needs: `title`, `category`, `tags`, `sources`, `created`, `updated`.
 - **Single source of truth.** Visibility tags shape how content is surfaced — they don't duplicate or separate it.
 - **Keep context warm.** `hot.md` is a ~500-word semantic snapshot of recent activity. Every write skill updates it so the next session can pick up where the last one left off without crawling the full vault.
+
+## Timeline Maintenance
+
+`timeline.md` is the **chronological index** of the wiki — every page that covers a datable event is listed there in date order, giving the reader a proposed top-down reading path through the corpus. It is **owner-style sibling to `index.md`**, not a replacement: `index.md` is alphabetical-by-category, `timeline.md` is chronological-by-event-date.
+
+**Every write skill that creates or updates a page must also maintain `timeline.md`** under the rules below. Skip the update only if the page has no resolvable event date.
+
+**Date precedence** (first hit wins):
+
+1. **Filename date suffix** — `*-YYYY-MM-DD.md` > `*-YYYY-MM.md` > `*-YYYY.md`. Authoritative.
+2. **`event_date`** in frontmatter (optional, ISO date) — falls back here.
+3. **Year tag** in `tags:` (e.g. `1947`) — year-level only.
+4. **None of the above** → do not list the page in `timeline.md`. It lives in `index.md` only.
+
+**Entry format:**
+
+```text
+- **<date label>** — [[category/slug]] — <summary (≤200 chars, no trailing period)>
+```
+
+Date labels: `**8 Jul 1947**` (day-resolved), `**Jul 1947**` (month-only), `**1947**` (year-only). Within a year, sort day-resolved chronologically first, then month-only chronologically, then year-only alphabetically by slug.
+
+**Update-in-place rule:** when updating an existing page that's already in `timeline.md`, locate the existing line by its `[[category/slug]]` wikilink and **rewrite it in place** — never duplicate.
+
+**Bulk regeneration:** when many pages move at once (after `wiki-rebuild`, a large `wiki-lint` pass, or a large rename), regenerate the whole file from a filesystem rescan rather than patching individual entries. The dated-filename convention makes a full rescan cheap.
+
+**Exclusions by design:** most `concepts/`, most `entities/` (people/agencies without a single event date), `synthesis/`, `_meta/`, `_raw/`, `_archives/`, and project overview pages stay out of the timeline.
+
+See `.skills/llm-wiki/SKILL.md` → "Special Files" → `timeline.md` for the canonical version of this convention.
 
 ## Architecture Reference
 

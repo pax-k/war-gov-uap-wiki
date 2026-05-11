@@ -230,6 +230,8 @@ If the manifest doesn't exist yet, create it with `version: 1`.
 
 **`index.md`** — Add entries for any new pages, update summaries for modified pages.
 
+**`timeline.md`** — For each created/updated page whose content has a **datable event** (most `references/`, dated `concepts/`, dated `entities/`), add or update its line in the chronological index. Follow the **Timeline Maintenance** convention in `AGENTS.md` (date precedence: filename date suffix → `event_date` frontmatter → year tag → skip). Entry format: `- **<date label>** — [[category/slug]] — <summary ≤200 chars>`. Update existing entries in place — never duplicate.
+
 **`log.md`** — Append an entry:
 ```
 - [TIMESTAMP] INGEST source="path/to/source" pages_updated=N pages_created=M mode=append|full
@@ -262,6 +264,7 @@ After ingesting, verify:
 - [ ] Every new page has at least 2 wikilinks to existing pages
 - [ ] No orphaned pages (pages with zero incoming links)
 - [ ] `index.md` reflects all changes
+- [ ] `timeline.md` has an entry for each created/updated page with a datable event (see AGENTS.md → Timeline Maintenance)
 - [ ] `log.md` has the ingest entry
 - [ ] Source attribution is present for every new claim
 - [ ] Inferred and ambiguous claims are marked with `^[inferred]` / `^[ambiguous]`; `provenance:` frontmatter block is present on new and updated pages

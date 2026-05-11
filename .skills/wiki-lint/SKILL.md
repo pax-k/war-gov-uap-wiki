@@ -102,6 +102,24 @@ Verify `index.md` matches the actual page inventory.
 - Compare pages listed in `index.md` to actual files on disk
 - Check that summaries in `index.md` still match page content
 
+### 6b. Timeline Consistency
+
+Verify `timeline.md` matches the actual datable-page inventory.
+
+**How to check:**
+- Walk all pages in `references/`, `concepts/`, `entities/`, `synthesis/`, and `journal/`. For each page, resolve its event date using the precedence in `AGENTS.md` → "Timeline Maintenance" (filename suffix > `event_date` frontmatter > year tag).
+- For each datable page, confirm it has exactly one entry in `timeline.md` keyed by `[[category/slug]]`.
+- Confirm the entry's date label and summary still match the page's filename/frontmatter (re-derive both and compare).
+- Flag any page that has a date but no timeline entry as "missing from timeline".
+- Flag any timeline entry whose target page no longer exists as "stale timeline entry".
+- Flag any duplicate `[[category/slug]]` in `timeline.md` as "duplicated timeline entry".
+
+**How to fix:**
+- Missing: append the entry under the right year, preserving the within-year sort (day-resolved → month-only → year-only).
+- Stale: delete the line.
+- Duplicates: keep the most recent / most accurate; delete the rest.
+- If drift is widespread (>10% of datable pages), regenerate the whole file from a filesystem rescan rather than line-patching.
+
 ### 7. Provenance Drift
 
 Check whether pages are being honest about how much of their content is inferred vs extracted. See the Provenance Markers section in `llm-wiki` for the convention.

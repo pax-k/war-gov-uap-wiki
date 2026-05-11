@@ -175,6 +175,10 @@ Add or update this project's entry:
 
 Add entries for any new pages created.
 
+### Update `timeline.md`
+
+If any created or updated page covers a **datable event** (a release, a milestone, a decision dated to a commit/PR, a meeting, an incident), add or update its line per the **Timeline Maintenance** convention in `AGENTS.md`. Date precedence: filename date suffix > frontmatter `event_date` > year tag. Skip if none resolves — most cross-project sync output (project overviews, concept pages) is not datable and stays out of the timeline.
+
 ### Update `log.md`
 
 Append:

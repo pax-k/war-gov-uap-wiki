@@ -6,6 +6,8 @@ title: Wiki Index
 
 *This index is automatically maintained. Last updated: 2026-05-11T11:24:17Z*
 
+> **See also:** [[timeline]] — chronological index of every datable wiki page, ordered by event date (proposed reading order for the corpus, 1944 → 2026).
+
 ## Concepts
 
 - [[concepts/sputnik-saucer-reactivation-1957]] — Oct-Nov 1957 saucer-report surge — Vernal UT, Nebraska, Albany→Miami, Coast Guard, and Levelland — recapped in the FBI's 12 Nov 1957 Roach→Belmont memo as derivative of Sputnik public excitement ( #uap #history #1957 #fbi #pattern)

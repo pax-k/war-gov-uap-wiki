@@ -188,6 +188,8 @@ Check `index.md` for existing pages on the same topics — merge into existing p
 
 **`index.md`** — Add all new pages under their respective sections.
 
+**`timeline.md`** — For any new pages with a datable event (a sighting, memo, mission, cable, hearing, paper publication date, etc.), add or update entries per the **Timeline Maintenance** convention in `AGENTS.md`. Date precedence: filename date suffix > frontmatter `event_date` > year tag. Skip if none resolves.
+
 **`log.md`** — Append:
 ```
 - [TIMESTAMP] WIKI_RESEARCH topic="<topic>" rounds=N sources_fetched=N pages_created=M
@@ -203,4 +205,4 @@ Check `index.md` for existing pages on the same topics — merge into existing p
 - [ ] Concept and entity pages written for significant items
 - [ ] Contradictions flagged in synthesis page
 - [ ] All pages cross-linked
-- [ ] `index.md`, `log.md`, `hot.md`, `.manifest.json` updated
+- [ ] `index.md`, `timeline.md`, `log.md`, `hot.md`, `.manifest.json` updated

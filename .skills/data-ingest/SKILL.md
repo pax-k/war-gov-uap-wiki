@@ -149,6 +149,8 @@ Follow the `wiki-ingest` skill's process for creating/updating pages:
 - [TIMESTAMP] DATA_INGEST source="path/to/data" format=FORMAT pages_updated=X pages_created=Y
 ```
 
+**`timeline.md`** — for any created/updated page with a datable event (a meeting transcript dated to a day, a journal entry, a dated log line that became its own page), add or update its entry per the **Timeline Maintenance** convention in `AGENTS.md`. Date precedence: filename date suffix > frontmatter `event_date` > year tag. Skip if none resolves.
+
 **`hot.md`** — Read `$OBSIDIAN_VAULT_PATH/hot.md` (create from the template in `wiki-ingest` if missing). Update **Recent Activity** with the most meaningful thing extracted from this data source — last 3 operations max. Update `updated` timestamp.
 
 ## Tips

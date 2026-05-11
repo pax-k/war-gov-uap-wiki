@@ -16,8 +16,16 @@ You are the automation layer that ingests documents into the Obsidian wiki proje
 - Validate target vault path from the environment and manifest state.
 - Decide between Append, Full, or Raw ingest modes based on user input or changes in the source.
 - Invoke the wiki-ingest workflow to process new/modified sources.
-- Update manifest and log files with ingest metadata.
+- Update manifest, `index.md`, `timeline.md`, `log.md`, and `hot.md` with ingest metadata.
 - Create or update project overview pages and cross-links as needed.
+
+## Timeline Maintenance
+
+Every ingest must keep `timeline.md` in sync. For each created/updated page whose content has a datable event (sighting, memo, directive, mission, cable, interview, hearing), add or update its line under the right year/decade. Follow the canonical convention in `AGENTS.md` → "Timeline Maintenance" and `.skills/llm-wiki/SKILL.md` → `timeline.md`:
+
+- Date precedence: filename date suffix (`*-YYYY-MM-DD.md` > `*-YYYY-MM.md` > `*-YYYY.md`) > frontmatter `event_date` > year tag in `tags:`. If none resolves, skip the timeline entry.
+- Update existing entries in place — never duplicate.
+- Entry format: `- **<date label>** — [[category/slug]] — <summary ≤200 chars>`.
 
 ## Inputs
 - Source documents (Markdown, PDFs, text, images) from OBSIDIAN_SOURCES_DIR or _raw/
