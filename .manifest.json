@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-11T13:00:00Z",
+  "updated": "2026-05-11T20:30:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -1493,7 +1493,9 @@
       "signal_class": "kinematic-anomaly-with-morphology + thermal-sensor-channel + first-FIN-SWE-FVEY-NATO-release + filename-date-verifiable + djibouti-label-mismatch",
       "internal_coordinate_format": "MGRS",
       "internal_coordinate": "35SQT3423692957",
-      "mgrs_zones": ["35S"],
+      "mgrs_zones": [
+        "35S"
+      ],
       "decoded_region": "Eastern Mediterranean (35S QT — SE Crete / SW Cyprus / N Egypt margin)",
       "filename_theater_match": false,
       "filename_theater_label": "Djibouti",
@@ -1512,7 +1514,9 @@
       "sensor_channel_implicit": "FLIR-thermal-imaging",
       "originating_unit": null,
       "originating_service": null,
-      "thread_closures": ["entities/dow-uap-foia-release.md#morphology-reporting-is-form-driven"],
+      "thread_closures": [
+        "entities/dow-uap-foia-release.md#morphology-reporting-is-form-driven"
+      ],
       "pages_created": [
         "references/dow-uap-d8-mission-djibouti-2025.md"
       ],
@@ -1520,6 +1524,68 @@
         "entities/dow-uap-foia-release.md",
         "concepts/uap-aircraft-engagement.md",
         "index.md",
+        "log.md",
+        "hot.md"
+      ]
+    },
+    "sources/dow-uap-d50-email-correspondence-indopacom-april-2025.json": {
+      "ingested_at": "2026-05-11T20:30:00Z",
+      "size_bytes": 2034,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:3be6a437655610ec2e55a0ee6d671dfa81ba428c5b12cc081ea6853cf83671eb",
+      "source_id": "dow-uap-d50-email-indopacom-2025-04",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap",
+      "series_position": "8-of-40",
+      "artifact_class": "email-correspondence",
+      "signal_class": "disclosure-workflow-email + class-confirmed-at-N=2 + OUSD-I-S-office-anchored + third-USAF-unit + indopacom-AOR + filename-internally-verifiable + multi-event-tearline + no-interference-clause + PAROL-PAROC-ambiguity",
+      "filename_theater_label": "indopacom",
+      "filename_theater_match": true,
+      "filename_date_verifiable": true,
+      "internal_aor": "INDOPACOM",
+      "event_dates": [
+        "2025-04-10",
+        "2025-04-11"
+      ],
+      "event_times_z": [
+        "2353Z",
+        "0007Z"
+      ],
+      "event_durations_sec": [
+        12,
+        23
+      ],
+      "object_count": 1,
+      "uap_altitude": "UNK",
+      "uap_speed": "UNK",
+      "interference_clause": "NO INTERFERENCE WAS NOTED",
+      "morphology": null,
+      "originating_unit": "12 AF / DET 3",
+      "originating_service": "USAF",
+      "originating_role": "PAROL Intel Data Analysis Technician (Team Lead)",
+      "counterparty_role": "Information Disclosure Analyst",
+      "counterparty_office": "OUSD(I&S) — Office of the Undersecretary of Defense for Intelligence and Security",
+      "third_party_role": "the unit that flies 4(a) — originating-asset owning unit",
+      "tearline_count": 2,
+      "thread_actor_count": 3,
+      "classification_full": "SECRET//NOFORN",
+      "classification_tearline": "//UNCLASSIFIED//",
+      "thread_closures": [
+        "entities/dow-uap-foia-release.md#confirm-email-correspondence-class-at-N-geq-2",
+        "entities/dow-uap-foia-release.md#map-disclosure-workflow-information-disclosure-analyst-office",
+        "references/dow-uap-d52-email-na-2024.md#map-disclosure-workflow"
+      ],
+      "pages_created": [
+        "references/dow-uap-d50-email-indopacom-2025-04.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "references/dow-uap-d52-email-na-2024.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "timeline.md",
         "log.md",
         "hot.md"
       ]
@@ -1533,10 +1599,10 @@
     }
   },
   "stats": {
-    "total_sources_ingested": 53,
-    "total_pages": 323,
+    "total_sources_ingested": 54,
+    "total_pages": 324,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T19:30:00Z"
+    "last_ingest_at": "2026-05-11T20:30:00Z"
   }
 }

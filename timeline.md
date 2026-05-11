@@ -280,6 +280,7 @@ updated: 2026-05-11T12:37:04Z
 
 ### 2025
 
+- **10–11 Apr 2025** — [[references/dow-uap-d50-email-indopacom-2025-04]] — 2-page Mistral-OCR'd intra-DoD email thread negotiating UNCLASS tear-line classification + AOR INDOPACOM for two consecutive USAF UAP sightings (10 APR 25 2353Z + 11 APR 25 0007Z, 12 sec + 23 sec, NO INTERFERENCE WAS NOTED); PAROL Intel Data Analysis Technician at 12 AF / DET 3 ↔ OUSD(I&S) Information Disclosure Analyst.
 - **2025** — [[references/sighting-helicopter-orb-encounter-2025]] — Multi-hour 2025 helicopter-borne orb encounter at a redacted US facility, witnessed by a senior US intelligence official, state-org pilots, and an LP/OP team using FLIR and NVG.
 - **2025** — [[references/usper-statement-2025]] — Redacted SECRET//NOFORN witness statement by a senior US intelligence official describing a 2025 helicopter-borne search and multi-hour orb encounter at a redacted facility.
 

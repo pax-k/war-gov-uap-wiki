@@ -4,7 +4,7 @@ category: references
 tags: [uap, primary-source, declassified, usaf, sighting]
 aliases: [DoW-UAP-D52, dow-uap-d52, dow-uap-d52-email]
 sources: [sources/dow-uap-d52-email-correspondance-na-august-2024.json]
-summary: 2-page Mistral-OCR'd intra-DoD email thread negotiating the UNCLASS tear line for a 31 Oct 2024 USAF UAP sighting; PAROC Intel Data Analysis Technician (15 AF / DET 1) requesting year-of-event approval from an Information Disclosure Analyst.
+summary: 2-page Mistral-OCR'd intra-DoD email thread negotiating the UNCLASS tear line for a 31 Oct 2024 USAF UAP sighting; PAROC Intel Data Analysis Technician (15 AF / DET 1) requesting year-of-event approval from an OUSD(I&S) Information Disclosure Analyst (office anchored retroactively from d50).
 provenance:
   extracted: 0.45
   inferred: 0.52
@@ -13,7 +13,7 @@ base_confidence: 0.62
 lifecycle: draft
 lifecycle_changed: 2026-05-11
 created: 2026-05-11T06:00:00Z
-updated: 2026-05-11T06:00:00Z
+updated: 2026-05-11T20:30:00Z
 ---
 
 # DoW-UAP-D52 — Tear-Line Clearance Email Thread (15 AF / DET 1, 31 Oct 2024 sighting)
@@ -166,17 +166,18 @@ Bottom line: text content is high-confidence; **image content is unrecoverable f
 
 ## Open questions
 
-- **Resolve PAROC** initialism with at least one more series artifact that uses the term or expands it.
+- **Resolve PAROC** initialism — d50 introduces **PAROL** (Intel Data Analysis Technician, Team Lead, 12 AF / DET 3) with the same role-title body but a different four-letter prefix. Two readings live ^[ambiguous]: (a) OCR C↔L confusion (single program); (b) two distinct programs at different numbered air forces. See [[references/dow-uap-d50-email-indopacom-2025-04#PAROC vs PAROL — initialism ambiguity extended, not resolved|D50 § PAROC vs PAROL]]. Awaits N=3 in the email-correspondence class for resolution.
 - **Resolve the event-platform**: "U.S Aircraft" could be USAF (consistent with 15 AF / DET 1 routing), Navy, or joint-task-force. Internal text does not specify.
 - **Resolve "DET 1" attachment**: which higher headquarters owns the detachment? — 15 AF / DET 1 implies a unit attached to 15th Air Force, but DET 1 designations are reused across the USAF. ^[ambiguous]
 - **Reconcile filename `august-2024` with internal `31 OCT 24`** — confirm via release-batch metadata (if any further DoW-UAP ingest exposes the release-batch date convention).
 - **Resolve `NA` token**: with a USAF / 15 AF unit, *North America* is the natural read, but the internal text places no geographic anchor on the sighting. If a future ingest places this same event with a specific geography, update.
-- **Map the disclosure workflow**: does *Information Disclosure Analyst* sit inside DOPSR ([[references/dow-uap-pr20-prepublication-clearance-2026-03|the office named on PR20]]), inside the USAF FOIA office, inside [[entities/aaro|AARO]] disclosure-channels, or in a separate component? ^[ambiguous]
+- ~~**Map the disclosure workflow**: does *Information Disclosure Analyst* sit inside DOPSR ([[references/dow-uap-pr20-prepublication-clearance-2026-03|the office named on PR20]]), inside the USAF FOIA office, inside [[entities/aaro|AARO]] disclosure-channels, or in a separate component? ^[ambiguous]~~ ^closed-by-dow-uap-d50 — **CLOSED**: d50 explicitly names the **Office of the Undersecretary of Defense for Intelligence and Security (OUSD(I&S))** as the office hosting the Information Disclosure Analyst role. The series disclosure pipeline now anchors at two distinct DoD components: **OUSD(I&S)** (per-tearline pre-terminal data-point clearance) ↔ **DOPSR** (whole-document terminal clearance). [[entities/aaro|AARO]] sits inside OUSD(I&S) per its charter ^[inferred], so the disclosure pathway is upstream of AARO's parent office. See [[references/dow-uap-d50-email-indopacom-2025-04#OUSD(I&S) — the disclosure-review office anchored|D50 § OUSD(I&S)]].
 - **Is the underlying full document the `d52` mission-report or witness-debrief** to which this email's tear line attaches? — i.e., is there a paired `d52` content-document elsewhere in the 40-file release that this email clearance-threads? Pattern-matching to PR20's role suggests yes. ^[inferred]
 
 ## See also
 
 - [[entities/dow-uap-foia-release]] — Series-level anchor; this artifact establishes the second artifact class (email-correspondence / disclosure-workflow) and supplies the first internal-document USAF-originating evidence
+- [[references/dow-uap-d50-email-indopacom-2025-04]] — Second email-correspondence artifact; **confirms the class at N=2**, anchors the disclosure-review office at **OUSD(I&S)** (resolving d52's office-attribution open question), and introduces the **PAROL ↔ PAROC** initialism ambiguity
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — DOPSR terminal-clearance cover stamp; structural sibling at the *whole-document* level to this artifact's *single-data-point* level
 - [[references/dow-uap-d4-mission-arabian-gulf-2020]] — Mission-report sibling; contrast: that artifact is the *content*, this one is the *clearance-process metadata about content*
 - [[references/dow-uap-d5-mission-arabian-gulf-2020]] — Mission-report sibling
