@@ -6,7 +6,7 @@ aliases: [Chronology, Reading Order, Timeline Index]
 sources: []
 summary: Chronological index of wiki pages by the event date they cover — proposed reading order for the corpus, 1944 → 2026. Sibling to index.md (alphabetical) and log.md (ingest activity).
 created: 2026-05-11T15:30:00Z
-updated: 2026-05-11T12:37:04Z
+updated: 2026-05-11T20:45:00Z
 ---
 
 # Timeline
@@ -258,6 +258,12 @@ updated: 2026-05-11T12:37:04Z
 ### 2004
 
 - **Nov 2004** — [[references/dos-cable-turkmenistan-2004-11]] — 5-page declassified UNCLAS/SBU US State Department cable (12 Nov 2004, AMEMBASSY Ashgabat → SECSTATE) on the Union of UFOlogists of Turkmenabat — a civil-society NGO with UFO-themed origins, not a…
+
+## 2010s
+
+### 2016
+
+- **18 Nov 2016** — [[references/dow-uap-d55-mission-syria-2016-11-18]] — 1-page USCENTCOM-declassified CTG-67.1 narrative report — 1310Z-to-1312Z P-8A Poseidon observation of an unidentified low-flying object 55 NM NW of Latakia, Syria, sea-skimming at ~500 KT southeasterly outbound from the Russian Kuznetsov Carrier Task Group (KCTG); CTG self-identifies as KCTG missile activity. Earliest dated dow-uap artifact.
 
 ## 2020s
 

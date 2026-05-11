@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-11T20:30:00Z",
+  "updated": "2026-05-11T20:45:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -1589,20 +1589,111 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/dow-uap-d55-mission-report-syria-november-2016.json": {
+      "ingested_at": "2026-05-11T20:45:00Z",
+      "size_bytes": 2205,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:52634e19c86918e498887d2a9d69fe0bd44c693c9a6a2124d75da27c513e2508",
+      "source_id": "dow-uap-d55-mission-syria-2016-11-18",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap-foia-release",
+      "series_position": "9-of-40",
+      "ocr_engine": "mistral-ocr-latest",
+      "ocr_pages_processed": 1,
+      "original_doc_size_bytes": 207227,
+      "substantive_pages": 1,
+      "header_only_pages": 0,
+      "image_blocks_captured": 2,
+      "image_base64_captured": 0,
+      "document_class": "mission-record",
+      "document_subclass": "CTG-narrative",
+      "message_format": "CTG-narrative (BLUF / Timeline / Weather / Comments) — not USMTF GENTEXT/UAP",
+      "classification_banner": "SECRET/IREL TO USA, NATO",
+      "portion_marking": "G/REL (per-timeline-item)",
+      "declassification_authority": "MG Richard A. Harrison, USCENTCOM Chief of Staff",
+      "declassification_date_ocr": "20 May 2016",
+      "declassification_date_inferred": "20 May 2026",
+      "release_stamp_date": "2026-03-27",
+      "release_sequence_no": "000001",
+      "mdr_case_range": "USCENTCOM MDR 26-0038 to MDR 26-0046",
+      "receiving_authority": "AARO",
+      "originating_command": "CTG 67.1 (Commander Task Group 67.1; Sixth Fleet maritime patrol detachment)",
+      "originating_service": "Navy (TF 67) + USCENTCOM declassification + AARO routing",
+      "witness_platform": "P-8A Poseidon",
+      "event_date": "2016-11-18",
+      "event_time_initial": "1310Z",
+      "event_time_loss_of_visual": "1312Z",
+      "event_duration_minutes": 2,
+      "object_count": 1,
+      "object_position_initial": "55 NM NW of Latakia, Syria (~36°15'N 34°55'E)",
+      "object_position_final": "40 NM NW of Latakia",
+      "object_heading": "southeasterly, outbound from KCTG",
+      "object_velocity_kt": 500,
+      "object_altitude": "sea skim mode",
+      "object_morphology": null,
+      "witness_aircraft_position": "26 NM S of object detection at 16121 FT",
+      "sensor_channel": "EO/IR",
+      "third_party_assets_named": [
+        "(RUS) INGUL ARS (Russian auxiliary rescue salvage ship)",
+        "1x U/I vessel"
+      ],
+      "foreign_actor": "Russian Kuznetsov Carrier Task Group (KCTG); Admiral Kuznetsov Oct 2016 – Jan 2017 Eastern-Mediterranean deployment during the Syrian intervention",
+      "ctg_assessment": "standard activity consistent with the assessed activity of the KCTG (prosaic-candidate identification — Russian anti-ship cruise missile activity)",
+      "video_footage_link_redacted": true,
+      "filename_theater_label": "syria",
+      "filename_theater_internally_verified": true,
+      "filename_date_label": "november-2016",
+      "filename_date_internally_verified": true,
+      "engagement_classification": "no-engagement; prosaic-candidate-with-explicit-CTG-identification sub-class (5th brief-observation sub-class)",
+      "structural_firsts": [
+        "earliest dated dow-uap artifact (extends span 2020–2025 → 2016–2025)",
+        "first non-GENTEXT/UAP mission-record format (CTG narrative: BLUF/Timeline/Weather/Comments)",
+        "first explicit body-text calendar date in a dow-uap mission-record artifact",
+        "first explicit platform-type identification (P-8A — first Navy-platform anchor)",
+        "first explicit prosaic-candidate identification in report body (KCTG missile activity)",
+        "first explicit Russian / KCTG foreign-military-actor attribution",
+        "first explicit AARO routing attribution",
+        "first USCENTCOM declassification-authority attribution (MG Harrison)",
+        "first 'Syria' filename theater label internally verified (2nd internally-verifiable filename theater label after d54)",
+        "first 'sea skim mode' kinematic descriptor",
+        "first explicit EO/IR sensor attribution",
+        "first numbered Zulu-timeline structure (first multi-event single-sighting record)",
+        "first named third-party vessel ((RUS) INGUL ARS)",
+        "first reference to associated video footage",
+        "first MDR (Mandatory Declassification Review) case-number range",
+        "first 'IREL' portion-marking (5th portion-marking state)"
+      ],
+      "thread_closures": [
+        "entities/dow-uap-foia-release.md#confirm-AARO-receiving-authority (partial — contingent on stamp recurrence)"
+      ],
+      "pages_created": [
+        "references/dow-uap-d55-mission-syria-2016-11-18.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "timeline.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-11T19:30:00Z",
-      "sources_ingested": 46
+      "last_ingested": "2026-05-11T20:45:00Z",
+      "sources_ingested": 47
     }
   },
   "stats": {
-    "total_sources_ingested": 54,
-    "total_pages": 324,
+    "total_sources_ingested": 55,
+    "total_pages": 325,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T20:30:00Z"
+    "last_ingest_at": "2026-05-11T20:45:00Z"
   }
 }
