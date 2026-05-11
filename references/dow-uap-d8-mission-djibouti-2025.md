@@ -210,6 +210,7 @@ d8 **strengthens the kinematic-anomaly sub-class at N=3** (d4 + d5-B + d8) and i
 - [[references/dow-uap-d5-mission-arabian-gulf-2020]] — Second substantive `d*` mission report — two-sighting / MGRS / multi-zone / first multi-object (2X POSS UAPS)
 - [[references/dow-uap-d7-mission-arabian-gulf-2020]] — Third substantive `d*` mission report — bearing / prosaic-candidate / fire-control pipeline / form-driven template (first)
 - [[references/dow-uap-d54-mission-mediterranean-sea]] — Fourth substantive `d*` mission report — DMS lat-long / Aegean / triangular-and-metallic / first verifiable filename theater match
+- [[references/dow-uap-d60-mission-persian-gulf-2020-08-08]] — **First FULL USMTF Misrep parent document** in dow-uap corpus (8 Aug 2020 Arabian / Persian Gulf, 482ATKS / 432 AEW MQ-9 ^[inferred]); contrasts d8's WHITE HOT thermal-warm polarity (d60 has no thermal-polarity datum — FMV-only observation, kinematics-blank, morphology-blank)
 - [[references/dow-uap-d52-email-na-2024]] — First non-mission-report — USAF 15 AF / DET 1 originating unit; tear-line clearance email
 - [[concepts/uap-aircraft-engagement]] — Behavioral framing; d8 sits in kinematic-anomaly sub-class with first explicit morphology + implicit thermal-sensor channel
 - [[concepts/orb-phenomenon]] — Round-class morphology framing; d8 introduces the first round-class call into the dow-uap mission-report corpus

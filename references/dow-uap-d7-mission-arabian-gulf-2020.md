@@ -166,6 +166,7 @@ Both axes are **first-of-kind** in the `d*` mission-report family at N=3 mission
 - [[references/dow-uap-d4-mission-arabian-gulf-2020]] — First substantive `d*` mission-report (single-sighting, kinematic-anomaly, MGRS-34S)
 - [[references/dow-uap-d5-mission-arabian-gulf-2020]] — Second substantive `d*` mission-report (two-sighting, multi-zone, kinematic-anomaly + steady-state)
 - [[references/dow-uap-d52-email-na-2024]] — First USAF unit anchor in the series (`15 AF / DET 1`); `d7`'s 48FW reference is the second USAF anchor
+- [[references/dow-uap-d60-mission-persian-gulf-2020-08-08]] — **First FULL USMTF Misrep parent document** in dow-uap corpus; closest behavioral contrast to d7 on the aircraft-toward-UAP axis — d7 = WQT + NTS + TFLIR fire-control engagement-pipeline; d60 = FMV-observation + explicit `NO IMPACT TO MISSION` (passive non-engagement). 482ATKS / 432 AEW MQ-9 USAF Active ^[inferred] — same MQ-9 platform class as d44 + supplies the second USAF MQ-9 anchor adjacent to d7's 48FW reference.
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — Series prepublication-clearance cover stamp
 - [[concepts/uap-aircraft-engagement]] — Behavioral framing; `d7` introduces the **aircraft-side engagement-pipeline** complement to UAP-side engagement-class
 - [[entities/ryan-graves]] — Modern Navy-aviation context; ATFLIR / TFLIR sensor family

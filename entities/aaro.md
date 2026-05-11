@@ -40,6 +40,19 @@ AARO is the most recent in a lineage that includes the early-Cold-War USAF progr
 - [[concepts/flying-disc-reporting-protocol]] (1948) — the original 10-element witness report template that prefigures the structured intake AARO inherits. ^[inferred]
 - ([[concepts/project-grudge|Project GRUDGE]], Project BLUE BOOK — to be added.)
 
+## AARO as receiving authority — DoW-UAP FOIA release recurrence at N=6
+
+The [[entities/dow-uap-foia-release|DoW-UAP FOIA release series]] explicitly stamps each artifact `Approved for Release to AARO`, anchoring AARO as the routing-destination across the tranche. At N=14 ingests the recurrence stands at **6 attestations** ^[inferred]:
+
+- [[references/dow-uap-d55-mission-syria-2016-11-18|d55]] (Block A, first attestation)
+- [[references/dow-uap-d58-range-fouler-debrief-2020-10|d58]] (Block A, range-fouler)
+- [[references/dow-uap-d44-range-fouler-arabian-sea-october-2020|d44]] (Block A, range-fouler)
+- [[references/dow-uap-d38-range-fouler-middle-east-may-2020|d38]] (**Block B isolated**: `MDR 26-0019` + `01/26/26 001`)
+- [[references/dow-uap-d56-range-fouler-arabian-sea-august-2020|d56]] (Block A, first internal Navy user HSM-73 MH-60R ^[inferred])
+- [[references/dow-uap-d60-mission-persian-gulf-2020-08-08|d60]] (Block A, first FULL USMTF Misrep; closes `000001` open question with sequential `000001 → 000006` 6-page stamping)
+
+The **Block A / Block B split** at d38 is the first evidence in the corpus that AARO release stamping is **per-MDR-case-allocation**, not per-tranche-uniform. ^[inferred] Block A is dominant at 5-of-6 release-block-testable artifacts.
+
 ## Open questions
 
 - What is AARO's exact statutory basis and reporting chain? (Not addressed in any currently-ingested source.)

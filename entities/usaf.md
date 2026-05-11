@@ -40,6 +40,20 @@ USAF is the **dominant institutional actor** in the wiki's 1947-1965 UAP corpus.
 - The wiki's **press-relations gatekeeper layer** (Chop / OIS) is in tension with the **continuing project work** (SIGN → GRUDGE → BLUE BOOK at Wright-Patterson) — that public-private split is a recurring corpus-wide pattern. ^[inferred]
 - USAF's **TS-track parallel pipeline** through USAFE is the wiki's clearest demonstration that the AFOIR-CO field-installation track at HQ USAF was not the only USAF UAP-information channel — see [[entities/usafe]].
 
+## Modern USAF UAP-reporting anchors (2016–2025)
+
+The [[entities/dow-uap-foia-release|DoW-UAP FOIA release series]] anchors **6 USAF unit attributions** at N=14 ingests (5 Active + 1 ANG), spanning multiple AORs ^[inferred]:
+
+- **48FW** — cross-reference in [[references/dow-uap-d7-mission-arabian-gulf-2020|d7]] mission report
+- **15 AF / DET 1** — first USAF unit anchor; [[references/dow-uap-d52-email-na-2024|d52]] PAROC IDAT
+- **12 AF / DET 3** — [[references/dow-uap-d50-email-indopacom-2025-04|d50]] PAROL/PAROC IDAT (INDOPACOM)
+- **77 EFS** — [[references/dow-uap-d58-range-fouler-debrief-2020-10|d58]] manned-fighter user on Navy range-fouler form (CENTCOM)
+- **172 ATKS Michigan ANG MQ-9 Reaper** ^[inferred] — [[references/dow-uap-d44-range-fouler-arabian-sea-october-2020|d44]] (only ANG user)
+- **482ATKS / 432 AEW Active-component MQ-9 Reaper** ^[inferred] — [[references/dow-uap-d60-mission-persian-gulf-2020-08-08|d60]] AREC mission supporting NAVCENT; first FULL USMTF Misrep parent document in corpus
+- **609 CAOC** (USCENTCOM Combined Air Operations Center, Al Udeid AB) — [[references/dow-uap-d60-mission-persian-gulf-2020-08-08|d60]] approver
+
+PAROC/IDAT (Intel Data Analysis Technician) role triple-attested at three different units (d52 + d50 + d60). ^[inferred]
+
 ## Open threads
 
 - Catalog the **Office of Special Investigations (OSI)** at the field-installation level — the wiki has 2-3 OSI-adjacent references (Williams AFB, Kirtland AFB) but no consolidated entity page. ^[open]

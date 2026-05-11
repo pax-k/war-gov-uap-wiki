@@ -292,6 +292,7 @@ updated: 2026-05-11T23:50:00Z
 ### 2025
 
 - **10–11 Apr 2025** — [[references/dow-uap-d50-email-indopacom-2025-04]] — 2-page Mistral-OCR'd intra-DoD email thread negotiating UNCLASS tear-line classification + AOR INDOPACOM for two consecutive USAF UAP sightings (10 APR 25 2353Z + 11 APR 25 0007Z, 12 sec + 23 sec, NO INTERFERENCE WAS NOTED); PAROL Intel Data Analysis Technician at 12 AF / DET 3 ↔ OUSD(I&S) Information Disclosure Analyst.
+- **2025** — [[references/dow-uap-d8-mission-djibouti-2025]] — 7-page Mistral-OCR'd USMTF GENTEXT/UAP mission report; single 1653Z datum of 2X ROUND WHITE HOT UAPs dynamic-south at 240 KT IVO MGRS 35SQT3423692957 (Eastern Mediterranean — NOT Djibouti per filename); first FIN+SWE+FVEY+NATO release authorization (release-framework dates to ≥ Mar 2024); first round/orb-class morphology + first implicit thermal-sensor channel + first DYNAMIC motion descriptor + first positive-identification multi-object in dow-uap corpus
 - **2025** — [[references/sighting-helicopter-orb-encounter-2025]] — Multi-hour 2025 helicopter-borne orb encounter at a redacted US facility, witnessed by a senior US intelligence official, state-org pilots, and an LP/OP team using FLIR and NVG.
 - **2025** — [[references/usper-statement-2025]] — Redacted SECRET//NOFORN witness statement by a senior US intelligence official describing a 2025 helicopter-borne search and multi-hour orb encounter at a redacted facility.
 

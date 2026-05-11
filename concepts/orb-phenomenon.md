@@ -89,4 +89,8 @@ The difference is provenance: the 1948 case was **resolved as Venus**; the 2024 
 - [[concepts/uap-aircraft-engagement]]
 - [[synthesis/federal-le-uap-witness-pattern]]
 - [[references/dow-uap-d52-email-na-2024]] — Modern (31 Oct 2024) 2-hour oval/orb sustained-hover datum from USAF 15 AF / DET 1
-- [[entities/dow-uap-foia-release]] — Multi-service modern Navy/USAF UAP FOIA release series carrying the 2024 datum
+- [[references/dow-uap-d8-mission-djibouti-2025]] — Modern 2X round white-hot UAP at 240 KT (Eastern Med); first round/orb morphology call in dow-uap mission-report corpus
+- [[references/dow-uap-d44-range-fouler-arabian-sea-october-2020]] — Modern (15 Oct 2020) round IR-cold low-altitude over-water signature has structural parallels to orb-class events ^[inferred]
+- [[references/dow-uap-d38-range-fouler-middle-east-may-2020]] — Modern (14 May 2020) round IR-cold solid-white object on Black-Hot polarity; structural parallel to orb-class events ^[inferred]
+- [[references/dow-uap-d56-range-fouler-arabian-sea-august-2020]] — Modern (24 Aug 2020) 3X small round contacts in formation-flying over North Arabian Sea (HSM-73 MH-60R ^[inferred]); first formation-flying multi-orb signature in modern dow-uap corpus ^[inferred]
+- [[entities/dow-uap-foia-release]] — Multi-service modern Navy/USAF UAP FOIA release series carrying the orb-class data

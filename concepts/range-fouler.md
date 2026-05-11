@@ -32,7 +32,7 @@ A **Navy / naval-aviation operational concept** for unauthorized contacts — ai
 
 **At N=5 release-block-testable, Block A firms to 4-of-5 dominance.** d55 + d58 + d44 + **d56** all share `MDR 26-0038 to 26-0046` + `03/27/26 000001` (Block A); **d38 alone carries Block B** (`MDR 26-0019` + `01/26/26 001`). The d56 ingest **firms the per-MDR-case-allocation reading** (from d38) and **reveals the Block A/Block B split as asymmetric** — Block A is the dominant allocation in the dow-uap range-fouler+mission-record subset; d38 is the lone Block B outlier. ^[inferred]
 
-**HSM-73 is the headline finding at N=4**: previous range-fouler attestations were filled by USAF Active (d58) + USAF ANG (d44) + unattributed (d38) users on a Navy-aviation form. d56's HSM-73 (Helicopter Maritime Strike Squadron 73 "Battlecats", Navy MH-60R Romeo Seahawk community) ^[inferred] anchors the **first internal Navy user** within the range-fouler debrief class, closing the Navy-form-vs-Navy-user attribution gap and validating the Navy-aviation-origination reading at the user level (not only at the template level). Multi-service originating-anchor count for the dow-uap corpus rises to **7 at N=13 ingests**: 5 USAF (4 Active + 1 ANG) + **2 Navy** (P-8A/TF 67.1 fixed-wing from d55 + MH-60R/HSM-73 rotary-wing from d56) + Navy-aviation form-template attribution.
+**HSM-73 is the headline finding at N=4**: previous range-fouler attestations were filled by USAF Active (d58) + USAF ANG (d44) + unattributed (d38) users on a Navy-aviation form. d56's HSM-73 (Helicopter Maritime Strike Squadron 73 "Battlecats", Navy MH-60R Romeo Seahawk community) ^[inferred] anchors the **first internal Navy user** within the range-fouler debrief class, closing the Navy-form-vs-Navy-user attribution gap and validating the Navy-aviation-origination reading at the user level (not only at the template level). Multi-service originating-anchor count for the dow-uap corpus rises to **8 at N=14 ingests** (post-d60 update): 6 USAF (5 Active — 15 AF / 12 AF / 48FW / 77 EFS / 482ATKS — + 1 ANG — 172 ATKS) + **2 Navy** (P-8A/TF 67.1 fixed-wing from d55 + MH-60R/HSM-73 rotary-wing from d56) + Navy-aviation form-template attribution.
 
 ## Working definition
 
@@ -107,11 +107,12 @@ The class can be unified at the schema level regardless — the form bodies (ins
 
 ## Range-fouler vs other UAP-encounter framings
 
-The dow-uap series carries **three top-level mission-record document classes** at N=13 ingests:
+The dow-uap series carries **four top-level mission-record document classes** at N=14 ingests (post-d60 update):
 
 | Class | Anchor | Distinguishing feature |
 |---|---|---|
-| Mission report — USMTF GENTEXT/UAP | d4 + d5 + d7 + d54 + d8 | Narrative segment in standard military-text format; emphasizes UAP kinematic + morphology description |
+| Mission report — FULL USMTF Misrep | d60 | Multi-page, all-substantive Misrep parent document; complete USMTF segment set (Narrative + Admin + MSGID + POC + QC + APPROVER + INGEST + ACEQUIP + Timeline + GENTEXT + WEATHER + EFFECTIVENESS); UAP datum lives in `GENTEXT/OBSERVATION` segment ^[inferred] |
+| Mission report — USMTF GENTEXT/UAP extract | d4 + d5 + d7 + d54 + d8 | Single-segment GENTEXT/UAP extracts (4-6 header-only `# 1.4(a)` pages + 1 substantive page); plausibly extracts from parent full-Misrep documents like d60 with curator renaming `GENTEXT/OBSERVATION` → `GENTEXT/UAP` ^[inferred]; emphasizes UAP kinematic + morphology description |
 | Mission report — CTG narrative | d55 | BLUF / Timeline / Weather / Comments; carries explicit prosaic-candidate identification by the originating CTG |
 | **Range-fouler debrief** | **d38 + d56 + d44 + d58 (N=4 confirmed)** | **Fielded form** with pre-printed schema; emphasizes intercept-or-observation posture + sensor-channel acquisition + range-management context |
 
@@ -295,7 +296,7 @@ The form's pre-printed sensor schema is **Navy-fighter-centric** (AIM-9X + ATFLI
 
 **The Navy-form-vs-Navy-user attribution gap closes at N=1 with d56.** Previous N=3 had 2 USAF + 1 unattributed users; d56 anchors the first US Navy user within the range-fouler class. The form is now **Navy-aviation-originated AND Navy-aviation-user-attested at the rotary-wing maritime-strike configuration**, while remaining **extended for joint-service use** at 2-of-4 explicit attestations (USAF Active + USAF ANG). ^[inferred] The form's flexibility — blank values honest for non-applicable Navy-fighter schema slots when the user platform is non-Navy-fighter — is now anchored at N=3 (d44 + d38 + d56 all use blank pre-printed Navy-fighter slots).
 
-**Multi-service originating-anchor count for the dow-uap corpus rises to 7 at N=13 ingests**: 5 USAF unit anchors (4 Active + 1 ANG) + **2 Navy platform anchors** (P-8A / TF 67.1 fixed-wing from d55 + MH-60R / HSM-73 rotary-wing from d56) + Navy-aviation form-template attribution.
+**Multi-service originating-anchor count for the dow-uap corpus is 8 at N=14 ingests** (post-d60 update; rose 7→8 with d60's `482ATKS / 432 AEW` USAF Active-component MQ-9 mission-report anchor): 6 USAF unit anchors (5 Active — 15 AF / 12 AF / 48FW / 77 EFS / 482ATKS — + 1 ANG — 172 ATKS) + **2 Navy platform anchors** (P-8A / TF 67.1 fixed-wing from d55 + MH-60R / HSM-73 rotary-wing from d56) + Navy-aviation form-template attribution.
 
 ## Open questions
 

@@ -41,7 +41,7 @@ Final           TODO  ⬜ /wiki-synthesize + /wiki-dashboard + /wiki-export + /w
 
 - `entities/apollo-13`, `apollo-mesa`, `apollo-11-pao`, `gemini-8`, `gemini-10`, `gemini-12`, `jfk`, `uss-ticonderoga`, `alfmed-experiment`, `donald-l-springer`
 - `references/sighting-trans-en-provence-1981`, `references/sighting-air-france-3532-1994`
-- 4 small-fanout institutional placeholders: `oni`, `afswp`, `army-g-2`, `albert-chop` (1 ref each)
+- 1 small-fanout institutional placeholder remaining: `albert-chop` (1 ref). Note: `oni`, `afswp`, `army-g-2` were previously listed here but were stubbed in prior hygiene passes (per wiki-lint batch-6 audit) — list is partially stale and pruned to active placeholders only.
 
 ## Next-up sources (58-85)
 

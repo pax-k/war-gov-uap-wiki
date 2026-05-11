@@ -186,6 +186,7 @@ The triangular-and-metallic morphology is **not prosaic-candidate** in the d7 se
 - [[references/dow-uap-d4-mission-arabian-gulf-2020]] — First substantive `d*` mission report — MGRS / kinematic-anomaly
 - [[references/dow-uap-d5-mission-arabian-gulf-2020]] — Second substantive `d*` mission report — two-sighting / MGRS / multi-zone
 - [[references/dow-uap-d7-mission-arabian-gulf-2020]] — Third substantive `d*` mission report — bearing / prosaic-candidate / fire-control pipeline / form-driven template (first)
+- [[references/dow-uap-d60-mission-persian-gulf-2020-08-08]] — **First FULL USMTF Misrep parent document** in dow-uap corpus; the **inverse pattern of d54** — d54 carries rich UAP-side data (morphology) in a thin single-segment extract; d60 carries thin UAP-side data (kinematics-blank + morphology-blank + `TRANSITTING`) in a rich full-Misrep parent document. ^[inferred]
 - [[references/dow-uap-d52-email-na-2024]] — First non-mission-report — USAF 15 AF / DET 1 originating unit; tear-line clearance email
 - [[concepts/uap-aircraft-engagement]] — Behavioral framing; d54 sits in brief-observation morphology-rich-kinematics-thin sub-class
 - [[entities/aaro]] — Modern US DoD UAP receiving office

@@ -1,7 +1,7 @@
 ---
 title: The Nature of the UAP Phenomenon — A 7-Lens Integrated Synthesis (May 2026)
 category: synthesis
-tags: [uap, analysis, hypothesis, witness, history]
+tags: [uap, analysis, witness, history]
 aliases: [UAP nature synthesis, what is the UAP phenomenon, integrated UAP synthesis]
 sources: []
 summary: 7-agent integrated synthesis of the wiki's evidence on the nature of the UAP/UFO phenomenon — observables, witness stratification, behavior patterns, historical arc, hypothesis space, disclosure epistemics, and adversarial prosaic null. Maps what survives evidentiary climbing, the 80-year invariant core, the hardest residual the null cannot dispatch, and the modern-whistleblower gap.
@@ -13,7 +13,7 @@ base_confidence: 0.85
 lifecycle: draft
 lifecycle_changed: 2026-05-11
 created: 2026-05-11T19:00:00Z
-updated: 2026-05-11T19:00:00Z
+updated: 2026-05-11T23:55:00Z
 ---
 
 # The Nature of the UAP Phenomenon — A 7-Lens Integrated Synthesis (May 2026)
@@ -81,7 +81,8 @@ The phenomenon's spatial distribution is non-random in a quantifiable way:
 - **Oak Ridge AEC**: multi-month 1950–51 radar+visual presence.
 - **Savannah River Plant** AEC ([[references/sighting-savannah-river-plant-1952-05-10]]).
 - **Aegean / Eastern Mediterranean** modern corridor: 4-of-4 testable internal coordinates from the DoW-UAP FOIA series decode to Aegean/Eastern-Med ([[references/dow-uap-d54-mission-mediterranean-sea]], [[entities/dow-uap-foia-release]]).
-- **Arabian Gulf** corridor: [[references/dow-uap-d4-mission-arabian-gulf-2020]], [[references/dow-uap-d5-mission-arabian-gulf-2020]], [[references/dow-uap-d7-mission-arabian-gulf-2020]].
+- **Arabian Gulf** corridor: [[references/dow-uap-d4-mission-arabian-gulf-2020]], [[references/dow-uap-d5-mission-arabian-gulf-2020]], [[references/dow-uap-d7-mission-arabian-gulf-2020]]. **Verified at the literal Persian/Arabian Gulf level by [[references/dow-uap-d60-mission-persian-gulf-2020-08-08|d60]]** (5-of-5 internal MGRS coords decode inside Arabian Gulf / Strait of Hormuz / Gulf of Oman corridor) — supports the **extract-vs-full-Misrep hypothesis** that d4/d5/d7's "Arabian Gulf"-mismatch is an extraction artifact rather than a curator-mislabel. ^[inferred]
+- **CENTCOM AOR maritime corridor** (May–Oct 2020): 4 range-fouler debriefs ([[references/dow-uap-d38-range-fouler-middle-east-may-2020|d38 Persian Gulf]], [[references/dow-uap-d56-range-fouler-arabian-sea-august-2020|d56 North Arabian Sea HSM-73 MH-60R]], [[references/dow-uap-d44-range-fouler-arabian-sea-october-2020|d44 Gulf of Aden]], [[references/dow-uap-d58-range-fouler-debrief-2020-10|d58]]) + 1 full Misrep ([[references/dow-uap-d60-mission-persian-gulf-2020-08-08|d60 Aug 2020]]) — a CENTCOM-AOR-anchored cluster covering 3 sub-theaters (Persian Gulf, North Arabian Sea, Gulf of Aden) in a single 5-month window. ^[inferred]
 - **Western US "redacted facility"**: [[references/sighting-helicopter-orb-encounter-2025]], [[references/western-us-event-2026]], [[references/sighting-orbs-launching-orbs-western-us]].
 
 Combined with sensor-stimulus response and selective target-switching across crewed platforms, the strongest behavior-side inference is **selective situational awareness, not random distribution.** The corpus is comfortable calling this *intent-like* without committing to "intelligence" in any rich sense. The modern brief-observation [[references/dow-uap-d4-mission-arabian-gulf-2020|DoW-UAP missions]] add a counterweight — most encounters are *passive presence* punctuated by rare engagement events. Engagement is selective, not adversarial-in-the-warfare-sense; the WWII foo-fighters had every opportunity to down Allied bombers and did not ([[concepts/foo-fighter-phenomenon]]).
@@ -266,7 +267,7 @@ This page reconciles outputs from seven research agents run in parallel against 
 
 Key wiki pages this synthesis builds on: [[synthesis/federal-le-uap-witness-pattern]], [[synthesis/foo-fighters-to-flying-discs]], [[synthesis/horten-thesis-vs-disc-sightings]], [[synthesis/early-uap-policy-vs-operational-track]], [[synthesis/policy-papers-uap-1963-vs-1999]], [[concepts/civilian-saucer-hypothesis-1947]], [[concepts/scientific-vs-saucer-advocate-frame]], [[concepts/uap-aircraft-engagement]], [[concepts/orb-phenomenon]], [[concepts/engine-stall-phenomenon]], [[concepts/uap-state-knowledge-classes]], [[concepts/four-phase-contact-strategy]], [[references/cometa-report-1999]], [[entities/dow-uap-foia-release]], [[entities/aaro]], [[entities/ryan-graves]].
 
-## Open Threads
+## Open threads
 
 - **Modern whistleblower layer absent** — the seven canonical anchors (Grusch, Elizondo, Mellon, Lazar, Bushman, DeLonge/TTSA, Schumer-Rounds) have zero dedicated pages. Highest-priority gap. ^[inferred]
 - **AAWSAP/AATIP/UAPTF program history absent** — the funded-program lineage from SIGN/GRUDGE/Blue Book to AARO has a 1969–2022 hole. ^[inferred]

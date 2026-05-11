@@ -78,5 +78,5 @@ The 40-file `dow-uap-` filename family is a **curator-side convention** applied 
 ## See also
 
 - [[entities/dow-uap-foia-release]] — Series-level provisional anchor for the DoW-UAP FOIA tranche
-- [[entities/aaro]] — Current-era DoD UAP receiving office (likely receiving authority for series content)
+- [[entities/aaro]] — Current-era DoD UAP receiving office (likely receiving authority for series content); confirmed via [[references/dow-uap-d55-mission-syria-2016-11-18|d55]] + [[references/dow-uap-d58-range-fouler-debrief-2020-10|d58]] + [[references/dow-uap-d44-range-fouler-arabian-sea-october-2020|d44]] + [[references/dow-uap-d56-range-fouler-arabian-sea-august-2020|d56]] + [[references/dow-uap-d60-mission-persian-gulf-2020-08-08|d60]] **Block A** stamp (`MDR 26-0038 to 26-0046` + `03/27/26`) at 5-of-6 recurrence + [[references/dow-uap-d38-range-fouler-middle-east-may-2020|d38]] **Block B** stamp (`MDR 26-0019` + `01/26/26 001`) isolated at 1-of-6. PR20 (DOPSR clearance) date `10 Mar 2026` sits **between** the two release dates (`01/26/26` and `03/27/26`) — consistent with PR20 DOPSR clearance applying to the whole tranche and AARO-side releases stamping individual MDR allocations as the cases clear. ^[inferred]
 - [[projects/uap/uap]]

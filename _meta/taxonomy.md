@@ -5,12 +5,12 @@ tags: [taxonomy, meta]
 sources: []
 summary: Canonical controlled vocabulary for tags across the wiki. Source of truth for the tag-taxonomy skill.
 created: 2026-05-09
-updated: 2026-05-11T12:07:34Z
+updated: 2026-05-11T23:55:00Z
 ---
 
 # Tag Taxonomy
 
-Controlled vocabulary for the wiki. The current corpus is **UAP-archives** focused (105 pages from 14 declassified-document ingests, 1944–2026). Tags below are organized by axis. Use this file as the source of truth before adding tags to any new page.
+Controlled vocabulary for the wiki. The current corpus is **UAP-archives** focused (343 wiki pages from 60 declassified-document / archival-conversation ingests, 1944–2026). Tags below are organized by axis. Use this file as the source of truth before adding tags to any new page.
 
 ## Rules
 
@@ -44,7 +44,7 @@ The subject matter axis — what the page is about.
 
 | Tag | Use for |
 |---|---|
-| `uap` | Anything in the UAP / unidentified-aerial-phenomena domain. The corpus's anchor tag (91 pages). |
+| `uap` | Anything in the UAP / unidentified-aerial-phenomena domain. The corpus's anchor tag (318 pages). |
 
 ### History / era
 
@@ -170,30 +170,33 @@ Tags below are **non-canonical**. Replace with the canonical form when found.
 
 ## Frequency Reference (post-normalization)
 
-**As of 2026-05-11 batch-5 audit:** 109 unique tags across 325 wiki pages (51 sources / 321 manifest pages + 4 infrastructure). Equilibrium holds — zero alias usage, zero non-ASCII / whitespace / case / underscore issues, zero pages over the 5-tag limit, zero normalizations applied, zero new tags introduced. Top tags:
+**As of 2026-05-11 batch-6 audit:** 109 unique tags across 343 wiki pages (60 sources / 331 manifest pages + 12 non-manifest pages — synthesis/projects/journal). Near-equilibrium — **one** normalization applied (single-use non-canonical `hypothesis` dropped from `synthesis/uap-phenomenon-nature.md`, leaving canonical `[uap, analysis, witness, history]`). Zero alias usage, zero non-ASCII / whitespace / case / underscore issues, zero pages over the 5-tag limit, zero new tags introduced. Top tags:
 
 ```
-300 uap                111 primary-source      81 sighting           78 fbi
- 69 person              56 declassified        46 history            40 nasa
- 39 1947                38 usaf                38 witness            34 organization
- 33 1948                32 intelligence        31 policy             28 astronaut
- 27 civilian-research   23 1950                19 morphology         19 pattern
- 19 rhetoric            15 ww2                 15 state-department   13 aviation
- 11 military            10 france              10 1949               10 1957
- 10 federal-le           9 usaaf                9 1952                9 navy
-  8 diplomacy            7 spacecraft           7 new-mexico          7 eti-attribution
-  7 california           6 mexico               6 dod                 5 mission
+318 uap                120 primary-source     90 sighting           79 fbi
+ 71 person              65 declassified       51 history            41 usaf
+ 40 nasa                39 1947               39 witness            38 organization
+ 34 intelligence        34 policy             33 1948               28 astronaut
+ 28 civilian-research   23 1950               23 military           20 pattern
+ 19 morphology          19 rhetoric           15 state-department   15 ww2
+ 13 aviation            12 navy               10 1949               10 1957
+ 10 federal-le          10 france              9 1952                9 usaaf
+  8 diplomacy            8 dod                 7 california          7 eti-attribution
+  7 new-mexico           7 spacecraft          6 analysis            6 mexico
+  5 1964                 5 behavior            5 embassy             5 mission
+  5 russia               5 us-army
 ```
 
-Notable shifts from batch-4 audit (260 → 325 pages, +65; tags 107 → 109, +2):
+Notable shifts from batch-5 audit (325 → 343 pages, +18; tags 109 → 109, ±0 net; 110 unique observed pre-normalization → 109 after dropping `hypothesis`):
 
-- `fbi` jumped from **44 → 78** — the batch-5 signature, driven by the completed FBI HQ 62-83894 ingest (sections 8/3/9/10/6 plus the three repair passes).
-- `primary-source` 74 → 111, `declassified` 36 → 56, `sighting` 65 → 81, `witness` 35 → 38 — all reflect the FBI HQ tail and the dow-uap mission-report series.
-- `uap` 235 → 300 (+65, exactly tracking the new-page count), confirming `uap` remains the universal anchor.
-- `rhetoric` 13 → 19, `pattern` 14 → 19, `morphology` 17 → 19 — modest growth from the contactee/MIB framing pages and the repair passes (Leslie Kean, Hynek, Vallée, ICUFON).
-- `eti-attribution` count corrected to **7** (vs. 24 claimed in batch-4 reference). The prior figure appears to have been over-counted from body-text occurrences; the canonical metric is "pages where the tag appears in the YAML `tags` array", which gives 7. Tag remains canonical and broadly distributed (concepts + entities + references); just a one-time numeric correction, not drift. ^[ambiguous]
-- New year-slot activations: `1965`, `1966`, `1969` (and `1985`, `1994` continue from prior batches) — all instantiations of the documented `1947 … 1994` year-tag pattern. Not new tags, just new uses of the slot.
-- Tag-inventory growth was +2 (107 → 109): two year-slots (`1965`, `1966`) appearing as active for the first time. (`1967`/`1968` remain unused but reserved.)
+- `uap` 300 → 318 (+18, exactly tracking new pages — anchor invariant).
+- `primary-source` 111 → 120, `declassified` 56 → 65, `sighting` 81 → 90 — driven by the dow-uap range-fouler series (d38, d44, d55, d56, d58, d60), the d50 INDOPACOM email, and the d8 Djibouti FIN+SWE+FVEY mission report.
+- `military` 11 → 23, `navy` 9 → 12, `usaf` 38 → 41 — the dow-uap mission-report ingests are well-distributed across service-affiliation tags (d38 = military, d44/d8 = usaf, d55 = military, d56 = navy, d58 = usaf, d60 = usaf).
+- `fbi` 78 → 79 — only +1 (the d50-related cross-link on `corona-3-amigos`); FBI HQ ingest is fully absorbed, batch-6 is a dow-uap-dominated batch.
+- `history` 46 → 51, `policy` 31 → 34 — modest growth from cross-link consolidation, not new ingests.
+- One **single-use anomaly** (`hypothesis` on `synthesis/uap-phenomenon-nature.md`) was carried in from the earlier 7-lens synthesis page; dropped this pass per the skill's single-use-replace-or-drop rule. Page retained `[uap, analysis, witness, history]` — fully descriptive at 4 tags.
+- No new tags introduced. d60's "Misrep" descriptor — the FULL USMTF mission report sub-class headline of the d60 ingest — is captured in title + body, not as a tag; `primary-source` + `declassified` + `usaf` + `sighting` already mark the artifact class. No taxonomy entry needed.
+- No year-slot activations this pass. The reserved 1947–1994 range and decade slots are stable.
 
 The long tail (1–4 uses) remains dominated by year tags, US state tags, and country tags — narrow but uniformly applied. Acceptable.
 

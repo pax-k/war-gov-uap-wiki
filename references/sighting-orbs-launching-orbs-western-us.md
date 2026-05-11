@@ -42,7 +42,7 @@ Per slide narrative:
 - One witness reported a red orb "heading up at an angle"; another stated red orbs would sometimes "swoop down" after launch.
 - Witnessing teams were in **varying locations and vantage points** — independent corroboration. ^[inferred]
 
-## Open question carried in source
+## Open questions
 
 Due to the sequential nature of the events, the source explicitly notes it is **not known** whether there was a single orange "mother" orb releasing groups of red orbs over time, or whether **multiple orange orbs** were involved.
 

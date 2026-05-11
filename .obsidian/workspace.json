@@ -11,10 +11,14 @@
             "id": "264d9855d1e46191",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "concepts/orbital-uap-sighting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "orbital-uap-sighting"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#nasa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "concepts/orbital-uap-sighting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of orbital-uap-sighting"
             }
           }
         ],
@@ -181,6 +187,19 @@
   },
   "active": "264d9855d1e46191",
   "lastOpenFiles": [
+    "concepts/uap-aircraft-engagement.md",
+    "references/dow-uap-d60-mission-persian-gulf-2020-08-08.md",
+    "concepts/orbital-uap-sighting.md",
+    "references/dow-uap-d56-range-fouler-arabian-sea-august-2020.md",
+    "references/dow-uap-d38-range-fouler-middle-east-may-2020.md",
+    "references/dow-uap-d44-range-fouler-arabian-sea-october-2020.md",
+    "references/dow-uap-d44-range-fouler-arabian-sea-2020-10.md",
+    "concepts/range-fouler.md",
+    "references/dow-uap-d58-range-fouler-debrief-2020-10.md",
+    "references/dow-uap-d55-mission-syria-2016-11-18.md",
+    "references/dow-uap-d50-email-indopacom-2025-04.md",
+    "references/dow-uap-d8-mission-djibouti-2025.md",
+    "_raw/tweet-thread-uap-nature.md",
     "synthesis/uap-phenomenon-nature.md",
     "references/dow-uap-d54-mission-mediterranean-sea.md",
     "_meta/open-threads-triage-2026-05-11.md",
@@ -194,23 +213,10 @@
     "entities/j-edgar-hoover.md",
     "WEB.md",
     "references/dow-uap-d7-mission-arabian-gulf-2020.md",
-    "entities/russell-j-carey.md",
-    "references/sighting-indianapolis-1948-07.md",
-    "references/sighting-bonneville-bfg-1948-05.md",
-    "references/sighting-delaware-ashley-oh-1948-04.md",
-    "entities/jacques-vallee.md",
-    "entities/j-allen-hynek.md",
-    "references/pocantico-colloquium-1997.md",
-    "references/sighting-russia-airport-2001-01-27.md",
-    "references/boston-globe-ufo-2000-05-21.md",
-    "entities/leslie-kean.md",
     "combined.csv",
     "uap_people.csv",
     "kg.png",
     "Screenshot 2026-05-11 at 09.40.51.png",
-    "WIKI.md",
-    "README copy.md",
-    "TODO.md",
     "references/usaf-flying-discs-1949.md.tmp.26524.99683844ac58",
     "references/dos-cable-kazakhstan-1994-01.md.tmp.26524.7575d999763d",
     "concepts/project-sign.md.tmp.26524.6a3d7f5b4aab",

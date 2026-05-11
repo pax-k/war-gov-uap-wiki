@@ -178,6 +178,7 @@ Bottom line: text content is high-confidence; **image content is unrecoverable f
 
 - [[entities/dow-uap-foia-release]] — Series-level anchor; this artifact establishes the second artifact class (email-correspondence / disclosure-workflow) and supplies the first internal-document USAF-originating evidence
 - [[references/dow-uap-d50-email-indopacom-2025-04]] — Second email-correspondence artifact; **confirms the class at N=2**, anchors the disclosure-review office at **OUSD(I&S)** (resolving d52's office-attribution open question), and introduces the **PAROL ↔ PAROC** initialism ambiguity
+- [[references/dow-uap-d60-mission-persian-gulf-2020-08-08]] — **First FULL USMTF Misrep parent document** in dow-uap corpus; **PAROC IDAT role triple-attested** at d52 (15 AF / DET 1) + d50 (12 AF / DET 3 — PAROL spelling) + d60 (482ATKS / 432 AEW Active QC). The d60 attestation **resolves the PAROL ↔ PAROC ambiguity in favor of PAROC** (d60 explicit `PAROC IDAT` in the QC block) — d50's `PAROL` is most likely an OCR variant. ^[inferred]
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — DOPSR terminal-clearance cover stamp; structural sibling at the *whole-document* level to this artifact's *single-data-point* level
 - [[references/dow-uap-d4-mission-arabian-gulf-2020]] — Mission-report sibling; contrast: that artifact is the *content*, this one is the *clearance-process metadata about content*
 - [[references/dow-uap-d5-mission-arabian-gulf-2020]] — Mission-report sibling

@@ -365,8 +365,12 @@ The 1/30-second-disappearance + noise-jamming + 16.9-NM-standoff triad makes d58
 ## See also
 
 - [[entities/dow-uap-foia-release]] — Series-level anchor (d58 is the 10-of-40 ingest, first range-fouler debrief artifact, anchors the third top-level mission-record document class)
-- [[concepts/range-fouler]] — Concept-level page on the range-fouler operational concept (anchored at N=1 by d58; to be extended by d44 at N=2)
+- [[concepts/range-fouler]] — Concept-level page on the range-fouler operational concept (anchored at N=1 by d58; extended at N=4 with d38 + d56 + d44; d58 capability-triad isolated at 1-of-4)
+- [[references/dow-uap-d38-range-fouler-middle-east-may-2020]] — **Range-fouler sister at N=2** — 14 May 2020 Persian Gulf coast ISR ^[inferred]; passive-ISR sub-class; **earliest range-fouler in the corpus** (5 months before d58); **carries distinct release-framework Block B** (`MDR 26-0019` + `01/26/26 001`) breaking the byte-for-byte release-block recurrence anchored at d55+d58
+- [[references/dow-uap-d44-range-fouler-arabian-sea-october-2020]] — **Range-fouler sister at N=3** — 15 Oct 2020 Gulf of Aden daytime, 172 ATKS MQ-9 ^[inferred]; passive-ISR sub-class — sits 12 days earlier than d58 in same AOR with structurally identical form but divergent capability signature
+- [[references/dow-uap-d56-range-fouler-arabian-sea-august-2020]] — **Range-fouler sister at N=4** — 24 Aug 2020 North Arabian Sea night SSC, **HSM-73 MH-60R Romeo Seahawk** ^[inferred] — **first internal Navy user anchor in range-fouler subset**; firms Block A 4-of-5 dominance with d55+d58+d44; structure-CONFIRMED at N=4 on 13-of-13 axes; isolates d58's capability triad at 1-of-4
 - [[references/dow-uap-d55-mission-syria-2016-11-18]] — Sixth substantive mission-record ingest — **release-framework twin to d58** (identical MDR + AARO + Harrison + `03/27/26 000001`); the d55 + d58 pair firms the AARO-receiving-authority closure at N=2 and supplies first MDR-coverage datum
+- [[references/dow-uap-d60-mission-persian-gulf-2020-08-08]] — **First FULL USMTF Misrep parent document** in dow-uap corpus (8 Aug 2020 Arabian / Persian Gulf, 482ATKS / 432 AEW MQ-9 ^[inferred] NAVCENT-support); same Block A release framework as d58. d60 **decisively closes the `000001` open question** at d58 — per-document page-sequence-number reading confirmed (d60 carries sequential `000001 → 000006` across 6 pages).
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — Series prepublication-clearance cover stamp
 - [[references/dow-uap-d4-mission-arabian-gulf-2020]] — First substantive mission report — kinematic-anomaly
 - [[references/dow-uap-d5-mission-arabian-gulf-2020]] — Second substantive mission report — two-sighting + multi-object first instance

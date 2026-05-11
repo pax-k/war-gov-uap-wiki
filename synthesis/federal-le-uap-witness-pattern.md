@@ -98,7 +98,7 @@ The strongest individual signals, ranked: ^[inferred]
 
 The recurrence of "**zero resistance**" hover language across 2026 Events 2 and 3 is suggestive but **not** independent — likely shared vocabulary among witnesses who debriefed together. ^[inferred]
 
-## Open thread
+## Open threads
 
 This synthesis page should be revisited every time a trained-observer-witnessed UAP report enters the wiki. Track whether the *failure modes* identified here (range/size underestimate, ambiguous shape, cross-event identity) are corrected by future evidence — particularly by **multi-sensor configurations** like the 2025 FLIR/NVG/bare-eye stack — or remain structural to the witness class.
 

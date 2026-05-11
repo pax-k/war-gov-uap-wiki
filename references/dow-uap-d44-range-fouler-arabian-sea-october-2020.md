@@ -439,10 +439,13 @@ The d44 datum is a **lower-anomaly mid-distribution range-fouler event** — slo
 
 ## See also
 
-- [[concepts/range-fouler]] — Concept-level page on the range-fouler operational concept (anchored at N=1 by d58; **VALIDATED at N=2 by d44** on structural axes, **DIVERGES at N=2** on capability-signature axes)
+- [[concepts/range-fouler]] — Concept-level page on the range-fouler operational concept (anchored at N=1 by d58; extended to N=4 by d38 + d56 + d44; structure-CONFIRMED on 13-of-13 axes; passive-ISR sub-class dominant at 3-of-4)
+- [[references/dow-uap-d38-range-fouler-middle-east-may-2020]] — **Range-fouler sister at N=3** — 14 May 2020 Persian Gulf coast ISR ^[inferred]; **earliest range-fouler in corpus**, 5 months before d44; same passive-ISR sub-class (Round + IR-cold + Black-Hot + sole-checkbox + no-intercept); **carries distinct Block B release-framework** (`MDR 26-0019` + `01/26/26 001`) breaking the byte-for-byte release-block recurrence anchored at d55+d58+d44
+- [[references/dow-uap-d56-range-fouler-arabian-sea-august-2020]] — **Range-fouler sister at N=4** — **paired Arabian-Sea cluster with d44**: d56 (24 Aug 2020 North Arabian Sea HSM-73 MH-60R Romeo Seahawk ^[inferred] SSC) + d44 (15 Oct 2020 Gulf of Aden 172 ATKS MQ-9 ISR) sit 52 days apart in the same maritime basin, both passive non-intercept observation, both Block A release framework. **First internal Navy user anchor** (HSM-73) in the range-fouler subset; extends d44's passive-ISR sub-class with a **rotary-wing maritime SSC platform variant**. ^[inferred]
 - [[references/dow-uap-d58-range-fouler-debrief-2020-10]] — d58 anchor (27 Oct 2020 77 EFS DCA night); d44 sits 12 days earlier in the same AOR with structurally identical form but divergent capability signature
 - [[entities/dow-uap-foia-release]] — Series-level anchor (d44 is the 11-of-40 ingest, second range-fouler debrief, third release-framework-stamp recurrence)
-- [[references/dow-uap-d55-mission-syria-2016-11-18]] — Release-framework stamp first attestation (now N=3 with d44 + d58)
+- [[references/dow-uap-d55-mission-syria-2016-11-18]] — Release-framework stamp first attestation (now N=4 within Block A with d58 + d44 + d56; d38 carries distinct Block B)
+- [[references/dow-uap-d60-mission-persian-gulf-2020-08-08]] — **First FULL USMTF Misrep parent document** in dow-uap corpus (8 Aug 2020 Arabian / Persian Gulf, 482ATKS / 432 AEW MQ-9 ^[inferred]); same MQ-9 platform class as d44 + same Block A release framework + adjacent CENTCOM-AOR Aug-Oct 2020 NAVCENT cluster (d60 86 days before d44)
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — Series prepublication-clearance cover stamp
 - [[references/dow-uap-d4-mission-arabian-gulf-2020]] — Mission-report class anchor (kinematic-anomaly); contrasts with d44's passive-ISR posture
 - [[references/dow-uap-d5-mission-arabian-gulf-2020]] — Mission-report class (two-sighting + multi-object first instance)
@@ -451,8 +454,8 @@ The d44 datum is a **lower-anomaly mid-distribution range-fouler event** — slo
 - [[references/dow-uap-d8-mission-djibouti-2025]] — Mission-report class (round + WHITE HOT thermal — d8 thermal-warm vs d44 IR-cold polarity contrast)
 - [[references/dow-uap-d52-email-na-2024]] — Email-correspondence class (15 AF / DET 1)
 - [[references/dow-uap-d50-email-indopacom-2025-04]] — Email-correspondence class (12 AF / DET 3)
-- [[concepts/uap-aircraft-engagement]] — Behavioral framework; d44 anchors the **seventh brief-observation sub-class** (*range-fouler-passive-ISR-observation*)
+- [[concepts/uap-aircraft-engagement]] — Behavioral framework; d44 anchors the **seventh brief-observation sub-class** (*range-fouler-passive-ISR-observation*) extended to N=3 with d38 + d56
 - [[concepts/orb-phenomenon]] — Adjacent — d44's round IR-cold low-altitude over-water signature has structural parallels to orb-class events
-- [[entities/aaro]] — d44's `Approved for Release to AARO` stamp recurrence confirms AARO as the dow-uap receiving authority at N=3 stamp recurrence
-- [[entities/ryan-graves]] — Navy F/A-18F pilot analog for the Navy-aviation form template (VFA-106 + AIM-9x/ATFLIR pre-prints)
+- [[entities/aaro]] — d44's `Approved for Release to AARO` stamp recurrence confirms AARO as the dow-uap receiving authority at N=6 stamp recurrence
+- [[entities/ryan-graves]] — Navy F/A-18F pilot analog for the Navy-aviation form template (VFA-106 + AIM-9x/ATFLIR pre-prints); first internal Navy user d56 (rotary-wing maritime variant)
 - [[projects/uap/uap]]

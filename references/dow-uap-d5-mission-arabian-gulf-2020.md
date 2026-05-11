@@ -180,6 +180,8 @@ However, `d5` introduces **two new behavioral sub-classes within the brief-obser
 
 - [[entities/dow-uap-foia-release]] — Series-level anchor (`d5` updates the format-template section + filename-vs-coordinate observation to N=2-confirmed)
 - [[references/dow-uap-d4-mission-arabian-gulf-2020]] — Sister single-sighting report; same filename theater label, same internal-coordinate mismatch
+- [[references/dow-uap-d60-mission-persian-gulf-2020-08-08]] — **First FULL USMTF Misrep parent document** (8 Aug 2020 NAVCENT-support over Arabian/Persian Gulf / Strait of Hormuz / Gulf of Oman); d60 verifies its `persian-gulf` filename at 5-of-5 internal MGRS coords — supports the **extract-vs-full-Misrep hypothesis** that d5's "Arabian Gulf" filename may correctly describe a parent-document AOR while the extracted UAP-event MGRS falls outside that AOR. ^[inferred]
+- [[references/dow-uap-d7-mission-arabian-gulf-2020]] — Sister Arabian-Gulf-filename mission report
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — Series prepublication-clearance cover stamp
 - [[concepts/uap-aircraft-engagement]] — Behavioral framing; both `d5` sightings are brief-observation-class, not engagement-class
 - [[entities/aaro]] — Modern US DoD UAP receiving office

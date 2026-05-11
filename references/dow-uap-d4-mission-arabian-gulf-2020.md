@@ -123,5 +123,8 @@ If the next `d*` ingest shows different per-page headers, classification banners
 - [[entities/dow-uap-foia-release]] — Series-level anchor (the format observations on this page feed back into the series-entity)
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — Series prepublication-clearance cover stamp
 - [[concepts/uap-aircraft-engagement]] — Behavioral framing; this datum is a *brief, kinematics-only observation*, not engagement-class
+- [[references/dow-uap-d60-mission-persian-gulf-2020-08-08]] — **First FULL USMTF Misrep parent document** in dow-uap corpus (8 Aug 2020 NAVCENT-support over Arabian Gulf / Strait of Hormuz / Gulf of Oman); revises d4's "Arabian Gulf" mismatch reading — d60's full-Misrep verifies its filename token at 5-of-5 internal MGRS coords, making the **extract-vs-full-Misrep hypothesis** most coherent (d4 may be a single-segment extract of a parent Misrep whose primary AOR differs from the extracted UAP-event MGRS). ^[inferred]
+- [[references/dow-uap-d5-mission-arabian-gulf-2020]] — Sister single-sighting / multi-zone Arabian-Gulf-filename twin
+- [[references/dow-uap-d7-mission-arabian-gulf-2020]] — Sister Arabian-Gulf-filename; introduces fire-control engagement-pipeline
 - [[entities/aaro]] — Modern US DoD UAP receiving office
 - [[projects/uap/uap]]
