@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-11T09:00:00Z",
+  "updated": "2026-05-11T13:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -1441,20 +1441,56 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/dow-uap-d54-mission-report-mediterranean-sea-na.json": {
+      "ingested_at": "2026-05-11T13:00:00Z",
+      "size_bytes": 1894,
+      "modified_at": "2026-05-09T13:07:44Z",
+      "content_hash": "sha256:36e82cceef912e479a3bf4cbfd5dae3c2b3013b0b21bbf3e8af9a52d7cd945a1",
+      "source_id": "dow-uap-d54-mission-mediterranean-sea",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap",
+      "series_position": "6-of-40",
+      "artifact_class": "mission-report",
+      "signal_class": "morphology-rich-kinematics-thin + filename-coord-match-first",
+      "internal_coordinate_format": "DMS-lat-long",
+      "internal_coordinate": "36-34-53N 025-59-43E",
+      "decoded_region": "Aegean Sea (Cyclades, ~17 km SE of Naxos)",
+      "filename_theater_match": true,
+      "morphology": "triangular and metallic",
+      "operational_phase": "RTB",
+      "witness_aircraft_altitude_ft_msl": 24989,
+      "witness_aircraft_speed_kt": 168,
+      "event_time_z": "1319Z",
+      "event_date": null,
+      "originating_unit": null,
+      "originating_service": null,
+      "pages_created": [
+        "references/dow-uap-d54-mission-mediterranean-sea.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-11T11:24:17Z",
-      "sources_ingested": 44
+      "last_ingested": "2026-05-11T13:00:00Z",
+      "sources_ingested": 45
     }
   },
   "stats": {
-    "total_sources_ingested": 51,
-    "total_pages": 321,
+    "total_sources_ingested": 52,
+    "total_pages": 322,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T11:24:17Z"
+    "last_ingest_at": "2026-05-11T13:00:00Z"
   }
 }
