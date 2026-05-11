@@ -234,7 +234,7 @@ The **PAROL** transcription at Email 2 is the highest-risk character-level readi
 
 ## Open questions
 
-- **Resolve PAROC vs PAROL** — OCR C↔L confusion vs two distinct programs. Both readings live until N=3.
+- **Resolve PAROC vs PAROL** — OCR C↔L confusion vs two distinct programs. ^closed-by-dow-uap-d61 ^closed-by-dow-uap-d62 — **DECISIVELY RESOLVED in favor of PAROC**. [[references/dow-uap-d61-mission-persian-gulf-2020-08-27|DoW-UAP-D61]] (26-27 Aug 2020) attests clean-OCR `PAROC` at 12 AF / DET 3 (the same parent detachment d50's PAROL reading was at); [[references/dow-uap-d62-mission-strait-of-hormuz-2020-09-16|DoW-UAP-D62]] (15-16 Sep 2020) attests a second clean-OCR `PAROC` at 12 AF / DET 3. At N=2 explicit clean-OCR attestations of `PAROC` at this exact parent detachment, the d50 `PAROL` reading is almost certainly OCR C↔L confusion. ^[inferred] The d50 transcription should be read as `PAROC` to align with the d61+d62 attestations.
 - **Resolve `4(a)` token** — EO 13526 §1.4(a) reference vs asset/platform code. The "unit that flies 4(a)" grammar favors the platform-code reading; the per-page `# 1.4(a)` header pattern on mission reports favors the EO reading. ^[ambiguous]
 - **Resolve `1.2(a)` tearline prefix** — EO 13526 §1.2(a) (TOP SECRET) reading is implausible given the //UNCLASSIFIED// content; internal document-paragraph numbering is the favored reading. ^[ambiguous]
 - **Recover the underlying INDOPACOM 10–11 Apr 2025 mission report** — likely preserved in one of the unread `d*` files. If found, would supply the full GENTEXT/UAP segment + position anchor + platform identity that this tearline strips down.
