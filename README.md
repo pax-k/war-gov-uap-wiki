@@ -10,9 +10,9 @@ The goal: turn a heap of ~110 FOIA-released JSON-OCR'd documents into a navigabl
 
 | Metric | Value |
 |---|---|
-| Sources ingested | **50 / 110** |
-| Vault pages | **310** |
-| Date range covered | **6 Jul 1947 → 12 Mar 2026** |
+| Sources ingested | **51 / 110** |
+| Vault pages | **321** |
+| Date range covered | **6 Jul 1947 → 8 May 2026** |
 | Last ingest | 2026-05-11 |
 
 See [TODO.md](TODO.md) for orchestration plan, batch cadence, and remaining sources.
@@ -27,8 +27,8 @@ hot.md                  # ~500-word session hot cache — recent activity + acti
 _meta/taxonomy.md       # Controlled tag vocabulary
 sources/                # Raw OCR'd JSON documents waiting to be ingested
 concepts/   (46 pages)  # Abstract ideas, patterns, mental models
-entities/   (109 pages) # People, agencies, units, missions, files, organizations
-references/ (153 pages) # Source documents + individual sighting cases
+entities/   (113 pages) # People, agencies, units, missions, files, organizations
+references/ (160 pages) # Source documents + individual sighting cases
 synthesis/  (5 pages)   # Cross-cutting analyses connecting multiple concepts
 projects/uap/           # Project hub page
 ```
@@ -44,6 +44,8 @@ Every page has frontmatter: `title`, `category`, `tags` (≤5 canonical), `sourc
 **NASA orbital UAP** — Complete d-cluster (Gemini 7 + Apollo 11/12/17 + Skylab), 7/7 files, 6-mechanism A/B/C/D/E/F orbital UAP typology. Apollo 11 "second look" cylinder (multi-witness, instrument-mediated, alternative-eliminated) is the strongest astronaut-class anchor. See [concepts/orbital-uap-sighting.md](concepts/orbital-uap-sighting.md).
 
 **State Department UAP cables** — 5 cables: PNG 1985 (substantive), Kazakhstan 1994 (substantive), Turkmenistan 2004 (boundary-NGO), Russia/Georgia 2001 (figurative rhetoric), Mexico 2023 (Maussan/Graves Congress). Three sub-patterns under one diplomatic-channel umbrella. See [concepts/diplomatic-channel-uap-reporting.md](concepts/diplomatic-channel-uap-reporting.md).
+
+**DoW-UAP FOIA release** — In-progress 40-file Mistral-OCR'd Department of War tranche, 5/40 ingested. Three artifact classes anchored: prepublication-clearance cover (pr20, Mar 2026), mission report (d4/d5/d7 Arabian Gulf 2020), email correspondence (d52, Aug 2024). d7 introduces the corpus's first **aircraft-toward-UAP fire-control engagement-pipeline** datum (`WEAPONS QUALITY 1 TRACK` + `NEXT TO SHOOT` + TFLIR visual ID, no weapons release) + first explicit cross-report citation (48FW prior report). See [entities/dow-uap-foia-release.md](entities/dow-uap-foia-release.md) and [concepts/uap-aircraft-engagement.md](concepts/uap-aircraft-engagement.md).
 
 **Policy / institutional structure** — Cabell AIRMEM #4 (1949), AFOIC-CC-1 (1950), FSR 200-4 reporting regulation, Bureau Bulletin No. 42/57, SAC Letters #38/83, Boggs-Hearn FBI+AF discontinuation memo (1950), Project Twinkle (1950), Project GRUDGE termination, Robertson Panel runup (1952), CIA-IAC Russell-sighting suppression (1955), Condon Committee, Project BLUE BOOK termination (1969), Carter-era post-Blue-Book coordination (1977). All primary-source anchored.
 
@@ -67,7 +69,7 @@ If you're contributing to this wiki:
 
 ## Framework
 
-Built on the [obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) framework — a skill-based system where everything is markdown instructions any AI coding agent can read. No scripts or dependencies. Each `.skills/<name>/SKILL.md` is a self-contained procedure. See [SETUP.md](SETUP.md) for installation, [AGENTS.md](AGENTS.md) for agent context, and the upstream [framework README on GitHub](https://github.com/Ar9av/obsidian-wiki).
+Built on the [obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) framework — a skill-based system where everything is markdown instructions any AI coding agent can read. No scripts or dependencies. Each `.skills/<name>/SKILL.md` is a self-contained procedure. See the upstream [framework README on GitHub](https://github.com/Ar9av/obsidian-wiki).
 
 ## License
 

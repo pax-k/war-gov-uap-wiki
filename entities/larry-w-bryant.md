@@ -62,7 +62,7 @@ Bryant's frame is structurally novel within the FBI corpus: ^[inferred]
 - He explicitly poses the censorship question (*"Someone must challenge the UFO censors, assuming they exist"*) — i.e., he treats *"UFO censors"* as a **hypothesis**, not a foregone conclusion.
 - He cites *"at least two of my previously cleared manuscripts and by one that failed to hurdle the review-clearance obstacle"* — i.e., evidence that DoD review **is** sometimes blocking his content. ^[extracted]
 
-This is a **rhetorical position more sophisticated** than the contemporaneous Adamski/Van Tassel/Stranges contactee scene, and structurally distinct from the **MIB myth** ([[concepts/three-men-in-black]]) — Bryant is **operating inside the system** (as a DoD-cleared civilian) and using the system's own review process as evidence for the censorship hypothesis. ^[inferred] His method is **whistleblower-adjacent**, not contactee. ^[inferred]
+This is a **rhetorical position more sophisticated** than the contemporaneous Adamski/Van Tassel/Stranges [[concepts/contactee-movement-1952-1954|contactee scene]], and structurally distinct from the **MIB myth** ([[concepts/three-men-in-black]]) — Bryant is **operating inside the system** (as a DoD-cleared civilian) and using the system's own review process as evidence for the censorship hypothesis. ^[inferred] His method is **whistleblower-adjacent**, not contactee. ^[inferred]
 
 ## Position in the wiki's rhetoric corpus
 

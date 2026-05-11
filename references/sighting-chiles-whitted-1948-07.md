@@ -69,7 +69,7 @@ The 25-field "Check-List Unidentified Flying Objects" form is at OCR page 113 of
 
 - Did Chiles or Whitted ever provide a sketch with the SIGN intake form? Field 24 records "2 sketches" — these are not in the OCR'd bundle. ^[ambiguous]
 - The "Mr McKelvis" passenger witness — who was he? The form lists "Occupation - N/S". Tracking him would resolve whether this was an unsolicited passenger or an EAL-deadhead pilot. ^[ambiguous]
-- Did Project SIGN later evaluate Chiles–Whitted as a misidentified meteor (the position commonly attributed to [[entities/lincoln-la-paz|La Paz]] and J. Allen Hynek in later historiography)? The 101–172 bundle does not contain such an evaluation memo — that analysis is post-bundle. ^[inferred]
+- Did Project SIGN later evaluate Chiles–Whitted as a misidentified meteor (the position commonly attributed to [[entities/lincoln-la-paz|La Paz]] and [[entities/j-allen-hynek|J. Allen Hynek]] in later historiography)? The 101–172 bundle does not contain such an evaluation memo — that analysis is post-bundle. ^[inferred]
 
 ## NEW (this batch) — institutional propagation in FBI HQ 62-83894 section 4
 

@@ -85,7 +85,7 @@ The 1955 IAC engagement connects to: ^[inferred]
 
 - **The [[references/sighting-trans-caucasus-1955-10-04|Russell USSR sighting]]** (already in wiki via USAIRA Prague IR-193-55) — section 8 adds the FBI/CIA institutional handling.
 - **The [[concepts/observer-suppression-behavior|Soviet-trainmen suppression behavior]]** observed at the sighting itself — a structurally adjacent contemporary suppression event in the same case.
-- **The [[concepts/contactee-movement-1952-1954|contactee movement]] founding period** is **structurally-orthogonal** to CIA/IAC engagement — section 7 documents both, but the IAC focuses on the German-scientist / Africa-meteor / Russian-aircraft channels, not on Bethurum / Bender / Adamski. ^[inferred]
+- **The [[concepts/contactee-movement-1952-1954|contactee movement]] founding period** is **structurally-orthogonal** to CIA/IAC engagement — section 7 documents both, but the IAC focuses on the German-scientist / Africa-meteor / Russian-aircraft channels, not on Bethurum / [[entities/albert-k-bender|Bender]] / Adamski. ^[inferred]
 - **The 1957 Krasuski case** ([[references/fbi-detroit-100-26505-krasuski-1957]]) shows **post-Russell** routing: NSC → FBI → CIA (Plans) — i.e., CIA continues to receive FBI UAP material on the IC distribution list after the 1955 episode.
 
 ## Open threads

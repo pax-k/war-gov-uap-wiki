@@ -397,7 +397,7 @@ Consolidated multi-witness sighting narrative at [[references/sighting-fbi-fd302
 - Confirm "Mr. Robertson" in the SHAEF Scientific Investigation Division is **H. P. Robertson** (later Robertson Panel chair). ^[inferred]
 - Resolve the **"J. H. Grierson" / "C. M. Grierson"** signature variant in the SHAEF file. ^[ambiguous]
 - Locate / ingest other volumes in the "general_1948_vol_X" series. ^[inferred]
-- Add Project GRUDGE and Project BLUE BOOK source bundles for chronological continuity.
+- Add [[concepts/project-grudge|Project GRUDGE]] and Project BLUE BOOK source bundles for chronological continuity.
 - Locate other NASC SP-series memos (the 1963 file marker is **SP 16**, implying ≥15 prior SP memos in that series — at least some may touch related topics). ^[inferred]
 - Acquire 1953 Robertson Panel and 1968 Condon Report sources to flesh out the policy-staff layer between 1963 and the modern AARO era.
 - Resolve the "J. W. Hunt / A. Hunt" cover-routing ambiguity on the 1963 memo (OCR misread of "M. W. Hunter," or distinct routing staffer?). ^[ambiguous]

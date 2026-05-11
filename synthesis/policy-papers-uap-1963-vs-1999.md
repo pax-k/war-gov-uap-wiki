@@ -74,7 +74,7 @@ Three plausible drivers (none mutually exclusive):
 |---|---|---|
 | 1963 | [[references/hunter-1963-space-alien-race-memo|Hunter NASC memo]] | First artifact; US-internal; conditional |
 | 1999 | [[references/cometa-report-1999|COMETA Report]] | Second artifact; France-private; declarative |
-| ?? | [[concepts/robertson-panel-runup-1952\|Robertson Panel]] (1953); Condon Report (1969); AARO Historical Record Reports (2022–24) | Gap candidates per [[synthesis/early-uap-policy-vs-operational-track]] |
+| ?? | [[concepts/robertson-panel-runup-1952\|Robertson Panel]] (1953); [[concepts/condon-committee\|Condon Report]] (1969); AARO Historical Record Reports (2022–24) | Gap candidates per [[synthesis/early-uap-policy-vs-operational-track]] |
 
 The 1963→1999 trajectory **does not necessarily generalize** — both artifacts are genre-distinct. But the structural similarity at the layer level (both are "what should we do if?" papers) is itself notable. ^[inferred]
 
@@ -92,7 +92,7 @@ This adds a third asymmetry to the original three (case-data, authorship, nation
 ## What this synthesis is missing
 
 - No primary ingest of the **Robertson Panel report** (1953, US, CIA-convened) — would test whether Hunter's "scientific-dismissal" pole had a documented institutional moment in the 1950s.
-- No primary ingest of the **Condon Report** (1969, US, AF-funded) — would test the operational/policy-hybrid case.
+- No primary ingest of the **[[concepts/condon-committee|Condon Report]]** (1969, US, AF-funded) — would test the operational/policy-hybrid case.
 - No primary ingest of **AARO's 2024 Historical Record Reports** — would test whether the modern policy-track has merged with the operational-track.
 - No primary ingest of any **non-US, non-French government UAP policy paper** — UK MOD has partial visibility through COMETA's Ch. 9.2 references, but not as primary source.
 

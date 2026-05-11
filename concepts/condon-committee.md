@@ -89,7 +89,7 @@ The Condon Committee is the **bridge** between the [[concepts/fbi-saucer-policy-
 
 - **Did Condon's "answer the letter" follow-up to the landing-prediction correspondent (serial 456) yield any record?** ^[open] No follow-up appears in section 10.
 - **Were any Condon Committee members or staff documented in the FBI corpus?** ^[ambiguous] None visible in section 10 beyond Condon himself.
-- **The Condon Report's internal disagreements** (the McDonald / Hynek / Levine Trick critiques of the report's executive summary) are well-documented in the historical literature but **absent from the FBI corpus** — section 10 has no engagement with them. ^[extracted]
+- **The Condon Report's internal disagreements** (the McDonald / [[entities/j-allen-hynek|Hynek]] / Levine Trick critiques of the report's executive summary) are well-documented in the historical literature but **absent from the FBI corpus** — section 10 has no engagement with them. ^[extracted]
 - **What was the AF's contract administrator office for F44620-67-C-0035?** ^[open] Likely AFOSR (AF Office of Scientific Research, the F44620 prefix), but the Fact Sheet doesn't specify.
 
 ## Sources

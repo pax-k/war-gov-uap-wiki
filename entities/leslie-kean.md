@@ -101,5 +101,5 @@ Key new corpus-relevant points:
 - Whether Kean's later book **UFOs: Generals, Pilots, and Government Officials Go on the Record** (Harmony / Crown, 2010) — not in this source but widely attested in the broader UAP record — is the synthesis of these 2000–2001 reporting threads. ^[inferred-as-target]
 - Whether *Flashpoints* (KPFA) ran segments on COMETA in 1999–2001. ^[open]
 - Whether **John E. Mack**'s May 2000 New York Hall of Science remarks ("no culture has ever evaded the idea of intelligent life other than ourselves… that's arrogance") were on a panel that also included other figures from the appendix bundle. ^[open]
-- Whether **Brad Steiger** (cited via Hynek's "Project Grudge" interviews in COMETA Appendix 2 bibliography) was a Kean source not credited in the front matter. ^[inferred-as-question]
+- Whether **Brad Steiger** (cited via [[entities/j-allen-hynek|Hynek]]'s "[[concepts/project-grudge|Project Grudge]]" interviews in COMETA Appendix 2 bibliography) was a Kean source not credited in the front matter. ^[inferred-as-question]
 - Whether the **National Press Club briefing of May 2001** — the one Kean previewed in the Providence Journal — became the **Disclosure Project briefing of 9 May 2001** organized by Steven Greer. ^[inferred — likely the same event] If so, the wiki has a Kean→Disclosure-Project connection latent in the appendix bundle.

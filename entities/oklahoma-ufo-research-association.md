@@ -47,7 +47,7 @@ The exchange is preserved in [[references/fbi-detroit-100-26505-krasuski-1957|FB
 
 - Locate any **Wright-Patterson AFB / Project BLUE BOOK** follow-up correspondence after Stoddard's redirect. ^[open]
 - Identify whether OUFORA appears in **other FBI field-office files** in 1965–67 (the same letter likely went to multiple field offices simultaneously, asking about each office's "area" early-1966 sightings). ^[inferred]
-- Cross-check OUFORA against contemporary 1960s civilian UFO orgs (NICAP, APRO, MUFON-precursor) — was OUFORA an independent group or a regional chapter? ^[inferred]
+- Cross-check OUFORA against contemporary 1960s civilian UFO orgs (NICAP, [[entities/aerial-phenomena-research-organization|APRO]], MUFON-precursor) — was OUFORA an independent group or a regional chapter? ^[inferred]
 
 ## See also
 

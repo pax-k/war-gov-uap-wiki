@@ -73,7 +73,7 @@ AFSCA bridges and contrasts with three other civilian-saucer-adjacent entities t
 | **AFSCA (this entity)** | **Contactee-movement umbrella org** | **mid-1960s** | **Subject of citizen CP-line complaint forwarded Philadelphia → LA → HQ; LA pre-indexed at `100-24442` serial 40 by Oct 1966; no investigation conducted** | **[[references/fbi-hq-62-83894-serial-449]]** |
 | [[entities/union-of-ufologists-turkmenabat\|UOU Turkmenabat]] | Foreign NGO | 2004 | Cited in DOS Ashgabat cable (foreign post → State boundary case) | [[entities/union-of-ufologists-turkmenabat]] |
 
-The **organizational-mode distinction** (research-org vs. contactee-org vs. individual-publisher vs. foreign-NGO) is structurally informative for the corpus's civilian-side coverage. ^[inferred] AFSCA is the **first contactee-movement umbrella entity** in the wiki and the **first civilian-saucer-organization with a pre-existing FBI LA-side counterintelligence file** (vs. OUFORA whose Detroit anchor is on a UAP-adjacent case file `100-26505`). ^[inferred]
+The **organizational-mode distinction** (research-org vs. contactee-org vs. individual-publisher vs. foreign-NGO) is structurally informative for the corpus's civilian-side coverage. ^[inferred] AFSCA is the **first [[concepts/contactee-movement-1952-1954|contactee-movement]] umbrella entity** in the wiki and the **first civilian-saucer-organization with a pre-existing FBI LA-side counterintelligence file** (vs. OUFORA whose Detroit anchor is on a UAP-adjacent case file `100-26505`). ^[inferred]
 
 ## Open threads
 

@@ -54,7 +54,7 @@ Zamora's morphology vocabulary (legs, smooth-no-windows, insignia, white coveral
 ## Open threads
 
 - **Recover Zamora's hand-drawn pictograph** of the object's shape and the red insignia from an unredacted FOIA tranche or from the Project BLUE BOOK 8766 file. ^[ambiguous] These are the case's most load-bearing morphology data points.
-- **Cross-reference Zamora's later (1965+) testimony** to NICAP / APRO / J. Allen Hynek for any clarifications, retractions, or additional detail. ^[open]
+- **Cross-reference Zamora's later (1965+) testimony** to NICAP / [[entities/aerial-phenomena-research-organization|APRO]] / [[entities/j-allen-hynek|J. Allen Hynek]] for any clarifications, retractions, or additional detail. ^[open]
 - **Identify whether Zamora subsequently witnessed any other UAP events** or made any institutional contact with USAF / Project BLUE BOOK beyond the original incident. ^[open]
 - **Identify Zamora's tenure and post-1964 career** at the Socorro PD. ^[open]
 

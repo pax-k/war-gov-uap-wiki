@@ -98,6 +98,9 @@ Dispatch a subagent to:
 5. Build coverage table: file × probe × found-in-wiki.
 6. Flag files where ≥2 of 5 probes carry substantive content but aren't found.
 7. Per flagged file, list specific missing content (names, events, dates, themes).
+8. Additionally list every `## Open threads` / `## Open questions` bullet
+   on pages produced from a truncated file — those threads are suspect (the
+   answer may sit in the unread page range). Tag as `audit_suspect_threads`.
 
 ### Phase 2 — Repair dispatches
 
@@ -109,6 +112,7 @@ For each flagged file, a REPAIR subagent (different prompt from ingest):
 - Update existing manifest entry's `pages_updated` / `pages_created` lists. Do NOT create a duplicate source entry.
 - Log: `[ISO] REPAIR source="..." reason="..." pages_added=N pages_updated=M`.
 - Same 15-page cap discipline as ingest.
+- Re-evaluate every `audit_suspect_threads` bullet from Phase 1 step 8 against the full source. Apply `closes` / `extends` / `contradicts` per the Open threads handling policy. Report `repaired_threads: closed=N extended=M contradicted=K` — likely majority close.
 
 ### Phase 3 — Re-audit
 
@@ -117,6 +121,40 @@ Re-run audit subagent on repaired files to confirm coverage.
 ### Phase 4 — Resume forward ingestion
 
 With Plan B chunking protocol applied to every subagent for the remaining 35 sources.
+
+---
+
+## Open threads / Open questions handling
+
+Sections named `## Open threads` (159 in vault) and `## Open questions` (85) carry unresolved leads, dangling references, and follow-up work. Treat them as live pipeline inputs at every stage — not page decoration.
+
+**Per-source ingest** (formalized in Step 1c of the subagent template below):
+
+- After the QMD hits land, the subagent reads every hit page's `## Open threads` / `## Open questions`.
+- For each bullet, classify the new source's effect: `closes` | `extends` | `untouched` | `contradicts`.
+- Apply deltas in-place during the write phase:
+  - `closes` → strike the bullet, add a `^closed-by` footnote pointing at the new reference page
+  - `extends` → append the new evidence under the same bullet
+  - `contradicts` → leave both, mark for synthesis review
+- Pattern already used informally: `Section 4 closes the BB-57 open thread`, `How section 3 closes the open thread`, `CLOSES major open thread`. Now explicit so it's non-lossy.
+
+**Every-10 hygiene**:
+
+- `/cross-linker`: mine Open threads for **wanted-page** hints. Threads naming a person/event/document with no page yet → stub-creation candidate. Distinct signal from random orphan recovery.
+- `/wiki-lint`: **stale-thread check**. For each bullet, run one QMD `lex` query over the rest of the vault; if the distinctive phrase has ≥2 hits on non-ancestor pages, flag for human review (do not auto-close).
+- `/wiki-lint`: normalize heading case — canonical lowercase `## Open threads` / `## Open questions`. Collapse the 21 capitalized `## Open Questions` outliers and rare singular variants (`## Open thread`, `## Open question carried in source`). Otherwise downstream dashboards/clusterers do case-folding on every read.
+
+**Audit & repair phase** (>100KB truncation-risk files):
+
+- Phase 1 audit subagent additionally reports `## Open threads` bullets sitting on pages whose source got truncated — those threads are unreliable (the answer may be in the unread page range).
+- Phase 2 repair re-evaluates flagged threads against the full source before patching. Likely majority close.
+- Phase 3 re-audit: thread-closure count is a coverage signal alongside phrase-grep.
+
+**Final phase**:
+
+- `/wiki-synthesize`: Open threads are the highest-yield input — annotated "connected but unresolved" markers across 244 pages. Cluster bullets by topic across pages; clusters of ≥3 related threads from different pages become candidate `synthesis/` pages.
+- `/wiki-dashboard`: create `_meta/open-threads.base` listing every page with non-empty `## Open threads`. Columns: page, category, project, thread count, last touched. Same for `## Open questions`.
+- `/wiki-export`: tag threads naming intentional forward-placeholders (`apollo-13`, `gemini-8`, `trans-en-provence-1981`, etc. from the broken-link list above) distinctly from real broken-link threads so downstream tools don't conflate them.
 
 ---
 
@@ -170,6 +208,19 @@ Call mcp__plugin_qmd_qmd__query with:
 Skip the papers collection (sources are .json, not .md). Use the returned hits to
 decide which existing pages to UPDATE vs which new pages to CREATE. Existing related
 pages worth checking explicitly: <list known-relevant pages>.
+
+## Step 1c: Open threads / questions sweep (MANDATORY)
+For every QMD hit page from Step 1b, read its `## Open threads` and
+`## Open questions` sections in full. For each bullet, classify the new
+source's effect:
+  closes      → strike the bullet, add `^closed-by` footnote → new reference page
+  extends     → append new evidence under the same bullet (keep open)
+  contradicts → leave both, mark for synthesis review (do NOT silently resolve)
+  untouched   → no action
+Apply these deltas during Steps 2-7 writes, not as a separate pass. Report
+counts in your deliverable `notes:` field as
+`open_threads: closed=N extended=M contradicted=K`.
+See "Open threads / Open questions handling" section in TODO.md for full policy.
 
 ## Steps 2–7: Distill, plan, write
 Per .skills/wiki-ingest/SKILL.md. STRICT cap at 15 new pages.
@@ -233,12 +284,26 @@ in-place. Flag AMBIGUOUS (1-2) and broken targets. Update log.md (CROSS_LINK)
 and hot.md. Do NOT commit. Report links_added / pages_touched / broken_targets
 (distinguishing intentional forward-placeholders).
 
+Additionally mine `## Open threads` / `## Open questions` bullets for
+wanted-page hints: threads naming a person/event/document not yet a page →
+stub-creation candidate. Report these separately as `thread_stub_candidates:`
+distinct from random orphan recovery.
+
 # Wiki-lint (parallel with tag-taxonomy)
 Run /wiki-lint. Repair broken wikilinks except intentional forward-placeholders.
 Stub heavily-referenced institutional placeholders (e.g. usaf at 11 refs).
 Flag contradictions; do not silently resolve unless a prior ingest already
 established the corrected canonical version (then propagate to stale callers).
 Do NOT commit.
+
+Stale-thread check: for each `## Open threads` / `## Open questions` bullet,
+run one QMD lex query over the rest of the vault. If the distinctive phrase
+has ≥2 hits on non-ancestor pages, flag for human review (`stale_threads:`
+in report) — do NOT auto-close.
+
+Heading normalization: canonical lowercase `## Open threads` and
+`## Open questions`. Rewrite the 21 capitalized `## Open Questions` outliers
+and rare singular variants (`## Open thread`, `## Open question carried in source`).
 
 # Tag-taxonomy (parallel with wiki-lint)
 Run /tag-taxonomy. Scan all pages, compare against _meta/taxonomy.md. Apply
@@ -256,3 +321,5 @@ found vault in equilibrium — be efficient.
 - **Filename theater labels are unreliable** (discovered in dow-uap series — Arabian-Gulf filenames decode to Eastern Mediterranean MGRS). Always verify internal metadata.
 - **Project page is curated.** `projects/uap/uap.md` is a hub. Add to it but don't auto-link from cross-linker.
 - **`_meta/taxonomy.md` is statistical metadata.** Cross-linker should skip it.
+- **Open threads are pipeline inputs, not page decoration.** Subagents must apply the `closes` / `extends` / `contradicts` protocol from the "Open threads / Open questions handling" section during every write phase — not leave threads as silent backlog. The 159 `## Open threads` + 85 `## Open questions` already in the vault are the highest-yield input for the final `/wiki-synthesize` pass.
+- **Heading case is canonical.** Lowercase `## Open threads` and `## Open questions`. Don't introduce capitalized variants — `/wiki-lint` rewrites them but it's cheaper not to create them.

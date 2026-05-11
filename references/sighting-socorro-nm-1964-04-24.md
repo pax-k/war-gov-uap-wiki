@@ -117,8 +117,8 @@ Socorro is the corpus's **first 1960s FBI-involved UAP case** and the **first FB
 ## Open threads
 
 - **Recover the FBI-redacted hand-drawn shape and insignia** of Zamora's pictograph from an unredacted FOIA tranche or from the Project BLUE BOOK 8766 file. ^[ambiguous] These are the load-bearing morphology data points.
-- **Cross-reference Project BLUE BOOK case file 8766** for the USAF-side investigative product (Maj Hector Quintanilla, Lt Col J. Allen Hynek as scientific consultant ^[inferred]). ^[open]
-- **Cross-reference NICAP / APRO 1964 publication** of the Socorro case for any independent Zamora interview or photograph of the trace site. ^[open]
+- **Cross-reference Project BLUE BOOK case file 8766** for the USAF-side investigative product (Maj Hector Quintanilla, [[entities/j-allen-hynek|Lt Col J. Allen Hynek]] as scientific consultant ^[inferred]). ^[open]
+- **Cross-reference NICAP / [[entities/aerial-phenomena-research-organization|APRO]] 1964 publication** of the Socorro case for any independent Zamora interview or photograph of the trace site. ^[open]
 - **Identify whether the two figures in white coveralls were ever resolved** — the 1964 USAF-side investigation reportedly considered hoax / experimental-aircraft hypotheses. ^[ambiguous]
 - **Confirm the suspect speeding-Chevrolet driver** (*"Floyd Reynolds' boy, Vivian, about 17"*) was ever interviewed — Zamora's chase was abandoned, so this driver is a potential (though distant) co-witness to the flame/roar. ^[open]
 - **Cross-reference the dynamite-shack location** (Zamora's reference landmark) against any Stallion Range / White Sands Missile Range proximity claim. ^[open] Socorro NM is geographically close to the WSMR perimeter.

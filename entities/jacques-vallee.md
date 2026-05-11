@@ -62,7 +62,7 @@ Per historical record (referenced obliquely by section 10 content) ^[inferred �
 - **Locate any other FBI corpus references to Vallée** beyond section 10 serial 462. ^[open]
 - **Verify the Mars Map Project's exact dates and Northwestern faculty** for the 1962-1967 window. ^[open]
 - **Trace the Hynek-Vallée Northwestern collaboration** via the historical record — the section-10 reference is the wiki's anchor; the full trajectory is outside the FBI corpus. ^[open]
-- **Identify any Vallée presence at the Pocantico colloquium (1997)** — would link Vallée to the Rockefeller-Sturrock UAP-physical-evidence framework. ^[open]
+- **Identify any Vallée presence at the [[references/pocantico-colloquium-1997|Pocantico colloquium (1997)]]** — would link Vallée to the Rockefeller-Sturrock UAP-physical-evidence framework. ^[open]
 
 ## See also
 

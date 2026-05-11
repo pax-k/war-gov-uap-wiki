@@ -125,7 +125,7 @@ The case documents the **citizen-letter → Army Intelligence Division Washingto
 ## See also
 
 - [[references/sighting-delaware-ashley-oh-1948-04]] — Inc 112 (same bundle, ~5 weeks earlier; civilian-cluster witness pool)
-- [[references/sighting-indianapolis-1948-07]] — Inc 151 + 152 (same bundle, ~10 weeks later; Lt Carey AMC-field-intel investigation pathway)
+- [[references/sighting-indianapolis-1948-07]] — Inc 151 + 152 (same bundle, ~10 weeks later; [[entities/russell-j-carey|Lt Carey]] AMC-field-intel investigation pathway)
 - [[references/sighting-hamel-mn-1948-08]] — Inc 162 (same bundle, ~12 weeks later; agent-corroborated physical trace)
 - [[references/sighting-gorman-fargo-1948-10]] — Inc 172 (same bundle, ~19 weeks later; engagement-class dogfight)
 

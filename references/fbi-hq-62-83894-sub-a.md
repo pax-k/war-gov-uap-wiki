@@ -67,8 +67,8 @@ The 124-page sub-file holds ~120 distinct items. The table below catalogs the su
 |---|---|---|---|---|
 | Joe Perry color-slide pizza-man Grand Blanc MI | 25 May 1959 | Detroit-area | 1 | independent — late-period FBI/AF interaction with civilian-photographer; FBI returned slide via Selfridge AFB after Eisenhower letter |
 | AAL Capt Peter Killian DC-6 Newark→Detroit 45-minute pursuit (35 passengers + crew) | 25 Feb 1959 | AP | 2 | see [[references/sighting-killian-dc6-1959-02-24]] (NEW) |
-| APRO Aerial Phenomena Research Org filter-center cluster (L.J. Lorenzen Holloman) | 1958 | I.N.S. wire | 3 | press-shadow of [[entities/borderland-sciences-research-associates|APRO/BSRA]] continuing infrastructure ^[inferred] |
-| Carl Jung Alamogordo "intelligent guidance / quasi-human pilots" report (released via Lorenzen APRO) | 29 Jul 1958 | AP | 4 | independent — cross-references APRO releasing Jung's UFO research through Holloman ^[extracted] |
+| APRO Aerial Phenomena Research Org filter-center cluster (L.J. Lorenzen Holloman) | 1958 | I.N.S. wire | 3 | press-shadow of [[entities/aerial-phenomena-research-organization\|APRO]] continuing infrastructure ^[inferred] |
+| Carl Jung Alamogordo "intelligent guidance / quasi-human pilots" report (released via Lorenzen [[entities/aerial-phenomena-research-organization\|APRO]]) | 29 Jul 1958 | AP | 4 | independent — cross-references APRO releasing Jung's UFO research through Holloman ^[extracted] |
 
 ### 1957
 
@@ -107,7 +107,7 @@ The 124-page sub-file holds ~120 distinct items. The table below catalogs the su
 | HQ executive-distribution route slip on the Canada announcement | 1954 | internal | 40 | press-shadow routing artifact |
 | Moby Dick high-altitude balloons Aviation Week — 90% of saucer sightings explained | 23 Aug 1953 (filed Sep 1953) | AP via Aviation Week | 41 | independent — first major Moby-Dick / Project-Genetrix-adjacent press explanation in the corpus ^[inferred] |
 | F-84 vs. small flying disc over northern Japan AF base | 28 Jan ?? | AP | 42 | press-shadow / Japan ^[inferred] |
-| Santa Fe NM "fantastic strides in guided-missile research" / Robertson-era counter-frame | Feb (year unclear) | AP | 43-44 | Robertson-Panel-era posture echo ^[inferred] |
+| Santa Fe NM "fantastic strides in guided-missile research" / Robertson-era counter-frame | Feb (year unclear) | AP | 43-44 | [[concepts/robertson-panel-runup-1952\|Robertson-Panel-era]] posture echo ^[inferred] |
 | "Sudden trails of light caused by solid particles from outer space" press release  | 1953-54 | UP | 45 | press counter-frame |
 | Helena MT FBI / Highway-Patrol white-streaking-object "FBI investigated" | 1953-54 | wire | 46 | independent — explicit press citation of FBI investigation, contra BB-57 standing posture; no main-file analogue identified yet ^[inferred] |
 | Five-state "ball of fire" / [[concepts/balls-of-fire-red\|fireball]] — sky-flash mass observation | 1953-54 | wire | 47 | press-shadow of pre-existing [[concepts/balls-of-fire-red\|red-ball-of-fire]] phenomenology ^[extracted] |
@@ -120,7 +120,7 @@ The 124-page sub-file holds ~120 distinct items. The table below catalogs the su
 | Herbert Long Kutztown PA insurance-salesman parked-saucer claim ("This Is It" sketch) | 28 Aug 1952 | Seattle PI page 10 col 1 | 49-50 | press-shadow of section 7 contactee period ^[inferred] |
 | Physicist Noel W. Scott "saucers explained" press piece | 1952 | wire | 52 | press counter-frame ^[inferred] |
 | Coast Guard Salem MA 4-bright-lights photograph released | 1952 | wire | 53 | press-shadow of [[concepts/balls-of-fire-red\|fireball/orb]] phenomenology |
-| AF "Just Nature Cutting Up, Says Air Force of Saucers" — natural-causes statement | 29 Jul 1952 | wire | 54 | press counter-frame; Robertson-Panel-runup posture ^[inferred] |
+| AF "Just Nature Cutting Up, Says Air Force of Saucers" — natural-causes statement | 29 Jul 1952 | wire | 54 | press counter-frame; [[concepts/robertson-panel-runup-1952\|Robertson-Panel-runup]] posture ^[inferred] |
 | Richard Carter "Behind the News" celestial-luminosities historical piece | 1952 | column | 55 | press-shadow ^[inferred] |
 | "Saucer mystery solved — device studies weather" Martinsburg WV | 1952 | wire | 56 | press counter-frame |
 | "They're in the Sky Again" Washington DC radar+visual | 27 Jul 1952 | wire | 57-59 | press-shadow of the 1952 Washington-DC wave (section 7 territory) ^[inferred] |

@@ -53,7 +53,7 @@ Barker is the wiki's **first civilian-saucer-researcher entity** of the **mid-19
 - [[entities/oklahoma-ufo-research-association|Oklahoma UFO Research Association (OUFORA)]] — mid-1960s civilian research org, Oklahoma City; subject of 1966 FBI Detroit redirect-to-USAF letter.
 - [[entities/union-of-ufologists-turkmenabat]] — 2004 Turkmenabat NGO, subject of a US Embassy Ashgabat cable.
 
-Barker's profile is structurally distinct from both — he is an **individual civilian researcher / author / periodical-publisher**, not an organization. He pre-dates OUFORA by a decade and pre-dates the institutional civilian-research movement that NICAP (1956–80) and APRO (1952–88) built out. ^[inferred]
+Barker's profile is structurally distinct from both — he is an **individual civilian researcher / author / periodical-publisher**, not an organization. He pre-dates OUFORA by a decade and pre-dates the institutional civilian-research movement that [[entities/nicap|NICAP]] (1956–80) and [[entities/aerial-phenomena-research-organization|APRO]] (1952–88) built out. ^[inferred]
 
 ## Open threads
 

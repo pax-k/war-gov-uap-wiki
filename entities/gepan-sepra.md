@@ -49,7 +49,7 @@ GEPAN/SEPRA classifies cases into four categories — referenced as the "first c
 | **C** | Cannot be identified due to lack of data | smaller |
 | **D** | Cannot be identified despite abundance and quality of data | **4–5% of cases** |
 
-**UAP D** cases are the residual class that the COMETA Report builds its argument on. The strangest UAP D cases are sub-classified using **A. Hynek's CE3** (close encounter of the third kind) terminology. ^[extracted]
+**UAP D** cases are the residual class that the COMETA Report builds its argument on. The strangest UAP D cases are sub-classified using [[entities/j-allen-hynek|**A. Hynek's**]] **CE3** (close encounter of the third kind) terminology. ^[extracted]
 
 ## Institutional partnerships
 

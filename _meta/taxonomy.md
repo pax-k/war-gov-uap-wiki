@@ -5,7 +5,7 @@ tags: [taxonomy, meta]
 sources: []
 summary: Canonical controlled vocabulary for tags across the wiki. Source of truth for the tag-taxonomy skill.
 created: 2026-05-09
-updated: 2026-05-11T03:00:00Z
+updated: 2026-05-11T12:07:34Z
 ---
 
 # Tag Taxonomy
@@ -170,30 +170,34 @@ Tags below are **non-canonical**. Replace with the canonical form when found.
 
 ## Frequency Reference (post-normalization)
 
-**As of 2026-05-10 batch-4 audit:** 107 unique tags across 260 wiki pages (41 sources / 256 manifest pages + 4 infrastructure). Equilibrium holds — zero alias usage, zero non-ASCII / whitespace / case / underscore issues, zero pages over the 5-tag limit, zero normalizations applied. One genuinely novel tag accepted this batch: `eti-attribution` (24 pages, broadly distributed). Top tags:
+**As of 2026-05-11 batch-5 audit:** 109 unique tags across 325 wiki pages (51 sources / 321 manifest pages + 4 infrastructure). Equilibrium holds — zero alias usage, zero non-ASCII / whitespace / case / underscore issues, zero pages over the 5-tag limit, zero normalizations applied, zero new tags introduced. Top tags:
 
 ```
-235 uap                74 primary-source      65 sighting           59 person
-44 fbi                 40 nasa                40 history            36 declassified
-35 witness             31 organization        29 1948               29 1947
-29 intelligence        28 astronaut           28 usaf               27 policy
-17 morphology          16 1950                16 civilian-research  15 state-department
-14 ww2                 14 pattern             13 aviation           13 rhetoric
-10 1949                10 federal-le           9 military            9 france
- 8 diplomacy            7 california           7 usaaf               7 spacecraft
+300 uap                111 primary-source      81 sighting           78 fbi
+ 69 person              56 declassified        46 history            40 nasa
+ 39 1947                38 usaf                38 witness            34 organization
+ 33 1948                32 intelligence        31 policy             28 astronaut
+ 27 civilian-research   23 1950                19 morphology         19 pattern
+ 19 rhetoric            15 ww2                 15 state-department   13 aviation
+ 11 military            10 france              10 1949               10 1957
+ 10 federal-le           9 usaaf                9 1952                9 navy
+  8 diplomacy            7 spacecraft           7 new-mexico          7 eti-attribution
+  7 california           6 mexico               6 dod                 5 mission
 ```
 
-Notable shifts from batch-3 audit:
+Notable shifts from batch-4 audit (260 → 325 pages, +65; tags 107 → 109, +2):
 
-- `fbi` jumped from **10 → 44** — the batch-4 signature, driven by FBI HQ 62-83894 sections/serials and FBI field-office files.
-- `primary-source` 43 → 74, `declassified` 22 → 36, `sighting` 46 → 65 — all reflect the FBI HQ ingest's mass of declassified field reports.
-- `eti-attribution` newly canonicalized at 24 pages — concept that crystallized across this batch's contactee-movement and ETI-discourse work.
-- `rhetoric` 0 → 13 — emerged with the figurative/discourse-analysis pages from this batch.
-- `1950`, `1949`, `1952`, `1957`–`1958`, `1964`–`1969`, `1972`–`1973`, `1985`, `1940s`, `1950s` all instantiations of the documented `1947 … 1994` year-tag pattern. Not new tags.
+- `fbi` jumped from **44 → 78** — the batch-5 signature, driven by the completed FBI HQ 62-83894 ingest (sections 8/3/9/10/6 plus the three repair passes).
+- `primary-source` 74 → 111, `declassified` 36 → 56, `sighting` 65 → 81, `witness` 35 → 38 — all reflect the FBI HQ tail and the dow-uap mission-report series.
+- `uap` 235 → 300 (+65, exactly tracking the new-page count), confirming `uap` remains the universal anchor.
+- `rhetoric` 13 → 19, `pattern` 14 → 19, `morphology` 17 → 19 — modest growth from the contactee/MIB framing pages and the repair passes (Leslie Kean, Hynek, Vallée, ICUFON).
+- `eti-attribution` count corrected to **7** (vs. 24 claimed in batch-4 reference). The prior figure appears to have been over-counted from body-text occurrences; the canonical metric is "pages where the tag appears in the YAML `tags` array", which gives 7. Tag remains canonical and broadly distributed (concepts + entities + references); just a one-time numeric correction, not drift. ^[ambiguous]
+- New year-slot activations: `1965`, `1966`, `1969` (and `1985`, `1994` continue from prior batches) — all instantiations of the documented `1947 … 1994` year-tag pattern. Not new tags, just new uses of the slot.
+- Tag-inventory growth was +2 (107 → 109): two year-slots (`1965`, `1966`) appearing as active for the first time. (`1967`/`1968` remain unused but reserved.)
 
 The long tail (1–4 uses) remains dominated by year tags, US state tags, and country tags — narrow but uniformly applied. Acceptable.
 
-**Canonical-but-unused tags** (zero pages): `georgia`, `nevada`, `meta`, `balls-of-fire`, `flying-discs`. `georgia` retained for future Russia-Georgia content. `nevada` retained as standard US-state slot. `meta` is implicit via folder placement. `balls-of-fire` and `flying-discs` retained as collective-noun morphology slots.
+**Canonical-but-unused tags** (zero pages): `georgia`, `nevada`, `meta`, `balls-of-fire`, `flying-discs`, plus unused year-slots in the `1947 … 1994` range. Retention rationale unchanged: `georgia` for future Russia-Georgia content; `nevada` as standard US-state slot; `meta` implicit via folder placement; `balls-of-fire` and `flying-discs` as collective-noun morphology slots; year slots filled lazily as source-events anchor to them.
 
 ## Adding a New Tag
 

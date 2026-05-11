@@ -17,7 +17,7 @@ updated: 2026-05-10T00:00:00Z
 
 # Sputnik-Era Saucer Reactivation (Oct-Nov 1957)
 
-A **6-week saucer-report surge across the United States** following the **Sputnik 1 launch (4 October 1957)** and culminating in the **Levelland TX engine-stall wave (2-3 November 1957)** — captured at FBI HQ in the [[references/fbi-roach-belmont-sputnik-memo-1957-11-12|Roach → Belmont memo of 12 November 1957]] (62-HQ-83894 serial 387) and **explicitly framed by the FBI as Sputnik-derivative**. ^[inferred] Distinct from prior surges (1947 Arnold-era, 1952 contactee-era) in that the **public-attention driver is space-flight**, not aerial mystery as such. ^[inferred]
+A **6-week saucer-report surge across the United States** following the **Sputnik 1 launch (4 October 1957)** and culminating in the **Levelland TX engine-stall wave (2-3 November 1957)** — captured at FBI HQ in the [[references/fbi-roach-belmont-sputnik-memo-1957-11-12|Roach → Belmont memo of 12 November 1957]] (62-HQ-83894 serial 387) and **explicitly framed by the FBI as Sputnik-derivative**. ^[inferred] Distinct from prior surges (1947 Arnold-era, 1952 [[concepts/contactee-movement-1952-1954|contactee-era]]) in that the **public-attention driver is space-flight**, not aerial mystery as such. ^[inferred]
 
 ## The reactivation events
 
@@ -73,7 +73,7 @@ A future ingest of Project Blue Book Levelland-case records would close the chro
 
 ## Open Questions
 
-- **Why does the Roach memo bury Levelland behind Vernal?** ^[ambiguous] Vernal had no AF-disconfirming finding yet on 12 Nov 1957; Levelland by 12 Nov already had the Hynek-led investigation underway. ^[inferred]
+- **Why does the Roach memo bury Levelland behind Vernal?** ^[ambiguous] Vernal had no AF-disconfirming finding yet on 12 Nov 1957; Levelland by 12 Nov already had the [[entities/j-allen-hynek|Hynek]]-led investigation underway. ^[inferred]
 - **Did the FBI ever circulate Sputnik-attribution framing externally?** ^[open] No external letters in section 9 use the *"ever since Sputnik"* phrasing — it appears only internally.
 - **Does the surge actually peak after Sputnik or before?** ^[open] Per public Blue Book tabulations, fall 1957 is a clear peak; the question is whether the peak begins **before** 4 Oct or only after.
 - **Is the Coast Guard Gulf cutter sighting separately documented?** ^[open] No serial in section 9 elaborates beyond Roach's one-line summary.

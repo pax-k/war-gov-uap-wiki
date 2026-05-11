@@ -92,7 +92,7 @@ The "vapor streaks above" / "streamers of vapor attached" feature — recorded i
 - [[references/sighting-chiles-whitted-1948-07]] — Inc 144 (same bundle, 16 weeks later; cigar-craft pilot witness)
 - [[references/sighting-hamel-mn-1948-08]] — Inc 162 (same bundle, 18 weeks later; physical-trace landing, child witnesses)
 - [[references/sighting-bonneville-bfg-1948-05]] — Inc 130 (same bundle, ~6 weeks later; commercial-territory-manager witness)
-- [[references/sighting-indianapolis-1948-07]] — Inc 151 + 152 (same bundle, 16 weeks later; Indianapolis dual cluster investigated by Lt Carey)
+- [[references/sighting-indianapolis-1948-07]] — Inc 151 + 152 (same bundle, 16 weeks later; Indianapolis dual cluster investigated by [[entities/russell-j-carey|Lt Carey]])
 
 ## Provenance summary
 

@@ -140,7 +140,7 @@ Section 9 **strengthens** the [[entities/fbi-hq-62-83894-file|parent-file readin
 
 ## Open Questions
 
-- **Section 6 (serials 246-301)** and **section 10** remain unscanned. Section 6 covers ~Sep 1950 – Aug 1952 (the [[concepts/aztec-saucer-myth-1950]] post-mortem and the Robertson Panel run-up), and section 10 likely covers post-1966 closeout. ^[inferred]
+- **Section 6 (serials 246-301)** and **section 10** remain unscanned. Section 6 covers ~Sep 1950 – Aug 1952 (the [[concepts/aztec-saucer-myth-1950]] post-mortem and the [[concepts/robertson-panel-runup-1952|Robertson Panel run-up]]), and section 10 likely covers post-1966 closeout. ^[inferred]
 - **Was the Sanders-Donahoe canonical-history memo (serial 392) drafted from a pre-existing template?** The 4-paragraph Bulletin/SAC-Letter recap appears verbatim in 422, 425, 427 — strongly suggesting Sanders compiled the master text, which then propagated as the annual review's standing language. ^[inferred] No earlier section appears to contain this consolidated history. ^[open]
 - **Is the May 1971 FOIPA-copy stamp connected to a specific external request?** No requestor information accompanies the stamp on the section-9 cover. ^[open]
 - **Did the Albert K. Bender hush-up actually occur?** ^[ambiguous] The FBI file accumulates Marck's restatement, Maney's restatement (via Barker's editorial), and Montello's inquiry — all alleging FBI/AF/CIA involvement — but **never investigates Bender** and never affirms or denies the MIB attribution. The FBI's conduct is **consistent with both** "the rumor is groundless and we don't dignify it" and "we have a tacit policy of non-engagement on a real action by another agency". ^[ambiguous] See [[concepts/three-men-in-black]] for the rhetorical/historical analysis.

@@ -51,7 +51,7 @@ The **5-year personal acquaintance** between Byrnes and the witness is **structu
 
 - **Identify Byrnes's full FBI service record** — Albuquerque tenure, prior field-office postings, role in any other UAP-adjacent or non-UAP cases. ^[open]
 - **Identify whether Byrnes filed any follow-on serial in 62-HQ-83894** (e.g. serial 449) on subsequent investigative work. ^[inferred] The queued ingest still includes serial 449.
-- **Cross-reference Byrnes's authorship** with any Project BLUE BOOK 8766 file material — whether Byrnes coordinated with USAF (Quintanilla / Hynek) or the FBI report was filed independently of USAF. ^[open]
+- **Cross-reference Byrnes's authorship** with any Project BLUE BOOK 8766 file material — whether Byrnes coordinated with USAF (Quintanilla / [[entities/j-allen-hynek|Hynek]]) or the FBI report was filed independently of USAF. ^[open]
 - **Resolve "D. Arthur Byrnes Jr."** vs alternate spellings — the OCR is consistent across all four carbon copies but no signature page is preserved in the OCR. ^[ambiguous]
 
 ## See also

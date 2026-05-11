@@ -45,14 +45,14 @@ Green is the **first individual contactee-figure entity** in the wiki — distin
 
 | Entity | Mode | Year(s) in corpus | Wiki anchor |
 |---|---|---|---|
-| [[entities/gray-barker\|Gray Barker]] | Researcher-publisher (mid-1950s WV) — collects researcher-witnessed events; *"three men in dark suits"* / MIB-trope origin via 1956 book | 1956 (62-HQ-83894 serial 403) | [[entities/gray-barker]] |
+| [[entities/gray-barker\|Gray Barker]] | Researcher-publisher (mid-1950s WV) — collects researcher-witnessed events; [[concepts/three-men-in-black\|*"three men in dark suits"* / MIB-trope]] origin via 1956 book | 1956 (62-HQ-83894 serial 403) | [[entities/gray-barker]] |
 | **Gabriel Green (this entity)** | **Contactee figure / movement organizer (mid-1960s LA)** — claims direct face-to-face contact with extraterrestrials; political candidacy; convention organizer | **1964–66 (62-HQ-83894 serial 449)** | **this page** |
 | [[entities/miguel-angel-garcia-macias\|García Macías]] | One-off civilian-correspondent saucer-theorist (1950 Veracruz) | 1950 (62-HQ-83894 serial 220) | [[entities/miguel-angel-garcia-macias]] |
 | [[entities/oklahoma-ufo-research-association\|OUFORA]] (org) | Civilian-research organization (1960s OK) | 1966 (FBI Detroit redirect) | [[entities/oklahoma-ufo-research-association]] |
 
 The **contactee mode** has not previously appeared in the wiki at a per-figure granularity. Green is its first instance. The corpus does not promote his contactee claims to anchor concept pages on N=1 (e.g., a "contactee subculture" concept page is **deferred** until a second instance arrives). ^[inferred]
 
-Green also **personally connects to the corpus's WSJ-quoted scientific-vs-saucer-advocate frame**: the same WSJ piece that quotes Green at length quotes Donald Menzel, J. Allen Hynek, Frank B. Salisbury, and Charles A. Maney on the scientific-skeptic side, and J. M. Levitt (Fels Planetarium) and Robert Risser (OK Science and Art Foundation Planetarium) on the science-but-question-the-AF side — placing Green at the saucer-advocate pole of a structurally explicit cross-pole-quoted journalistic frame from inside the same artifact. ^[inferred] See [[concepts/scientific-vs-saucer-advocate-frame]].
+Green also **personally connects to the corpus's WSJ-quoted scientific-vs-saucer-advocate frame**: the same WSJ piece that quotes Green at length quotes Donald Menzel, [[entities/j-allen-hynek|J. Allen Hynek]], Frank B. Salisbury, and Charles A. Maney on the scientific-skeptic side, and J. M. Levitt (Fels Planetarium) and Robert Risser (OK Science and Art Foundation Planetarium) on the science-but-question-the-AF side — placing Green at the saucer-advocate pole of a structurally explicit cross-pole-quoted journalistic frame from inside the same artifact. ^[inferred] See [[concepts/scientific-vs-saucer-advocate-frame]].
 
 ## Open threads
 

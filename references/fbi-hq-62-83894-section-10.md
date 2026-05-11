@@ -121,7 +121,7 @@ Three notable absences ^[inferred]:
 
 1. **The actual 1969 Condon Report** (Univ of Colorado, *Scientific Study of Unidentified Flying Objects*, 1,465 pp). Only press-echo coverage of its commissioning and launch is in the file. The 1977 Fact Sheet (serial 483 enclosure) lists it for ordering from NTIS. ^[extracted] The FBI never received or filed the report itself in this section.
 2. **Any 1972-1973 specific UFO sighting reports**. Aside from the Ozanne impostor case (Mar 1973) and the routine post-Hoover Director form-letters, there is a near-empty 4-year gap between the Aug 1969 Hennessey-summary memo (474) and the Aug 1974 Milwaukee object (482). ^[inferred] Either no UFO correspondence was filed at HQ during 1970-1972, or it was filed elsewhere (sub-files, Director Bureau Reading Room files, etc.).
-3. **No section-10 acknowledgement of the 1972 [[concepts/policy-papers-uap-1963-vs-1999|Cuneo NICAP NSC paper]] or related civil-research disclosure pressure** — the file's 1968-1972 contents are bracketed by the Condon era and the Carter coordination question, with the post-Watergate 1972-73 era effectively silent in the file. ^[inferred]
+3. **No section-10 acknowledgement of the 1972 [[synthesis/policy-papers-uap-1963-vs-1999|Cuneo NICAP NSC paper]] or related civil-research disclosure pressure** — the file's 1968-1972 contents are bracketed by the Condon era and the Carter coordination question, with the post-Watergate 1972-73 era effectively silent in the file. ^[inferred]
 
 ## The annual-review chain — why it didn't restart
 

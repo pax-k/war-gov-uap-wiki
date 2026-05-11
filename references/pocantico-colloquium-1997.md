@@ -58,7 +58,7 @@ The 1997 colloquium is the **scientific-council** instantiation; the 1995 briefi
 
 ## Why this artifact matters
 
-- **First non-government science workshop on UAP physical evidence in the wiki corpus.** Distinct from Robertson Panel (CIA-convened, 1952) and the Condon Committee (Air Force-funded, 1966–68): Pocantico was privately funded by a single philanthropist.
+- **First non-government science workshop on UAP physical evidence in the wiki corpus.** Distinct from [[concepts/robertson-panel-runup-1952|Robertson Panel]] (CIA-convened, 1952) and the [[concepts/condon-committee|Condon Committee]] (Air Force-funded, 1966–68): Pocantico was privately funded by a single philanthropist.
 - **SEPRA's first attested international scientific-collaboration appearance.** COMETA Chapter 9.1 surfaces this — the head of SEPRA + two French scientific-council members participated. Position-wise, Pocantico is one of the earliest events in the wiki where a non-French body explicitly endorsed the France-model civilian UAP-research approach. ^[inferred]
 - **The Rockefeller-Pocantico track is structurally orthogonal to the Carol Rosin → NASA track.** Both are private US channels routing French UAP science into US policy receptiveness. The Pocantico track is **science-to-science** (Sturrock + scientific-council members); the [[entities/carol-rosin|Rosin]] track is **advocate-to-administrator** (Rosin → Goldin). ^[inferred]
 - **Possibly catalytic for COMETA**: COMETA's drafting period was 1995–1999, overlapping the 1997 Pocantico event. SEPRA participated in both. Whether Pocantico's discussion fed into COMETA Chapter 9.1's writing is not documented in this source but is the natural structural read. ^[inferred-as-target]
@@ -68,7 +68,7 @@ The 1997 colloquium is the **scientific-council** instantiation; the 1995 briefi
 | Body | Convener | Era | Government / Private | Function | Wiki anchor |
 |---|---|---|---|---|---|
 | [[concepts/robertson-panel-runup-1952\|Robertson Panel]] | CIA / OSI | 1952–53 | Government | Recommend trivialization | concept |
-| Condon Committee | USAF / U Colorado | 1966–68 | Government-funded | Recommend Blue Book closure | *(not yet in wiki)* |
+| [[concepts/condon-committee\|Condon Committee]] | USAF / U Colorado | 1966–68 | Government-funded | Recommend Blue Book closure | concept |
 | **Pocantico Colloquium** | **Laurance Rockefeller / Sturrock** | **Oct 1997** | **Private** | **Physical-evidence scientific review** | **this page** |
 | [[entities/cometa-committee\|COMETA]] | IHEDN Auditors / Letty | 1995–99 | Private | National-defense policy report | committee + report |
 

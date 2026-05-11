@@ -59,8 +59,8 @@ This is **not Communist Party doctrine** — it is **contactee-channeled extrate
 
 The remainder of the issue covers ^[extracted]:
 - AFSCA's 3rd National Convention (Reno NV, 8–10 Jul 1966, Centennial Coliseum, $2/day) with a **21-person speaker roster** including [[entities/gabriel-green|Gabriel Green]], Wayne S. Aho, Carl A. Anderson, Orfeo Angelucci, Daniel W. Fry, George King (Aetherius Society), Howard Menger, Sidney Padrick, Frank E. Stranges, George Van Tassel, and others.
-- A book-promotion list (Van Tassel *Council of Seven Lights*, Bryant Reeve *Cosmic Viewpoint*, Albert K. Bender *Flying Saucers and the Three Men*, Frank Edwards *Flying Saucers Serious Business*, Donald E. Keyhoe *Top Secret*, Raymond Bernard *The Hollow Earth*, etc.).
-- **The Wall Street Journal's** 13 Dec 1965 piece *"New 'Fireball' Raises an Old Question: Do Flying Saucers Exist?"* (Carlson) reproduced in full — quoting Donald H. Menzel (Harvard), J. Allen Hynek (Northwestern, USAF consultant), Frank B. Salisbury (Colorado State), Charles A. Maney (Defiance College). ^[extracted]
+- A book-promotion list (Van Tassel *Council of Seven Lights*, Bryant Reeve *Cosmic Viewpoint*, [[entities/albert-k-bender|Albert K. Bender]] *Flying Saucers and the Three Men*, Frank Edwards *Flying Saucers Serious Business*, Donald E. Keyhoe *Top Secret*, Raymond Bernard *The Hollow Earth*, etc.).
+- **The Wall Street Journal's** 13 Dec 1965 piece *"New 'Fireball' Raises an Old Question: Do Flying Saucers Exist?"* (Carlson) reproduced in full — quoting Donald H. Menzel (Harvard), [[entities/j-allen-hynek|J. Allen Hynek]] (Northwestern, USAF consultant), Frank B. Salisbury (Colorado State), Charles A. Maney (Defiance College). ^[extracted]
 - A clipped Houston-paper interview with Gabriel Green about meeting *"a Martian"* and *"a four-foot man from the Alpha Centauri star system"*. ^[extracted]
 - Multiple 1966 news clippings on UFO sightings (heavily OCR-degraded — see Open threads).
 - Mollie Thompson's *"Cockeyed Ballad"* and *"Space Age Songs"* lyrics — period contactee-movement songcraft. ^[extracted]
@@ -163,6 +163,6 @@ The **Vol 1 marker** now appears on **3 of 4 serials** (220, 438, 449) — only 
 - [[entities/fbi]] — receiving + routing agency (LA + HQ)
 - [[references/fbi-detroit-100-26505-krasuski-1957]] — sister Oct 1966 FBI item (Detroit OUFORA redirect; same month, different field office, different entry-path)
 - [[entities/oklahoma-ufo-research-association]] — sister civilian saucer organization (1966 Detroit redirect cohort)
-- [[entities/gray-barker]] — sister civilian saucer-researcher (1956 HQ clipping cohort) — Albert K. Bender's *Flying Saucers and the Three Men* is on AFSCA's book list, linking the AFSCA contactee subculture to the MIB-trope lineage that flowed through Barker's 1956 *They Knew Too Much About Flying Saucers*
+- [[entities/gray-barker]] — sister civilian saucer-researcher (1956 HQ clipping cohort) — [[entities/albert-k-bender|Albert K. Bender]]'s *Flying Saucers and the Three Men* is on AFSCA's book list, linking the AFSCA [[concepts/contactee-movement-1952-1954|contactee subculture]] to the [[concepts/three-men-in-black|MIB-trope]] lineage that flowed through Barker's 1956 *They Knew Too Much About Flying Saucers*
 - [[concepts/scientific-vs-saucer-advocate-frame]] — AFSCA / Green / Renaud sit at the saucer-advocate pole; the magazine reproduces WSJ-quoted Hynek/Menzel/Salisbury/Maney exchange directly inside its own contactee-channelled framework
 - [[projects/uap/uap]]
