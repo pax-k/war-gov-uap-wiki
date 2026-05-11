@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-11T06:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-11T07:30:00Z*
 
 ## Concepts
 
@@ -69,6 +69,7 @@ title: Wiki Index
 - [[entities/frances-swan]] — South Berwick ME homemaker; the witness in the 1954 FBI/ONI/AF psychic-channeling case in which she claimed automatic-writing reception of telepathic messages from "flying saucers" / "outer space" ( #person #witness #uap #eti-attribution)
 - [[entities/herbert-b-knowles]] — Retired US Navy flag officer of South Berwick ME; routing principal of the 1954 Frances Swan psychic-channeling case to ONI, Sen Margaret Chase Smith, the SecDef, and the President ( #person #navy #uap #eti-attribution)
 - [[entities/leonard-h-stringfield]] — Cincinnati ad executive (DuBois Company); director of CRIFO; first FBI-corpus civilian researcher with documented direct AF-Intelligence access (Lt Col O'Mara at Wright Field, 21 Sep 1954) ( #person #civilian-research #uap #fbi #1957)
+- [[entities/leslie-kean]] — San Francisco Bay-area investigative journalist (KPFA "Flashpoints" 1998–2001, Burma Project USA); introduced the 1999 COMETA Report to US English-language press via 21 May 2000 Boston Sunday Globe + 17 Jun 2000 Irish Independent + 3 May 2001 Providence Journal ( #uap #person #rhetoric #civilian-research)
 - [[entities/wilbur-b-smith]] — Canadian Government physicist, Department of Transport; widely understood as Project Magnet principal (1950-54); appears in FBI HQ 62-HQ-83894 section 8 serial 346 as unofficially-present at Adm Knowles's residence during the 1954 Frances Swan psychic-channeling case ( #person #foreign-government #uap #eti-attribution)
 - [[entities/borderland-sciences-research-associates]] — San Diego civilian saucer-research organization founded ~1945 by N. Meade Layne; earliest contactee-adjacent organization documented in the FBI corpus, claiming "communication with saucer pilots" by 1952 (FBI HQ 62-HQ-83894 section 7 serials 311-312) ( #uap #organization #civilian-research #california)
 - [[entities/international-flying-saucer-bureau]] — Civilian saucer-research organization founded ~1952 in Bridgeport CT by Albert K. Bender; publisher of the *Space Review* magazine; earliest organized civilian saucer-club retained at FBI HQ in the wiki corpus (FBI HQ 62-HQ-83894 section 7 serial 326) ( #uap #organization #civilian-research #1950s)
@@ -257,6 +258,9 @@ title: Wiki Index
 - [[references/fbi-cochran-schneider-1977]] — 14 Jun 1977 OSTP Asst Director Stanley Schneider phones FBI Asst Director Jay Cochran asking on Jody Powell's behalf whether any Executive-Branch coordination on UFO information exists post-Blue-Book; same-day Cochran-McDermott internal memo (16 cc to all Asst Directors) + 15 Jun reply enclosing Feb 1975 FBI LEB UFO article; file's effective last filing at FBI HQ 62-HQ-83894-486 ( #uap #fbi #white-house #eop #primary-source)
 - [[references/fbi-blue-book-termination-fact-sheet-1977]] — 14 Jan 1977 USAF UFO Fact Sheet sent by Lt Col McClanahan (USAF Office of Information) to FBI Mr. Malmfeldt + 24 Jan 1977 FBI reply by Donald W. Moore Jr. (External Affairs AD); preserves verbatim the three Blue Book conclusions, 1947-1969 sighting totals, and post-closure NARA-transfer disposition; the canonical FBI-side primary-source artifact of the 17 Dec 1969 Blue Book termination; filed FBI HQ 62-HQ-83894-483 + 484 ( #uap #usaf #fbi #primary-source #declassified)
 - [[references/cometa-report-1999]] — 90-page private French COMETA report (Jul 1999) on UFOs and defense; archived in NARA RG 255 via Carol Rosin's 2001 NASA delivery ( #uap #primary-source #policy #france)
+- [[references/boston-globe-ufo-2000-05-21]] — 21 May 2000 Boston Sunday Globe Science & Society feature by Leslie Kean introducing the 1999 COMETA Report to US English-language readers; syndicated to Irish Independent 17 Jun 2000; bundled into NARA RG 255 archival copy of COMETA ( #uap #primary-source #rhetoric #policy #france)
+- [[references/sighting-russia-airport-2001-01-27]] — 27 Jan 2001 Agence France Presse wire (Interfax-sourced) reporting a 90-minute closure of Barnaul (Siberia) airport after two cargo crews refused takeoff while a luminescent UAP hovered above the runway ( #uap #sighting #russia #commercial-aviation #primary-source)
+- [[references/pocantico-colloquium-1997]] — Oct 1997 Sturrock-moderated UFO physical-evidence colloquium at Pocantico estate (Rockefeller Bros Fund); funded by Laurance Rockefeller; SEPRA head + 2 scientific-council members from France attended; precursor to the 1999 COMETA Report ( #uap #civilian-research #history #primary-source)
 - [[references/foo-fighters-shaef-1944-1945]] — Declassified 17-page SHAEF / Air Ministry / 415th NFS file on WWII night-phenomena reports (Dec 1944 – Mar 1945) ( #uap #primary-source #ww2)
 - [[references/iaf-ir-193-55-russell-1955]] — Declassified 9-page SECRET (NOFORN) USAIRA Prague Air Intelligence Information Report (IR 193-55, 14 Oct 1955; TS Cont. # 3-2500) on Senator Russell's Trans-Caucasus flying-disc sighting ( #uap #primary-source #declassified #1955)
 - [[references/loedding-flying-disc]] — US AMC in-house disc-shaped aircraft concept (drawing LD-2), 1947 ( #uap #aviation #usaf)

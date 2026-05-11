@@ -12,7 +12,7 @@ base_confidence: 0.5
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T22:30:00Z
-updated: 2026-05-09T22:30:00Z
+updated: 2026-05-11T07:30:00Z
 ---
 
 # UAP Policy Papers — Hunter 1963 vs. COMETA 1999
@@ -78,6 +78,17 @@ Three plausible drivers (none mutually exclusive):
 
 The 1963→1999 trajectory **does not necessarily generalize** — both artifacts are genre-distinct. But the structural similarity at the layer level (both are "what should we do if?" papers) is itself notable. ^[inferred]
 
+## US-press reception layer (now anchored)
+
+COMETA's US-press reception path is documented in the wiki via [[entities/leslie-kean|Leslie Kean]]'s two pieces bundled into the archival copy:
+
+- **[[references/boston-globe-ufo-2000-05-21|Boston Sunday Globe, 21 May 2000]]** (syndicated as the Irish Independent's 17 June 2000 *Weekend / New Frontiers* feature) — Kean translates COMETA's institutional credentials, ETH conclusion, and recommendations for US English-language readers. Quotes Edgar Mitchell (Apollo 14), Lord Hill-Norton (UK Adm of the Fleet), and US Naval Reserve Cmdr Willard H. Miller; surfaces the 1995 Rockefeller-Clinton ranch briefing through Webster Hubbell, the FEMA Fire Officer's Guide UFO-hazards protocol, the Missouri ballot initiative, the 1971 US-USSR nuclear-war agreement's UFO notification clause, and Sen. McCain's 2000 Phoenix Lights statement.
+- **Providence Journal, 3 May 2001** — focused on Richard F. Haines (NARCAP) and the previewed May 2001 National Press Club briefing including John Callahan (former FAA Accidents & Investigations Branch chief); uses the [[references/sighting-russia-airport-2001-01-27|January 2001 Barnaul airport closure]] as its lede.
+
+Hunter 1963 has no comparable reception artifact in the wiki. The asymmetry is structural and unsurprising: Hunter's memo was OFFICIAL USE ONLY internal-routing and produced no public-reception layer; COMETA was published as a VSD magazine special issue and explicitly courted press translation. The two artifacts now occupy the same conceptual layer (policy-staff thought paper) with **divergent surface-area in the public-reception layer** — COMETA visible, Hunter invisible. ^[inferred]
+
+This adds a third asymmetry to the original three (case-data, authorship, national-position): **publication strategy**. Hunter was written for internal NASC/State circulation; COMETA was written for VSD-magazine publication and subsequent international press translation. ^[inferred] The 1999 artifact's authors made a deliberate choice that the 1963 artifact's author had no opportunity to make.
+
 ## What this synthesis is missing
 
 - No primary ingest of the **Robertson Panel report** (1953, US, CIA-convened) — would test whether Hunter's "scientific-dismissal" pole had a documented institutional moment in the 1950s.
@@ -89,6 +100,9 @@ The 1963→1999 trajectory **does not necessarily generalize** — both artifact
 
 - [[references/hunter-1963-space-alien-race-memo]]
 - [[references/cometa-report-1999]]
+- [[references/boston-globe-ufo-2000-05-21]] — Kean's US-press reception artifact.
+- [[entities/leslie-kean]] — journalist who built the US-press reception layer.
+- [[references/pocantico-colloquium-1997]] — Rockefeller-Sturrock scientific-council precursor.
 - [[entities/cometa-committee]]
 - [[entities/national-aeronautics-and-space-council]]
 - [[entities/maxwell-w-hunter]]

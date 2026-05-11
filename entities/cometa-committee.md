@@ -13,7 +13,7 @@ base_confidence: 0.5
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T22:30:00Z
-updated: 2026-05-09T22:30:00Z
+updated: 2026-05-11T07:30:00Z
 ---
 
 # COMETA (Comité d'Etudes Approfondies)
@@ -69,7 +69,24 @@ COMETA is the corpus's first **non-US, non-government, senior-credentialed UAP p
 - **February 1995** — Letty had organized an Ecole de l'Air alumni conference where former pilots related UFO encounters; SEPRA presented results; an astronomer presented the extraterrestrial hypothesis.
 - **~1995–1999** — committee meets and drafts; "spared no effort for close to three years" per Letty.
 - **July 1999** — [[references/cometa-report-1999|the COMETA Report]] is published as a special issue of VSD magazine.
+- **~April 2000** — English translation released.
+- **21 May 2000** — [[references/boston-globe-ufo-2000-05-21|Boston Sunday Globe piece]] by [[entities/leslie-kean|Leslie Kean]] introduces COMETA to US English-language readers; syndicated 17 June 2000 in the Irish Independent.
 - **2001** — [[entities/carol-rosin|Carol Rosin]] hand-delivers a copy to NASA Administrator Daniel Goldin (probable). ^[inferred]
+- **3 May 2001** — Kean's Providence Journal piece frames the [[references/sighting-russia-airport-2001-01-27|January 2001 Barnaul / Siberian airport closure]] and Richard Haines / NARCAP October 2000 aviation-safety study via the COMETA findings, sustaining US press visibility.
+
+## US-press-reported leadership framing (May 2000)
+
+[[entities/leslie-kean|Kean]]'s 21 May 2000 [[references/boston-globe-ufo-2000-05-21|Boston Sunday Globe]] piece characterizes COMETA's principals for US readers — useful as the external-reception summary of the committee's positioning:
+
+- **Bernard Norlain** — *"four-star General… former commander of the French Tactical Air Force and military counselor to the prime minister"* (then-IHEDN director when Letty proposed the committee).
+- **Denis Letty** — *"an air force fighter pilot"*; chair.
+- **André Lebeau** — *"former head of the National Center for Space Studies (the French equivalent of NASA in the United States)."*
+- **Marc Merlo** — *"three-star Admiral."*
+- **Denis Blanchet** — *"national chief of police."* (COMETA roster spells this **Blancher** — "Chief of Police, Police Nationale, Ministry of the Interior" — Kean's article spells **Blanchet**, plausibly a copy-edit slip. ^[ambiguous])
+- **Jean-Jacques Vélasco** — *"head of a government agency studying UFOs"* — SEPRA chief.
+- *"As well as scientists and weapons engineers"* — i.e., the Algrin / Bescond / Dunglas / Le Moine / Lépine / Marchal / Orszag / Domange members of the formal roster.
+
+The press-side characterization correctly identifies COMETA's two-tier authority structure — **retired senior generals + senior civilian-agency heads + research scientists** — and packages it for the US "credentials matter" reception layer Kean was working in. ^[inferred]
 
 ## Cross-links
 

@@ -12,7 +12,7 @@ base_confidence: 0.5
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T22:30:00Z
-updated: 2026-05-09T22:30:00Z
+updated: 2026-05-11T07:30:00Z
 ---
 
 # Four-Phase Contact Strategy (COMETA, 1999)
@@ -55,6 +55,20 @@ For preindustrial civilizations under Phase-3 influence (§13.3.1), COMETA propo
 For **industrial-age civilizations** (§13.4.2), COMETA imagines the visitors selecting *specific states or leaders* for discreet, secret contact — with mutual benefit for the chosen leaders ("information, disinformation, and counterinformation campaigns to maintain the privileged nature of these relations"). This tracks directly with Chapter 10's [[concepts/uap-state-knowledge-classes|state-knowledge taxonomy]]: COMETA's class **(d) States that have entered into contact with one or more extraterrestrial civilizations** is the fully-realized Phase-4 target state. ^[inferred]
 
 The committee's wry concluding move: by stepping through this thought experiment, "we thus return to our concerns and our current questions" — i.e., the model of how *we* might explore is the same model under which *they* are observing *us*.
+
+## Grounding in Appendix 4 ("Colonization of Space")
+
+COMETA's [[references/cometa-report-1999|Appendix 4]] is the **engineering thought experiment that grounds Chapter 13**. The four-phase model maps onto a future-human colonization plan that COMETA itself uses as the visitors' planning template:
+
+- **Russian closed-ecosystem experiments since 1961**; American **Biosphere 2** (1.3 ha greenhouse, Arizona, 1991–1993 first run + six-month follow-on); subsequent University of Columbia takeover.
+- **Permanent orbital station Alpha** (then-imminent successor to Mir).
+- **Permanent moon base** as Antarctic-base analog; in-situ resource use for spacecraft construction (low gravity + no atmosphere advantages).
+- **American physicist O'Neill's cylindrical space-city design** (30 km × 6 km, rotating for artificial gravity, supporting millions); constructed in the asteroid belt using local materials.
+- **Antimatter-propelled "ship-worlds"** for interstellar transit, generations succeeding aboard during voyages of several centuries.
+- **MHD propulsion** (cf. [[concepts/mhd-propulsion-uap]]) explicitly proposed for *"high-speed and silent craft to move through the planet's atmosphere"* in a destination star system.
+- **Non-lethal weapons** to handle untimely encounters — *"the paralyzing effect of pulsed microwaves is under study in several countries."*
+
+The structural read: COMETA writes Phase 1–4 as the alien plan but **engineers it as the human plan**. The four-phase model is internally consistent because it is the human space-exploration roadmap projected through Phase-1 "first-person inversion." ^[inferred] The committee uses this mirror move to keep the framework empirically anchored — every alien capability discussed in Phase 1–4 is one humans are explicitly planning or already prototyping. ^[inferred]
 
 ## What this concept does for the wiki
 

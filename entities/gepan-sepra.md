@@ -13,7 +13,7 @@ base_confidence: 0.5
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T22:30:00Z
-updated: 2026-05-09T22:30:00Z
+updated: 2026-05-11T07:30:00Z
 ---
 
 # GEPAN / SEPRA (CNES UAP Research Programs)
@@ -91,9 +91,19 @@ GEPAN/SEPRA is the wiki's first **dedicated civilian-government UAP research age
 
 GEPAN/SEPRA's institutional uniqueness is one of the COMETA Report's structural arguments: France has done the research France's recommendations call for *expanding*. ^[inferred]
 
+## International outreach (COMETA Ch. 9, appendix coverage)
+
+Two events anchor SEPRA's late-1990s international standing in the wiki:
+
+- **1992 — declined USSR/Russian-Academy cooperation offer**. **Vladimir Migouline** and his assistant **Platov**, heads of the expert's group on abnormal phenomena at the Academy of Sciences (USSR/RF), proposed a scientific-and-technical cooperation program to SEPRA. **CNES management did not follow up.** ^[extracted, COMETA §9.3] This is the wiki's first documented declined-cooperation-offer between two civilian-government UAP research bodies; structurally significant given COMETA's broader argument for international cooperation.
+- **October 1997 — Pocantico colloquium participation**. The **head of SEPRA** ([[entities/gepan-sepra|Vélasco]]) + **two members** of the scientific council attended the [[references/pocantico-colloquium-1997|Sturrock-moderated Rockefeller-funded UFO physical-evidence colloquium]] at the Pocantico estate. The colloquium's summary document urged international adoption of *"a UFO research organization comparable to that of France."* ^[extracted, COMETA §9.1] This is the wiki's first attestation of SEPRA participating in a non-French science-domain UAP workshop; it represents the *opposite* posture of the declined-Migouline-1992 episode — engaged when invited as scientific peer, declined when offered formal-cooperation framing.
+
+The 1992-vs-1997 contrast is structurally important: SEPRA accepts **scientific-domain engagement** (Pocantico) but declines **state-to-state cooperation** (Migouline). This is consistent with SEPRA's CNES housing — civilian-science rather than diplomatic-instrument. ^[inferred]
+
 ## Cross-links
 
 - [[references/cometa-report-1999]] — primary source for this entity in the wiki.
+- [[references/pocantico-colloquium-1997]] — international peer event SEPRA attended at scientific-council level.
 - [[entities/cometa-committee]] — partner / contributor relationship.
 - [[entities/andre-lebeau]] — former CNES chairman.
 - [[concepts/uap-state-knowledge-classes]] — COMETA's §10.3 nation-state taxonomy presupposes a SEPRA-type research capacity.
@@ -102,6 +112,7 @@ GEPAN/SEPRA's institutional uniqueness is one of the COMETA Report's structural 
 ## Open questions
 
 - Current status of SEPRA (post-2004 rename to GEIPAN; not in this source). ^[open]
+- Why CNES management declined Migouline's 1992 cooperation offer — internal-French-civil-service politics, or substantive scientific concern. ^[open]
 - The full set of GEPAN technical memoranda (1–18+ implied) — whether any are publicly available. ^[open]
 - Whether SEPRA / GEIPAN ever responded substantively to the COMETA recommendations. ^[open]
 - Whether any of the 3,000+ Gendarmerie reports cross-correlate with US / UK declassified records on the same dates. ^[open]

@@ -3,7 +3,7 @@ title: Foo Fighter Phenomenon
 category: concepts
 tags: [uap, history, ww2, morphology]
 aliases: [Foofighter, Foo Fighters, Night Phenomena (1944–45)]
-sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json]
+sources: [sources/331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.json, sources/255_413270_ufo's_and_defense_what_should_we_prepare_for.json]
 summary: WWII Allied aircrew name for unexplained nocturnal lights and luminous objects that paced or followed Allied combat aircraft, especially over Western Europe in late 1944 and early 1945.
 provenance:
   extracted: 0.7
@@ -13,7 +13,7 @@ base_confidence: 0.95
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T14:07:00Z
-updated: 2026-05-09T14:07:00Z
+updated: 2026-05-11T07:30:00Z
 ---
 
 # Foo Fighter Phenomenon
@@ -58,9 +58,22 @@ The 1947 [[references/project-sign-incident-summaries-1-100|1–100 SIGN bundle]
 
 The structural parallel to [[concepts/project-sign|Project SIGN]] (1948), the modern [[entities/aaro|AARO]] intake (2026 — see [[references/western-us-event-2026]]), and the 2025 intelligence-witness statement is now anchored to a **continuous primary-source apparatus** rather than to inferred institutional similarity. See [[synthesis/foo-fighters-to-flying-discs]].
 
+## German-side mirror framing (COMETA App. 6)
+
+The [[references/cometa-report-1999|COMETA Report]]'s Appendix 6 (page 75 of the OCR) preserves the **bidirectional mirror-attribution pattern** that defined the wartime foo-fighter file:
+
+> *"It seems that, for their part, the German pilots had been persuaded that it was a case of a secret U.S. weapon. A board of inquiry reportedly was even created in Berlin to study the matter."* ^[extracted]
+
+Both belligerents independently arrived at the same operational read — *"the other side has a new secret weapon."* COMETA's framing summarizes this as: each side believed the other had developed the phenomenon, and neither board of inquiry was able to substantiate its hypothesis. ^[inferred]
+
+COMETA also confirms the [[references/foo-fighters-shaef-1944-1945|primary-source SHAEF file]]'s closure stance: *"The files relating to the 'foo fighters' seem to have been subject to military secrecy at least until 1949."* ^[extracted] This dates the Allied-side declassification of the operational foo-fighter file to roughly the same year SAC Letter No. 38 (March 1949) was issued on the FBI side — a notable parallel that the wiki had not previously documented. ^[inferred]
+
+The German Berlin board of inquiry is **the wiki's first documented Axis-side institutional UAP-investigation body** — structurally parallel to the AAF / FBI / RAF Air Ministry DDI2 chain, with the same negative resolution. ^[inferred] The board itself is not preserved in any primary source in the wiki corpus; it is attested only via COMETA's secondhand framing.
+
 ## See also
 
-- [[references/foo-fighters-shaef-1944-1945]] — primary source
+- [[references/foo-fighters-shaef-1944-1945]] — primary source (Allied side)
+- [[references/cometa-report-1999]] — Appendix 6 secondary attestation of the German-side board of inquiry
 - [[concepts/balls-of-fire-red]] — Air Ministry's parallel filing term
 - [[concepts/flak-bombe-hypothesis]] — A.D.I.(K) candidate explanation
 - [[entities/415th-night-fighter-squadron]]

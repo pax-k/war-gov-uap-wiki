@@ -12,7 +12,7 @@ base_confidence: 0.5
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T22:30:00Z
-updated: 2026-05-09T22:30:00Z
+updated: 2026-05-11T07:30:00Z
 ---
 
 # UAP State-Knowledge Classes (COMETA, 1999)
@@ -44,6 +44,18 @@ Per COMETA §10.3 (verbatim):
 - **Provides a vocabulary for the asymmetry between France and the US**. COMETA uses the framework to argue France should sustain class (c) capacity while pressing the US — implicitly placed in class (d) — to disclose. Recommendation 5 of the report ("diplomatic démarches to the United States, with the support of other States and even the European Union, to urge the superpower to collaborate") follows directly from this taxonomy. ^[inferred]
 - **Pre-figures modern interagency coordination questions**. The taxonomy implies that any sustained UAP cooperation requires bilateral or multilateral acknowledgment of class membership — which by 1999 had not happened. ^[inferred]
 - **Permits a critique of the disclosure asymmetry**. A class-(c) state has the right to expect class-(d) cooperation if class (d) exists; the absence of cooperation is itself evidence relevant to public-policy debate. ^[inferred]
+
+## §10.4 — COMETA's strongest hint that the US is in class (d)
+
+Chapter 10.4's verbatim sentence — newly anchored from the back-half ingest — is the report's most direct statement on US class status:
+
+> *"It is true that the position of that country has been among the strangest since the wave [of sightings] in June 1947, followed by the Roswell affair in July 1947… If the Americans were able on that occasion or on other occasions to collect at least debris or entire wreckage of extraterrestrial vessels in fairly good condition, and even cadavers of humanoids, a certain type of contact would then have been established."* ^[extracted, COMETA §10.4]
+>
+> *"The simplest response would be that the United States wants to maintain at any cost military technological superiority over rival countries and, perhaps, a preferential contact."* ^[extracted]
+
+The phrase *"a certain type of contact would then have been established"* is the closest COMETA comes to placing the US in class (d) — conditional ("if the Americans were able") but with the §9.1 Corso review and §A.5 Roswell appendix both arguing the conditional is satisfied. ^[inferred]
+
+The §10.4 sentence is also the report's only explicit identification of the **AFR 200-2** and **JANAP 146** regulatory complex as the institutional apparatus underwriting US non-disclosure. Both regulations are independently confirmed in [[entities/leslie-kean|Leslie Kean]]'s [[references/boston-globe-ufo-2000-05-21|May 2000 Boston Sunday Globe piece]] — i.e., a US-press journalist arriving at the same identification of the relevant regulatory apparatus. ^[inferred — convergent attestation]
 
 ## How this maps onto the wiki's corpus
 

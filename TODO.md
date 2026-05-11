@@ -78,6 +78,48 @@ Plan restart-able at any commit boundary. Each per-source commit is a clean chec
                      → git add -A && git commit -m "hygiene: ... (sources X..Y)"
 ```
 
+## Audit & repair plan (pre-resume)
+
+Files >100KB ingested before the chunking protocol existed are at risk of silent truncation. The `Read` tool reads up to ~30K tokens of one-line minified JSON — Mistral OCR JSON is one line, so files >~50KB get truncated and the subagent gets partial content with no signal that more exists.
+
+**Confirmed gap so far:**
+- `255_413270_ufo's_and_defense_what_should_we_prepare_for.json` (COMETA Report, 94 pages) — pages 50-93 not in wiki. Missing: German pilots cold-war framing, moon-base discussion, Boston Globe May 2000 article, Russian airport Jan 2001 incident, Leslie Kean biographical entry, full appendix series.
+
+**Suspect (needs probe):**
+- All 17 other files >100KB. Section_7 had mixed results (p130 ✓, p180 ✗).
+
+### Phase 1 — Audit subagent (one shot)
+
+Dispatch a subagent to:
+1. For every file with `size_bytes > 100000` in `.manifest.json`, compute `jq '.pages | length'`.
+2. Sample 5 pages per file: indices 0, 25%, 50%, 75%, 95% of total.
+3. Extract a distinctive 80-150 char phrase from each (skip pages that are pure OCR stamps / dates).
+4. Grep the wiki (`concepts/ entities/ references/ synthesis/`) for each phrase.
+5. Build coverage table: file × probe × found-in-wiki.
+6. Flag files where ≥2 of 5 probes carry substantive content but aren't found.
+7. Per flagged file, list specific missing content (names, events, dates, themes).
+
+### Phase 2 — Repair dispatches
+
+For each flagged file, a REPAIR subagent (different prompt from ingest):
+- Read existing reference page for the file.
+- Read full source via the chunking protocol (jq batches of 20 pages).
+- Identify content present in source but absent from wiki coverage.
+- Patch in-place: append to master table inside reference page, create new entity/sighting/concept pages only for paradigm content, cross-link.
+- Update existing manifest entry's `pages_updated` / `pages_created` lists. Do NOT create a duplicate source entry.
+- Log: `[ISO] REPAIR source="..." reason="..." pages_added=N pages_updated=M`.
+- Same 15-page cap discipline as ingest.
+
+### Phase 3 — Re-audit
+
+Re-run audit subagent on repaired files to confirm coverage.
+
+### Phase 4 — Resume forward ingestion
+
+With Plan B chunking protocol applied to every subagent for the remaining 35 sources.
+
+---
+
 ## Subagent prompt template (per-source ingest)
 
 Hand this to a `general-purpose` subagent in isolation. Customize the marked `<...>` slots for the file at hand: size, sister-file context, QMD queries, paradigm-content hint.
@@ -97,10 +139,20 @@ INGEST: sources/<filename>.json (<size> bytes — <one-line description>). No ot
 OBSIDIAN_LINK_FORMAT=wikilink. OBSIDIAN_MAX_PAGES_PER_INGEST=15. Project = uap
 (frontmatter only — pages go in top-level category dirs, not under projects/uap/).
 
-## Step 1: Read source
-Mistral OCR JSON. Read in chunks if needed (Read tool offset/limit). Extract
-`pages[].markdown` + any `pages[].tables[].content`. Compute
-`shasum -a 256 -- <path>`. Confirm not in .manifest.json.
+## Step 1: Read source with chunking discipline
+Mistral OCR JSON is emitted as ONE LONG MINIFIED LINE — the Read tool's
+offset/limit parameters operate on lines, so they don't chunk JSON. Files
+>~50KB get truncated by the tool's result-size cap. Use jq instead:
+
+1. Total pages: `jq '.pages | length' sources/<file>.json`
+2. If total > 30, read in batches of 20:
+     jq -r '.pages[0:20]  | .[] | "===PAGE \(.index)===\n\(.markdown)"' sources/<file>.json
+     jq -r '.pages[20:40] | .[] | "===PAGE \(.index)===\n\(.markdown)"' sources/<file>.json
+     ... continue until index >= total.
+3. Tables: `jq -r '.pages[] | .tables[]?.content // empty' sources/<file>.json`
+4. In your deliverable `notes:` field, explicitly state coverage:
+   "Read all N pages in M batches" OR "Read M-of-N, gap at pages X-Y, reason: <why>".
+5. SHA-256: `shasum -a 256 -- <path>`. Confirm not in .manifest.json.
 
 ## Step 1b: QMD wiki discovery (MANDATORY)
 Sister-file context: <which series this belongs to, what was already ingested, what

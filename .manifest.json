@@ -385,7 +385,11 @@
         "concepts/mhd-propulsion-uap.md",
         "concepts/four-phase-contact-strategy.md",
         "concepts/uap-state-knowledge-classes.md",
-        "synthesis/policy-papers-uap-1963-vs-1999.md"
+        "synthesis/policy-papers-uap-1963-vs-1999.md",
+        "entities/leslie-kean.md",
+        "references/boston-globe-ufo-2000-05-21.md",
+        "references/sighting-russia-airport-2001-01-27.md",
+        "references/pocantico-colloquium-1997.md"
       ],
       "pages_updated": [
         "synthesis/early-uap-policy-vs-operational-track.md",
@@ -395,8 +399,19 @@
         "entities/nasa.md",
         "projects/uap/uap.md",
         "index.md",
-        "_meta/taxonomy.md"
-      ]
+        "_meta/taxonomy.md",
+        "entities/cometa-committee.md",
+        "entities/gepan-sepra.md",
+        "concepts/four-phase-contact-strategy.md",
+        "concepts/uap-state-knowledge-classes.md",
+        "concepts/foo-fighter-phenomenon.md",
+        "synthesis/policy-papers-uap-1963-vs-1999.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ],
+      "repaired_at": "2026-05-11T07:30:00Z",
+      "repair_reason": "back-half truncation; pages 47-93 absent from initial ingest"
     },
     "sources/059uap00012.json": {
       "ingested_at": "2026-05-09T23:30:00Z",
@@ -1391,15 +1406,15 @@
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-11T05:00:00Z",
+      "last_ingested": "2026-05-11T07:30:00Z",
       "sources_ingested": 43
     }
   },
   "stats": {
     "total_sources_ingested": 50,
-    "total_pages": 310,
+    "total_pages": 314,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-11T06:00:00Z"
+    "last_ingest_at": "2026-05-11T07:30:00Z"
   }
 }
