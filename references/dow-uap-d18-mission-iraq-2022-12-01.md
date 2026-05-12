@@ -13,10 +13,28 @@ base_confidence: 0.80
 lifecycle: active
 lifecycle_changed: 2026-05-12
 created: 2026-05-12T18:00:00Z
-updated: 2026-05-12T18:00:00Z
+updated: 2026-05-13T19:00:00Z
 event_date: 2022-12-01
 project: uap
 ---
+
+## [2026-05-13 update] d19 ingest — Block D firms cross-platform at N=6; zero-EMI extension reversed; counter pool stress-tested; cross-OC inverse refines to MQ-9 ISR only
+
+[[references/dow-uap-d19-mission-syria-2023-02-21|DoW-UAP-D19]] (20-21 Feb 2023, 389 EFS / 332 AEW F-15E DCA, OJMS → Shaddadi Syria) is the **first F-15E + first DCA + first fighter-platform full-Misrep** in dow-uap corpus and the **twelfth FULL USMTF Misrep ingest**. Three d18-anchored threads close / contradict / refine at d19:
+
+1. **Zero EMI within full-Misrep class CONTRADICTED at N=8** ^closed-by-dow-uap-d19 (contradiction class) on d18's headline 8 "Zero EMI extends to N=7 ^closed-by-dow-uap-d18". d19 carries an EMI segment: 3-minute RADAR JAMMING APG-82 8.8-9.9 GHz at 0021Z-0024Z, PARTIAL impact, JSIR 340377, with explicit **Turkish X-band area-of-effect jammer working theory** attached. EMI within full-Misrep class now firms at **N=2 corpus = 2-of-12 ~17%** (d62 + d19). Refined reading: EMI events occur opportunistically when aircrew encounters area-of-effect electronic warfare, regardless of platform (MQ-9 + F-15E) or theater (Hormuz + OIR-Syria interior) ^[inferred]. The d18-anchored "EMI isolated at d62 alone 1-of-11 ~9%" reading is **decisively reversed** at d19.
+
+2. **Block D firms cross-COCOM + cross-sub-theater + CROSS-PLATFORM (MQ-9 + F-15E) at N=6 BYTE-FOR-BYTE — LEADS Block A at top share** ^closed-by-dow-uap-d19. At N=17 release-block-testable artifacts: A 5-of-17 (~29%) + B 3-of-17 (~18%) + C 3-of-17 (~18%) + **D 6-of-17 (~35%)**. JS-250710-TM8S aggregates **5 distinct operational lanes within 2 COCOMs + 2 PLATFORMS** (OIR-Iraq-MC MQ-9 d10+d12 + OIR-Iraq-MB MQ-9 d18 + OIR-Syria MQ-9 d16 + EUCOM RUS-MED MQ-9 d14 + **OIR-Syria F-15E d19**). The d18-anchored "Block D = MQ-9-monolithic ISR tranche" implicit reading **falsified at d19** ^closed-by-dow-uap-d19 (contradiction class). 10/17/25 same-release-event composition firms at **N=5 within Block D** (d12+d14+d16+d18+d19 all byte-for-byte). d10 lone 10/20/25 outlier at 1-of-6 ~17%.
+
+3. **Linear-time Misrep ID counter STRESS-TESTED — d19 OUT-OF-BAND LOW at ~1,659 IDs/day** ^[ambiguous] on d18's headline 6 "counter pooled at JS-tranche level firms at N=6". d18→d19 = `8353978 − 8216304 = +137,674 IDs / ~83 days = ~1,659/day`, **~half the prior cluster minimum (~3,250 at d16→d18)**. Two competing readings:
+   - **Reading (a) — genuine tempo drop**: late-2022 to early-2023 OIR mission-report generation tempo halved, consistent with winter operational lull. d19's 1,659/day sits on the new low end of the pooled JS-tranche envelope.
+   - **Reading (b) — platform-lane separation**: F-15E DCA missions generate Misreps via a different ID pool than MQ-9 ISR missions. The d18 → d19 gap is coincidental rather than rate-bound.
+
+   Reading (b) is preferred at the corpus level given d19's structural distinctness from d18 (every operational-level axis differs except the Joint Staff release pipeline). The d18-anchored "counter pooled at JS-tranche level" reading **may need refinement to "pooled within MQ-9 ISR mission lane"**, with F-15E DCA missions drawn from a separate pool. Future fighter-platform Misreps would firm. The d3 outlier (`8,799,515`) is now corroborated against **6 within-band MQ-9 points + 1 OUT-OF-BAND-LOW F-15E point** — outlier reading stays intact.
+
+4. **Cross-OC INVERSE direction REFINES TO MQ-9 ISR ONLY** ^closed-by-dow-uap-d19 (refinement class) on d18's headline 5 "Cross-OC INVERSE direction firms at N=2 squadron-independent" + retrospective extension to N=8. d19 is a **single-OC mission** — POC OC = APPROVER OC = exec OC = 609 CAOC (no EUCOM 603 AOC in any of POC/QC/APPROVER OpCtr fields). Refined reading: inverse-cross-OC firms at N=2 within **MQ-9 ISR sub-corpus** (d16 89 ATKS + d18 482ATKS) and N=8 retrospectively with 2020 NAVCENT cluster ^[inferred], but **does NOT extend to F-15E DCA missions**. d19's 332 AEW + 389 EFS POC structure is decisively single-OC, all 609 CAOC. The d18-anchored "pattern is squadron-independent" reading **stays valid within MQ-9 ISR class** but is **platform-dependent at the corpus level** — F-15E DCA carries single-OC POC=APPROVER pattern, not the cross-OC INVERSE pattern.
+
+**Block D `undefined-` OCR-prefix firms at N=6 = 100%** ^closed-by-dow-uap-d19 (d19 = `# Misrep undefined-8353978`). **Zero GUARDCALL extends to N=6 cross-COCOM + cross-sub-theater + cross-platform** ^closed-by-dow-uap-d19 (GUARDCALL firms as Persian-Gulf-Strait-of-Hormuz-Gulf-of-Oman-MQ-9-corridor-specific at 6-of-12 testable = 50%). **89 ATKS recurs at N=2 across roles** (d16 POC + d19 APPROVER) — first cross-role recurrence in corpus. **UAP-Effects-on-Persons `(U) NONE REPORTED`** d18-anchored attestation extends to **2-of-12** with d19's `NO HEALTH EFFECTS EXPERIENCED BY AIRCREW` AIRSIGHT addendum (semantically equivalent, structurally distinct AIRSIGHT-gentext free-text vs UAP-field structured).
 
 # DoW-UAP-D18 — Full Misrep 8216304 (482ATKS / 20 FW MQ-9, 1-2 Dec 2022, USCENTCOM/ACC, Operation INHERENT RESOLVE, UTM 38S MB — first OIR mission by 2020 NAVCENT cluster squadron + OIR-Iraq sub-cluster at N=3)
 
