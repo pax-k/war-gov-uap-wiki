@@ -13,7 +13,7 @@ base_confidence: 0.80
 lifecycle: active
 lifecycle_changed: 2026-05-12
 created: 2026-05-12T03:00:00Z
-updated: 2026-05-12T04:00:00Z
+updated: 2026-05-12T18:00:00Z
 event_date: 2022-05-06
 project: uap
 ---
@@ -296,6 +296,7 @@ d10 is **FULL USMTF Misrep multi-segment sub-class**, the seventh in the corpus 
 ## See also
 
 - [[references/dow-uap-d12-mission-iraq-2022-05-20]] — **PAIRED-SISTER 14 days later (20-21 May 2022) — anchors OIR May-2022 cluster at N=2** with d10; same 609 CAOC + Operation INHERENT RESOLVE + MAG-supported + UTM 38S MC + JS-250710-TM8S tranche; different wing (163 AW ANG vs 432 AEW active) + different MAJCOM (ACC vs AFCENT); d12 Block D `MDR 25-0094 thru 25-0099` combines with d10's `MDR 25-0093` to **unified 7-case allocation** ^closed-by-dow-uap-d12; d12 sub-class 8 strict **contradicts** sub-class 11 at N=2 ^closed-by-dow-uap-d12 (sub-class 11 remains d10-isolated within OIR); d12 APPROVER `Other` **falsifies** 379 AEW APPROVER recurrence at N=3 ^closed-by-dow-uap-d12 (379 AEW tracks 432 AEW POC Wing specifically); d10 → d12 Misrep ID delta ~3,957/day validates linear-time counter at cross-wing N=3 pooled at 609 AOC / AFCENT level (NOT 432-AEW-rooted) ^closed-by-dow-uap-d12; d12 first explicit OIR sub-operation **OP PHANTOM FLEX** (d10's was redacted `OP 1.4a`).
+- [[references/dow-uap-d18-mission-iraq-2022-12-01]] — **OIR-IRAQ SUB-CLUSTER EXTENSION 7 months later (1-2 Dec 2022) — firms sub-cluster at N=3 via UTM 38S-zone match** ^closed-by-dow-uap-d18; d18 in UTM 38S **MB** (adjacent 100-km square westerly to d10+d12's MC); shares Operation INHERENT RESOLVE + 609/609 CAOC executing + Block D 10/17/25 release event byte-for-byte d12; distinct squadron (482ATKS — same as 2020 NAVCENT cluster, first OIR appearance) + distinct Wing (20 FW vs d10 432 AEW) + distinct supported unit (TF redacted vs MAG); **d18 anchors candidate sub-class 12 single-UAP-with-explicit-prosaic-candidate within USMTF Misrep** ^extends-by-dow-uap-d18 — parallel to d10's sub-class 11 (multi-UAP variant); together d10 + d18 anchor the explicit-prosaic-candidate sub-class family within full-Misrep parent class.
 - [[entities/dow-uap-foia-release]] — DoW-UAP FOIA release series anchor (22nd artifact; 7th FULL USMTF Misrep; first 2022-era / first Block D)
 - [[references/dow-uap-d60-mission-persian-gulf-2020-08-08]] — 14th artifact; first FULL USMTF Misrep (8 Aug 2020) — same 432 AEW / 609 CAOC + cluster sister
 - [[references/dow-uap-d61-mission-persian-gulf-2020-08-27]] — 15th artifact; second FULL USMTF Misrep (27 Aug 2020) — cluster sister

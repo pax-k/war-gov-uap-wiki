@@ -13,7 +13,7 @@ base_confidence: 0.80
 lifecycle: active
 lifecycle_changed: 2026-05-12
 created: 2026-05-12T04:00:00Z
-updated: 2026-05-12T04:00:00Z
+updated: 2026-05-12T18:00:00Z
 event_date: 2022-05-20
 project: uap
 ---
@@ -229,6 +229,7 @@ d12 is **FULL USMTF Misrep multi-segment sub-class**, the **eighth in corpus** (
 ## See also
 
 - [[entities/dow-uap-foia-release]] — DoW-UAP FOIA release series anchor (23rd artifact; 8th FULL USMTF Misrep; second 2022-era / second OIR; first 163 AW + first ANG-wing-mission-report + first ACC MAJCOM + first 196 ATKS unit)
+- [[references/dow-uap-d18-mission-iraq-2022-12-01]] — **OIR-IRAQ SUB-CLUSTER SISTER 7 months later (1-2 Dec 2022)** — firms OIR-Iraq sub-cluster at N=3 ^closed-by-dow-uap-d18 via UTM 38S-zone match (d18 = 38S MB adjacent to d10+d12 38S MC); shares Operation + 609 CAOC executing + Block D 10/17/25 release event byte-for-byte; distinct squadron (482ATKS — first OIR appearance for the 2020 NAVCENT cluster squadron) + distinct Wing (20 FW ^[ambiguous]) + distinct supported unit (TF redacted vs MAG)
 - [[references/dow-uap-d10-mission-middle-east-2022-05-06]] — 22nd artifact; seventh FULL USMTF Misrep + first OIR-cluster anchor (d10 + d12 = OIR May-2022 cluster at N=2); paired-sister 14 days before d12; shares Operation + Operations Center + supported-unit + JS-tranche but distinct wing (432 AEW vs 163 AW) + MAJCOM (AFCENT vs ACC)
 - [[references/dow-uap-d60-mission-persian-gulf-2020-08-08]] — 14th artifact; first FULL USMTF Misrep; 2020 NAVCENT-cluster origin; 432 AEW + 609 CAOC backbone; linear-time Misrep ID counter cross-cluster validation point at d10 + d12
 - [[references/dow-uap-d61-mission-persian-gulf-2020-08-27]] — 15th artifact; second FULL USMTF Misrep; cluster sister

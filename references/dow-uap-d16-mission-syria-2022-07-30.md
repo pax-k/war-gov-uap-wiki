@@ -13,7 +13,7 @@ base_confidence: 0.80
 lifecycle: active
 lifecycle_changed: 2026-05-12
 created: 2026-05-12T17:00:00Z
-updated: 2026-05-12T17:00:00Z
+updated: 2026-05-12T18:00:00Z
 event_date: 2022-07-30
 project: uap
 ---
@@ -256,6 +256,7 @@ d16 carries **all 7 pages substantive** (zero header-only `# 1.4(a)` padding pag
 ## See also
 
 - [[entities/dow-uap-foia-release]] — series-level anchor; d16 = 25-of-40 + 10th FULL USMTF Misrep
+- [[references/dow-uap-d18-mission-iraq-2022-12-01]] — **CROSS-OC INVERSE DIRECTION SISTER** (1-2 Dec 2022 OIR-Iraq-MB; 482ATKS / 20 FW POC + 603 AOC POC home + 609 CAOC executing) — second inverse-direction pairing in dow-uap corpus ^closed-by-dow-uap-d18 on d16's pending cross-OC-INVERSE-N≥2 thread; squadron-independent pattern (89 ATKS d16 vs 482ATKS d18); shares Operation INHERENT RESOLVE + executing OC 609 + Block D 10/17/25 release event byte-for-byte; distinct sub-theater (OIR-Syria 37S d16 vs OIR-Iraq-MB 38S d18); d18 retroactively reframes the d60-d65 NAVCENT cluster as 6 inverse-cross-OC missions (cluster POC OpCtr `603 AOC` byte-for-byte) ^[inferred]
 - [[concepts/uap-aircraft-engagement]] — counter increments N=16→N=17 records / 27→28 datums; sub-class 8 with annotation at N=2
 - [[references/dow-uap-d14-mission-iraq-2022-05-29]] — **CROSS-OC MISSION SISTER**: d14 (POC 609 → exec 603 CENTCOM-rooted into EUCOM) + d16 (POC 603 → exec 609 EUCOM-rooted into CENTCOM) form the **bidirectional cross-OC class at N=2 in dow-uap corpus**; first inverse-direction pairing
 - [[references/dow-uap-d12-mission-iraq-2022-05-20]] — **OIR-Iraq SUB-CLUSTER SISTER**: d12 (20-21 May 2022 OIR-Iraq) + d10 (6-7 May 2022 OIR-Iraq) anchor sub-cluster at N=2; d16 (OIR-Syria) extends OIR-class anchor to N=3 via the Syria sub-theater split
@@ -290,7 +291,7 @@ d16 carries **all 7 pages substantive** (zero header-only `# 1.4(a)` padding pag
 - **`TF CHOSIN` supported-unit recurrence at N≥2** (d16-anchored) — first TF CHOSIN attestation; first Marine task-force named supported unit in OIR-Syria sub-theater. Recurrence anchors TF CHOSIN as the OIR-Syria Marine ground-task-force parallel to MAG (Marine Aircraft Group) in OIR-Iraq.
 - **`OJMS` Muwaffaq Salti AB launch-base recurrence at N≥2** (d16-anchored) — first OJMS / first Jordan launch base in dow-uap corpus. Recurrence anchors OJMS as the OIR-Syria forward-operating-location parallel to OKAS Kuwait (NAVCENT cluster) + LICZ Sigonella Italy (d14 EUCOM).
 - **`KP 9` killbox-letter-format recurrence at N≥2** (d16-anchored) — first `KP`-letter killbox descriptor in corpus (vs d12's `89AS` numeric + d14's `41EMD`). Recurrence anchors the alphanumeric-letter killbox format as an OIR-Syria-sub-theater convention.
-- **Cross-OC mission INVERSE direction recurrence at N≥2** (d16-anchored) — d14 + d16 anchor bidirectional cross-OC class at N=2 (d14 CENTCOM→EUCOM + d16 EUCOM→CENTCOM). Does a future ingest carry another cross-OC mission, firming the class at N≥3? Particularly, does another inverse-direction (EUCOM-rooted POC → CENTCOM-rooted executing OC) recur within OIR-Syria sub-theater, firming the 603 AOC POC-home-OC reading?
+- ~~**Cross-OC mission INVERSE direction recurrence at N≥2**~~ ^closed-by-dow-uap-d18 — **FIRMED**: d18 (1-2 Dec 2022 OIR-Iraq-MB; 482ATKS / 20 FW + 603 AOC POC + 609 CAOC executing) is the third cross-OC mission and second inverse-direction in dow-uap corpus. d16 + d18 share the inverse direction (EUCOM-rooted POC → CENTCOM-rooted executing OC) at N=2 across **two different squadrons** (89 ATKS in d16 + 482ATKS in d18) — confirming the pattern is **squadron-independent**. Retrospective extension ^[inferred]: d60-d65 NAVCENT cluster all attest `POC OpCtr: 603 AOC` byte-for-byte — the 6 cluster missions were also inverse-direction cross-OC missions; extends inverse-direction class to **N=8 retrospectively** (cluster 6 + d16 + d18) if framing is consistent. Cross-OC INVERSE is the corpus-dominant 482ATKS reporting convention.
 - **OIR-Syria sub-theater UAP-narrative template recurrence at N≥2** (d16-anchored) — d16's `UAP EVENT` framing token + duration-and-heading-axis-only-annotation pattern + 89 ATKS / 609 CAOC + 603 AOC POC-home-OC tuple. Does a future OIR-Syria ingest carry the same framing template, firming a within-OIR-Syria narrative template parallel to d12+d14's within-May-2022 boilerplate?
 - **`UAP EVENT` framing token recurrence at N≥2** (d16-anchored) — first `AN UAP EVENT` token in dow-uap corpus (vs cluster's `1X UAP` + d10/d12/d14's `OBSERVED A UAP`). Recurrence anchors event-class framing convention.
 - **89 ATKS = 603 AOC-rooted forward-deployed EUCOM squadron reading vs Mistral-OCR-field-carry-over** (d16-anchored, two competing readings) — Reading (a) parsimoniously assigns 89 ATKS as a Sigonella-or-similar forward-deployed EUCOM-homed 432 AEW squadron pool member (parallel to d14's 50 ATKS); Reading (b) Mistral OCR cross-document field carry-over from d14 within the same 10/17/25 Block D release-event-batch. Future cross-document attestation of 89 ATKS at 603 AOC home, or recovery of d16's POC contact info to confirm a different home OC, would resolve the ambiguity.
