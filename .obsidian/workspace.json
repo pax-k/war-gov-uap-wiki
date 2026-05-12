@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synthesis/uap-phenomenon-nature.md",
+                "file": "entities/d-arthur-byrnes-jr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uap-phenomenon-nature"
+              "title": "d-arthur-byrnes-jr"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "synthesis/uap-phenomenon-nature.md",
+                "file": "entities/d-arthur-byrnes-jr.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of uap-phenomenon-nature"
+              "title": "Outline of d-arthur-byrnes-jr"
             }
           }
         ],
@@ -187,6 +186,14 @@
   },
   "active": "264d9855d1e46191",
   "lastOpenFiles": [
+    "references/dow-uap-d12-mission-iraq-2022-05-20.md",
+    "references/dow-uap-d10-mission-middle-east-2022-05-06.md",
+    "references/dow-uap-d6-mission-arabian-gulf-2020.md",
+    "references/dow-uap-d3-mission-arabian-gulf-2020.md",
+    "references/dow-uap-d65-mission-persian-gulf-2020-07-16.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "synthesis/uap-phenomenon-nature.md",
     "references/dow-uap-d63-mission-strait-of-hormuz-2020-10-02.md",
     "references/dow-uap-d64-mission-iran-2020-11-02.md",
     "references/dow-uap-d62-mission-strait-of-hormuz-2020-09-16.md",
@@ -204,15 +211,9 @@
     "references/dow-uap-d50-email-indopacom-2025-04.md",
     "references/dow-uap-d8-mission-djibouti-2025.md",
     "_raw/tweet-thread-uap-nature.md",
-    "synthesis/uap-phenomenon-nature.md",
     "references/dow-uap-d54-mission-mediterranean-sea.md",
     "_meta/open-threads-triage-2026-05-11.md",
     "timeline.md",
-    "entities/afswp.md",
-    "entities/army-g-2.md",
-    "entities/oni.md",
-    "concepts/project-blue-book.md",
-    "entities/edward-u-condon.md",
     "combined.csv",
     "uap_people.csv",
     "kg.png",
@@ -223,7 +224,6 @@
     "_raw",
     "sources/western_us_event_slides_5.08.2026.json",
     "sources/usper-statement-redacted.json",
-    "sources/serial-4-redacted_redacted.json",
-    "sources/serial-3_redacted.json"
+    "sources/serial-4-redacted_redacted.json"
   ]
 }
