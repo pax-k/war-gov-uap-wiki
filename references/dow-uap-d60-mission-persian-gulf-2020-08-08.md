@@ -103,7 +103,7 @@ The d60 POC block (page 1) supplies the **first internally-preserved unit-attrib
 
 | Role | Unit | Inferred decoded entity |
 |---|---|---|
-| **POC** | `482ATKS` / `432 AEW` / `603 AOC` | **482d Attack Squadron** (USAF) — MQ-9 Reaper community ^[inferred]; under **432d Air Expeditionary Wing** (Creech AFB-anchored deployed MQ-9 wing) ^[inferred]; **603rd Air and Space Operations Center** (Ramstein-based for USAFE/AFRICOM, but the form's `603 AOC` placement under USCENTCOM COCOM ^[inferred] suggests USCENTCOM-AOR MQ-9 ops centre, plausibly a 609th sub-element). ^[ambiguous] |
+| **POC** | `482ATKS` / `432 AEW` / `603 AOC` | **482d Attack Squadron** (USAF) — MQ-9 Reaper community ^[inferred]; under **432d Air Expeditionary Wing** (Creech AFB-anchored deployed MQ-9 wing) ^[inferred]; **603rd Air and Space Operations Center** (Ramstein-based for [[entities/usafe|USAFE]]/AFRICOM, but the form's `603 AOC` placement under USCENTCOM COCOM ^[inferred] suggests USCENTCOM-AOR MQ-9 ops centre, plausibly a 609th sub-element). ^[ambiguous] |
 | **QC** | `PAROC IDAT` / `Other` | **PAROC** = same Intel-Data-Analysis-Technician role first attested in [[references/dow-uap-d52-email-na-2024|d52]] (PAROC at 15 AF / DET 1); **IDAT** = Intel Data Analysis Technician (recurring d52 + d50 attestation). ^[inferred] First QC-block attestation of PAROC in the dow-uap mission-report sub-class. |
 | **APPROVER** | `609th AOC` / `Other` / `609 CAOC` | **609th Air and Space Operations Center / 609th Combined Air Operations Center** — the USAF/USCENTCOM theater AOC at Al Udeid AB, Qatar. ^[inferred] The **609 CAOC anchors the USCENTCOM/AFCENT air operations centre** for the Persian Gulf / Levant theaters. First explicit 609th AOC attestation in the dow-uap corpus. |
 
@@ -295,7 +295,7 @@ d60 introduces or extends the following in the dow-uap corpus (now N=14 ingests)
 7. **First explicit 609 CAOC** (Combined Air Operations Center, Al Udeid AB Qatar — USCENTCOM theater air-operations centre) attestation in dow-uap corpus. ^[inferred]
 8. **First MAJCOM + COCOM explicit attribution** — `ACC` (Air Combat Command) + `USCENTCOM`. ^[inferred]
 9. **First explicit AREC mission type** in dow-uap mission-report sub-class. ^[inferred] (d44 = passive ISR; d56 = SSC; d38 = ISR; d58 = DCA — d60 adds AREC to the dow-uap mission-classification distribution.)
-10. **First MQ-9 Reaper on a mission report** — d44 was MQ-9 but in the range-fouler-debrief class. ^[inferred] First USAF / 432 AEW / 482ATKS MQ-9 anchor for a mission-report-class ingest.
+10. **First MQ-9 Reaper on a mission report** — d44 was MQ-9 but in the [[concepts/range-fouler|range-fouler]]-debrief class. ^[inferred] First USAF / 432 AEW / 482ATKS MQ-9 anchor for a mission-report-class ingest.
 11. **First USAF-Active-component (not ANG) MQ-9 anchor** in dow-uap corpus — d44's 172 ATKS is ANG; d60's 482ATKS is Active ^[inferred].
 12. **First OKAS (Ali Al Salem AB, Kuwait) launch-base anchor** in dow-uap corpus. ^[inferred]
 13. **First LRE (Launch and Recovery Element) attestation** in dow-uap corpus — anchors the MQ-9 split-operation model. ^[inferred]

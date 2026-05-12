@@ -261,7 +261,7 @@ The d61 release block on every page carries **Block B**, matching [[references/d
    All three axes are coherently correlated at N=2 each — Block B uses `26-0019` + `01/26/26` + 3-digit; Block A uses `26-0038-46` + `03/27/26` + 6-digit. The dow-uap release was a **multi-batch operation** with at least two distinct release events 60 days apart, each carrying its own page-stamp scheme. ^[inferred]
 4. **Block B temporally precedes Block A**: d38 + d61 release stamp `01/26/26` (26 Jan 2026) is 60 days earlier than d55 + d58 + d44 + d56 + d60's `03/27/26` (27 Mar 2026). The Block B documents were released first, the Block A documents second. ^[inferred]
 5. **Class distribution across Blocks**:
-    - Block A range-fouler debriefs: d55 (CTG narrative) + d58 + d44 + d56
+    - Block A [[concepts/range-fouler|range-fouler]] debriefs: d55 (CTG narrative) + d58 + d44 + d56
     - Block A full Misrep: d60
     - Block B range-fouler debrief: d38
     - Block B full Misrep: d61

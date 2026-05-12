@@ -92,7 +92,7 @@ This layer now has **two** documents in the corpus (Hunter 1963 + COMETA 1999). 
 - [[synthesis/federal-le-uap-witness-pattern]] — modern operational-layer synthesis.
 - [[projects/uap/uap]]
 
-## Open
+## Open threads
 
 - Acquire the Robertson Panel and Condon Report sources to test the three-layer split. ^[open]
 - Look for any NASC-internal reply to or follow-on of the Hunter memo. ^[open]

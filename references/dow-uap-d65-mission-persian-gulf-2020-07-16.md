@@ -224,7 +224,7 @@ Block C now carries three documents at **non-contiguous source-event dates**:
 | B | d61 + d62 | d38 | **3** |
 | C | d63 + d64 + **d65** | (none) | **3** |
 
-**Full-Misrep class spans all 3 Blocks**: A 1-of-6 + B 2-of-6 + **C 3-of-6 dominant share** for the Block-C pipeline. ^[inferred] **Block C is now the full-Misrep-rich block** (3-of-6 = 50% of full-Misreps), reframing the d64-anchored "C+B carry more full-Misreps than A" reading. Range-fouler class still skews Block A (4-of-5 = 80%); Block C now carries **zero range-foulers at N=11**. ^[inferred] **Block C may be a full-Misrep-only release pipeline** — testable at the next Block-C ingest.
+**Full-Misrep class spans all 3 Blocks**: A 1-of-6 + B 2-of-6 + **C 3-of-6 dominant share** for the Block-C pipeline. ^[inferred] **Block C is now the full-Misrep-rich block** (3-of-6 = 50% of full-Misreps), reframing the d64-anchored "C+B carry more full-Misreps than A" reading. [[concepts/range-fouler|Range-fouler]] class still skews Block A (4-of-5 = 80%); Block C now carries **zero range-foulers at N=11**. ^[inferred] **Block C may be a full-Misrep-only release pipeline** — testable at the next Block-C ingest.
 
 ## Iranian Air Defense GUARDCALL — extends to N=6 with 1 hail on d65
 

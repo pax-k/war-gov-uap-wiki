@@ -297,7 +297,7 @@ The d62 release block on every page carries **Block B**, matching [[references/d
 2. **Per-document sequential page-stamping is decisively confirmed in Block B at N=3** — d38 single-page = `001`; d61 multi-page = `001→007`; d62 multi-page = **`001→009`**. Each Block-B artifact carries 3-digit per-page sequential page-stamps starting at `001`. ^[inferred] **The 3-digit scheme is now anchored at N=3 across single-page + 7-page + 9-page artifacts** — definitive.
 3. **Block B precedes Block A by 60 days, confirmed at N=3.** Block B release date `01/26/26` (26 Jan 2026); Block A release date `03/27/26` (27 Mar 2026). The 60-day gap holds across all Block-B attestations (d38 + d61 + d62 all at `01/26/26`). ^[inferred]
 4. **Mission-report sub-class distribution across Blocks at N=3 Block-B testable**:
-    - Block A range-fouler debriefs: d55 (CTG narrative) + d58 + d44 + d56 (4 of 4 Block A range-foulers ^[inferred])
+    - Block A [[concepts/range-fouler|range-fouler]] debriefs: d55 (CTG narrative) + d58 + d44 + d56 (4 of 4 Block A range-foulers ^[inferred])
     - Block A full Misrep: d60 (1 of 1 Block A Misreps)
     - Block B range-fouler debrief: d38 (1 of 1 Block B range-foulers)
     - **Block B full Misreps: d61 + d62 (2 of 2 Block B Misreps)**

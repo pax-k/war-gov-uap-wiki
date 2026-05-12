@@ -43,7 +43,7 @@ NASC is the first **White House-staff-level** institutional handler of the alien
 - [[concepts/space-alien-policy-question]]
 - [[projects/uap/uap]]
 
-## Open
+## Open threads
 
 - Identify whether other NASC SP-series memos in NARS touch on UAP / alien-contact topics. ^[open]
 - Map the NASC Professional Staff roster in 1963. ^[open]

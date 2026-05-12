@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-12T04:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-12T06:00:00Z*
 
 > **See also:** [[timeline]] — chronological index of every datable wiki page, ordered by event date (proposed reading order for the corpus, 1944 → 2026).
 
@@ -176,6 +176,12 @@ title: Wiki Index
 - [[entities/wladyslaw-krasuski]] — Polish DP, Detroit brewery worker, ex-WWII POW at Gut Alt Golssen; FBI-interviewed witness in the 1957 100-26505 case ( #person #witness #uap #ww2)
 - [[entities/william-pogue]] — USAF fighter pilot (Korean War combat veteran, Thunderbirds alumnus), NASA Group 5 astronaut, PLT Skylab 4 (1973–74); §7 co-witness frame for Carr's d7 SL-4 flashing-lights observation; primary speaker on OWS heat-exchanger / PCU-connector failure mode (non-UAP) ( #person #witness #uap #nasa #astronaut)
 - [[entities/wright-patterson-afb]] — Dayton, OH base; physical hub of the 1948 USAF UFO collection effort ( #usaf #location #history)
+- [[entities/432-aew]] — STUB. 432d Air Expeditionary Wing; USAF deployed MQ-9 Reaper expeditionary wing; cross-COCOM POC Wing across the dow-uap 2020 NAVCENT cluster (482ATKS), 2022 OIR (d10), and 2022 EUCOM (d14, Sigonella) lanes (LINT 2026-05-12) ( #usaf #organization #military #uap #isr)
+- [[entities/482-atks]] — STUB. 482d Attack Squadron; USAF MQ-9 Reaper squadron under 432 AEW; POC Unit on the dow-uap 2020 NAVCENT mission-cluster sextuplet (Jul–Nov 2020 Persian Gulf / Strait of Hormuz / Iran AOR) (LINT 2026-05-12) ( #usaf #organization #military #uap #isr)
+- [[entities/603-aoc]] — STUB. 603rd Air and Space Operations Center; USAF / USEUCOM theater AOC at Ramstein AB; the d14 contradiction-axis Operations Center that broke the OIR May-2022 cluster N≥3 framing (LINT 2026-05-12) ( #usaf #organization #military #uap #isr)
+- [[entities/609-caoc]] — STUB. 609th Combined Air Operations Center (609 CAOC / 609 AOC); USAF / USCENTCOM theater AOC at Al Udeid AB Qatar; Approving Operations Center for the dow-uap 2020 NAVCENT + 2022 OIR clusters (LINT 2026-05-12) ( #usaf #organization #military #uap #isr)
+- [[entities/afcent]] — STUB. Air Forces Central Command; USAF theater MAJCOM for USCENTCOM AOR (USAFCENT / Ninth Air Force); MAJCOM field of active-component dow-uap NAVCENT + OIR Misreps; contrasts with ACC for ANG-routed missions (LINT 2026-05-12) ( #usaf #organization #military #uap #isr)
+- [[entities/mq-9-reaper]] — STUB. General Atomics medium-altitude long-endurance unmanned ISR/strike aircraft; inferred platform behind every full USMTF Misrep in the dow-uap corpus (FMV signature; ~21h mission envelope) and behind the range-fouler debrief corpus (LINT 2026-05-12) ( #usaf #platform #aircraft #uap #isr)
 
 ## Skills
 

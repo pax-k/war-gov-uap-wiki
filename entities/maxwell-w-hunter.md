@@ -45,7 +45,7 @@ Hunter is the wiki's first cataloged **policy-side** UAP-adjacent author — a c
 - [[concepts/three-class-alien-taxonomy]] — his classification scheme.
 - [[projects/uap/uap]] — project parent.
 
-## Open
+## Open threads
 
 - Confirm whether the 1963 NASC "Maxwell W. Hunter, II" is the same engineer later at Lockheed and McDonnell Douglas. ^[open]
 - Identify other NASC staff papers Hunter authored on space policy. ^[open]

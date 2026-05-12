@@ -38,7 +38,7 @@ Addressee of the 18 July 1963 NASC memo "Thoughts on the Space Alien Race Questi
 - [[concepts/space-alien-policy-question]] — substantive topic.
 - [[projects/uap/uap]] — project parent.
 
-## Open
+## Open threads
 
 - Locate Packard's reply, if any. ^[open]
 - Build out Packard's wider OISA portfolio for context. ^[open]

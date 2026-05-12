@@ -13,7 +13,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-09
 created: 2026-05-09T18:30:00Z
-updated: 2026-05-09T18:30:00Z
+updated: 2026-05-12T05:30:00Z
 ---
 
 # US Air Forces in Europe (USAFE)
@@ -55,4 +55,5 @@ The wiki's only primary-source touchpoint for USAFE is **[[references/usafe-tt15
 - [[entities/c-p-cabell]] — addressee of TT 1524.
 - [[entities/air-materiel-command]] — redistribution destination at HQ USAF.
 - [[concepts/project-sign]] — the parallel AFOIR-CO field-installation track.
+- [[references/dow-uap-d14-mission-iraq-2022-05-29]] — **First USEUCOM dow-uap artifact** (29-30 May 2022): 50 ATKS / 432 AEW MQ-9 forward-deployed Sigonella LICZ Italy, executing ISO 603 AOC (USAFE Air Operations Center, Ramstein AB ^[inferred]) for Russian Mediterranean Squadron watch. d14 anchors the wiki's first 21st-century USAFE-equivalent-AOC tasked UAP record, parallel to (not part of) the 1948 USAFE TS-track.
 - [[projects/uap/uap]] — project overview.

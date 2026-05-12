@@ -118,7 +118,7 @@ This adds a third asymmetry to the original three (case-data, authorship, nation
 - [[synthesis/early-uap-policy-vs-operational-track]]
 - [[projects/uap/uap]]
 
-## Open
+## Open threads
 
 - Was COMETA aware of the Hunter 1963 memo? The COMETA Report does not cite it. ^[inferred-as-question]
 - Has any later document (2000–2026) cited *both* Hunter and COMETA? ^[open]

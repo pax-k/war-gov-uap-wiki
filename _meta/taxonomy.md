@@ -5,12 +5,12 @@ tags: [taxonomy, meta]
 sources: []
 summary: Canonical controlled vocabulary for tags across the wiki. Source of truth for the tag-taxonomy skill.
 created: 2026-05-09
-updated: 2026-05-11T23:55:00Z
+updated: 2026-05-12T16:00:00Z
 ---
 
 # Tag Taxonomy
 
-Controlled vocabulary for the wiki. The current corpus is **UAP-archives** focused (343 wiki pages from 60 declassified-document / archival-conversation ingests, 1944–2026). Tags below are organized by axis. Use this file as the source of truth before adding tags to any new page.
+Controlled vocabulary for the wiki. The current corpus is **UAP-archives** focused (353 wiki pages from 70 declassified-document / archival-conversation ingests, 1944–2026). Tags below are organized by axis. Use this file as the source of truth before adding tags to any new page.
 
 ## Rules
 
@@ -34,7 +34,7 @@ These mark a page's intended reach. **Optional.** Untagged pages default to publ
 
 Rules: do **not** count toward 5-tag limit; one per page; never aliased; leave untouched in audits.
 
-Current corpus: **0 pages tagged**. All pages default to public, which matches an open-source declassified-archive vault.
+Current corpus: **0 pages tagged**. All 353 pages default to public, which matches an open-source declassified-archive vault.
 
 ## Domain Tags
 
@@ -44,7 +44,7 @@ The subject matter axis — what the page is about.
 
 | Tag | Use for |
 |---|---|
-| `uap` | Anything in the UAP / unidentified-aerial-phenomena domain. The corpus's anchor tag (318 pages). |
+| `uap` | Anything in the UAP / unidentified-aerial-phenomena domain. The corpus's anchor tag (328 pages). |
 
 ### History / era
 
@@ -53,7 +53,7 @@ The subject matter axis — what the page is about.
 | `history` | Historical analysis or context (broad). |
 | `ww2` | World War II (1939–1945) era specifically. |
 | `1947` … `1994` | Year of source-event when narrowly anchored. Use sparingly — prefer `history` + `ww2` etc. when an era covers it. |
-| `1960s` | Decade-level when year is unknown or pattern spans years. |
+| `1940s`, `1950s`, `1960s` | Decade-level when year is unknown or pattern spans years. Use the decade tag (not a year tag) when the page covers a multi-year span within a single decade — e.g. BSRA 1945–1952, IFSB 1952–1962. |
 
 ### Geography
 
@@ -170,16 +170,16 @@ Tags below are **non-canonical**. Replace with the canonical form when found.
 
 ## Frequency Reference (post-normalization)
 
-**As of 2026-05-11 batch-6 audit:** 109 unique tags across 343 wiki pages (60 sources / 331 manifest pages + 12 non-manifest pages — synthesis/projects/journal). Near-equilibrium — **one** normalization applied (single-use non-canonical `hypothesis` dropped from `synthesis/uap-phenomenon-nature.md`, leaving canonical `[uap, analysis, witness, history]`). Zero alias usage, zero non-ASCII / whitespace / case / underscore issues, zero pages over the 5-tag limit, zero new tags introduced. Top tags:
+**As of 2026-05-12 batch-7 audit:** 109 unique tags across 353 wiki pages (70 sources / 341 manifest pages + 12 non-manifest pages — synthesis/projects/journal). Near-equilibrium — **zero** page-level normalizations applied; **two** taxonomy additions (`1940s` + `1950s` as canonical decade-slots, parallel to existing `1960s`, formalizing pre-existing usage on 3 entity pages introduced in the batch-5/6 FBI HQ section ingests). Zero alias usage, zero non-ASCII / whitespace / case / underscore issues, zero pages over the 5-tag limit. Top tags:
 
 ```
-318 uap                120 primary-source     90 sighting           79 fbi
- 71 person              65 declassified       51 history            41 usaf
+328 uap                130 primary-source    100 sighting           79 fbi
+ 75 declassified        71 person             51 history            50 usaf
  40 nasa                39 1947               39 witness            38 organization
  34 intelligence        34 policy             33 1948               28 astronaut
  28 civilian-research   23 1950               23 military           20 pattern
  19 morphology          19 rhetoric           15 state-department   15 ww2
- 13 aviation            12 navy               10 1949               10 1957
+ 13 aviation            13 navy               10 1949               10 1957
  10 federal-le          10 france              9 1952                9 usaaf
   8 diplomacy            8 dod                 7 california          7 eti-attribution
   7 new-mexico           7 spacecraft          6 analysis            6 mexico
@@ -187,16 +187,16 @@ Tags below are **non-canonical**. Replace with the canonical form when found.
   5 russia               5 us-army
 ```
 
-Notable shifts from batch-5 audit (325 → 343 pages, +18; tags 109 → 109, ±0 net; 110 unique observed pre-normalization → 109 after dropping `hypothesis`):
+Notable shifts from batch-6 audit (343 → 353 pages, +10; tags 109 → 109, ±0 net; 111 unique observed pre-normalization → 109 after the two decade-slot promotions absorbed `1940s` + `1950s` into the canonical vocabulary):
 
-- `uap` 300 → 318 (+18, exactly tracking new pages — anchor invariant).
-- `primary-source` 111 → 120, `declassified` 56 → 65, `sighting` 81 → 90 — driven by the dow-uap range-fouler series (d38, d44, d55, d56, d58, d60), the d50 INDOPACOM email, and the d8 Djibouti FIN+SWE+FVEY mission report.
-- `military` 11 → 23, `navy` 9 → 12, `usaf` 38 → 41 — the dow-uap mission-report ingests are well-distributed across service-affiliation tags (d38 = military, d44/d8 = usaf, d55 = military, d56 = navy, d58 = usaf, d60 = usaf).
-- `fbi` 78 → 79 — only +1 (the d50-related cross-link on `corona-3-amigos`); FBI HQ ingest is fully absorbed, batch-6 is a dow-uap-dominated batch.
-- `history` 46 → 51, `policy` 31 → 34 — modest growth from cross-link consolidation, not new ingests.
-- One **single-use anomaly** (`hypothesis` on `synthesis/uap-phenomenon-nature.md`) was carried in from the earlier 7-lens synthesis page; dropped this pass per the skill's single-use-replace-or-drop rule. Page retained `[uap, analysis, witness, history]` — fully descriptive at 4 tags.
-- No new tags introduced. d60's "Misrep" descriptor — the FULL USMTF mission report sub-class headline of the d60 ingest — is captured in title + body, not as a tag; `primary-source` + `declassified` + `usaf` + `sighting` already mark the artifact class. No taxonomy entry needed.
-- No year-slot activations this pass. The reserved 1947–1994 range and decade slots are stable.
+- `uap` 318 → 328 (+10, exactly tracking new pages — anchor invariant).
+- `primary-source` 120 → 130 (+10), `declassified` 65 → 75 (+10), `sighting` 90 → 100 (+10) — d61-d65 cluster (5 full USMTF Misreps) + d10 OIR Misrep + d6 + d12 + d14 + d3 ingests all carry the canonical `[uap, primary-source, declassified, navy|usaf|military, sighting]` artifact-class set. Zero tag-set drift across the batch.
+- `usaf` 41 → 50 (+9), `military` 23 → 23 (±0), `navy` 12 → 13 (+1) — batch-7 is heavily USAF-anchored (d61-d65 + d10 are all 432 AEW / 482ATKS / 609 CAOC MQ-9 missions; the d61-d65 quintuplet alone accounts for +5 USAF mission-report pages).
+- `fbi` 79 → 79 (±0) — FBI HQ ingest fully absorbed at batch-5/6; batch-7 is exclusively dow-uap.
+- `history` 51 → 51, `policy` 34 → 34, `nasa` 40 → 40 (all ±0) — no NASA / policy-domain ingests this batch; growth is exclusively in the dow-uap mission-report corner.
+- TWO **decade-slot canonical promotions** (`1940s` 1 use on `entities/borderland-sciences-research-associates.md`; `1950s` 2 uses on `entities/international-flying-saucer-bureau.md` + `entities/albert-k-bender.md`). All three pages were created 2026-05-10 during the FBI HQ Section-7/9 ingest batch (pre-batch-7); the decade tags weren't caught in batch-5/6 audits because the FBI HQ section ingest finished mid-batch-5 and the entity pages were created concurrent with the audit pass. Promotion rationale: `1960s` is already canonical with the documented decade-rationale (`Decade-level when year is unknown or pattern spans years`); BSRA spans 1945-1952, Bender ~1952-1953, IFSB ~1952-1962 — all genuinely decade-spanning; year-tags would lose precision. Per skill's "2+ pages → add to taxonomy" rule (`1950s` qualifies cleanly), and per single-use-replace-or-drop rule for `1940s` the closest canonical alternative would be a 1945/1946/etc. year tag which is less informative than the decade tag, so promotion is the most-informative move. Pages were NOT modified; promotions formalize pre-existing canonical-equivalent usage.
+- No new domain/type/phenomenology/policy tags introduced from d10-d14 ingests. d10's `OIR` (Operation Inherent Resolve) + `MAG` (Marine Aircraft Group) + `XCAS` mission-type are captured in title + body + entity-link prose, not as tags; existing `[uap, primary-source, declassified, usaf, sighting]` covers the artifact class for all of d10-d65 batch entries.
+- No year-slot activations this pass. The reserved 1947–1994 range remains stable. 2020/2022 event-dates (d61-d65 + d10) fall outside the reserved year-tag range and are anchored via filename-date suffix + `event_date` frontmatter, not via year-tag — consistent with the taxonomy's reserved-year-slot scope.
 
 The long tail (1–4 uses) remains dominated by year tags, US state tags, and country tags — narrow but uniformly applied. Acceptable.
 

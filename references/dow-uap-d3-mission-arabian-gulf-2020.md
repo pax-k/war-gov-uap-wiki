@@ -13,7 +13,7 @@ base_confidence: 0.60
 lifecycle: active
 lifecycle_changed: 2026-05-12
 created: 2026-05-12T01:45:00Z
-updated: 2026-05-12T01:45:00Z
+updated: 2026-05-12T06:00:00Z
 project: uap
 ---
 
@@ -22,6 +22,8 @@ project: uap
 A **7-page Mistral-OCR'd artifact** (`sources/dow-uap-d3-mission-report-arabian-gulf-2020.json`, 7,060 bytes; SHA-256 `c3739f8943d57…`) — the **20th artifact** in the [[entities/dow-uap-foia-release|DoW-UAP FOIA release series]] and the **7th single-segment GENTEXT/UAP extract** sub-format (joining [[references/dow-uap-d4-mission-arabian-gulf-2020|d4]] + [[references/dow-uap-d5-mission-arabian-gulf-2020|d5]] + [[references/dow-uap-d7-mission-arabian-gulf-2020|d7]] + [[references/dow-uap-d54-mission-mediterranean-sea|d54]] + [[references/dow-uap-d8-mission-djibouti-2025|d8]] + [[references/dow-uap-d6-mission-arabian-gulf-2020|d6 implied]]). d3 carries **one structurally-complete GENTEXT/UAP datum on page 6** with a multi-object (4X UAP) observation under 100% cloud cover. ^[inferred]
 
 The d3 ingest extends the corpus's multi-object UAP-observation count and **refutes the linear-time Misrep-ID-per-day reading at squadron level** anchored by the d60-d65 cluster: d3 Misrep ID `8799515` is **+4,327,001 IDs higher than [[references/dow-uap-d65-mission-persian-gulf-2020-07-16|d65]]'s `4472514`** — at the cluster's empirical ~5,200 IDs/day rate that would place d3 ~830 days (~2.3 years) AFTER d65 (i.e., ~2022-2023), contradicting the filename `2020` label. ^[inferred] Three readings live: (a) **per-squadron-counter** reading — d3 is from a different squadron than 482ATKS, with its own ID counter range; (b) **non-linear counter** reading — counter rate varies per squadron or per release event; (c) **filename-year mismatch** reading — d3 actual event year is 2022-2023 not 2020. ^[ambiguous] The body-text Operation field is portion-redacted `(b)(1).4a`; no body-text event-date anchor recoverable from OCR. Domain field shows `2016` and Operations Center field shows `2016` — both likely OCR-corruption / placeholder-fill artifacts ^[ambiguous].
+
+> **[2026-05-12 update — post-d10/d12/d14 ingest]** The "corpus-level refutation" reading above is **partially recovered**: the linear-time Misrep ID counter validates within-band at **cross-COCOM N=4** (d60 4592219 → [[references/dow-uap-d10-mission-middle-east-2022-05-06|d10]] 7473483 → [[references/dow-uap-d12-mission-iraq-2022-05-20|d12]] 7528881 → [[references/dow-uap-d14-mission-iraq-2022-05-29|d14]] 7561279) at **~3,600–5,200 IDs/day across USCENTCOM + USEUCOM over ~22 months**. The counter is **pooled at Joint-Staff-tranche / Harrison-MDR-coordinator level**, NOT 609 AOC-rooted, NOT 432-AEW-rooted, NOT squadron-rooted. ^[inferred; closed-by-dow-uap-d14] **d3 remains the corpus's isolated outlier** against 4 within-band cross-COCOM points — reading (c) (filename-year mismatch / d3 event is actually ~2022-2023) firms as the most parsimonious explanation, but readings (a) and (b) (different release pipeline / different counter lane) cannot yet be ruled out. ^[ambiguous]
 
 ## Document-class identification — single-segment extract sub-format
 

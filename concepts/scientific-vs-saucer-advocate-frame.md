@@ -62,7 +62,7 @@ Within the wiki we'll call this **"prepared skepticism"**: the writer does not a
 - [[synthesis/policy-papers-uap-1963-vs-1999]] — direct comparison of the posture's two policy-staff instantiations.
 - [[synthesis/federal-le-uap-witness-pattern]] — modern witness-credibility analog.
 
-## Open
+## Open threads
 
 - Track whether this posture is a 1960s NASC house-style or a Hunter-personal voice. ^[open]
 - Look for the corresponding posture in CIA's mid-1950s UFO panels ([[concepts/robertson-panel-runup-1952|Robertson Panel]], etc.) when those sources land in the wiki. ^[open]
