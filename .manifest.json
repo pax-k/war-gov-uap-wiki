@@ -3302,20 +3302,95 @@
         "hot.md"
       ],
       "notes": "Subagent timed out mid-stream during exploration phase before any disk writes. State files + reference page completed by main agent via direct jq + Read + manual write."
+    },
+    "sources/dow-uap-d6-mission-report-arabian-gulf-2020.json": {
+      "ingested_at": "2026-05-12T02:15:00Z",
+      "size_bytes": 1686,
+      "modified_at": "May  9 16:07:44 2026",
+      "content_hash": "sha256:5e0bb9de5808d1cef16f3068c4416bdcb22f60dfa6bcaf19bd639a0d93784f52",
+      "source_id": "dow-uap-d6-mission-report-arabian-gulf-2020",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap-foia-release",
+      "series_position": "21-of-40",
+      "ocr_engine": "mistral-ocr-latest",
+      "ocr_pages_processed": 7,
+      "substantive_pages": 1,
+      "header_only_pages": 6,
+      "image_blocks_captured": 1,
+      "image_base64_captured": 0,
+      "document_class": "single-segment-gentext-uap-extract",
+      "document_subclass": "pre-block-a-b-c-release-pipeline",
+      "document_class_sister_count": 8,
+      "lowest_content_artifact_in_corpus": true,
+      "content_char_count": 233,
+      "misrep_id": null,
+      "misrep_id_captured_in_ocr": false,
+      "declassification_banner": "ABSENT",
+      "bottom_of_page_release_block": "ABSENT",
+      "release_framework_block_classification": "Pre-Block-A/B/C release pipeline (consistent with d3/d4/d5/d7/d54/d8 sister extracts)",
+      "event_date": null,
+      "event_time": "1246Z",
+      "object_count": 1,
+      "object_identification_confidence": "PROB UAP (first PROB hedge in dow-uap single-segment-extract sub-format)",
+      "object_morphology_captured": "none",
+      "object_kinematics_captured": "none",
+      "sensor": "redacted",
+      "mission_impact_clause": "NO MISSION IMPACT (first explicit in single-segment-extract sub-format)",
+      "aircraft_posture": "CONTINUED ORIGINAL TASKING (first explicit posture clause in single-segment-extract sub-format)",
+      "portion_marking": "(S/REL) — first in d3/d4/d5/d6/d7/d54/d8 sub-class",
+      "first_detection_position": "3SKT4255899519",
+      "first_detection_position_format": "non-standard MGRS-style 13-digit string",
+      "mgrs_leading_digit_strip_candidate": "3SKT likely 38SKT or 39SKT (Eastern Mediterranean) with leading digit dropped ^[ambiguous]; alternative literal UTM 3S = central South Pacific would extend d4/d5/d7 filename-mismatch pattern at scale",
+      "filename_theater_label": "arabian-gulf",
+      "filename_theater_internally_verified": "UNTESTABLE (MGRS prefix ambiguous due to OCR-leading-digit-strip candidate)",
+      "filename_date_label": "2020",
+      "filename_date_internally_verified": "UNTESTABLE",
+      "behavioral_sub_class": "sub-class 8 fit at 5-of-6 axes captured + PROB-UAP-identification-confidence-hedge variant (FMV method axis untestable — sensor redacted)",
+      "structural_firsts": [
+        "lowest-content artifact in dow-uap corpus (233 chars total)",
+        "first PROB UAP identification-confidence hedge in single-segment-extract sub-format",
+        "first NO MISSION IMPACT clause in single-segment-extract sub-format",
+        "first CONTINUED ORIGINAL TASKING posture clause in single-segment-extract sub-format",
+        "first (S/REL) portion-marking in d3/d4/d5/d6/d7/d54/d8 sub-class",
+        "first MGRS-leading-digit-strip OCR-corruption candidate in dow-uap corpus"
+      ],
+      "ocr_ambiguities": [
+        "MGRS 3SKT4255899519 — non-standard 13-digit rendering; OCR-leading-digit-strip reading most operationally coherent (would parse as 38SKT or 39SKT = Eastern Med) ^[ambiguous]",
+        "Misrep ID entirely absent from OCR — cannot test against d3 outside-cluster or d60-d65 within-cluster framework"
+      ],
+      "thread_extensions": [
+        "Single-segment GENTEXT/UAP extract sub-class — extends to 8th member",
+        "Sub-class 8 — extends with PROB-UAP-identification-confidence-hedge variant"
+      ],
+      "thread_contradictions": [],
+      "pages_created": [
+        "references/dow-uap-d6-mission-arabian-gulf-2020.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "timeline.md",
+        "log.md",
+        "hot.md"
+      ],
+      "notes": "Manual ingest by main agent (very small source 1686 bytes / 233 chars total — no subagent needed)."
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-12T02:00:00Z",
-      "sources_ingested": 56
+      "last_ingested": "2026-05-12T02:15:00Z",
+      "sources_ingested": 57
     }
   },
   "stats": {
-    "total_sources_ingested": 66,
-    "total_pages": 337,
+    "total_sources_ingested": 67,
+    "total_pages": 338,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-12T02:00:00Z"
+    "last_ingest_at": "2026-05-12T02:15:00Z"
   }
 }

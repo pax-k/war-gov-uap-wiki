@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-12T02:00:00Z*
+*This index is automatically maintained. Last updated: 2026-05-12T02:15:00Z*
 
 > **See also:** [[timeline]] — chronological index of every datable wiki page, ordered by event date (proposed reading order for the corpus, 1944 → 2026).
 
@@ -185,6 +185,7 @@ title: Wiki Index
 
 - [[references/barker-1956-they-knew-too-much]] — Reference-stub for Gray Barker's 1956 *They Knew Too Much About Flying Saucers* (University Books NYC); wiki holds only the publisher's jacket copy via FBI HQ 62-HQ-83894 serial 403; introduces the *"three men in dark suits"* / MIB trope into commercial publication ( #uap #civilian-research #primary-source #rhetoric)
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — 1-page DoD Office of Prepublication and Security Review clearance stamp (10 Mar 2026); cover artifact for the otherwise-unannotated "DoW-UAP" FOIA-release series; opening anchor of the series in the wiki ( #uap #primary-source #declassified #dod #ocr)
+- [[references/dow-uap-d6-mission-arabian-gulf-2020]] — 7-page near-empty Mistral-OCR'd mission report (1,686 bytes; 233 chars total — lowest-content artifact in dow-uap corpus); pages 0-5 blank `# 1.4(a)` placeholders; page 6 carries one substantive datum AT 1246Z 1X PROB UAP IVO `3SKT4255899519` MGRS, NO MISSION IMPACT, CONTINUED ORIGINAL TASKING; 8th member of single-segment GENTEXT/UAP extract sub-format; first `PROB UAP` identification-confidence hedge + first `NO MISSION IMPACT` clause + first `(S/REL)` portion-marking + first MGRS-leading-digit-strip OCR-corruption candidate in sub-class ( #uap #primary-source #declassified #navy #sighting)
 - [[references/dow-uap-d3-mission-arabian-gulf-2020]] — 7-page heavily-redacted single-segment GENTEXT/UAP extract (Misrep 8799515; 20th DoW-UAP artifact); AT 1736Z 4X UAP observed in 100% FOV under 100% cloud cover (3 sub-events at 17:36:22/17:36:30/17:36:49 — 27-second window); first weather-prevented-following + first AFCENT MAJCOM attestations in dow-uap corpus; no bottom-of-page release block (distinct from Block A/B/C cluster); Misrep ID 8799515 +4.3M IDs above d65 — refutes linear-time Misrep-ID counter at corpus level; candidate sub-class 10 (multi-object-brief-observation-weather-obstructed) ( #uap #primary-source #declassified #usaf #sighting)
 - [[references/dow-uap-d4-mission-arabian-gulf-2020]] — 5-page Mistral-OCR'd Navy mission report (filename-labeled "Arabian Gulf, 2020"); single GENTEXT/UAP datum — 1258Z brief observation, 321 kt, speed-up + eastward turn; first substantive `d*` ingest of the DoW-UAP series; flags filename-vs-internal-coordinate geographic mismatch ( #uap #primary-source #declassified #navy #dod)
 - [[references/dow-uap-d5-mission-arabian-gulf-2020]] — 6-page Mistral-OCR'd Navy mission report (filename-labeled "Arabian Gulf, 2020"); two GENTEXT/UAP datums — 1354Z 40-kt constant-velocity single-object at FL160-170 and 2243Z 278-kt two-object speed-up + southward turn; second substantive `d*` ingest of the DoW-UAP series; confirms filename-vs-internal-coordinate mismatch at N=2 ( #uap #primary-source #declassified #navy #dod)
