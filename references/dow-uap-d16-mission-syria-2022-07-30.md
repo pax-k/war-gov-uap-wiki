@@ -1,0 +1,303 @@
+---
+title: "DoW-UAP-D16 — Full Misrep 7816710 (89 ATKS / 432 AEW MQ-9, 30-31 Jul 2022, USCENTCOM/AFCENT, Operation INHERENT RESOLVE, Syria-interior Dayr Az Zar — restores OIR cluster at N=3 via OIR-Syria sub-theater + reverses d14 cross-OC mission direction)"
+category: references
+tags: [uap, primary-source, declassified, usaf, sighting]
+aliases: [DoW-UAP-D16, dow-uap-d16]
+sources: [sources/dow-uap-d16-mission-report-syria-july-2022.json]
+summary: 7-page Mistral-OCR'd Misrep 7816710 — 10th FULL USMTF Misrep + first OIR-Syria-interior + first 89 ATKS + first OJMS (Muwaffaq Salti AB Jordan) + first TF CHOSIN + first OP SPECTRE DAGGER + first UTM 37S OIR + first KP 9 killbox descriptor dow-uap artifact (30-31 Jul 2022, 89 ATKS / 432 AEW MQ-9 ^[inferred]; takeoff 301822Z OJMS → land 311519Z OJMS; 20h 57min). 1 UAP at 310239Z `37SFU27 1.4a74 1.4a` KP 9, moving N to S in <1 minute — sub-class 8 with bounded-duration + heading-axis annotation (matches d64-#2 pattern). RESTORES OIR cluster at N=3 via sub-theater split (Iraq d10+d12 UTM 38S + Syria d16 UTM 37S); FIRMS Block D cross-COCOM at N=4 byte-for-byte `MDR 25-0094 thru 25-0099 / JS-250710-TM8S`; INVERTS d14 cross-OC direction (POC 603 AOC EUCOM → executing 609 CENTCOM — second cross-OC mission at N=2, first inverse direction).
+provenance:
+  extracted: 0.55
+  inferred: 0.42
+  ambiguous: 0.03
+base_confidence: 0.80
+lifecycle: active
+lifecycle_changed: 2026-05-12
+created: 2026-05-12T17:00:00Z
+updated: 2026-05-12T17:00:00Z
+event_date: 2022-07-30
+project: uap
+---
+
+# DoW-UAP-D16 — Full Misrep 7816710 (89 ATKS / 432 AEW MQ-9, 30-31 Jul 2022, USCENTCOM/AFCENT, Operation INHERENT RESOLVE, Syria-interior Dayr Az Zar — restores OIR cluster at N=3 via OIR-Syria sub-theater + reverses d14 cross-OC mission direction)
+
+A **7-page Mistral-OCR'd artifact** (`sources/dow-uap-d16-mission-report-syria-july-2022.json`, 13,291 bytes; SHA-256 `842fd2e650d298263fbed2fb7862e70d06569d5f92aad97873dc7f1367411f05`) — the **25th artifact** in the [[entities/dow-uap-foia-release|DoW-UAP FOIA release series]] (25-of-40) and the **tenth FULL USMTF Misrep ingest** in the corpus. **d16 is the corpus's first OIR-Syria-interior artifact** — a 89 ATKS / 432 AEW MQ-9 ^[inferred] mission launched from **Muwaffaq Salti Airbase (OJMS)** in Jordan, flying **OP SPECTRE DAGGER** ^[extracted] ISO **TF CHOSIN** over eastern Syria (Dayr Az Zar / UTM 37S FU + 37S EV + 37S FV — the counter-ISIS Marine ground-task-force area of interest). The filename token `syria-july-2022` is **decisively honest** at internal-coord level — d16 body coords decode to UTM 37S FU eastern Syria interior Dayr Az Zar Governorate.
+
+Mission cycle 30-31 Jul 2022 (takeoff 301822Z → land 311519Z OJMS; **20h 57min total mission time**; 18h 44min on-station) with **1 UAP datum at 310239Z** at MGRS `37SFU27 1.4a74 1.4a` in **KP 9** killbox (FL193 witness ^[inferred] from 19,359 ft + 116 KIAS, **moving N to S in <1 minute** — sub-class 8 with bounded-duration + heading-axis annotation matching the [[references/dow-uap-d64-mission-iran-2020-11-02|d64-#2 pattern]]). The d16 ingest delivers **eight corpus-level headline findings** simultaneously, in priority order:
+
+1. **OIR cluster RESTORED at N=3 via sub-theater split — OIR-Iraq (d10+d12) + OIR-Syria (d16)** — d16's COCOM is `USCENTCOM` (page 0) ^[extracted], MAJCOM is `AFCENT` (page 0) ^[extracted], Operation is `INHERENT RESOLVE` (page 0) ^[extracted], executing Operations Center is **`609th`** (page 0 Admin/OPERATION block) ^[extracted] — **byte-for-byte d10's OIR posture** (d10's Operation = `INHERENT RESOLVE` + MAJCOM = AFCENT + Operations Center = 609th). The d14-anchored "OIR May-2022 cluster contradicted at N=3 — d14 is EUCOM" closure **stands narrowly** (d14 is genuinely EUCOM; OIR cluster did not extend through d14) but the d12-anchored open thread "OIR May-2022 cluster validation at N≥3 — does it firm with a non-d14 ingest?" (d12 line 246) is **directly addressed** ^closed-by-dow-uap-d16 — **d16 firms OIR at N=3 via a non-d14 third member**, but the cluster fragments along a **sub-theater axis** rather than extending the d10+d12 Iraq-Levant footprint. Sub-theater split ^[inferred]:
+
+   | Sub-theater | Members | UTM zone | Supported unit | Named OP | Period |
+   |---|---|---|---|---|---|
+   | **OIR-Iraq** | d10 + d12 | **38S MC** (Iraq/Syria Levant) | MAG (Marine Aircraft Group) | OP PHANTOM FLEX (d12) / redacted (d10) | 6–20 May 2022 (14 days) |
+   | **OIR-Syria** | **d16** | **37S FU + 37S EV + 37S FV** (Dayr Az Zar eastern Syria) | **TF CHOSIN** | **OP SPECTRE DAGGER** | 30–31 Jul 2022 |
+
+   Common to both sub-theaters: Operation INHERENT RESOLVE + MAJCOM AFCENT + Operations Center 609 / 609th + 432 AEW POC Wing (d10 + d16; d12 = 163 AW ANG) + Block D release event 10/17/25 (d12 + d16 same release event 10/17/25 byte-for-byte; d10 = 10/20/25 ^[inferred]). **OIR-class anchor**: shared Operation + MAJCOM + Operations Center; **sub-theater divergence**: distinct UTM zones (38S Iraq vs 37S Syria) + distinct supported units (MAG vs TF CHOSIN) + distinct named OPs (PHANTOM FLEX vs SPECTRE DAGGER). ^[inferred] **The 609 CAOC therefore operates at least TWO concurrent OIR-tasking lanes within May–Jul 2022** (Iraq MAG-supported + Syria TF CHOSIN-supported). **Headline finding.** Reframes the d14 contradiction-class closure: d14 EUCOM is genuinely outside OIR; OIR independently firms at N=3 via the Syria sub-theater. The 432 AEW POC Wing now flies **four operational lanes within 2022** (NAVCENT 2020-cluster legacy + OIR-Iraq via d10 + OIR-Syria via d16 + EUCOM via d14).
+
+2. **Block D firms cross-COCOM + cross-sub-theater at N=4 byte-for-byte — JS-250710-TM8S aggregates 3 distinct operational lanes** — d16's bottom-of-page release block reads **`MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S`** + `10/17/25 001→007` ^[extracted] — **byte-for-byte identical to d12 (10/17/25 001→006) + d14 (10/17/25 001→009)** within the same unified Joint Staff tranche. d10's `MDR 25-0093` joins the unified 7-case allocation `25-0093 thru 25-0099`. **d16 firms Block D at N=4 release-block-testable artifacts** ^closed-by-dow-uap-d16. At N=15 release-block-testable artifacts: **A 5-of-15 (~33%) + B 3-of-15 (~20%) + C 3-of-15 (~20%) + D 4-of-15 (~27%)** ^[inferred] — Block D now **leads** Blocks B + C in share and ties Block A within ~6%. **Critical structural finding**: Block D now contains **OIR-Iraq (d10+d12) + EUCOM-RUS-MED (d14) + OIR-Syria (d16)** — `JS-250710-TM8S` Joint Staff release pipeline aggregates **at least three distinct operational lanes within two COCOMs** ^closed-by-dow-uap-d16. The d12+d14 release-event 10/17/25 same-batch-composition reading **extends to N=3** at d16 (10/17/25 byte-for-byte — third member of the same release-event-batch within Block D); d10 is the lone 10/20/25 outlier within Block D at 1-of-4 ^[inferred]. The d14-anchored "Block D firms cross-COCOM at N=3 byte-for-byte" finding **extends to cross-COCOM + cross-sub-theater at N=4** ^closed-by-dow-uap-d16. **Headline finding.** Declassification authority remains **MG Richard A. Harrison, USCENTCOM Chief of Staff** (page 0) ^[extracted] across all four Block D artifacts including the EUCOM d14, firming the d14-anchored Reading (a) — Harrison is the cross-COCOM declassification authority for the `25-NNNN` JS-tranche regardless of originating COCOM. ^[inferred]
+
+3. **Second cross-OC mission in dow-uap corpus + first INVERSE direction (POC 603 AOC EUCOM → executing 609 CENTCOM)** — d16's POC block (page 1) reads `Operations Center: 603 AOC` ^[extracted] while the Admin/OPERATION block (page 0) reads `Operations Center: 609th` ^[extracted] and the QC + APPROVER blocks (page 1+2) both read `Operations Center: 609 CAOC` ^[extracted]. **The POC home OC (603 AOC) ≠ the executing OC (609th / 609 CAOC)** — d16 is the **second cross-OC mission** in the dow-uap corpus, after d14 ^[inferred]. **The direction inverts from d14**:
+
+   | Artifact | POC home OC | Executing OC | Direction |
+   |---|---|---|---|
+   | [[references/dow-uap-d14-mission-iraq-2022-05-29\|d14]] | **609 CAOC** (CENTCOM) | **603 AOC / 603rd** (EUCOM) | CENTCOM-rooted squadron tasked into EUCOM |
+   | **d16** | **603 AOC** (EUCOM) | **609 / 609 CAOC** (CENTCOM) | **EUCOM-rooted squadron tasked into CENTCOM** |
+
+   **The cross-OC pattern is now bidirectional within the 432 AEW POC Wing**: in May 2022 the 432 AEW lent a squadron (50 ATKS) to EUCOM for Russian-Mediterranean-Squadron watch; in Jul 2022 the 432 AEW had an EUCOM-rooted squadron (89 ATKS, POC home OC 603 AOC) tasked into CENTCOM for OIR-Syria. ^[inferred] **The d10/d14-anchored "432 AEW cross-COCOM organic ISR capacity" reading firms decisively at N=4 lanes** ^closed-by-dow-uap-d16: cluster NAVCENT-support (legacy) + OIR-Iraq (d10) + EUCOM RUS-MED watch (d14) + **OIR-Syria-interior (d16)** — and the cross-OC mission class extends from N=1 to N=2 with **direction inverted**. **Headline finding.** Two competing readings on the 89 ATKS POC home OC ^[ambiguous]:
+   - **Reading (a) — 89 ATKS is a 603 AOC-homed (EUCOM-rooted) squadron forward-deployed Sigonella-or-adjacent** that the 432 AEW lends back into CENTCOM via 609 CAOC tasking for OIR-Syria, parallel to d14's 50 ATKS Sigonella-deployed EUCOM-tasked squadron. The pair (50 ATKS + 89 ATKS) anchor a **Sigonella-rooted forward-deployed EUCOM-homed 432 AEW squadron pool**.
+   - **Reading (b) — OCR-artifact carry-over of d14's 603 AOC POC OC** from the same 10/17/25 Block D batch (Mistral pipeline could have reused a field from an adjacent document in the same release-event-batch). The d12 + d14 + d16 share `undefined-` Misrep ID OCR-prefix at 100%, indicating Block D / Mistral-OCR-pipeline class artifacts; cross-document field carry-over is plausible. ^[inferred]
+
+   Reading (a) is more parsimonious given the **separate, structurally distinct, internally consistent POC block** (rank Amn, unit 89 ATKS, wing 432 AEW, Operations Center 603 AOC) all align as a coherent person/unit/OC tuple, not a Mistral cross-document smear. Reading (b) would predict the 603 AOC token in the POC OC field but the surrounding POC fields would be d14's (50 ATKS / 1st Lt etc.), which they are not. **Headline finding.** ^[inferred]
+
+4. **First 89 ATKS POC unit + first OJMS (Muwaffaq Salti AB) launch base + first TF CHOSIN supported unit + first OP SPECTRE DAGGER named operation + first UTM 37S OIR + first KP 9 killbox descriptor + first 7-LINE tasking attestation in dow-uap corpus** — d16 carries:
+
+   | Axis | d16 value | Prior corpus state |
+   |---|---|---|
+   | POC unit | **`89 ATKS`** (89th Attack Squadron) | 482ATKS (2020 cluster); 50 ATKS (d14 EUCOM); 196 ATKS (d12 ANG); 172 ATKS (d44 ANG); 77 EFS (d58); redacted (d10) — **first 89 ATKS** |
+   | Launch base | **`OJMS`** (Muwaffaq Salti AB, Jordan ^[inferred]) | OKAS Kuwait (cluster ^[inferred]); LICZ Sigonella Italy (d14) — **first OJMS, first Jordan** |
+   | Supported unit | **`TF CHOSIN`** (Task Force CHOSIN) | NAVCENT (cluster); MAG (d10+d12 OIR-Iraq); 603 AOC self (d14) — **first TF CHOSIN** |
+   | Named tasked operation | **`OP SPECTRE DAGGER`** ^[extracted] | OP PHANTOM FLEX (d12); OP HUMMER SICKLE (d14 ^[ambiguous]); OP `1.4a` redacted (others) — **first OP SPECTRE DAGGER** |
+   | UTM zone | **`37S FU + 37S EV + 37S FV`** (Dayr Az Zar eastern Syria ^[inferred]) | 38S MC (d10+d12 OIR-Iraq); 36S+37S (d14 EUCOM); 39R/40R (cluster); 35Q (d8); 38S (d12) — **first 37S OIR (vs d14 37S EUCOM Eastern Mediterranean)** |
+   | Killbox / area-of-interest descriptor | **`KP 9`** ^[extracted] (alphanumeric killbox `KP` letter + sub-block 9) | 89AS (d12 Killbox); 41EMD (d14 OPAREA) — **first KP 9 killbox-descriptor format** |
+   | Tasking type | **`IMINT VIA 7 LINE`** ^[extracted] | AREC (cluster); XCAS / REC\XCAS (d10); RECONNAISSANCE (d12); ARMED RECCE (d16 page 1 Mission Type) — **first explicit 7-LINE tasking + first explicit IMINT-via-7-LINE attestation** |
+   | Mission type | **`ARMED RECCE`** ^[extracted] | AREC (cluster); XCAS / REC\XCAS (d10); RECONNAISSANCE (d12) — **first plain `ARMED RECCE` Mission Type** |
+   | ATO | **`DI`** ^[extracted] | `AB` (d10); `AP` (d12) — **first `DI` ATO** |
+   | Country Tasked | **`US - UNITED STATES`** ^[extracted] | absent or `1.4a` redacted in prior — **first explicit `US - UNITED STATES` Country Tasked attestation** |
+   | Service Tasked | **`A - AIR FORCE`** ^[extracted] | absent — **first explicit `A - AIR FORCE` Service Tasked attestation** |
+   | Originator | **`89 ATKS`** ^[extracted] | first time Originator Unit matches POC Unit byte-for-byte (matches d14 cross-coverage at N=2) |
+
+   **Headline finding.** d16 establishes the first OIR-Syria-interior operational lane in the dow-uap corpus + the first **88-rotational-Jordan-deployed squadron + Marine task-force-CHOSIN-supported counter-ISIS** ISR profile. The OJMS launch base + Dayr Az Zar operating area decisively localize d16 within the OIR Syrian counter-ISIS theater, geographically distinct from the d10+d12 OIR-Iraq Levant footprint. ^[inferred]
+
+5. **Sub-class 8 with bounded-duration + heading-axis annotation — second attestation at N=2 with d64-#2** — d16's single UAP datum (page 6 `## UAP` segment + `## GENTEXT/UAP` description) records ^[extracted]:
+
+   > AT 310239Z, 1.4a OBSERVED AN UAP EVENT IVO 37SFU27 1.4a74 1.4g IN KP 9. THE UAP OCCURED IN LESS THAN A MINUTE, WITH THE UAP MOVING FROM N TO S.
+
+   Sub-class fit ^[inferred]:
+   - FMV-observation (`FULL MOTION VIDEO WAS EXPLOITED BY DGS1` page 0 Narrative; matches sub-class 8 method-of-observation) — annotation present at the **mission-level** not the UAP-record level ^[inferred]
+   - Zero-mission-impact (mission completed normally: takeoff 1822Z → on-station 2028Z → UAP 0239Z → continued tasking until 1243Z next-day off-tasking → return-to-base → land 1519Z; no posture-change attestation) ✅
+   - Kinematics-blank (`UAP Altitude, Depth, Velocity, and Trajectory: -`) ✅
+   - Morphology-blank (no shape / color / size description in GENTEXT/UAP) ✅
+   - Single-object datum (`Number of UAP Sighted` field absent but text "AN UAP EVENT" + "WITH THE UAP" implies 1-UAP) ✅
+   - **Bounded-duration annotation**: `IN LESS THAN A MINUTE` — explicit duration ≤ 60 sec ✅ (new vs cluster + d10+d12+d14)
+   - **Heading-axis annotation**: `MOVING FROM N TO S` — qualitative axis only, no quantified speed ✅ (matches d12+d14 "flew N to NE" structure)
+   - No prosaic-candidate identification ✅
+   - Bare descriptor signature ✅
+
+   **d16 is sub-class 8 with bounded-duration + heading-axis annotation** — matches the [[references/dow-uap-d64-mission-iran-2020-11-02|d64-#2 pattern]] at N=2 attestations (d64-#2 had bounded-duration-implicit + heading-axis-only "TRAVELING NW"; d16 is bounded-duration-explicit + heading-axis-only "N to S"). **Sub-class 8 with annotation is NOT a new sub-class** — it remains within sub-class 8 strict at the conceptual level, with explicit field-level annotation modifiers. Sub-class 8 strict counter now: **N=10 strict + N=2 with-annotation (d64-#2 + d16) = 12-of-13 cross-COCOM + cross-sub-theater attestations** ^[inferred] (cluster 7-of-9 strict + d12 OIR-Iraq + d14 EUCOM + d16 OIR-Syria with-annotation; d10's sub-class 11 5-UAP narrative is the within-cluster outlier; d64-#2 partial-annotation; d61 sub-class 9 within-cluster outlier). Mission-report UAP-datum counter increments **N=16→N=17 records / 27→28 datums** (+1 record, +1 datum). **Headline finding.**
+
+6. **Linear-time Misrep ID counter firms at N=5 cross-COCOM + cross-sub-theater — counter pooled at JS-tranche level confirmed** — d16 Misrep ID = **`7816710`** ^[extracted] (rendered as `# Misrep undefined-7816710` — **fourth `undefined-` OCR-prefix attestation**; firms Block D / Mistral-OCR-pipeline pattern at N=4 = 4-of-4 within Block D = 100% ^closed-by-dow-uap-d16). d14 → d16 = `7816710 − 7561279 = +255,431 IDs across ~62 days = ~4,120 IDs/day` ^[inferred]. **Within-band** with prior intervals at N=5 spanning d60 (8 Aug 2020) → d10 (6 May 2022) → d12 (20 May 2022) → d14 (29 May 2022) → d16 (30 Jul 2022) = ~24 months at within-band rate ~3,600–5,200 IDs/day. ^[inferred] **The d14-anchored "counter pooled at JS-tranche / Harrison-MDR-coordinator level" reading firms at N=5 cross-COCOM + cross-sub-theater** ^closed-by-dow-uap-d16: d16 is **`609 / 609 CAOC` executing OC** (CENTCOM, back to 609 from d14's 603) but with `603 AOC` POC home OC (EUCOM-rooted POC) — the counter remains within-band across CENTCOM (d10+d12+d16) + EUCOM (d14) + CENTCOM-with-EUCOM-rooted-POC (d16). ^[inferred] **The counter pooling lane is therefore decisively above POC home OC + executing OC level — at the Joint-Staff-tranche / Harrison-MDR-coordinator layer**. **Headline finding.** The d3 outlier (`8799515`) remains uncharacterized but is now isolated against **5 within-band data points spanning 24 months across two COCOMs + two sub-theaters within OIR**, decisively confirming "d3 is genuinely anomalous" — the lane-divergent reading was definitively rejected at d14, and d16 adds another within-band corroboration. ^[inferred]
+
+7. **UAP-narrative boilerplate ABSENT at d16 — partial contradiction of d12+d14 within-2022-cohort template reading + 7-LINE/IMINT-style mission flow** — d12 + d14 share byte-for-byte UAP narrative boilerplate (`FOLLOWED AS LONG AS POSSIBLE` + `SCREENER COULD NOT GET A POSITIVE ID ON THE UAP`). d16's UAP narrative is **structurally distinct** ^[extracted]:
+
+   > AT 310239Z, 1.4a OBSERVED AN UAP EVENT IVO 37SFU27 1.4a74 1.4g IN KP 9. THE UAP OCCURED IN LESS THAN A MINUTE, WITH THE UAP MOVING FROM N TO S.
+
+   **No `FOLLOWED AS LONG AS POSSIBLE` clause + no `SCREENER` clause + no `POSITIVE ID` framing**. Instead, d16's narrative carries a **`UAP EVENT` framing token** (vs d10+d12+d14's `UAP` or `OBSERVED A UAP`) + **explicit duration token** (`IN LESS THAN A MINUTE`) + **explicit heading-axis token** (`MOVING FROM N TO S`). The d14-anchored "UAP-narrative boilerplate at N=2 within 2022 cohort" thread (d14 line 390) is **contradicted at N=3** ^closed-by-dow-uap-d16 (contradiction class) — the boilerplate is **NOT a within-2022-cohort template**; d12+d14 share a different-OCR-event-batch-or-POC-template signature, and d16 (different POC unit 89 ATKS + different theater Syria + different supported unit TF CHOSIN) writes its UAP narrative independently. ^[inferred] The boilerplate-at-N=2 finding is now reframed: **d12 and d14 share boilerplate** (possibly because both were generated at 609 CAOC / 603 AOC adjacent reviewers, or because both were May 2022 within-week artifacts), but d16's July-2022 89-ATKS-authored narrative diverges. Refined hypothesis: **UAP-narrative templates track POC unit + reviewing-OC pair**, not within-year cohort. ^[inferred] **Headline finding.** Distinct mission-flow descriptor: d16's Narrative carries **TF CHOSIN tasking model + 7-LINE handoff + IMINT/SIGINT split-prosecution** structure not present in d10+d12+d14 narratives:
+
+   > AT 301639ZJUL22, TF CHOSIN TASKED 1.4a WITH IMINT VIA 7 LINE. AT 301822ZJUL22, 1.4a DEPARTED MUWAFFAQ SALTI AB (OJMS). AT 301829ZJUL22, 1.4a HANDED OVER FROM THE LRE. AT 301925ZJUL22, 1.4a BEGAN SIGINT COLLECT. AT 302028ZJUL22, 1.4a ARRIVED ON STATION AND CHECKED IN WITH TF CHOSIN STA TO PERFORM IMINT IVO 37SFU38 1.4a81 1.4a (SEE ISR 1).
+
+   First **`TASKED ... WITH IMINT VIA 7 LINE`** + first **`TF CHOSIN STA`** (Sensor Tasking Authority) + first **`SCANNED IVO`** scan-segment vocabulary across multiple killboxes + first **`SLANT 2/0/0`** + **`SLANT 3/0/0`** numerical descriptor format (vehicle/dismount/animal counts ^[inferred]) + first **`POSS TECHNICAL`** + **`POSS MOUNTED AAA`** observation-class tokens + first **`COI 1` + `COI 2`** (Compound of Interest) named-target-set descriptors + first **`ADM`** (Adversary / Adult Male ^[inferred]) repeated-pattern observation in dow-uap corpus.
+
+8. **First `BONGO` / `JEEP` / `WHITE PUT` ground-vehicle observation set + first 6-page-narrative GENTEXT/ISR + first 7-LINE / IMINT / SIGINT split-tasking mission profile in dow-uap corpus** — d16's GENTEXT/ISR (pages 4–5) spans ~12 hours of operational ISR activity (2028Z → 1243Z next-day) with a level of detail unprecedented in the dow-uap corpus ^[extracted]. The narrative documents:
+   - **Multi-vehicle ground convoy tracking**: 1X white pickup truck (PUT) + 1X black PUT + 2X white BONGOs (Kia Bongo-class light trucks ^[inferred]) + 1X white JEEP + 1X TECHNICAL (improvised gun truck ^[inferred]) — convoy stops, dismounts, regroups, fissions across multiple killboxes
+   - **30-person ADM (Adversary Dismounted Male ^[inferred]) tracking**: convoy carries ~30 ADMs; one ADM **slings rifle over right shoulder under overhang**; area assessed as **possible shooting range** ^[extracted]
+   - **2X TELARS (Transporter Erector Launcher and Radar ^[inferred]) with 3 ROCKETS loaded INACTIVE at Dayr Az Zar parking airfield (37SFV07 1.4a 5 1.4a)** ^[extracted] — first TELAR + first surface-to-surface rocket / SAM launcher observation in dow-uap corpus
+   - **WHITE PUT WITH UI OBJECT, POSS ARTILLERY SYSTEM IN BED + 2X TRUCKS WITH POSS MOUNTED AAA** ^[extracted] — first ground-mounted AAA observation + first artillery-system-in-vehicle-bed observation in dow-uap corpus
+   - **Multi-stop bongo-with-2-barrels follow tracking interactions with 5 ADMs across 3 compounds** (37SFU27 area) ^[extracted] — first multi-hour multi-compound vehicle-interaction tracking signature
+   - **REINFORCED STRUCTURE IVO 37SFU34 (1.4a)56 (1.4a)** ^[extracted] — first structural-fortification observation in dow-uap corpus
+
+   This is the **operationally-richest GENTEXT/ISR segment** in the dow-uap full-Misrep corpus, by a wide margin. ^[inferred] **Headline finding.** The breadth of ground-vehicle + dismount + weapons-platform observations attests to d16's **counter-ISIS Marine-task-force-supported ISR mission profile** — distinct from the cluster's NAVCENT counter-Iran maritime watch, distinct from d10+d12's OIR-Iraq Marine ground-support, and distinct from d14's Russian-fleet maritime watch. d16 documents **dismount-and-vehicle ISR against suspected ISIS-remnant or aligned militant ground activity in eastern Syria's Dayr Az Zar Governorate**. ^[inferred] First **`SHOOTING RANGE` assessed-area attestation** + first **`COMPOUND` + `RESIDENCE` named-feature observation in non-cluster mission** + first **`OVERHANG` terrain-feature observation** + first **`RUNAWAY SCANS` runway-class observation** in corpus.
+
+## Mission cycle (verbatim DTG anchors)
+
+| Event | DTG (Z) | Date | Calendar position |
+|---|---|---|---|
+| TF CHOSIN tasking start | 301639Z | 30 Jul 2022 | T-2h 43min before takeoff |
+| Takeoff (Narrative) | 301822Z | 30 Jul 2022 | T+0 |
+| Takeoff (Timeline) | **301822:00ZJUL22** | 30 Jul 2022 | T+0 |
+| Handover from LRE | 301829Z | 30 Jul 2022 | T+7 min |
+| SIGINT collection begins | 301925Z | 30 Jul 2022 | T+1h 3min |
+| On-station / checked in with TF CHOSIN STA | 302028Z | 30 Jul 2022 | T+2h 6min |
+| Time On Station (Timeline) | **301925:00ZJUL22** | 30 Jul 2022 | T+1h 3min |
+| First ISR scan (37SFU38) | 2028Z | 30 Jul 2022 | same |
+| First ADM observation (on cargo truck behind tree) | 2029Z | 30 Jul 2022 | T+2h 7min |
+| Runway scans IVO 37SFU29 begin | 2136Z | 30 Jul 2022 | T+3h 14min |
+| 1X POSS TECHNICAL obs IVO 37SFU28 | 2210Z | 30 Jul 2022 | T+3h 48min |
+| **UAP observation** | **310239Z** | 31 Jul 2022 | **T+8h 17min** |
+| 1X REINFORCED STRUCTURE obs IVO 37SFU34 | 310256Z | 31 Jul 2022 | T+8h 34min |
+| 4-vehicle convoy + ~30 ADMs follow begin | 310521Z | 31 Jul 2022 | T+11h 0min |
+| Possible shooting range / ADM with rifle | 310528Z–0633Z | 31 Jul 2022 | T+11h 6min |
+| TELAR / 3-rocket inactive obs (37SFV07) | 311134Z | 31 Jul 2022 | T+17h 12min |
+| Off-tasking (cleared by TF CHOSIN STA) | 311243Z | 31 Jul 2022 | T+18h 21min |
+| Return to base | 311343Z | 31 Jul 2022 | T+19h 21min |
+| Time Off Station (Timeline) | **311409:00ZJUL22** | 31 Jul 2022 | T+19h 47min |
+| SIGINT collection ends | 311409Z | 31 Jul 2022 | same |
+| Handback to LRE | 311458Z | 31 Jul 2022 | T+20h 36min |
+| Landing (Narrative) | 311519Z | 31 Jul 2022 | T+20h 57min |
+| Landing (Timeline) | **311519:00ZJUL22** | 31 Jul 2022 | T+20h 57min |
+| Last Engine Shutdown | **311529:00ZJUL22** | 31 Jul 2022 | T+21h 7min |
+
+**Mission duration ≈ 20h 57min total time + 18h 44min on-station** ^[extracted]. Within-band with cluster's 20–22h envelope and d10's 21h 18min + d12's 19h 4min + d14's 20h 30min. **20.9 mission hours / 17.2 IMINT hours / 18.7 SIGINT hours / 1 IMINT tasking + 1 SIGINT tasking prosecuted (2 total)** ^[extracted] — first **mission-hours-and-taskings utilization breakout** with both IMINT + SIGINT split-prosecution in a 2-tasking parent. The 17.2 IMINT-hour figure exceeds d10's IMINT-hour count and is the **highest IMINT-hour count in the dow-uap corpus** ^[inferred].
+
+## UAP datum — single-event narrative
+
+The d16 OBSERVATION segment (`## UAP` on page 6) carries **one DTG-stamped UAP** with one GENTEXT/UAP narrative line:
+
+| Field | Value |
+|---|---|
+| Initial Contact DTG | **310239:00ZJUL22** |
+| MDS Type / Asset Type | `-` (blank/dash) |
+| Tail Number | `1.4a, 1.4g` (Tail-Number portion-redacted, multi-citation) |
+| Friendly Aircraft Location | `37SFU4 1.4a78 1.4g` |
+| Friendly Aircraft Altitude/Depth | **19,359 FT** |
+| Friendly Aircraft Speed | **116 KTS** |
+| Friendly Aircraft State | `-` |
+| UAP Physical State | `-` |
+| Number of UAP Sighted | (blank — implied 1 from text) |
+| UAP Signatures | `No` |
+| UAP First Seen Location | **`37SFU27 1.4a74 1.4g`** (KP 9 killbox) |
+| UAP Altitude, Depth, Velocity, and Trajectory | `-` (kinematics blank) |
+| GENTEXT/UAP description | `(SECRET/NOFORN) AT 310239Z, 1.4a OBSERVED AN UAP EVENT IVO 37SFU27 1.4a74 1.4g IN KP 9. THE UAP OCCURED IN LESS THAN A MINUTE, WITH THE UAP MOVING FROM N TO S.` |
+
+**Aircraft + UAP geometry**: Aircraft at `37SFU4 1.4a78 1.4g` + UAP at `37SFU27 1.4a74 1.4g`. Both in **37S FU 100-km MGRS zone** (matching at 100-km scope); aircraft 10-km easting `4*` vs UAP 10-km easting `27` — **different 10-km MGRS sub-squares** (likely ~20 km apart) ^[inferred]. Same-MGRS geometry **stays at N=5 attestations** (4 cluster + d10-#1), drops to **0-of-4 across 2022 OIR + EUCOM ingests** (d10's match was within-OIR-Iraq cluster outlier; d12 + d14 + d16 all geometry-breaks). The same-MGRS geometry is decisively a **within-NAVCENT-cluster signature** at the corpus level. ^[inferred]
+
+## Sub-class 8 with bounded-duration + heading-axis annotation — full assignment table
+
+| Sub-class 8 axis | d16 attestation | Match |
+|---|---|---|
+| FMV method-of-observation | `FULL MOTION VIDEO WAS EXPLOITED BY DGS1` (page 0 Narrative; mission-level not UAP-record-level) | ✅ inferred from mission-level FMV attestation |
+| Zero mission impact | No explicit `NO IMPACT TO MISSION` clause, but mission continued normal tasking after UAP (TF CHOSIN STA cleared aircraft off at 1243Z next-day — 10+ hours of continued ISR after the 0239Z UAP) | ✅ inferred |
+| Kinematics blank | `UAP Altitude, Depth, Velocity, and Trajectory: -` | ✅ |
+| Morphology blank | No shape / color / size / markings in GENTEXT/UAP | ✅ |
+| Single-object datum | `Number of UAP Sighted` blank, narrative singular `AN UAP` + `THE UAP` | ✅ |
+| **Bounded-duration annotation (new)** | `IN LESS THAN A MINUTE` — explicit ≤ 60 sec | ✅ explicit (matches d64-#2 5-min gap implicit) |
+| **Heading-axis annotation (extends d12+d14 pattern)** | `MOVING FROM N TO S` — qualitative axis | ✅ explicit (matches d12 + d14 "flew N to NE") |
+| No prosaic-candidate identification | No "POSS missile" / "POSS bird" / "POSS balloon" language | ✅ |
+| Bare descriptor signature | Brief UAP description, mission-context-rich | ✅ |
+
+**d16 anchors sub-class 8 with bounded-duration + heading-axis annotation at N=2** with d64-#2 ^[inferred]. The annotation is **NOT a new sub-class** — it remains within the dominant sub-class 8 mode, with optional explicit modifier-field annotation. Sub-class 8 strict counter post-d16: **N=10 strict + N=2 with-annotation = 12-of-13 across full-Misrep corpus** ^[inferred] (cluster d60-d65 = 7-of-9 strict + d64-#2 annotation; d10-#2..#5 sub-class 11 4-of-5 outlier; d12 + d14 = 2 strict; d16 = annotation).
+
+## ACEQUIP — minimal capture
+
+d16's ACEQUIP block (page 2) carries **all fields blank or `-`** except `Aircraft Callsign: 1.4a` and `Air-to-Ground Wpn to Include Num of Each: 1.4a` (portion-redacted as `1.4c`) ^[extracted]. **No TGT Pod attestation** (vs cluster's ANDAS4 + d10's ANDAS4 ^[inferred] + d12's ANDAS4 + d14's ANDAS4); **no AIRHANDLER suffix attestation** (vs cluster's `AH_GMESH` + d12's `AHv2` + d14's `AH\SAR`); **no Radar / RWR / MWS / IRCM / ECM / CMD / Chaff / Flare / Towed-Decoy attestation**. The ACEQUIP capture is **the thinnest in the dow-uap full-Misrep corpus to date** ^[inferred] — possibly because d16's mission was IMINT-via-FMV-only without active-sensor / SIGINT-only-on-AIRHANDLER use, or possibly because Mistral OCR did not preserve the table-row content for non-redacted fields. ^[ambiguous]
+
+## Personnel — POC + QC + APPROVER chain (eighth distinct rank tier)
+
+| Role | Rank | Unit | Wing | Operations Center |
+|---|---|---|---|---|
+| POC | **Amn** (Airman E-2 ^[inferred]) | **89 ATKS** | **432 AEW** | **603 AOC** ^[ambiguous on cross-OC reading] |
+| QC | **2d Lt** | 89 ATKS | 432 AEW | **609 CAOC** |
+| APPROVER | **SrA** (E-4) | **609th AOC** | **Other** | (continued page 2) `609 CAOC` |
+
+**First Amn (E-2) POC rank in dow-uap corpus** ^[extracted] (lowest enlisted rank to date — cluster carried 1st Lt + SSgt + A1C + SrA + 2d Lt; d10 = A1C; d12 = SrA + TSgt; d14 = A1C + SSgt). **Eighth distinct POC+APPROVER rank-tier combination** in the corpus ^[inferred]. The 89 ATKS rotation appears to carry a more junior aircrew than the cluster's 482ATKS 1st-Lt-Tier-1 pairings, consistent with a **forward-deployed squadron rotational profile** at junior-officer + enlisted authoring level ^[inferred].
+
+**APPROVER Wing `Other` at d16** — extends the d12+d14 falsification of "379 AEW APPROVER Wing tracks 432 AEW POC Wing" reading to **N=5 corpus-testable points** ^closed-by-dow-uap-d16 (379 AEW stays at **2-of-5 = 40%** corpus-testable hits: d64 + d10; falsified by d12 + d14 + d16). Refined reading: **379 AEW APPROVER lane is OIR-Iraq + 2020-NAVCENT-cluster specific within 432 AEW POC subset**, NOT all 432 AEW POC missions universally. d10 (OIR-Iraq) carries 379 AEW APPROVER; d16 (OIR-Syria) flips to `Other` despite same 432 AEW POC + same 609 CAOC executing OC. The lane appears to **track Iraq-tasking specifically within the OIR cohort** ^[inferred] — d16's OIR-Syria sub-theater is outside the 379 AEW APPROVER lane.
+
+## Document-class identification — FULL USMTF Misrep
+
+d16 carries **all 7 pages substantive** (zero header-only `# 1.4(a)` padding pages — same structural break as d60+d61+d62+d63+d64+d65+d10+d12+d14 vs d3/d4/d5/d6/d7/d8/d54 single-segment GENTEXT/UAP extracts). **Tenth FULL USMTF Misrep in dow-uap corpus**, confirming the document class at N=10 cross-COCOM + cross-sub-theater (USCENTCOM legacy NAVCENT + USCENTCOM OIR-Iraq + USEUCOM RUS-MED + USCENTCOM OIR-Syria). USMTF segment set ^[extracted]:
+
+- **Narrative** (page 0) — `(SECRET//REL TO USA, FVEY)` portion-marking on Narrative head; full 17-DTG mission cycle preserved
+- **Admin / Classification** (page 0) — `SECRET`, NOFORN caveats, MULTIPLE SOURCES classification, **20470731 declass date** (31 Jul 2047 — **first 25-year-rollover declass date in d16-d* batch**)
+- **Admin / Operation** (page 0) — `INHERENT RESOLVE` + `AIR` + `609th` + `AFCENT` + `USCENTCOM`
+- **Admin / MSGID** (page 0) — `Originator: 89 ATKS`; `Report Type: MISREP`; Submit Date: (blank)
+- **Admin / MSNID** (page 1) — `Tasking Order (ATO): DI` + `Mission Type: ARMED RECCE` + `ATO Mission Number: 1.4a, 1.4g` + `Country Tasked: US - UNITED STATES` + `Service Tasked: A - AIR FORCE`
+- **POC** (page 1) — Amn / 89 ATKS / 432 AEW / 603 AOC
+- **QC** (page 1) — 2d Lt / 89 ATKS / 432 AEW / 609 CAOC
+- **APPROVER** (page 1 → page 2) — SrA / 609th AOC / Other / 609 CAOC (continued)
+- **INGEST** (page 2) — all fields blank/dash — first all-blank INGEST in corpus ^[inferred]
+- **ACEQUIP** (pages 2–3) — minimal capture (callsign + air-to-ground-wpn only)
+- **Timeline** (pages 3–4) — Takeoff + On-Station + Off-Station + Landing + ISR
+- **GENTEXT/ISR** (pages 4–5) — 12-hour operationally-richest ISR scan + multi-killbox vehicle/dismount tracking
+- **GENTEXT/WEATHER** (page 6) — `(SECRET/REL TO USA, FVEV)` portion-marking glyph-swap (FVEV vs canonical FVEY — fourth Y→V swap variant in Block D pattern, with d12 FVET/FVFY + d14 FVEV + d10 FYET/FYEV)
+- **GENTEXT/EFFECTIVENESS** (page 6) — Tasker / Intel Gap Filled / Gentext fields blank/dash
+- **GENTEXT/UAP** (page 6) — DTG + location + KP 9 + heading-axis + duration; sub-class 8 with annotation
+
+**No EMI segment** — extends d12+d14 zero-EMI to N=6 within full-Misrep class (EMI isolated at d62 alone, **1-of-10 = 10%** ^closed-by-dow-uap-d16); zero EMI in 9-of-10 testable artifacts. **No GUARDCALL segment** — extends d10+d12+d14 zero-GUARDCALL to N=4 cross-COCOM + cross-sub-theater (Iraq + Mediterranean coast + Syria interior all zero-GUARDCALL); GUARDCALL firms as **Persian-Gulf-Strait-of-Hormuz-Gulf-of-Oman-corridor-specific** at 6-of-10 testable = 60% (cluster only). ^closed-by-dow-uap-d16. **No REACTION segment** (d14 isolated at N=1 for foreign-state-fighter close-approach class).
+
+## OCR ambiguities and corruption notes
+
+- **`# Misrep undefined-7816710`** — fourth `undefined-` OCR-prefix attestation. Block D / Mistral-OCR-pipeline pattern firms at N=4 = 4-of-4 within Block D = 100% ^closed-by-dow-uap-d16.
+- **`(SECRET/REL TO USA, FVEV)` page-6 WEATHER portion-marking** — fourth Y→V glyph-swap variant in Block D pattern (d10 FYET/FYEV + d12 FVET/FVFY + d14 FVEV + d16 FVEV). Pattern firms cross-document at N=4 ^[inferred].
+- **`1.4a` + `1.4g` redaction-class split** — d16 carries both `1.4a` (E.O. 13526 §1.4(a) Foreign Government Information) and `1.4g` (§1.4(g) Vulnerabilities or capabilities) within the Tail Number + ATO Mission Number + UAP First Seen Location fields. **First explicit `1.4g` classification on a UAP First Seen Location field** ^[extracted] — matches d62 (EMI-class §1.4(g)) + d12 redaction patterns; redaction-class diversity within structured UAP-record fields firms at N=2 cross-document.
+- **`MSGID 3.5c` reading** — pages 0+1+2 all carry `3.5c. FOIA Exemption (b)(6)` page banner. `3.5c` is plausibly E.O. 13526 §3.5(c) or 32 CFR §2001 ^[ambiguous]; recurs at N=4 within Block D pattern (d10 + d12 + d14 + d16).
+- **MGRS field-formatting `37SFU27 1.4a74 1.4a`** — UAP First Seen Location uses 1.4a-1.4a redaction split versus aircraft location `37SFU4 1.4a78 1.4g` uses 1.4a-1.4g split. First aircraft+UAP redaction-class differential within a single Misrep ^[inferred].
+- **`KP 9` killbox-format** — non-standard alphanumeric killbox descriptor; `KP` letter + `9` numeric. Distinct from d12's `89AS` killbox and d14's `41EMD` OPAREA. First `KP`-letter killbox format in corpus. ^[extracted]
+- **`OP SPECTRE DAGGER` operation name** — possible OCR-corruption-vs-real-CENTCOM-OIR-named-operation reading ^[ambiguous]; held as `^[extracted]` because the surrounding GENTEXT/ISR text is clean. Recurrence at N≥2 (via future OIR-Syria ingest) would firm or refute.
+- **`TF CHOSIN` task force** — TF = Task Force; CHOSIN is the historical reference to the 1950 Korean War battle (1st Marine Division at Chosin Reservoir). Common Marine-task-force naming convention referencing 1st MARDIV lineage ^[inferred]. The TF CHOSIN supported-unit attestation **firms d10's `MAG`-supported-unit reading** at N=2 cross-sub-theater within OIR (d10/d12 = MAG; d16 = TF CHOSIN — both Marine-aviation-task-force class within OIR ^[inferred]).
+- **`POSS UAP EVENT` framing** — d16's narrative uses `AN UAP EVENT` not `AN UAP` or `1X UAP` — first **`UAP EVENT` framing token** in dow-uap corpus ^[extracted]. The token may anchor a within-OIR-Syria-cohort or within-89-ATKS-cohort framing convention; pending N≥2 attestation.
+
+## Bibliographic frame
+
+- **Document title:** `Misrep undefined-7816710` (per `# Misrep undefined-7816710` heading on page 0; `undefined-` prefix is Mistral-OCR artifact)
+- **Misrep ID:** `7816710`
+- **Document class:** FULL USMTF Misrep (multi-segment USMTF segment set + multi-page substantive content)
+- **Total pages:** 7
+- **Total bytes (source JSON):** 13,291
+- **SHA-256:** `842fd2e650d298263fbed2fb7862e70d06569d5f92aad97873dc7f1367411f05`
+- **Declassification:** MG Richard A. Harrison, USCENTCOM Chief of Staff; declassified 8 October 2025
+- **Release authority:** USCENTCOM MDR `25-0094 thru 25-0099 / JS-250710-TM8S`; release date `10/17/25 001 → 007`
+- **Approved for Release to AARO** (page banner footer recurrence)
+- **Event date:** 30–31 Jul 2022 (start 301639Z 30 Jul to land 311519Z 31 Jul)
+- **COCOM:** USCENTCOM
+- **MAJCOM:** AFCENT
+- **Operations Center (executing):** 609th / 609 CAOC
+- **Operation:** INHERENT RESOLVE
+- **Domain:** AIR
+- **Originator:** 89 ATKS
+- **POC unit:** 89 ATKS
+- **POC wing:** 432 AEW
+- **POC OC (home):** 603 AOC (EUCOM-rooted ^[inferred])
+- **Mission Type:** ARMED RECCE
+- **Tasking Order (ATO):** DI
+- **Supported unit:** TF CHOSIN
+- **Tasked operation:** OP SPECTRE DAGGER
+- **Launch base:** OJMS (Muwaffaq Salti Airbase, Jordan ^[inferred])
+- **Land base:** OJMS
+
+## See also
+
+- [[entities/dow-uap-foia-release]] — series-level anchor; d16 = 25-of-40 + 10th FULL USMTF Misrep
+- [[concepts/uap-aircraft-engagement]] — counter increments N=16→N=17 records / 27→28 datums; sub-class 8 with annotation at N=2
+- [[references/dow-uap-d14-mission-iraq-2022-05-29]] — **CROSS-OC MISSION SISTER**: d14 (POC 609 → exec 603 CENTCOM-rooted into EUCOM) + d16 (POC 603 → exec 609 EUCOM-rooted into CENTCOM) form the **bidirectional cross-OC class at N=2 in dow-uap corpus**; first inverse-direction pairing
+- [[references/dow-uap-d12-mission-iraq-2022-05-20]] — **OIR-Iraq SUB-CLUSTER SISTER**: d12 (20-21 May 2022 OIR-Iraq) + d10 (6-7 May 2022 OIR-Iraq) anchor sub-cluster at N=2; d16 (OIR-Syria) extends OIR-class anchor to N=3 via the Syria sub-theater split
+- [[references/dow-uap-d10-mission-middle-east-2022-05-06]] — **OIR ANCHOR**: first OIR-class artifact; d16 extends OIR-class to cross-sub-theater at N=3
+- [[references/dow-uap-d64-mission-iran-2020-11-02]] — **SUB-CLASS 8 WITH ANNOTATION SISTER**: d64-#2 anchored partial-annotation (5-min implicit duration + NW heading axis); d16 anchors full-annotation (explicit <1-min duration + N-to-S heading axis) at N=2
+- [[references/dow-uap-d60-mission-persian-gulf-2020-08-08]] — earliest-ingested NAVCENT cluster sextuplet member; first FULL USMTF Misrep
+- [[references/dow-uap-d65-mission-persian-gulf-2020-07-16]] — earliest-dated NAVCENT cluster member
+- [[entities/432-aew]] — POC Wing for d16 (third 432 AEW POC ingest in 2022 OIR/EUCOM trio; fourth 432 AEW-rooted operational lane: cluster NAVCENT + OIR-Iraq d10 + EUCOM RUS-MED d14 + OIR-Syria d16)
+- [[entities/603-aoc]] — POC home OC for d16 (first 603 AOC POC OC attestation; d14 had 603 AOC as executing OC, d16 inverts to 603 AOC POC home OC)
+- [[entities/609-caoc]] — executing OC for d16 (matches d10 + d12 + cluster's POC OC pattern)
+- [[entities/afcent]] — MAJCOM for d16 (matches d10's AFCENT pattern; AFCENT is OIR-tasking-class signature)
+- [[entities/usaf]]
+- [[entities/mq-9-reaper]]
+- [[entities/aaro]]
+- [[entities/dod]]
+- [[projects/uap/uap]]
+
+## Open threads
+
+- ~~**OIR May-2022 cluster validation at N≥3 via a non-d14 ingest**~~ (d12-anchored at line 246) ^closed-by-dow-uap-d16 — **FIRMED**: d16 (30-31 Jul 2022) anchors OIR at N=3 via the OIR-Syria sub-theater (UTM 37S + TF CHOSIN + OP SPECTRE DAGGER + Dayr Az Zar). OIR class spans **two distinct sub-theaters at N=3** (Iraq d10+d12 + Syria d16). Sub-theater axis fragments the cluster but the OIR-class anchor (Operation INHERENT RESOLVE + MAJCOM AFCENT + Operations Center 609 / 609th + Block D release event 10/17/25 byte-for-byte d12+d16) holds.
+- ~~**Block D unified 7-case allocation validation at N≥4**~~ (d14-anchored at line 376) ^closed-by-dow-uap-d16 — **FIRMS AT N=4 CROSS-COCOM + CROSS-SUB-THEATER**: d10+d12+d14+d16 share `25-0093 thru 25-0099 / JS-250710-TM8S`. Block D firms to 4-of-15 release-block-testable artifacts (~27%); now **leads Blocks B+C in share and ties Block A within ~6%**. 10/17/25 same-release-event-batch composition extends to **N=3** (d12+d14+d16 all 10/17/25); d10 lone 10/20/25 outlier at 1-of-4. ^[inferred]
+- ~~**Linear-time Misrep ID counter validates cross-COCOM at N≥4**~~ (d14-anchored at line 379) ^closed-by-dow-uap-d16 — **FIRMS AT N=5 CROSS-COCOM + CROSS-SUB-THEATER**: d14 → d16 = +255,431 IDs / ~62 days = ~4,120 IDs/day. Within-band across d60 → d10 → d12 → d14 → d16 spanning 24 months and two COCOMs and two sub-theaters within OIR (Iraq + Syria). Counter pooled at JS-tranche / Harrison-MDR-coordinator level decisively confirmed.
+- ~~**`# Misrep undefined-NNNN` OCR-prefix Block D pattern firms at N=4**~~ (d14-anchored at line 382, partial closure) ^closed-by-dow-uap-d16 — d16 carries `undefined-7816710` fourth attestation. Block D undefined-prefix rate: **4-of-4 = 100%** within Block D at N=4.
+- ~~**UAP-narrative boilerplate at N=2 within 2022 cohort**~~ (d14-anchored at line 390) ^closed-by-dow-uap-d16 (contradiction class) — d16 narrative diverges from d12+d14's `FOLLOWED AS LONG AS POSSIBLE` + `SCREENER COULD NOT GET A POSITIVE ID` template. Boilerplate is **NOT a within-2022-cohort signature**; refined hypothesis: tracks **POC unit + reviewing-OC pair** (d12 163 AW + 609 CAOC; d14 50 ATKS + 603 AOC adjacent reviewers; d16 89 ATKS + 609 CAOC writes independently). ^[inferred]
+- ~~**`379 AEW` APPROVER Wing pattern**~~ (d14-anchored on at-N≥4 thread) ^closed-by-dow-uap-d16 — extends falsification to **N=5 corpus-testable points**: d16 APPROVER = `Other` (not 379 AEW). 379 AEW remains at **2-of-5 = 40%** (d64 + d10); refined reading: **lane is OIR-Iraq + 2020-NAVCENT-cluster specific within 432 AEW POC subset**, NOT all 432 AEW POC missions universally — d16's OIR-Syria sub-theater outside the 379 AEW APPROVER lane.
+- ~~**Zero-EMI within full-Misrep class refutation of d62 canonical-anchor reading**~~ (multi-anchored) ^closed-by-dow-uap-d16 — extends to **N=6 zero-EMI within full-Misrep class** (cluster d60+d61+d63+d64+d65 5-of-6 + d10+d12+d14+d16 4-of-4). EMI isolated at d62 alone, **1-of-10 = 10%**.
+- ~~**Zero-GUARDCALL theater-bound pattern**~~ (multi-anchored) ^closed-by-dow-uap-d16 — extends Iraq-Syria-interior + EUCOM-Mediterranean coast pattern to **N=4 cross-COCOM + cross-sub-theater**; GUARDCALL firms as **Persian-Gulf-Strait-of-Hormuz-Gulf-of-Oman-corridor-specific** at 6-of-10 testable = 60% (cluster only).
+- **EUCOM Eastern Mediterranean cluster validation at N≥2** (d14-anchored at line 383, d12-anchored at line 259) — **STILL OPEN**: d16 is NOT EUCOM (USCENTCOM + OIR-Syria); d14 EUCOM cluster remains at N=1 awaiting future 603 AOC + Russian-Mediterranean-Squadron-watch ingest.
+- **OIR-Syria sub-cluster validation at N≥2** (d16-anchored) — d16 anchors OIR-Syria at N=1. Will a future ingest carry another OIR-Syria mission with TF CHOSIN + OJMS + UTM 37S, firming the sub-cluster at N=2 parallel to OIR-Iraq's d10+d12 N=2?
+- **`89 ATKS` POC unit recurrence at N≥2** (d16-anchored) — first 89 ATKS attestation. Recurrence anchors squadron alongside cluster's 482ATKS + d10's redacted + d12's 196 ATKS + d14's 50 ATKS + d44's 172 ATKS. Cross-document attestation of the 89 ATKS / 603 AOC POC-home-OC pairing would also firm the "EUCOM-rooted forward-deployed 432 AEW squadron pool" reading ^[inferred].
+- **`OP SPECTRE DAGGER` operation name validation** (d16-anchored) — first attestation; OCR-corruption-vs-real-CENTCOM-OIR-named-operation reading ^[ambiguous]. Recurrence at N≥2 within OIR-Syria sub-theater would firm SPECTRE DAGGER as the OIR-Syria-tasking-named-operation parallel to OP PHANTOM FLEX (OIR-Iraq).
+- **`TF CHOSIN` supported-unit recurrence at N≥2** (d16-anchored) — first TF CHOSIN attestation; first Marine task-force named supported unit in OIR-Syria sub-theater. Recurrence anchors TF CHOSIN as the OIR-Syria Marine ground-task-force parallel to MAG (Marine Aircraft Group) in OIR-Iraq.
+- **`OJMS` Muwaffaq Salti AB launch-base recurrence at N≥2** (d16-anchored) — first OJMS / first Jordan launch base in dow-uap corpus. Recurrence anchors OJMS as the OIR-Syria forward-operating-location parallel to OKAS Kuwait (NAVCENT cluster) + LICZ Sigonella Italy (d14 EUCOM).
+- **`KP 9` killbox-letter-format recurrence at N≥2** (d16-anchored) — first `KP`-letter killbox descriptor in corpus (vs d12's `89AS` numeric + d14's `41EMD`). Recurrence anchors the alphanumeric-letter killbox format as an OIR-Syria-sub-theater convention.
+- **Cross-OC mission INVERSE direction recurrence at N≥2** (d16-anchored) — d14 + d16 anchor bidirectional cross-OC class at N=2 (d14 CENTCOM→EUCOM + d16 EUCOM→CENTCOM). Does a future ingest carry another cross-OC mission, firming the class at N≥3? Particularly, does another inverse-direction (EUCOM-rooted POC → CENTCOM-rooted executing OC) recur within OIR-Syria sub-theater, firming the 603 AOC POC-home-OC reading?
+- **OIR-Syria sub-theater UAP-narrative template recurrence at N≥2** (d16-anchored) — d16's `UAP EVENT` framing token + duration-and-heading-axis-only-annotation pattern + 89 ATKS / 609 CAOC + 603 AOC POC-home-OC tuple. Does a future OIR-Syria ingest carry the same framing template, firming a within-OIR-Syria narrative template parallel to d12+d14's within-May-2022 boilerplate?
+- **`UAP EVENT` framing token recurrence at N≥2** (d16-anchored) — first `AN UAP EVENT` token in dow-uap corpus (vs cluster's `1X UAP` + d10/d12/d14's `OBSERVED A UAP`). Recurrence anchors event-class framing convention.
+- **89 ATKS = 603 AOC-rooted forward-deployed EUCOM squadron reading vs Mistral-OCR-field-carry-over** (d16-anchored, two competing readings) — Reading (a) parsimoniously assigns 89 ATKS as a Sigonella-or-similar forward-deployed EUCOM-homed 432 AEW squadron pool member (parallel to d14's 50 ATKS); Reading (b) Mistral OCR cross-document field carry-over from d14 within the same 10/17/25 Block D release-event-batch. Future cross-document attestation of 89 ATKS at 603 AOC home, or recovery of d16's POC contact info to confirm a different home OC, would resolve the ambiguity.
+- **17.2 IMINT-hour high-water mark recurrence** (d16-anchored) — d16's 17.2 IMINT-hour utilization breakout is the highest in the dow-uap corpus. Does a future ingest exceed or recur at 17h+? Anchors a within-OIR-Syria-or-89-ATKS mission-tempo signature.
+- **`SLANT 2/0/0` / `SLANT 3/0/0` vehicle/dismount-count descriptor recurrence** (d16-anchored) — first SLANT-numerical-descriptor format in dow-uap corpus. Recurrence anchors the ISR-segment vehicle-tracking taxonomy.
+- **`ADM` + `COI` + `TECHNICAL` + `BONGO` + `TELAR` + `AAA` + `OVERHANG` + `RUNAWAY SCAN` ISR-vocabulary recurrence** (d16-anchored) — d16 introduces ~8 new ISR-vocabulary tokens. Recurrence anchors within-OIR-Syria-sub-theater ISR vocabulary.
+- **TELAR-with-3-rockets-INACTIVE at Dayr Az Zar parking AFLD `37SFV07` recurrence** (d16-anchored) — first TELAR + first SAM-launcher / surface-to-surface-rocket observation in dow-uap corpus. Recurrence in OIR-Syria sub-theater would firm the position-of-interest in counter-ISIS-aligned militant inventory.
+- **`UAP First Seen Location` redaction-class `1.4g` attestation** (d16-anchored) — first explicit §1.4(g) redaction on a UAP First Seen Location field. Recurrence anchors §1.4(g) as a structured-field-level redaction for vulnerabilities-or-capabilities classification within UAP records.
+- **Page-6 GENTEXT/WEATHER portion-marking glyph-swap FVEY → FVEV at N=2 in corpus** (d16-anchored) — d14 + d16 share FVEV swap (Y→V single-character at position 4). Pattern firms cross-document at N=2.
+- **AFCENT MAJCOM recurrence within OIR-tasking subset at N=2** (d16-anchored) — d10 + d16 both carry AFCENT MAJCOM under OIR tasking; d12 carries ACC MAJCOM (ANG-component). Refined reading: **AFCENT MAJCOM tracks active-component OIR-tasking subset**, ACC tracks ANG-component subset. d14 (EUCOM + active 432 AEW) carries ACC, contradicting this within active-component subset (the ACC=ANG-gaining-command falsification d14-anchored stands). ^[inferred] The active-component MAJCOM split — AFCENT for OIR (d10 + d16) vs ACC for EUCOM (d14) — is a **theater-MAJCOM-vs-owning-MAJCOM** signature; ACC is the wing's owning MAJCOM; AFCENT is the theater MAJCOM under CENTCOM tasking; for EUCOM the wing reports up via owning ACC because USAFE is not in the wing's reporting chain ^[inferred]. Recurrence anchors this MAJCOM-split-by-COCOM reading.
