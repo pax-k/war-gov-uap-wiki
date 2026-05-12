@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-11T23:50:00Z",
+  "updated": "2026-05-12T03:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -3377,20 +3377,157 @@
         "hot.md"
       ],
       "notes": "Manual ingest by main agent (very small source 1686 bytes / 233 chars total — no subagent needed)."
+    },
+    "sources/dow-uap-d10-mission-report-middle-east-may-2022.json": {
+      "ingested_at": "2026-05-12T03:00:00Z",
+      "size_bytes": 8589,
+      "modified_at": "May  9 16:07:44 2026",
+      "content_hash": "sha256:5f4037053c708a27756701e5fcc5a16c6ddf9fc43b0dcfeaca2ec296c3948007",
+      "source_id": "dow-uap-d10-mission-report-middle-east-may-2022",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap-foia-release",
+      "series_position": "22-of-40",
+      "ocr_engine": "mistral-ocr-latest",
+      "ocr_pages_processed": 6,
+      "substantive_pages": 6,
+      "header_only_pages": 0,
+      "image_blocks_captured": 0,
+      "image_base64_captured": 0,
+      "document_class": "full-usmtf-misrep",
+      "document_subclass": "block-d-release-pipeline",
+      "document_class_sister_count": 7,
+      "full_usmtf_misrep_position": "7th in corpus (1st 2022-era; 1st OIR-tasked; 1st outside-2020-cluster cross-operation-cross-theater 432-AEW-backbone extension)",
+      "content_char_count": 6944,
+      "misrep_id": 7473483,
+      "misrep_id_captured_in_ocr": true,
+      "misrep_id_ocr_prefix_anomaly": "OCR rendered as `# Misrep undefined-7473483`; treat 7473483 as canonical ^[ambiguous]",
+      "declassification_banner": "PRESENT (Harrison + USCENTCOM Chief of Staff + 7 October 2025; pages 4-5 portion-marking glyph-swap FVEY → FYET / FYEV)",
+      "declassification_date": "2025-10-07",
+      "document_level_declassification_date": "20470506",
+      "bottom_of_page_release_block": "BLOCK D — USCENTCOM MDR 25-0093 / JS-250710-TM8S + 10/20/25 001→006 + Approved for Release to AARO",
+      "release_framework_block_classification": "Block D (fourth distinct block; earliest release date in corpus Oct 2025; first JS- Joint Staff sub-ID; first 25-NNNN MDR year-prefix; first cross-FY release pipelines 25/26 cases overlap; 3-digit page-stamps; N=1)",
+      "release_block_position": "Block D 1-of-12 = ~8% at N=12 release-block-testable artifacts; A 5-of-12 (~42%) + B 3-of-12 (~25%) + C 3-of-12 (~25%) + D 1-of-12 (~8%)",
+      "event_date": "2022-05-06",
+      "event_year": 2022,
+      "event_time": "061514Z",
+      "event_window": "1514Z-1934Z 6 May 2022 (4h 20min observation window)",
+      "mission_cycle": "060246Z takeoff → 060958Z on-station → 061514Z first UAP → 062036Z RTB → 070004Z land → 070014Z engine-shutdown (21h 28min total)",
+      "mission_duration_minutes": 1288,
+      "object_count": 5,
+      "object_identification_confidence": "1X possible missile-class VISRECCE (UAP #1) + 4X POSSIBLE BIRDS profile (UAP #2-#5)",
+      "object_morphology_captured": "none structured; VISRECCE-based narrative (missile-class for UAP #1; bird-class for UAP #2-#5)",
+      "object_kinematics_captured": "FLY ACROSS THE SCREEN / FOV (no speed / altitude / heading on UAP datums)",
+      "sensor": "FMV (Full Motion Video; explicit method on OBSERVATION segment) + FMV\\SI Primary Sensor (FMV + Signals Intelligence combined ISR mission)",
+      "mission_impact_clause": "Intel Gap Filled? = Yes (EFFECTIVENESS segment); Precoord Effectiveness SATISFACTORY (240 min precoord); no explicit UAP-level impact clause",
+      "aircraft_posture": "TARGET DEVELOPMENT (Activity Description); REC\\XCAS Mission Type; PLANNED Tasking Type",
+      "portion_marking": "SECRET/REL TO USA/FVEY (pages 0; clean) + SECRET/REL TO USA/FYET (page 4 OCR-glyph-swap) + SECRET/REL TO USA/FYEV (page 5 OCR-glyph-swap)",
+      "operation": "INHERENT RESOLVE (first explicit Operation attribution in dow-uap corpus; counter-ISIS coalition Iraq+Syria)",
+      "mission_type": "XCAS (MSNID) / REC\\XCAS (Timeline + ISR + GENTEXT/ISR) — first XCAS / REC\\XCAS attestation in dow-uap corpus",
+      "supported_unit": "MAG (Marine Aircraft Group ^[inferred] — first MAG-supported attestation in dow-uap corpus)",
+      "service_tasked": "A - AIR FORCE",
+      "country_tasked": "US - United States",
+      "majcom": "AFCENT",
+      "cocom": "USCENTCOM",
+      "operations_center": "609 CAOC (POC/QC/APPROVER); 609th (Operation block page 1)",
+      "originating_wing": "432 AEW (POC + QC)",
+      "originating_unit": "redacted 1.4a",
+      "approver_unit": "ISRD",
+      "approver_wing": "379 AEW (second corpus attestation after d64; rescues d64 from isolation at N=2; multi-document multi-year stable APPROVER lane attached to Al-Udeid AB Qatar ^[inferred])",
+      "ato": "AB",
+      "first_detection_position": "38SMC531.4a961.4a (OBSERVATION segment; 1-m precision with 4-character chunks redacted)",
+      "first_detection_position_format": "UTM 38S MC 14-digit MGRS (1-m precision)",
+      "aircraft_position": "38SMC531.4a961.4a (OBSERVATION segment Aircraft Location; same MGRS as UAP #1 — fifth same-10-km-MGRS-square aircraft-and-UAP geometry corpus attestation)",
+      "tasked_start_point": "38SMC54 1.4a96 1.4a (100-m precision with 1-km digits redacted; adjacent 1-km square west of OBS)",
+      "mgrs_zone": "38S (first UTM 38S MGRS in dow-uap corpus; Iraq/Syria/Levant 32-40°N S latitude band; 33-37°N / 38-48°E ^[inferred])",
+      "filename_theater_label": "middle-east",
+      "filename_theater_internally_verified": "VERIFIED at N=2 (d38 Persian Gulf coast + d10 Iraq/Syria Levant — both internally honest, coarse-resolution within CENTCOM AOR)",
+      "filename_date_label": "may-2022",
+      "filename_date_internally_verified": "VERIFIED (body Timeline shows 060246:00ZMAY22 → 070014:00ZMAY22; consistent with filename may-2022)",
+      "weather": "DUST HINDERED MOST FMV COLLECTION OF THE GROUND (page 5, repeated after Precoord + after OBSERVATION; first DUST-induced FMV degradation in dow-uap corpus)",
+      "guardcall_events": 0,
+      "emi_events": 0,
+      "collateral_observations": 0,
+      "behavioral_sub_class": "candidate sub-class 11 (multi-UAP-with-explicit-prosaic-candidates within USMTF Misrep) at N=1 — bridges sub-class 5 (d55 CTG-narrative prosaic-candidate) and full-Misrep parent class; distinct from sub-class 8 strict (bare FMV-observation), sub-class 9 (formation-track + bounded-duration), sub-class 10 (d3 multi-object-weather-obstructed single-segment-extract)",
+      "approver_lane_recurrence": "379 AEW = N=2 corpus-wide (d64 Nov 2020 + d10 May 2022) ^closed-by-dow-uap-d10 on d65 falsification-class closure — partially overturns within-2020-cluster isolation claim at corpus level while leaving within-cluster 1-of-6 stat intact",
+      "structural_firsts": [
+        "first 2022-era dow-uap artifact (extends corpus temporal span)",
+        "first Operation INHERENT RESOLVE attribution (counter-ISIS coalition Iraq+Syria)",
+        "first UTM 38S MGRS (Iraq/Syria/Levant; extends MGRS-zone coverage to 4 distinct zones 35Q+38S+39R+40R)",
+        "first MAG (Marine Aircraft Group ^[inferred])-supported Unit",
+        "first XCAS / REC\\XCAS Mission Type",
+        "first DUST-induced FMV degradation Weather descriptor",
+        "first VISRECCE (Visual Reconnaissance) doctrinal term",
+        "first 5-UAP-narrative single GENTEXT/OBSERVATION segment (extends d3 4X-narrative single-segment-extract to 5X full-Misrep)",
+        "first explicit-prosaic-candidate within FULL USMTF Misrep parent class (bridges d55 CTG-narrative into full-Misrep)",
+        "first BLOCK D release-framework anchor (fourth distinct release block; earliest release date in corpus Oct 2025)",
+        "first JS- (Joint Staff) sub-ID in release block (JS-250710-TM8S; internal date 250710 = 10 Jul 2025 ^[inferred])",
+        "first 25-NNNN MDR year-prefix",
+        "first cross-FY (25/26) release pipelines in same FOIA tranche",
+        "first per-page OCR-portion-marking glyph-swap in dow-uap corpus (FVEY → FYET / FYEV)",
+        "first Intel Gap Filled = Yes EFFECTIVENESS attestation",
+        "first 432-AEW + 609 CAOC backbone cross-operation cross-theater attestation (outside 2020 cluster)",
+        "fifth same-10-km-MGRS-square aircraft-and-UAP geometry corpus attestation (extends beyond cluster to N=5 across two tasking contexts)"
+      ],
+      "ocr_ambiguities": [
+        "# Misrep undefined-7473483 prefix unusual; treat 7473483 as canonical Misrep ID ^[ambiguous]",
+        "Pages 4-5 portion-marking glyph-swap FVEY → FYET (page 4) / FYEV (page 5) at character positions 3-4 ^[inferred]",
+        "Page 1 Operations Center renders 609th (vs POC/QC/APPROVER blocks 609 CAOC) — likely OCR variance ^[inferred]",
+        "Narrative 1514Z vs GENTEXT/ISR 1515Z 1-minute time variance — clerical rounding ^[ambiguous]"
+      ],
+      "thread_closures": [
+        "d65 379 AEW falsification-class closure partially overturned at corpus level — 379 AEW recurs at N=2 (d64+d10) ^closed-by-dow-uap-d10",
+        "d62 EMI canonical-anchor refutation extends to N=3 (d63 + d65 within-cluster + d10 cross-cluster all zero EMI; isolated at d62 alone 1-of-7) ^closed-by-dow-uap-d10",
+        "GUARDCALL class-level signature refined to theater-bound for Persian Gulf / Hormuz / Oman maritime corridor ^closed-by-dow-uap-d10 (d10 Iraq-Syria interior zero GUARDCALL)",
+        "middle-east filename label internally verified at N=2 (d38 Persian Gulf coast + d10 Iraq/Syria Levant) ^closed-by-dow-uap-d10",
+        "linear-time Misrep ID counter recovers at 432-AEW-rooted unit lane at N=2 cross-cluster corroboration points (d60→d10 ~4,531/day across 636 days) — partially overturns d3 corpus-level refutation ^closed-by-dow-uap-d10",
+        "Block D anchored at N=1 — fourth distinct release block; release framework decisively per-MDR-case allocation at N=4 distinct blocks ^closed-by-dow-uap-d10"
+      ],
+      "thread_extensions": [
+        "FULL USMTF Misrep document class extends to N=7 (first cross-cluster member)",
+        "Same-10-km-MGRS-square aircraft-and-UAP geometry extends to N=5 across two tasking contexts (cluster NAVCENT + d10 OIR)",
+        "MGRS-zone coverage extends to 4 distinct zones",
+        "Candidate sub-class 11 (multi-UAP-with-explicit-prosaic-candidates within USMTF Misrep) anchored at N=1"
+      ],
+      "thread_contradictions": [
+        "d65 falsification-class closure on 379 AEW within-cluster isolation partially reframed at corpus level (d10 extends to N=2 cross-2020-2022)"
+      ],
+      "thread_reframings": [
+        "GUARDCALL signature reframed from class-level FULL USMTF Misrep parent to theater-bound Persian Gulf / Hormuz / Oman maritime corridor"
+      ],
+      "pages_created": [
+        "references/dow-uap-d10-mission-middle-east-2022-05-06.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "timeline.md",
+        "log.md",
+        "hot.md"
+      ],
+      "open_threads_summary": {
+        "closed": 6,
+        "extended": 4,
+        "contradicted": 1,
+        "reframed": 1
+      },
+      "notes": "Manual ingest; 6-page Mistral-OCR'd FULL USMTF Misrep — first 2022-era / first OIR / first UTM 38S / first MAG-supported / first XCAS / first DUST / first VISRECCE / first 5-UAP-narrative / first explicit-prosaic-candidate-within-USMTF-Misrep / first Block D / first JS- sub-ID / first 25-NNNN MDR in dow-uap corpus. Same 432 AEW + 609 CAOC backbone as 2020 NAVCENT cluster but NOT a cluster member (Operation INHERENT RESOLVE + MAG-supported + UTM 38S MC Levant distinct from cluster NAVCENT + AREC + 39R/40R Persian Gulf)."
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-12T02:15:00Z",
-      "sources_ingested": 57
+      "last_ingested": "2026-05-12T03:00:00Z",
+      "sources_ingested": 58
     }
   },
   "stats": {
-    "total_sources_ingested": 67,
-    "total_pages": 338,
+    "total_sources_ingested": 68,
+    "total_pages": 339,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-12T02:15:00Z"
+    "last_ingest_at": "2026-05-12T03:00:00Z"
   }
 }
