@@ -351,7 +351,8 @@ d60 introduces or extends the following in the dow-uap corpus (now N=14 ingests)
 
 ## See also
 
-- [[entities/dow-uap-foia-release]] — Series-level anchor (d60 is the 14-of-40 ingest, 6th substantive mission-record artifact, **first FULL USMTF Misrep**); anchors third top-level mission-report sub-class
+- [[entities/dow-uap-foia-release]] — Series-level anchor (d60 is the 14-of-40 ingest, 6th substantive mission-record artifact, **first-INGESTED FULL USMTF Misrep** — reframed by [[references/dow-uap-d65-mission-persian-gulf-2020-07-16|d65]] from "earliest dated" to "first-ingested-but-second-earliest" ^closed-by-dow-uap-d65; d65 (16-17 Jul 2020) is the earliest dated cluster member at 23 days BEFORE d60); anchors third top-level mission-report sub-class
+- [[references/dow-uap-d65-mission-persian-gulf-2020-07-16]] — **Sixth FULL USMTF Misrep (Misrep 4472514, 16-17 Jul 2020) — EARLIEST DATED CLUSTER MEMBER, 23 days BEFORE d60**; same 482ATKS / 432 AEW MQ-9 cluster member; first 3-UAP-datum full-Misrep; cluster span extends to ~110 days Jul-Nov 2020 across 5 calendar months
 - [[references/dow-uap-pr20-prepublication-clearance-2026-03]] — Series prepublication-clearance cover stamp (10 Mar 2026)
 - [[references/dow-uap-d4-mission-arabian-gulf-2020]] — First single-segment GENTEXT/UAP extract mission report — kinematic-anomaly sub-class; d60 may be the parent-Misrep-class analog
 - [[references/dow-uap-d5-mission-arabian-gulf-2020]] — Two-sighting GENTEXT/UAP extract

@@ -420,7 +420,7 @@ d62 introduces or extends the following in the dow-uap corpus (now N=16 ingests)
 - **Test the page-banner OCR digit-swap alternation pattern at N≥4 Misreps** — d60 (0%) → d61 (14%) → d62 (56%) swap rate is increasing across the cluster. Is this a real per-document trend (newer scans / lower-quality batches) or sample noise? ^[inferred]
 - **Test the Block-class-vs-document-class correlation at N≥4 Block-B Misreps** — d61 + d62 = Block B full-Misreps; d60 = Block A full-Misrep. At N=3 the full-Misrep class skews Block B (2-of-3); range-fouler skews Block A (4-of-5). Does this hold at higher N? ^[inferred]
 - **Resolve aircrew rotation within 482ATKS** — d60 + d61 = 1st Lt POC + 1st Lt APPROVER; d62 = SSgt POC + SrA APPROVER. The squadron has multiple aircrews flying sorties. ^[inferred] No specific aircrew identification possible (all FOIA-`(b)(6)`-redacted), but the rank pattern suggests at least two distinct shift-of-operators within the cluster. ^[inferred]
-- **Test the same-MGRS-square aircraft-and-UAP geometry at N≥2** — d62 is the first same-10-km-square attestation. If recurrent, the bare-FMV sub-class 8 may correlate with co-located observation geometry (the UAP is essentially on the aircraft's sensor footprint at observation time). ^[inferred] If isolated, d62 is a single-datum coincidence.
+- ~~**Test the same-MGRS-square aircraft-and-UAP geometry at N≥2**~~ ^closed-by-dow-uap-d64 ^closed-by-dow-uap-d65 — **CLOSED at N=4 attestations**: [[references/dow-uap-d64-mission-iran-2020-11-02|d64]]-#2 (2 Nov 2020 `39RWK60` aircraft+UAP) + [[references/dow-uap-d65-mission-persian-gulf-2020-07-16|d65]]-#2 (16 Jul 2020 `39RUN70` aircraft+UAP) + d65-#3 (16 Jul 2020 `39RUN01` aircraft+UAP) add 3 more attestations to d62's anchor (16 Sep 2020 `39RVM51` aircraft+UAP). **At N=4 cluster attestations the same-10-km-MGRS-square geometry firms as a near-canonical sub-class-8 signature**; co-located observation geometry reading (UAP on aircraft's sensor footprint at observation time) confirmed at 4-of-9 cluster datums = ~44%; ANDAS4-nadir-geometry mechanism candidate firms ^[inferred].
 
 ## See also
 
@@ -444,4 +444,5 @@ d62 introduces or extends the following in the dow-uap corpus (now N=16 ingests)
 - [[concepts/orb-phenomenon]] — Adjacent; d62 is morphology-blank
 - [[concepts/range-fouler]] — Adjacent; d62 is full-Misrep not range-fouler, but Block B sister d38 is
 - [[entities/aaro]] — d62 `Approved for Release to AARO` stamp recurrence (8th in corpus); firms AARO as dow-uap receiving authority
+- [[references/dow-uap-d65-mission-persian-gulf-2020-07-16]] — **Sixth FULL USMTF Misrep (Misrep 4472514, 16-17 Jul 2020) — EARLIEST DATED CLUSTER MEMBER**; d65 extends same-10-km-MGRS-square geometry from N=2 (d62 anchor + d64-#2) to N=4 (+d65-#2+#3) ^closed-by-dow-uap-d65; further isolates d62 EMI to 1-of-6 (~17% per-mission incidence)
 - [[projects/uap/uap]]

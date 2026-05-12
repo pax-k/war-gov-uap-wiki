@@ -402,4 +402,5 @@ d61 introduces or extends the following in the dow-uap corpus (now N=15 ingests)
 - [[concepts/orb-phenomenon]] — Adjacent; d61 is morphology-blank but formation-track is suggestive
 - [[concepts/range-fouler]] — Adjacent; d61 is not a range-fouler, but same-Block sister artifact d38 is
 - [[entities/aaro]] — d61 `Approved for Release to AARO` stamp recurrence (7th in corpus); firms AARO as dow-uap receiving authority
+- [[references/dow-uap-d65-mission-persian-gulf-2020-07-16]] — **Sixth FULL USMTF Misrep (Misrep 4472514, 16-17 Jul 2020) — EARLIEST DATED CLUSTER MEMBER**; d65 extends anti-IRIN/IRGCN tasking attestation pattern to N=3 corpus-wide (d61 first + d64 second + d65 third); d61's sub-class 9 (formation-track) further isolates to 11% (1-of-9) at N=6 cluster datums; first 3-UAP-datum full-Misrep
 - [[projects/uap/uap]]
