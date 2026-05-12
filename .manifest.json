@@ -3211,20 +3211,111 @@
         "references/dow-uap-d61-mission-persian-gulf-2020-08-27.md",
         "references/dow-uap-d60-mission-persian-gulf-2020-08-08.md"
       ]
+    },
+    "sources/dow-uap-d3-mission-report-arabian-gulf-2020.json": {
+      "ingested_at": "2026-05-12T02:00:00Z",
+      "size_bytes": 7060,
+      "modified_at": "May  9 16:07:44 2026",
+      "content_hash": "sha256:c3739f8943d571dbd4471422cac2bafd10ba3b9dbc607dfc730aec54c58f1089",
+      "source_id": "dow-uap-d3-mission-report-arabian-gulf-2020",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap-foia-release",
+      "series_position": "20-of-40",
+      "ocr_engine": "mistral-ocr-latest",
+      "ocr_pages_processed": 7,
+      "substantive_pages": 2,
+      "header_only_pages": 5,
+      "image_blocks_captured": 2,
+      "image_base64_captured": 0,
+      "document_class": "single-segment-gentext-uap-extract",
+      "document_subclass": "pre-block-a-b-c-release-pipeline",
+      "document_class_sister_count": 7,
+      "misrep_id": "8799515",
+      "misrep_id_outside_cluster_range": true,
+      "misrep_id_delta_from_d65": "+4327001 IDs",
+      "misrep_id_counter_corpus_level_refuted_at_d3": "+4.3M IDs above d65 at empirical ~5205 IDs/day rate would place d3 ~830 days after d65 (~2022-2023), contradicting filename 2020; counter must be qualified to within-squadron-within-release-event scope, not corpus-linear-time",
+      "declassification_banner": "ABSENT (no Harrison + USCENTCOM attribution)",
+      "bottom_of_page_release_block": "ABSENT (no Block A/B/C stamp; distinct from cluster framework)",
+      "release_framework_block_classification": "Pre-Block-A/B/C release pipeline (or alternative pipeline lacking bottom-of-page block; consistent with d4/d5/d7/d54/d8 sister extracts)",
+      "document_level_declassification_date": "20480603 (3 June 2048)",
+      "originating_service_user": "Air Force (explicit Service Tasked = A)",
+      "majcom": "AFCENT (first AFCENT MAJCOM attestation in dow-uap corpus)",
+      "majcom_distinct_from_cluster": "609 CAOC AOC sits inside AFCENT command structure; d3 names parent MAJCOM directly",
+      "cocom": "redacted (b)(1).4a — likely CENTCOM ^[inferred]",
+      "originating_unit_user": "redacted (POC/QC/APPROVER all fields = 00055@1300 template-default-fill ^[inferred OCR-corruption of redacted submitter data])",
+      "mission_classification": "ISR (Activity Description: ISR)",
+      "ato_mission_number": "00055",
+      "country_tasked": "US",
+      "service_tasked": "A (Air Force)",
+      "event_date": null,
+      "event_date_untestable_reason": "filename 2020; body Domain + Operations Center fields show suspicious 2016 (likely OCR-corruption placeholder); event time 1736Z captured without year/month/day anchor",
+      "event_time": "1736:22Z to 1736:49Z (27-second observation window)",
+      "object_count": 4,
+      "object_count_subevents": "1X at 17:36:22 / 2X side by side at 17:36:30 / 1X at 17:36:49",
+      "object_morphology_captured": "none (UAP Description names only `UAP`)",
+      "object_advanced_capabilities": "NO (explicit)",
+      "uap_first_seen_location": "redacted (b)(1).4a",
+      "uap_kinematics_captured": "none (altitude/velocity/trajectory all blank)",
+      "sensor": "FMV-implied (Activity Description ISR + Primary Sensor field redacted)",
+      "cause_of_track_loss": "100% cloud cover (first weather-prevented-following attestation in dow-uap corpus)",
+      "aircraft_posture": "passive ISR; UAP advanced-capabilities = NO; no closure attempt",
+      "filename_theater_label": "arabian-gulf",
+      "filename_theater_internally_verified": "UNTESTABLE (Tasked Start Point + UAP First Seen Location both redacted)",
+      "filename_date_label": "2020",
+      "filename_date_internally_verified": "UNTESTABLE (no body-text date anchor; Domain/OC `2016` likely OCR corruption)",
+      "behavioral_sub_class": "candidate sub-class 10 — multi-object-brief-observation-weather-obstructed (4X UAP in 27-sec window under 100% cloud cover); anchored at N=1 by d3 alone",
+      "structural_firsts": [
+        "first AFCENT MAJCOM attestation in dow-uap corpus",
+        "first weather-prevented-following cause-of-track-loss attestation",
+        "first 4-UAP-multi-event observation in single mission record",
+        "first side-by-side intra-group geometry in single-segment-extract sub-format",
+        "first Misrep ID outside d60-d65 cluster range (refutes corpus-linear-time counter framework)",
+        "first 7th-member of single-segment GENTEXT/UAP extract sub-class",
+        "candidate 10th brief-observation sub-class (multi-object-weather-obstructed)"
+      ],
+      "ocr_ambiguities": [
+        "(b)(1).4a vs (b)(1)1.4a vs 01(1)1.4a vs b)(1)1.4a portion-redaction renderings — pages 0+1+6 use variants; all same EO 13526 §1.4(a) stamp",
+        "Domain: 2016 + Operations Center: 2016 likely OCR-corruption placeholders not literal 2016 attestations",
+        "00055@1300 template-default fill values across POC/QC/APPROVER blocks (OCR recovered template stem from redacted submitter data)",
+        "info@mail.com @mail.smil.mil partial-redaction fill artifact",
+        "(SEE ISR 1) cross-reference unrecoverable — ISR segment fields all portion-redacted",
+        "Declassification banner ABSENT distinct from cluster"
+      ],
+      "thread_extensions": [
+        "Misrep ID counter framework — scope qualifier added (within-squadron-within-release-event vs corpus-linear-time)",
+        "Single-segment GENTEXT/UAP extract sub-class — extends to 7th member"
+      ],
+      "thread_contradictions": [
+        "Linear-time Misrep ID counter framework at corpus level REFUTED by d3 ID 8799515"
+      ],
+      "pages_created": [
+        "references/dow-uap-d3-mission-arabian-gulf-2020.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "timeline.md",
+        "log.md",
+        "hot.md"
+      ],
+      "notes": "Subagent timed out mid-stream during exploration phase before any disk writes. State files + reference page completed by main agent via direct jq + Read + manual write."
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-12T01:30:00Z",
-      "sources_ingested": 55
+      "last_ingested": "2026-05-12T02:00:00Z",
+      "sources_ingested": 56
     }
   },
   "stats": {
-    "total_sources_ingested": 65,
-    "total_pages": 336,
+    "total_sources_ingested": 66,
+    "total_pages": 337,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-12T01:30:00Z"
+    "last_ingest_at": "2026-05-12T02:00:00Z"
   }
 }
