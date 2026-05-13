@@ -186,6 +186,8 @@
   },
   "active": "264d9855d1e46191",
   "lastOpenFiles": [
+    "entities/3-sos.md",
+    "references/dow-uap-d27-mission-uae-2024-06-06.md",
     "entities/603-aoc.md.tmp.10804.1778653273562",
     "entities/afsoc.md",
     "entities/27-sow.md",
@@ -213,7 +215,6 @@
     "references/dow-uap-d63-mission-strait-of-hormuz-2020-10-02.md",
     "references/dow-uap-d64-mission-iran-2020-11-02.md",
     "references/dow-uap-d62-mission-strait-of-hormuz-2020-09-16.md",
-    "references/dow-uap-d61-mission-persian-gulf-2020-08-27.md",
     "combined.csv",
     "uap_people.csv",
     "kg.png",
@@ -223,7 +224,6 @@
     "concepts/project-sign.md.tmp.26524.6a3d7f5b4aab",
     "_raw",
     "sources/western_us_event_slides_5.08.2026.json",
-    "sources/usper-statement-redacted.json",
-    "sources/serial-4-redacted_redacted.json"
+    "sources/usper-statement-redacted.json"
   ]
 }

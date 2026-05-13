@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-13T19:00:00Z",
+  "updated": "2026-05-13T18:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -4330,6 +4330,32 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json": {
+      "ingested_at": "2026-05-13T18:00:00Z",
+      "size_bytes": 12508,
+      "modified_at": 1778332064,
+      "content_hash": "sha256:54c3fa4bd5ffe2415523d703035d2dceacd4ac79b6a196ccce6846615ed34563",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/dow-uap-d27-mission-uae-2024-06-06.md",
+        "entities/3-sos.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "entities/27-sow.md",
+        "entities/afsoc.md",
+        "entities/33-sos.md",
+        "entities/609-caoc.md",
+        "concepts/uap-aircraft-engagement.md",
+        "index.md",
+        "timeline.md",
+        "log.md",
+        "hot.md"
+      ],
+      "notes": "Source filename (`october-2023`) is a curator-mismatch — internal Takeoff DTG `062100:00ZJUN24` (6-7 Jun 2024). Page slug + title + event_date all anchor to 2024-06-06 per dow-uap convention (4th distinct filename-curator-mismatch class after arabian-gulf / djibouti / iraq). Block F recurs at N=2 byte-for-byte (MDR 25-0100 thru 25-0103 / JS-250710-TM8S / 10/28/25); AFSOC at N=2 cross-squadron (33 SOS d25 + 3 SOS d27); sub-class 14 firms at N=3 with morphology axis ^closed-by-dow-uap-d27. First Op ENDURING SENTINEL + first 3 SOS + first 8-digit Misrep ID (10055709) + first WX-RTB-truncated MQ-9 ISR mission + first AFSOC-CENTCOM-AOR-launched-CENTCOM-tasked (4th distinct cross-OC topology) + GLOWING HOT SPHERICAL UAP with vertical pole/bar appendage + water reflection in dow-uap corpus."
     }
   },
   "projects": {
@@ -4340,10 +4366,10 @@
     }
   },
   "stats": {
-    "total_sources_ingested": 75,
-    "total_pages": 349,
+    "total_sources_ingested": 76,
+    "total_pages": 351,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-13T01:30:00Z"
+    "last_ingest_at": "2026-05-13T18:00:00Z"
   }
 }
