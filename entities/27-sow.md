@@ -3,8 +3,8 @@ title: 27th Special Operations Wing (27 SOW)
 category: entities
 tags: [usaf, organization, military, uap, isr]
 aliases: [27 SOW, 27th SOW, 27 Special Operations Wing, 27th Special Operations Wing]
-sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json]
-summary: USAF / AFSOC Special Operations Wing at Cannon AFB NM ^[inferred]. Parent wing for 33 SOS (d33 + d25 MQ-9 Originator ^[inferred]), 3 SOS (d27 MQ-9 Originator ^[inferred]), 16 SOS (d28 AC-130J Originator/POC ^[inferred]), and 56 SOIS (POC d25 + QC d27 + QC d33). **27 SOW recurs at N=4** in dow-uap full-Misrep corpus (d33 LGLR→OJMS ferry + d25 LGLR round-trip + d27 OMAM UAE + d28 OKAS/AAAB Iraq) — first AFSOC cross-squadron + cross-platform (MQ-9 ISR + AC-130J CAS) N=3 + cross-block (Block B + Block F) within dow-uap. d33 is first 27 SOW by event date.
+sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json, sources/dow-uap-d35-mission-report-greece-october-2023.json]
+summary: USAF / AFSOC Special Operations Wing at Cannon AFB NM ^[inferred]. Parent wing for 33 SOS (d33 + d35 + d25 MQ-9 Originator ^[inferred]), 3 SOS (d27 MQ-9 Originator ^[inferred]), 16 SOS (d28 AC-130J Originator/POC ^[inferred]), and 56 SOIS (POC d25 + d35 + QC d27 + d33). **27 SOW recurs at N=5** in dow-uap full-Misrep corpus (d33 LGLR→OJMS ferry + d35 LGLR round-trip + d25 LGLR round-trip + d27 OMAM UAE + d28 OKAS/AAAB Iraq) — first AFSOC cross-squadron + cross-platform (MQ-9 ISR + AC-130J CAS) N=3 + cross-block (Block B at N=2 d33+d35 + Block F at N=3 d25+d27+d28) within dow-uap. d33 is first 27 SOW by event date.
 provenance:
   extracted: 0.35
   inferred: 0.60
@@ -13,8 +13,12 @@ base_confidence: 0.68
 lifecycle: draft
 lifecycle_changed: 2026-05-13
 created: 2026-05-13T12:00:00Z
-updated: 2026-05-13T22:00:00Z
+updated: 2026-05-13T23:30:00Z
 ---
+
+## [2026-05-13 update] d35 ingest — 27 SOW RECURS AT N=5 + d33+d35 same-wing same-base consecutive Misreps + cross-block AFSOC routing firms (Block B N=2 + Block F N=3)
+
+[[references/dow-uap-d35-mission-greece-2023-10-28|DoW-UAP-D35]] (28-29 Oct 2023, Misrep 9337873) carries `POC Wing: 27 SOW` + `QC Wing: 27 SOW` ^[extracted] — **fifth 27 SOW attestation** in dow-uap corpus, sister mission to d33 within 48 hours ^[extracted]. 27 SOW now recurs at **N=5 cross-squadron** (33 SOS d33+d35+d25 + 3 SOS d27 + 16 SOS d28) + **cross-launch-base** (LGLR Greece d33+d35+d25 + OMAM UAE d27 + OKAS Kuwait d28) + **cross-block** (Block B d33+d35 + Block F d25+d27+d28). The d33 + d35 same-wing same-base same-MDR-case consecutive Misreps form **the first intra-block same-Originator-chain pair** in dow-uap ^closed-by-dow-uap-d35. 27 SOW is now the **largest single Wing in dow-uap full-Misrep class** (N=5, tied with 432 AEW at d33 ingest 12-of-17 share). ^[inferred]
 
 ## [2026-05-13 update] d33 ingest — 27 SOW RECURS AT N=4 + d33 first 27 SOW by event date + cross-block AFSOC routing (Block B + Block F)
 

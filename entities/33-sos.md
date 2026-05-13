@@ -3,8 +3,8 @@ title: 33rd Special Operations Squadron (33 SOS)
 category: entities
 tags: [usaf, organization, military, uap, isr]
 aliases: [33 SOS, 33rd SOS, 33d Special Operations Squadron, 33rd Special Operations Squadron]
-sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json]
-summary: USAF / AFSOC MQ-9 Reaper Special Operations Squadron ^[inferred] at Cannon AFB NM, parented by 27 SOW. **33 SOS recurs at N=2** in dow-uap full-Misrep class (d33 26-27 Oct 2023 + d25 25 Jan 2024 — both from LGLR Greece launch base with same 27 SOW + 56 SOIS unit chain); d33 is **first 33 SOS attestation by event date** (d25 first by ingest order). Sister AFSOC SOS to 3 SOS (d27 MQ-9 Originator ^[inferred]) + 16 SOS (d28 AC-130J Originator/POC ^[inferred — strongly]) within 27 SOW parent — AFSOC SOS-cluster firms at N=3 cross-platform (MQ-9 ISR + AC-130J ARMED OVERWATCH).
+sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json, sources/dow-uap-d35-mission-report-greece-october-2023.json]
+summary: USAF / AFSOC MQ-9 Reaper Special Operations Squadron ^[inferred] at Cannon AFB NM, parented by 27 SOW. **33 SOS recurs at N=3** in dow-uap full-Misrep class (d33 26-27 Oct 2023 + d35 28-29 Oct 2023 + d25 25 Jan 2024 — all from LGLR Greece launch base with same 27 SOW + 56 SOIS unit chain); d33 is **first 33 SOS attestation by event date** (d25 first by ingest order); d35 is **filename-twin sister mission to d33** flown 2 days later (round-trip LGLR vs d33's LGLR→OJMS ferry). Sister AFSOC SOS to 3 SOS (d27 MQ-9 Originator ^[inferred]) + 16 SOS (d28 AC-130J Originator/POC ^[inferred — strongly]) within 27 SOW parent — AFSOC SOS-cluster firms at N=3 cross-platform (MQ-9 ISR + AC-130J ARMED OVERWATCH).
 provenance:
   extracted: 0.30
   inferred: 0.65
@@ -13,8 +13,20 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-13
 created: 2026-05-13T12:00:00Z
-updated: 2026-05-13T22:00:00Z
+updated: 2026-05-13T23:30:00Z
 ---
+
+## [2026-05-13 update] d35 ingest — 33 SOS RECURS AT N=3 + filename-twin sister to d33 within 48 hours + first morphology-recurrence at sub-class 14
+
+[[references/dow-uap-d35-mission-greece-2023-10-28|DoW-UAP-D35]] (28-29 Oct 2023, Misrep 9337873) carries `MSGID Originator: 33 SOS` ^[extracted] — **third 33 SOS attestation** in dow-uap corpus, flown **~25 hours after d33's OJMS landing** from the SAME LGLR launch base with the SAME 27 SOW + 56 SOIS chain + SAME `MDR 26-0019` Block B release packet (byte-for-byte) ^[extracted]. 33 SOS now firms at **N=3 within 3-month window**, all from LGLR Greece launch base:
+
+| Mission | Date | Mission cycle | Launch base | Land base | UAP datum |
+|---|---|---|---|---|---|
+| **d33** | 26-27 Oct 2023 | 13h 30min (ferry + ISR) | LGLR Greece | OJMS Jordan | 270035Z UTM 35S KD; circular small low-slow 80 MPH sharp-90°-turns over ocean |
+| **d35** | 28-29 Oct 2023 | 20h 1min (round-trip ISR) | LGLR Greece | LGLR Greece | 290811Z UTM 35S MV; **circular small low-slow 30 MPH NONE maneuvering during RTB** (UAP morphology RECURS) |
+| d25 | 25 Jan 2024 | 20h 40min (round-trip ISR) | LGLR Greece | LGLR Greece | 250509Z UTM 35S QT; diamond+probe SWIR-only 434 KTS FL250 |
+
+d33 + d35 + d25 anchor the **AFSOC 33 SOS LGLR rotational sub-cluster** at N=3 cross-AOR within ~3 months ^[inferred]. **d33 + d35 form the tightest paired-mission unit in dow-uap full-Misrep corpus** (~25 hours between predecessor land + successor takeoff; +8,499 Misrep IDs apart) ^[inferred]. **UAP morphology descriptor `SEEMINGLY CIRCULAR, TOO SMALL TO MAKE OUT DETAILS` recurs cross-mission for the first time in sub-class 14** ^closed-by-dow-uap-d35 (firming class on d33-anchored "first observational-incompleteness-attestation morphology" headline). d35 also anchors **new lowest UAP velocity in sub-class 14 (30 MPH; range 30-440 MPH = ~14.7× spread)** + **first explicit unredacted Air-to-Ground Weapons load in dow-uap corpus (`2XAGM-114R9E 2XAGM-114R2`)**. ^[inferred]
 
 ## [2026-05-13 update] d33 ingest — 33 SOS RECURS AT N=2 + first 33 SOS by event date + LGLR Greece launch at N=2 + AFSOC LGLR-OJMS rotational two-base sub-cluster
 

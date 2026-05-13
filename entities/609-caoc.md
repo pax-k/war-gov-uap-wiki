@@ -3,8 +3,8 @@ title: 609th Combined Air Operations Center (609 CAOC / 609 AOC)
 category: entities
 tags: [usaf, organization, military, uap, isr]
 aliases: [609 CAOC, 609 AOC, 609th AOC, 609th CAOC, 609th Air and Space Operations Center, 609th Combined Air Operations Center]
-sources: [sources/dow-uap-d60-mission-report-persian-gulf-august-2020.json, sources/dow-uap-d10-mission-report-middle-east-may-2022.json, sources/dow-uap-d12-mission-report-iraq-may-2022.json, sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json]
-summary: USAF theater Combined Air Operations Center for USCENTCOM, headquartered at Al Udeid AB Qatar. Approving Operations Center for all dow-uap 2020 NAVCENT cluster Misreps + 2022 OIR Misreps + 2024 AFSOC Misreps; pooled-counter routing node for full USMTF Misreps. **609 AOC Det 1 reading partially contradicted at d33** — Det 1 was N=2 cross-role (POC home d25 → QC home d27), but d33 (same 33 SOS/27 SOW/56 SOIS chain + same LGLR launch as d25) routes POC + QC through `609 CAOC` (main), NOT Det 1; Det 1 may be Block-F-routing-pipeline-specific or 2024-era-specific. 609th executing OC recurs across 2022-2024 missions including d28 first AC-130J.
+sources: [sources/dow-uap-d60-mission-report-persian-gulf-august-2020.json, sources/dow-uap-d10-mission-report-middle-east-may-2022.json, sources/dow-uap-d12-mission-report-iraq-may-2022.json, sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json, sources/dow-uap-d35-mission-report-greece-october-2023.json]
+summary: USAF theater Combined Air Operations Center for USCENTCOM, headquartered at Al Udeid AB Qatar. Approving Operations Center for all dow-uap 2020 NAVCENT cluster Misreps + 2022 OIR Misreps + 2023-2024 AFSOC Misreps; pooled-counter routing node for full USMTF Misreps. **609 AOC Det 1 reading partially contradicted at d33 then partially restored at d35** — Det 1 was N=2 cross-role (POC home d25 → QC home d27), absent at d33 (routes via `609 CAOC` main), but **RETURNS at d35 in POC home role** (same 33 SOS / 27 SOW / 56 SOIS chain as d33 but with Det 1 POC OC); Det 1 attestation pattern now at N=3 cross-block (Block F d25+d27 + Block B d35) — Det 1 is NOT block-specific. 609th executing OC recurs across 2022-2024 missions including d28 first AC-130J.
 provenance:
   extracted: 0.35
   inferred: 0.6
@@ -13,8 +13,22 @@ base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-13
 created: 2026-05-12T05:45:00Z
-updated: 2026-05-13T22:00:00Z
+updated: 2026-05-13T23:30:00Z
 ---
+
+## [2026-05-13 update] d35 ingest — Det 1 RETURNS at POC role + Det 1 NOT block-specific (N=3 cross-block: Block F d25+d27 + Block B d35)
+
+[[references/dow-uap-d35-mission-greece-2023-10-28|DoW-UAP-D35]] (28-29 Oct 2023) carries `POC Operations Center: 609 AOC Det 1` ^[extracted] — **Det 1 returns** after d33's absence. The d33-anchored partial-contradiction of the "Det 1 routes EUCOM-launched AFSOC into CENTCOM workflow" reading **partially restores at d35**:
+
+| Mission | POC OC | QC OC | APPROVER OC | Executing OC | Block | Det 1 present? |
+|---|---|---|---|---|---|---|
+| d25 (25 Jan 2024 LGLR→LGLR) | **609 AOC Det 1** | 609 CAOC | 603 AOC | 603rd | F | YES (POC) |
+| d27 (6-7 Jun 2024 OMAM→OMAM) | 609 CAOC | **609 AOC Det 1** | 609 CAOC | 609th | F | YES (QC) |
+| d28 (20-21 Sep 2024 OKAS→AAAB) | Other | Other | 609 CAOC | 609th | F | NO |
+| d33 (26-27 Oct 2023 LGLR→OJMS) | 609 CAOC | 609 CAOC | 603 AOC | 603rd | B | NO |
+| **d35 (28-29 Oct 2023 LGLR→LGLR)** | **609 AOC Det 1** ^[extracted] | 609 CAOC ^[extracted] | 603 AOC ^[extracted] | 603rd ^[extracted] | **B** | **YES (POC)** |
+
+**Det 1 now attests at N=3 cross-block** (Block F d25 + d27 + Block B d35) — **Det 1 is NOT block-specific** ^closed-by-dow-uap-d35 (contradiction class on d33-anchored "Det 1 may be Block-F-routing-pipeline-specific" reading). The d33 absence + d35 presence within the SAME Block B sub-cluster decisively shows Det 1 routing is **per-mission discretionary, not block-allocated** ^[inferred]. Possible Det 1 selection criteria: mission complexity (cross-AOR ferry d33 vs round-trip d35 may differ — though counterintuitive that ferry has FEWER routing nodes), specific tasking source, daily detachment rotation, or workflow load-balancing. Resolution at N≥1 additional Det 1 attestation pattern.
 
 # 609th Combined Air Operations Center (609 CAOC / 609 AOC)
 

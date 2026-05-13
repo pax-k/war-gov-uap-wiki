@@ -3,8 +3,8 @@ title: Air Force Special Operations Command (AFSOC)
 category: entities
 tags: [usaf, organization, military, uap, isr]
 aliases: [AFSOC, Air Force Special Operations Command]
-sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json]
-summary: USAF major command for Special Operations Forces (SOF) air component, HQ Hurlburt Field FL ^[inferred]. **AFSOC recurs at N=4** in dow-uap full-Misrep corpus (d33 LGLR→OJMS ferry + d25 LGLR round-trip + d27 OMAM UAE + d28 OKAS/AAAB Iraq) across 11-month window (Oct 2023 → Sep 2024). Cross-squadron AFSOC cluster firms at N=3 cross-platform (33 SOS d33+d25 + 3 SOS d27 + 16 SOS d28 under 27 SOW) — multi-platform AFSOC pattern (MQ-9 ISR d33/d25/d27 ^[inferred] + AC-130J ARMED OVERWATCH d28 ^[inferred — strongly]). **d33 is first AFSOC by event date**; d25 was first by ingest order.
+sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json, sources/dow-uap-d35-mission-report-greece-october-2023.json]
+summary: USAF major command for Special Operations Forces (SOF) air component, HQ Hurlburt Field FL ^[inferred]. **AFSOC recurs at N=5** in dow-uap full-Misrep corpus (d33 LGLR→OJMS ferry + d35 LGLR round-trip + d25 LGLR round-trip + d27 OMAM UAE + d28 OKAS/AAAB Iraq) across 11-month window (Oct 2023 → Sep 2024). **AFSOC is now the largest single MAJCOM in dow-uap full-Misrep class** (5-of-17 ≈ 29%, overtaking ACC + AFCENT) ^[inferred]. Cross-squadron AFSOC cluster firms at N=3 cross-platform (33 SOS d33+d35+d25 + 3 SOS d27 + 16 SOS d28 under 27 SOW) — multi-platform AFSOC pattern (MQ-9 ISR d33/d35/d25/d27 ^[inferred] + AC-130J ARMED OVERWATCH d28 ^[inferred — strongly]). **d33 is first AFSOC by event date**; d25 was first by ingest order; d35 anchors the first intra-block same-Originator-chain consecutive-Misrep pair (with d33 in Block B).
 provenance:
   extracted: 0.35
   inferred: 0.60
@@ -13,8 +13,26 @@ base_confidence: 0.68
 lifecycle: draft
 lifecycle_changed: 2026-05-13
 created: 2026-05-13T12:00:00Z
-updated: 2026-05-13T22:00:00Z
+updated: 2026-05-13T23:30:00Z
 ---
+
+## [2026-05-13 update] d35 ingest — AFSOC AT N=5 + AFSOC now LARGEST single MAJCOM in dow-uap full-Misrep class + d33+d35 first intra-block consecutive-Misrep pair (Block B at N=2 within AFSOC sub-cluster)
+
+[[references/dow-uap-d35-mission-greece-2023-10-28|DoW-UAP-D35]] (28-29 Oct 2023, Misrep 9337873) brings AFSOC to **N=5 in dow-uap full-Misrep corpus** ^[extracted]. AFSOC is now the **largest single MAJCOM in the class** (5-of-17 ≈ 29%) ^[inferred], decisively overtaking ACC (4) + AFCENT (3) + cluster-blank (6). The 5-doc AFSOC sub-cluster:
+
+| Mission | Event date | Wing/Squadron | Mission Type | Platform ^[inferred] | Block | Launch → Land |
+|---|---|---|---|---|---|---|
+| **d33** | **26-27 Oct 2023** | 27 SOW / 33 SOS | ISR + ferry | MQ-9 | B (MDR 26-0019) | LGLR → OJMS |
+| **d35** | **28-29 Oct 2023** | 27 SOW / 33 SOS | ISR | MQ-9 | **B (MDR 26-0019, SAME packet as d33 byte-for-byte)** | LGLR → LGLR |
+| d25 | 25 Jan 2024 | 27 SOW / 33 SOS | ISR | MQ-9 | F (MDR 25-0100 / JS-250710-TM8S) | LGLR → LGLR |
+| d27 | 6-7 Jun 2024 | 27 SOW / 3 SOS | ISR | MQ-9 | F (MDR 25-0100 / JS-250710-TM8S) | OMAM → OMAM |
+| d28 | 20-21 Sep 2024 | 27 SOW / 16 SOS | ARMED OVERWATCH | AC-130J | F (MDR 25-0100 / JS-250710-TM8S) | OKAS → OKAS via AAAB |
+
+**Structural firsts at d35 ingest**:
+- **First intra-block same-Originator-chain consecutive-Misrep pair** within dow-uap (d33 + d35 in Block B, both 33 SOS / 27 SOW / 56 SOIS / LGLR / `MDR 26-0019`) ^closed-by-dow-uap-d35
+- **AFSOC LGLR sub-cluster firms at N=3** (d33 + d35 + d25) — all 33 SOS / 27 SOW / 56 SOIS / AN/DAS-4 / GET FMV exploitation / 603rd executing
+- **AFSOC cross-block** firms at N=2 (Block B d33+d35 = 2/5 + Block F d25+d27+d28 = 3/5; AFSOC operates across both block conventions)
+- **First explicit unredacted Air-to-Ground Weapons load in dow-uap corpus** within AFSOC sub-cluster: d35 carries `2XAGM-114R9E 2XAGM-114R2` (4 Hellfire missiles total) ^[extracted]
 
 ## [2026-05-13 update] d33 ingest — AFSOC AT N=4 + d33 PRECEDES d25 as event-date-first AFSOC + LGLR Greece launch at N=2 + 33 SOS at N=2 + cross-AOR ferry first attestation
 
