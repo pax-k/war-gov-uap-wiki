@@ -4,7 +4,7 @@ category: entities
 tags: [usaf, organization, military, uap, isr]
 aliases: [33 SOS, 33rd SOS, 33d Special Operations Squadron, 33rd Special Operations Squadron]
 sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json]
-summary: USAF / AFSOC MQ-9 Reaper Special Operations Squadron ^[inferred] at Cannon AFB NM, parented by 27 SOW. First non-432-AEW MQ-9 ISR Originator unit in the dow-uap full-Misrep mission-record class (d25). Sister AFSOC SOS to 3 SOS (d27 Originator) within 27 SOW parent — AFSOC ISR cross-squadron cluster firms at N=2.
+summary: USAF / AFSOC MQ-9 Reaper Special Operations Squadron ^[inferred] at Cannon AFB NM, parented by 27 SOW. First non-432-AEW MQ-9 ISR Originator unit in the dow-uap full-Misrep mission-record class (d25). Sister AFSOC SOS to 3 SOS (d27 MQ-9 Originator ^[inferred]) + 16 SOS (d28 AC-130J Originator/POC ^[inferred — strongly]) within 27 SOW parent — AFSOC SOS-cluster firms at N=3 cross-platform (MQ-9 ISR + AC-130J ARMED OVERWATCH).
 provenance:
   extracted: 0.30
   inferred: 0.65
@@ -13,7 +13,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-13
 created: 2026-05-13T12:00:00Z
-updated: 2026-05-13T18:00:00Z
+updated: 2026-05-13T20:00:00Z
 ---
 
 # 33rd Special Operations Squadron (33 SOS)
@@ -58,16 +58,33 @@ This page is a **stub hub**. 33 SOS surfaces in the dow-uap corpus as the **Orig
 
 The 33 SOS / 3 SOS sister-squadron pair operates **two distinct AOR launch bases within 5 months** under the same parent wing — first AFSOC MQ-9 ISR cross-squadron + cross-AOR pattern in corpus ^[inferred]. ^closed-by-dow-uap-d27 (firming class on d25-anchored "AFSOC mission-record cluster at N≥2" thread).
 
+## d28 sister-squadron attestation — 16 SOS AC-130J at N=3 cross-platform AFSOC
+
+[[references/dow-uap-d28-mission-iraq-2024-09-20|d28]] (20-21 Sep 2024) carries `POC Unit: 16 SOS` + `MSGID Originator: SOTU 016` ^[extracted; ^[ambiguous] — most parsimonious reading is OCR variant of `16 SOS`]. **16 SOS is the third AFSOC SOS in dow-uap corpus** and **sister to 33 SOS + 3 SOS** under the same 27 SOW parent wing ^[inferred]. d28 introduces a **cross-platform AFSOC SOS pattern** at N=3:
+
+| SOS | Mission | Platform ^[inferred] | Mission Type |
+|---|---|---|---|
+| 33 SOS | d25 LGLR Greece (25 Jan 2024) | MQ-9 Reaper | ISR |
+| 3 SOS | d27 OMAM UAE (6-7 Jun 2024) | MQ-9 Reaper | ISR |
+| **16 SOS** | **d28 OKAS/AAAB Iraq (20-21 Sep 2024)** | **AC-130J Ghostrider ^[inferred — strongly]** | **ARMED OVERWATCH** |
+
+The 16 SOS attribution to **AC-130J Ghostrider is decisive** ^[inferred — strongly] at d28 per weapons fit (105mm M102 + 30mm GAU-23/A + AGM-176 Griffin), sensor fit (MX-20 + MX-25), 7h 6min mission cycle (vs MQ-9 ISR's ~20-22h envelope), and ARMED OVERWATCH mission type. **AFSOC SOS-cluster firms at N=3 cross-platform within 27 SOW parent** ^closed-by-dow-uap-d28 (firming class). **Per-SOS platform-class scheme anchors** ^[inferred]: 33 SOS + 3 SOS = MQ-9 ^[inferred]; 16 SOS = AC-130J ^[inferred — strongly].
+
 ## Open threads
 
 - **Cannon AFB garrison anchor.** Open-source attribution standard; not literally stated in dow-uap OCR. ^[open]
-- **MQ-9 platform attribution.** 33 SOS is an AFSOC SOS — open-source attribution of MQ-9 to 33 SOS is standard, but the d25 OCR redacts MDS/Tail Number. Inference relies on AN/DAS-4 TGT Pod (canonical Reaper MTS-B family) + 20:40 mission cycle + SOS-MQ-9 standard attribution. ^[inferred]
+- **MQ-9 platform attribution.** 33 SOS is an AFSOC SOS — open-source attribution of MQ-9 to 33 SOS is standard, but the d25 OCR redacts MDS/Tail Number. Inference relies on AN/DAS-4 TGT Pod (canonical Reaper MTS-B family) + 20:40 mission cycle + SOS-MQ-9 standard attribution. ^[inferred] **d28 partially firms the per-SOS platform-class scheme** by anchoring 16 SOS = AC-130J ^[inferred — strongly], implying that AFSOC SOSs in dow-uap are individually platform-class-bound and 33 SOS / 3 SOS read MQ-9 within that scheme.
 - ~~**AFSOC mission-record cluster at N≥2.**~~ ^closed-by-dow-uap-d27 — AFSOC recurs at N=2 cross-squadron (33 SOS d25 + 3 SOS d27).
-- **3 SOS platform attribution.** d27's 3 SOS may operate MQ-9 (matches d27 AN/DAS-1 TGT Pod + AFSOC SOS standard attribution) OR a different airframe (U-28A, AC-130, etc.) ^[ambiguous]; MQ-9 inference at d27 is preferred per AN/DAS-1 + 10h+ mission cycle envelope.
+- ~~**AFSOC SOS-cluster at N≥3 cross-squadron.**~~ ^closed-by-dow-uap-d28 (firming class) — AFSOC SOS-cluster firms at N=3 cross-platform (33 SOS MQ-9 + 3 SOS MQ-9 + 16 SOS AC-130J) within 27 SOW.
+- **3 SOS platform attribution.** d27's 3 SOS may operate MQ-9 (matches d27 AN/DAS-1 TGT Pod + AFSOC SOS standard attribution) OR a different airframe (U-28A, AC-130, etc.) ^[ambiguous]; MQ-9 inference at d27 is preferred per AN/DAS-1 + 10h+ mission cycle envelope. **d28 marginally firms MQ-9 reading for 3 SOS** by anchoring 16 SOS = AC-130J in distinct mission-cycle envelope (7h 6min vs 3 SOS's 10h 13min); platform-class scheme firms ^[inferred].
+- **33 SOS at N≥2 in dow-uap.** Whether 33 SOS recurs (firming as a sustained AFSOC MQ-9 ISR lane within dow-uap) is open ^[open].
 
 ## See also
 
-- [[entities/3-sos|3rd Special Operations Squadron (3 SOS)]] — sister AFSOC SOS; d27 Originator.
+- [[entities/3-sos|3rd Special Operations Squadron (3 SOS)]] — sister AFSOC SOS; d27 Originator (MQ-9 ^[inferred]).
+- [[entities/16-sos|16th Special Operations Squadron (16 SOS)]] — sister AFSOC SOS; d28 POC/Originator (AC-130J ^[inferred — strongly]).
+- [[entities/ac-130j-ghostrider|AC-130J Ghostrider]] — d28 airframe; first non-MQ-9 AFSOC platform in dow-uap.
 - [[references/dow-uap-d27-mission-uae-2024-06-06|DoW-UAP-D27]] — second AFSOC attestation; 3 SOS Originator under 27 SOW parent.
+- [[references/dow-uap-d28-mission-iraq-2024-09-20|DoW-UAP-D28]] — third AFSOC attestation; 16 SOS / first AC-130J / first ARMED OVERWATCH / first kinetic-weapons-employment in dow-uap.
 - [[projects/uap/uap]] — project overview.
 - [[entities/dow-uap-foia-release]] — release context.

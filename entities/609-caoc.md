@@ -3,17 +3,17 @@ title: 609th Combined Air Operations Center (609 CAOC / 609 AOC)
 category: entities
 tags: [usaf, organization, military, uap, isr]
 aliases: [609 CAOC, 609 AOC, 609th AOC, 609th CAOC, 609th Air and Space Operations Center, 609th Combined Air Operations Center]
-sources: [sources/dow-uap-d60-mission-report-persian-gulf-august-2020.json, sources/dow-uap-d10-mission-report-middle-east-may-2022.json, sources/dow-uap-d12-mission-report-iraq-may-2022.json, sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json]
-summary: USAF theater Combined Air Operations Center for USCENTCOM, headquartered at Al Udeid AB Qatar. Approving Operations Center for all dow-uap 2020 NAVCENT cluster Misreps and 2022 OIR Misreps; pooled-counter routing node for full USMTF Misreps. 609 AOC Det 1 recurs at N=2 cross-role (POC home d25 → QC home d27) — firms CENTCOM-forward AFSOC-liaison detachment reading.
+sources: [sources/dow-uap-d60-mission-report-persian-gulf-august-2020.json, sources/dow-uap-d10-mission-report-middle-east-may-2022.json, sources/dow-uap-d12-mission-report-iraq-may-2022.json, sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json]
+summary: USAF theater Combined Air Operations Center for USCENTCOM, headquartered at Al Udeid AB Qatar. Approving Operations Center for all dow-uap 2020 NAVCENT cluster Misreps + 2022 OIR Misreps + 2024 AFSOC Misreps; pooled-counter routing node for full USMTF Misreps. 609 AOC Det 1 recurs at N=2 cross-role (POC home d25 → QC home d27). 609th executing OC recurs across 2022-2024 missions including d28 first AC-130J.
 provenance:
   extracted: 0.35
   inferred: 0.6
   ambiguous: 0.05
-base_confidence: 0.60
+base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-13
 created: 2026-05-12T05:45:00Z
-updated: 2026-05-13T18:00:00Z
+updated: 2026-05-13T20:00:00Z
 ---
 
 # 609th Combined Air Operations Center (609 CAOC / 609 AOC)
@@ -55,6 +55,18 @@ AFSOC 27 SOW / 33 SOS MQ-9 ^[inferred] launched from Larissa AB (LGLR) Greece fo
 
 AFSOC 27 SOW / 3 SOS MQ-9 ^[inferred] launched from Al Dhafra AB (OMAM) UAE for USCENTCOM-tasked ISR under Op ENDURING SENTINEL; single-COCOM CENTCOM 4-role chain (609 CAOC POC + 609 AOC Det 1 QC + 379 AEW APPROVER at 609 CAOC + 609th executing); 10h 13min WX-RTB-truncated cycle; 1X UAP at 070457Z UTM 40R Persian Gulf UAE coast (glowing hot sphere + pole/bar appendage).
 
+## d28 — first AC-130J gunship Misrep under 609 CAOC + 609th executing
+
+[[references/dow-uap-d28-mission-iraq-2024-09-20|d28]] (20-21 Sep 2024) anchors the **first non-MQ-9-non-F-15E platform** in dow-uap class under 609 CAOC routing — AFSOC 27 SOW / 16 SOS [[entities/ac-130j-ghostrider|AC-130J Ghostrider]] ^[inferred — strongly] launched from OKAS Kuwait ^[inferred] for USCENTCOM-tasked Op INHERENT RESOLVE ARMED OVERWATCH into AAAB ROZ RAINDROP Iraq UTM 38S KC.
+
+**d28 cross-OC chain** ^[extracted]:
+- **POC OC** = **`Other`** (not labeled `609 CAOC` or other named OC; AFSOC-internal OC token ^[inferred])
+- **QC OC** = **`Other`** (same)
+- **APPROVER OC** = **`609 CAOC`** (recurs at corpus-level)
+- **Executing OC** = **`609th`** (recurs across 2022 OIR + d27 + d28)
+
+**Significance for 609 CAOC**: d28 firms 609 CAOC's role as the **invariant APPROVER + executing OC across MAJCOM (ACC + AFCENT + AFSOC) + platform (MQ-9 + F-15E + AC-130J) + Mission Type (ISR + ARMED RECCE + DCA + ARMED OVERWATCH) within CENTCOM AOR** ^closed-by-dow-uap-d28 (firming class). The d28 POC/QC OC token `Other` is structurally distinct from prior 609 CAOC patterns ^[inferred] — first attestation of AFSOC-internal OC routing on the POC/QC side while 609 CAOC retains APPROVER + executing roles. 609 AOC Det 1 absent at d28 (only 609 CAOC at APPROVER + 609th executing) — Det 1's POC/QC role at d25/d27 is **AFSOC-launched-mission-specific**, not all-AFSOC-mission-specific ^[inferred].
+
 ## Contradiction-axis: 609 (USCENTCOM) vs 603 (USEUCOM)
 
 [[references/dow-uap-d14-mission-iraq-2022-05-29|d14]] is the dow-uap corpus's first attestation of a **non-609 AOC** dow-uap Misrep: its Operations Center is **[[entities/603-aoc|603 AOC]]** (Ramstein-based, USAFE/AFRICOM) with COCOM `USEUCOM`, not `USCENTCOM`. The d10-anchored "OIR May-2022 cluster validation at N≥3 (d12 / d14 / d16 queued)" open thread was **CONTRADICTED** by d14 — d14 is NOT an OIR cluster member but rather a **distinct EUCOM Eastern Mediterranean cluster at N=1**. ^[extracted; closed-by-dow-uap-d14]
@@ -75,13 +87,16 @@ The d14 contradiction is decisive: **OIR cluster remains at N=2 (d10 + d12)** an
 - [[entities/afcent|AFCENT]] — theater MAJCOM under whose remit 609 CAOC operates.
 - [[entities/usaf|USAF]] — parent service.
 - [[entities/mq-9-reaper|MQ-9 Reaper]] — primary airframe operated under 609 CAOC tasking in dow-uap.
+- [[entities/ac-130j-ghostrider|AC-130J Ghostrider]] — d28 airframe ^[inferred — strongly]; first non-MQ-9-non-F-15E platform under 609 CAOC routing.
 - [[entities/dow-uap-foia-release]] — release context.
-- [[entities/27-sow|27th Special Operations Wing]] — d25 + d27 POC Wing under AFSOC; cross-MAJCOM routing through 609 AOC Det 1 at N=2 cross-role.
+- [[entities/27-sow|27th Special Operations Wing]] — d25 + d27 + d28 POC Wing under AFSOC; cross-MAJCOM routing through 609 AOC Det 1 at N=2 + direct 609 CAOC APPROVER at N=3.
 - [[entities/33-sos|33rd Special Operations Squadron]] — d25 Originator under AFSOC.
-- [[entities/3-sos|3rd Special Operations Squadron]] — d27 Originator under AFSOC; sister to 33 SOS within 27 SOW parent.
-- [[entities/afsoc|Air Force Special Operations Command]] — d25 + d27 MAJCOM (parallel to ACC/AFCENT 432 AEW MAJCOM); recurs at N=2.
+- [[entities/3-sos|3rd Special Operations Squadron]] — d27 Originator under AFSOC.
+- [[entities/16-sos|16th Special Operations Squadron]] — d28 POC unit + plausibly Originator under AFSOC (AC-130J SOS ^[inferred — strongly]).
+- [[entities/afsoc|Air Force Special Operations Command]] — d25 + d27 + d28 MAJCOM (parallel to ACC/AFCENT 432 AEW MAJCOM); recurs at N=3.
 - [[references/dow-uap-d25-mission-greece-2024-01-25|DoW-UAP-D25]] — first 609 AOC Det 1 attestation (POC home).
 - [[references/dow-uap-d27-mission-uae-2024-06-06|DoW-UAP-D27]] — second 609 AOC Det 1 attestation (QC home); firms CENTCOM-forward AFSOC-liaison detachment reading.
+- [[references/dow-uap-d28-mission-iraq-2024-09-20|DoW-UAP-D28]] — first AC-130J / first gunship / first ARMED OVERWATCH / first kinetic-weapons-employment in dow-uap under 609 CAOC APPROVER + 609th executing; first `Other`-OC POC/QC token (AFSOC-internal OC routing).
 
 ## Open threads
 
