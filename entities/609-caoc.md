@@ -3,8 +3,8 @@ title: 609th Combined Air Operations Center (609 CAOC / 609 AOC)
 category: entities
 tags: [usaf, organization, military, uap, isr]
 aliases: [609 CAOC, 609 AOC, 609th AOC, 609th CAOC, 609th Air and Space Operations Center, 609th Combined Air Operations Center]
-sources: [sources/dow-uap-d60-mission-report-persian-gulf-august-2020.json, sources/dow-uap-d10-mission-report-middle-east-may-2022.json, sources/dow-uap-d12-mission-report-iraq-may-2022.json, sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json]
-summary: USAF theater Combined Air Operations Center for USCENTCOM, headquartered at Al Udeid AB Qatar. Approving Operations Center for all dow-uap 2020 NAVCENT cluster Misreps + 2022 OIR Misreps + 2024 AFSOC Misreps; pooled-counter routing node for full USMTF Misreps. 609 AOC Det 1 recurs at N=2 cross-role (POC home d25 → QC home d27). 609th executing OC recurs across 2022-2024 missions including d28 first AC-130J.
+sources: [sources/dow-uap-d60-mission-report-persian-gulf-august-2020.json, sources/dow-uap-d10-mission-report-middle-east-may-2022.json, sources/dow-uap-d12-mission-report-iraq-may-2022.json, sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json]
+summary: USAF theater Combined Air Operations Center for USCENTCOM, headquartered at Al Udeid AB Qatar. Approving Operations Center for all dow-uap 2020 NAVCENT cluster Misreps + 2022 OIR Misreps + 2024 AFSOC Misreps; pooled-counter routing node for full USMTF Misreps. **609 AOC Det 1 reading partially contradicted at d33** — Det 1 was N=2 cross-role (POC home d25 → QC home d27), but d33 (same 33 SOS/27 SOW/56 SOIS chain + same LGLR launch as d25) routes POC + QC through `609 CAOC` (main), NOT Det 1; Det 1 may be Block-F-routing-pipeline-specific or 2024-era-specific. 609th executing OC recurs across 2022-2024 missions including d28 first AC-130J.
 provenance:
   extracted: 0.35
   inferred: 0.6
@@ -13,7 +13,7 @@ base_confidence: 0.65
 lifecycle: draft
 lifecycle_changed: 2026-05-13
 created: 2026-05-12T05:45:00Z
-updated: 2026-05-13T20:00:00Z
+updated: 2026-05-13T22:00:00Z
 ---
 
 # 609th Combined Air Operations Center (609 CAOC / 609 AOC)
@@ -55,6 +55,28 @@ AFSOC 27 SOW / 33 SOS MQ-9 ^[inferred] launched from Larissa AB (LGLR) Greece fo
 
 AFSOC 27 SOW / 3 SOS MQ-9 ^[inferred] launched from Al Dhafra AB (OMAM) UAE for USCENTCOM-tasked ISR under Op ENDURING SENTINEL; single-COCOM CENTCOM 4-role chain (609 CAOC POC + 609 AOC Det 1 QC + 379 AEW APPROVER at 609 CAOC + 609th executing); 10h 13min WX-RTB-truncated cycle; 1X UAP at 070457Z UTM 40R Persian Gulf UAE coast (glowing hot sphere + pole/bar appendage).
 
+## d33 — DET 1 ABSENT despite same 33 SOS/27 SOW/56 SOIS/LGLR chain as d25 — Det 1 hypothesis partially contradicted
+
+[[references/dow-uap-d33-mission-greece-2023-10-26|d33]] (26-27 Oct 2023) is **chronologically the earliest 33 SOS / 27 SOW Misrep in dow-uap** (~91 days before d25), with **identical Originator chain to d25** ^[extracted]: AFSOC MAJCOM + 33 SOS Originator + 27 SOW POC Wing + 56 SOIS QC Unit + LGLR Greece launch + AN/DAS-4 TGT Pod + 603rd executing OC. The d33 + d25 pairing is **the tightest sister-mission pair in dow-uap AFSOC class** — same unit chain, same launch base, ~3 months apart.
+
+**But d33 routes POC + QC OCs through `609 CAOC` (main), NOT `609 AOC Det 1`** ^[extracted]:
+
+| Mission | POC OC | QC OC | APPROVER OC | Executing OC | Block | Originator | Launch base |
+|---|---|---|---|---|---|---|---|
+| **d33** (26-27 Oct 2023) | **`609 CAOC`** | **`609 CAOC`** | 603 AOC | 603rd | **B** | 33 SOS | LGLR Greece |
+| d25 (25 Jan 2024) | **`609 AOC Det 1`** | 609 CAOC | 603 AOC | 603rd | F | 33 SOS | LGLR Greece |
+| d27 (6-7 Jun 2024) | 609 CAOC | **`609 AOC Det 1`** | 609 CAOC | 609th | F | 3 SOS | OMAM UAE |
+| d28 (20-21 Sep 2024) | Other | Other | 609 CAOC | 609th | F | 16 SOS / SOTU 016 | OKAS Kuwait |
+
+**This is a partial contradiction of the d25/d27-anchored "Det 1 routes EUCOM-launched AFSOC into CENTCOM workflow" reading** ^closed-by-dow-uap-d33 (contradiction class). The prior reading was firming at N=2 cross-role (POC home d25 EUCOM-launched + QC home d27 CENTCOM-launched). d33 falsifies it: **same 33 SOS / 27 SOW / 56 SOIS chain + same LGLR launch base + same EUCOM-AOR launch + same CENTCOM-COCOM-tasking + same bidirectional cross-COCOM 3-OC topology as d25 — but d33 routes through `609 CAOC` main, not Det 1** ^[inferred].
+
+**Most parsimonious refinements at d33** ^[inferred]:
+- Det 1 may be **Block-F-routing-pipeline-specific** (present at d25 + d27 — both Block F; absent at d33 — Block B; absent at d28 — Block F but `Other` POC/QC OC tokens)
+- Det 1 may be **2024-era-specific** (present at d25 + d27 — both 2024-era; absent at d33 — 2023-era)
+- Det 1 may have been **created or activated between d33 (Oct 2023) and d25 (Jan 2024)** — first attestation in dow-uap full-Misrep class at d25, NOT at d33; possibly indicates **organizational reform within 609 AOC between Oct 2023 and Jan 2024** ^[inferred]
+
+Resolution requires N≥4 AFSOC Misrep across Block-B-vs-Block-F + 2023-vs-2024 axes. Until then, the "Det 1 routes EUCOM-launched AFSOC into CENTCOM workflow" reading drops from ^closed (firming) to ^[ambiguous] at corpus level.
+
 ## d28 — first AC-130J gunship Misrep under 609 CAOC + 609th executing
 
 [[references/dow-uap-d28-mission-iraq-2024-09-20|d28]] (20-21 Sep 2024) anchors the **first non-MQ-9-non-F-15E platform** in dow-uap class under 609 CAOC routing — AFSOC 27 SOW / 16 SOS [[entities/ac-130j-ghostrider|AC-130J Ghostrider]] ^[inferred — strongly] launched from OKAS Kuwait ^[inferred] for USCENTCOM-tasked Op INHERENT RESOLVE ARMED OVERWATCH into AAAB ROZ RAINDROP Iraq UTM 38S KC.
@@ -95,15 +117,16 @@ The d14 contradiction is decisive: **OIR cluster remains at N=2 (d10 + d12)** an
 - [[entities/16-sos|16th Special Operations Squadron]] — d28 POC unit + plausibly Originator under AFSOC (AC-130J SOS ^[inferred — strongly]).
 - [[entities/afsoc|Air Force Special Operations Command]] — d25 + d27 + d28 MAJCOM (parallel to ACC/AFCENT 432 AEW MAJCOM); recurs at N=3.
 - [[references/dow-uap-d25-mission-greece-2024-01-25|DoW-UAP-D25]] — first 609 AOC Det 1 attestation (POC home).
-- [[references/dow-uap-d27-mission-uae-2024-06-06|DoW-UAP-D27]] — second 609 AOC Det 1 attestation (QC home); firms CENTCOM-forward AFSOC-liaison detachment reading.
+- [[references/dow-uap-d27-mission-uae-2024-06-06|DoW-UAP-D27]] — second 609 AOC Det 1 attestation (QC home); firms CENTCOM-forward AFSOC-liaison detachment reading (later partially contradicted at d33).
 - [[references/dow-uap-d28-mission-iraq-2024-09-20|DoW-UAP-D28]] — first AC-130J / first gunship / first ARMED OVERWATCH / first kinetic-weapons-employment in dow-uap under 609 CAOC APPROVER + 609th executing; first `Other`-OC POC/QC token (AFSOC-internal OC routing).
+- [[references/dow-uap-d33-mission-greece-2023-10-26|DoW-UAP-D33]] — **Det 1 hypothesis partially contradicted** — same 33 SOS / 27 SOW / 56 SOIS / LGLR chain as d25 but POC + QC routed through 609 CAOC main, NOT Det 1; Det 1 may be Block-F-routing-pipeline-specific or 2024-era-specific.
 
 ## Open threads
 
 - **Al Udeid AB anchor.** The Al Udeid AB Qatar garrison attribution is open-source standard but not literally stated in dow-uap OCR. ^[open]
 - **AOC vs CAOC.** Whether `609 AOC` and `609 CAOC` denote distinct sub-organs (AOC = parent operations center; CAOC = combined/coalition tier) or are interchangeable OCR variants is undetermined at N=2 splits within d12. ^[open]
 - **2021 gap.** No 2021 609 CAOC dow-uap Misrep is currently in the corpus. ^[open]
-- ~~**609 AOC Det 1 detachment status.**~~ ^closed-by-dow-uap-d27 (firming class on d25-anchored Det 1 status thread) — Det 1 firms at N=2 cross-role as the CENTCOM-forward AFSOC-liaison detachment; not d25-specific. Det 1 role within mission tracks AFSOC squadron's launch-base-AOR (EUCOM-launched → Det 1 POC home; CENTCOM-launched → Det 1 QC home).
+- ~~**609 AOC Det 1 detachment status.**~~ ^closed-by-dow-uap-d27 (firming class on d25-anchored Det 1 status thread) — Det 1 firms at N=2 cross-role as the CENTCOM-forward AFSOC-liaison detachment; not d25-specific. Det 1 role within mission tracks AFSOC squadron's launch-base-AOR (EUCOM-launched → Det 1 POC home; CENTCOM-launched → Det 1 QC home). **REOPENED at d33** ^[ambiguous] — d33 (same 33 SOS / 27 SOW / 56 SOIS chain + same LGLR launch + same EUCOM-launched-CENTCOM-tasked as d25) routes POC + QC through 609 CAOC main, NOT Det 1. The Det 1 reading is partially contradicted: Det 1 may be Block-F-routing-pipeline-specific or 2024-era-specific rather than EUCOM-launched-AFSOC-launch-base-specific. Resolution at N≥4 AFSOC Misrep across Block-B-vs-Block-F + 2023-vs-2024 axes. ^[open]
 
 ## See also
 

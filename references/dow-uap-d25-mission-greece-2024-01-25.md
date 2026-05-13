@@ -4,7 +4,7 @@ category: references
 tags: [uap, primary-source, declassified, usaf, sighting]
 aliases: [DoW-UAP-D25, dow-uap-d25]
 sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json]
-summary: 7-page Mistral-OCR'd Full USMTF Misrep 9629373 — 25 Jan 2024 mission from Larissa AB Greece (LGLR), 33 SOS / 27 SOW MQ-9 ^[inferred] under AFSOC MAJCOM / USCENTCOM COCOM; 1 UAP at 0509Z UTM 35S Eastern Med — diamond+probe morphology, SWIR-only, 434 KTS; anchors NEW Block F + first AFSOC + first Greece + first 35S in dow-uap corpus.
+summary: 7-page Mistral-OCR'd Full USMTF Misrep 9629373 — 25 Jan 2024 mission from Larissa AB Greece (LGLR), 33 SOS / 27 SOW MQ-9 ^[inferred] under AFSOC MAJCOM / USCENTCOM COCOM; 1 UAP at 0509Z UTM 35S Eastern Med — diamond+probe morphology, SWIR-only, 434 KTS; anchors NEW Block F + first AFSOC + first Greece + first 35S in dow-uap corpus **by ingest order** ^closed-by-dow-uap-d33 (refinement class — d33 26-27 Oct 2023 is first AFSOC + first 33 SOS + first 27 SOW + first 56 SOIS + first Greece + first LGLR + first 35S by event date, ingested ~3 sources later).
 provenance:
   extracted: 0.55
   inferred: 0.40
@@ -13,12 +13,20 @@ base_confidence: 0.72
 lifecycle: draft
 lifecycle_changed: 2026-05-13
 created: 2026-05-13T12:00:00Z
-updated: 2026-05-13T12:00:00Z
+updated: 2026-05-13T22:00:00Z
 event_date: 2024-01-25
 project: uap
 ---
 
 # DoW-UAP-D25 — Mission Report (Greece LGLR, 25 Jan 2024, Misrep 9629373)
+
+## [2026-05-13 retro-annotation] d33 ingest — d25's "FIRST AFSOC / first 27 SOW / first 33 SOS / first 56 SOIS / first Greece / first LGLR / first 35S UTM" headlines retroactively shift from event-date-first to ingest-order-first
+
+[[references/dow-uap-d33-mission-greece-2023-10-26|DoW-UAP-D33]] (26-27 Oct 2023) was ingested ~3 sources after d25 but is **~91 days earlier in event date**. d33 carries the **same 33 SOS / 27 SOW / 56 SOIS Originator chain + same LGLR Greece launch base + same AFSOC MAJCOM + same USCENTCOM COCOM** as d25 — but PRECEDES d25 in event date and routes through **Block B** (not Block F). All d25 "FIRST AFSOC / first 27 SOW / first 33 SOS / first 56 SOIS / first Greece / first LGLR / first 35S UTM / first cross-MAJCOM-EUCOM-launched-CENTCOM-tasked / first AFSOC ISR" headlines below retain the **ingest-order-first qualifier**; d33 now carries the **event-date-first qualifier**. The d25-anchored "FIRST AFSOC mission-record cluster at N≥2" open thread closes at d33 ^closed-by-dow-uap-d33 (firming class). d25's anchoring at corpus level remains intact — the order in which the ingest pipeline surfaces an event ≠ the event's chronological position in the source-event timeline.
+
+The Misrep ID continuity holds across the d23 → d33 → d25 chain: d23 9319618 (24 Oct 2023) → d33 9329374 (26-27 Oct 2023; +9,756 IDs / ~2 days = ~4,878/day) → d25 9629373 (25 Jan 2024; +299,999 IDs / ~91 days = ~3,297/day). All within-band; d23+d33+d25 form the **tightest temporal sampling triple in dow-uap counter dataset** spanning 93 days.
+
+
 
 A **7-page Mistral-OCR'd artifact** (`sources/dow-uap-d25-mission-report-greece-january-2024.json`, 11,515 bytes; SHA-256 `1d9493ef7891da2a9c3da964f5800acc16f9610c4968d903eb83663b06bdebd4`) — the **29th artifact** in the [[entities/dow-uap-foia-release|DoW-UAP FOIA release series]] (29-of-~40) and the **FOURTEENTH FULL USMTF MISREP** in the corpus. Misrep 9629373 — 25 Jan 2024 mission, **first Greece artifact, first AFSOC MAJCOM, first 33 SOS / 27 SOW unit chain, first AFSOC-routed cross-COCOM mission, first 35S UTM zone, first single-SWIR-camera-only UAP signature in dow-uap full-Misrep class**. Anchors **NEW Block F release framework at N=1**.
 

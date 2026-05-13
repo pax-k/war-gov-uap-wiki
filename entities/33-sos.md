@@ -3,8 +3,8 @@ title: 33rd Special Operations Squadron (33 SOS)
 category: entities
 tags: [usaf, organization, military, uap, isr]
 aliases: [33 SOS, 33rd SOS, 33d Special Operations Squadron, 33rd Special Operations Squadron]
-sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json]
-summary: USAF / AFSOC MQ-9 Reaper Special Operations Squadron ^[inferred] at Cannon AFB NM, parented by 27 SOW. First non-432-AEW MQ-9 ISR Originator unit in the dow-uap full-Misrep mission-record class (d25). Sister AFSOC SOS to 3 SOS (d27 MQ-9 Originator ^[inferred]) + 16 SOS (d28 AC-130J Originator/POC ^[inferred — strongly]) within 27 SOW parent — AFSOC SOS-cluster firms at N=3 cross-platform (MQ-9 ISR + AC-130J ARMED OVERWATCH).
+sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json]
+summary: USAF / AFSOC MQ-9 Reaper Special Operations Squadron ^[inferred] at Cannon AFB NM, parented by 27 SOW. **33 SOS recurs at N=2** in dow-uap full-Misrep class (d33 26-27 Oct 2023 + d25 25 Jan 2024 — both from LGLR Greece launch base with same 27 SOW + 56 SOIS unit chain); d33 is **first 33 SOS attestation by event date** (d25 first by ingest order). Sister AFSOC SOS to 3 SOS (d27 MQ-9 Originator ^[inferred]) + 16 SOS (d28 AC-130J Originator/POC ^[inferred — strongly]) within 27 SOW parent — AFSOC SOS-cluster firms at N=3 cross-platform (MQ-9 ISR + AC-130J ARMED OVERWATCH).
 provenance:
   extracted: 0.30
   inferred: 0.65
@@ -13,8 +13,21 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-13
 created: 2026-05-13T12:00:00Z
-updated: 2026-05-13T20:00:00Z
+updated: 2026-05-13T22:00:00Z
 ---
+
+## [2026-05-13 update] d33 ingest — 33 SOS RECURS AT N=2 + first 33 SOS by event date + LGLR Greece launch at N=2 + AFSOC LGLR-OJMS rotational two-base sub-cluster
+
+[[references/dow-uap-d33-mission-greece-2023-10-26|DoW-UAP-D33]] (26-27 Oct 2023) carries `MSGID Originator: 33 SOS` ^[extracted] — **second 33 SOS attestation** in dow-uap corpus, and the **first 33 SOS attestation by event date** (~91 days before [[references/dow-uap-d25-mission-greece-2024-01-25|d25]]'s 25 Jan 2024 mission). 33 SOS now recurs at N=2 within a 3-month window, both from **Larissa Air Base (LGLR), Greece** launch base, both with the **same 27 SOW POC Wing + 56 SOIS POC/QC Unit + AN/DAS-4 TGT Pod + 603rd executing OC + GET FMV-exploitation-unit** Originator chain ^[extracted]:
+
+| Mission | Date | Mission cycle | Launch base | Land base | UAP datum |
+|---|---|---|---|---|---|
+| **d33** | 26-27 Oct 2023 | 13h 30min (ferry + ISR) | LGLR Greece | **OJMS Jordan (cross-AOR ferry)** | 270035Z UTM 35S KD; circular small low-slow 80 MPH sharp-90°-turns over ocean |
+| d25 | 25 Jan 2024 | 20h 40min (round-trip ISR) | LGLR Greece | LGLR Greece (round-trip) | 250509Z UTM 35S QT; diamond+probe SWIR-only 434 KTS FL250→FL200 |
+
+d33 + d25 anchor the **AFSOC 33 SOS LGLR rotational sub-cluster** at N=2 cross-AOR within ~3 months ^[inferred]. The narrative attestation `TRANSITED AND LANDING AT OJMS TO REPLACE THE LIGHTNING LINE THAT LANDED AT LGLR YESTERDAY` ^[extracted] firms a **LGLR ↔ OJMS rotational two-base AFSOC lane** with at least one prior LIGHTNING-LINE rotation pre-d33. 33 SOS operates from LGLR Greece at both attestations — whether 33 SOS operates from other AFSOC launch bases (OMAM UAE, OKAS Kuwait) is open ^[open].
+
+**Framing refinement** ^closed-by-dow-uap-d33 (refinement class on d25-anchored "first 33 SOS attestation" headline): d33 is **first 33 SOS by EVENT DATE**, d25 is **first 33 SOS by INGEST ORDER**. The d25-anchored "FIRST AFSOC + first 27 SOW + first 33 SOS + first 56 SOIS + first 609 AOC Det 1 + first Greece + first LGLR + first 35S UTM" headlines retain their ingest-order-first framing but now carry the event-date-first qualifier ^[inferred].
 
 # 33rd Special Operations Squadron (33 SOS)
 
@@ -77,14 +90,17 @@ The 16 SOS attribution to **AC-130J Ghostrider is decisive** ^[inferred — stro
 - ~~**AFSOC mission-record cluster at N≥2.**~~ ^closed-by-dow-uap-d27 — AFSOC recurs at N=2 cross-squadron (33 SOS d25 + 3 SOS d27).
 - ~~**AFSOC SOS-cluster at N≥3 cross-squadron.**~~ ^closed-by-dow-uap-d28 (firming class) — AFSOC SOS-cluster firms at N=3 cross-platform (33 SOS MQ-9 + 3 SOS MQ-9 + 16 SOS AC-130J) within 27 SOW.
 - **3 SOS platform attribution.** d27's 3 SOS may operate MQ-9 (matches d27 AN/DAS-1 TGT Pod + AFSOC SOS standard attribution) OR a different airframe (U-28A, AC-130, etc.) ^[ambiguous]; MQ-9 inference at d27 is preferred per AN/DAS-1 + 10h+ mission cycle envelope. **d28 marginally firms MQ-9 reading for 3 SOS** by anchoring 16 SOS = AC-130J in distinct mission-cycle envelope (7h 6min vs 3 SOS's 10h 13min); platform-class scheme firms ^[inferred].
-- **33 SOS at N≥2 in dow-uap.** Whether 33 SOS recurs (firming as a sustained AFSOC MQ-9 ISR lane within dow-uap) is open ^[open].
+- ~~**33 SOS at N≥2 in dow-uap.**~~ ^closed-by-dow-uap-d33 — 33 SOS recurs at N=2 within 3-month window (d33 26-27 Oct 2023 + d25 25 Jan 2024); both from LGLR Greece launch base with identical 27 SOW + 56 SOIS Originator chain. **AFSOC LGLR-OJMS rotational sub-cluster firms at N=2** with d33 ferry + d25 round-trip variants. d33 is **first 33 SOS attestation by event date**; d25 was first by ingest order.
+- **33 SOS at N≥3 — sustained AFSOC MQ-9 ISR lane.** Whether 33 SOS recurs beyond N=2 (third attestation from LGLR or other AFSOC launch base) is open ^[open].
+- **33 SOS launch-base diversity.** Both d33 + d25 launched from LGLR Greece. Whether 33 SOS operates from CENTCOM-AOR AFSOC launch bases (OMAM UAE, OKAS Kuwait) at sister-mission level is open ^[open]; alternatively 33 SOS may be LGLR-specific within dow-uap ^[ambiguous].
 
 ## See also
 
 - [[entities/3-sos|3rd Special Operations Squadron (3 SOS)]] — sister AFSOC SOS; d27 Originator (MQ-9 ^[inferred]).
 - [[entities/16-sos|16th Special Operations Squadron (16 SOS)]] — sister AFSOC SOS; d28 POC/Originator (AC-130J ^[inferred — strongly]).
 - [[entities/ac-130j-ghostrider|AC-130J Ghostrider]] — d28 airframe; first non-MQ-9 AFSOC platform in dow-uap.
-- [[references/dow-uap-d27-mission-uae-2024-06-06|DoW-UAP-D27]] — second AFSOC attestation; 3 SOS Originator under 27 SOW parent.
-- [[references/dow-uap-d28-mission-iraq-2024-09-20|DoW-UAP-D28]] — third AFSOC attestation; 16 SOS / first AC-130J / first ARMED OVERWATCH / first kinetic-weapons-employment in dow-uap.
+- [[references/dow-uap-d33-mission-greece-2023-10-26|DoW-UAP-D33]] — **first 33 SOS attestation by event date** (26-27 Oct 2023); LGLR Greece → OJMS Jordan ferry; sister-mission to d25 within ~3-month window.
+- [[references/dow-uap-d27-mission-uae-2024-06-06|DoW-UAP-D27]] — second AFSOC attestation by ingest order; 3 SOS Originator under 27 SOW parent.
+- [[references/dow-uap-d28-mission-iraq-2024-09-20|DoW-UAP-D28]] — third AFSOC attestation by ingest order; 16 SOS / first AC-130J / first ARMED OVERWATCH / first kinetic-weapons-employment in dow-uap.
 - [[projects/uap/uap]] — project overview.
 - [[entities/dow-uap-foia-release]] — release context.

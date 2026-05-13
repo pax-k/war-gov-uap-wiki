@@ -3,8 +3,8 @@ title: Air Force Special Operations Command (AFSOC)
 category: entities
 tags: [usaf, organization, military, uap, isr]
 aliases: [AFSOC, Air Force Special Operations Command]
-sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json]
-summary: USAF major command for Special Operations Forces (SOF) air component, HQ Hurlburt Field FL ^[inferred]. AFSOC recurs at N=3 in dow-uap full-Misrep corpus (d25 LGLR Greece + d27 OMAM UAE + d28 OKAS/AAAB Iraq). Cross-squadron AFSOC cluster firms at N=3 (33 SOS d25 + 3 SOS d27 + 16 SOS d28 under 27 SOW) — first multi-platform AFSOC pattern in dow-uap (MQ-9 ISR d25/d27 ^[inferred] + AC-130J ARMED OVERWATCH d28 ^[inferred — strongly]).
+sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json]
+summary: USAF major command for Special Operations Forces (SOF) air component, HQ Hurlburt Field FL ^[inferred]. **AFSOC recurs at N=4** in dow-uap full-Misrep corpus (d33 LGLR→OJMS ferry + d25 LGLR round-trip + d27 OMAM UAE + d28 OKAS/AAAB Iraq) across 11-month window (Oct 2023 → Sep 2024). Cross-squadron AFSOC cluster firms at N=3 cross-platform (33 SOS d33+d25 + 3 SOS d27 + 16 SOS d28 under 27 SOW) — multi-platform AFSOC pattern (MQ-9 ISR d33/d25/d27 ^[inferred] + AC-130J ARMED OVERWATCH d28 ^[inferred — strongly]). **d33 is first AFSOC by event date**; d25 was first by ingest order.
 provenance:
   extracted: 0.35
   inferred: 0.60
@@ -13,8 +13,27 @@ base_confidence: 0.68
 lifecycle: draft
 lifecycle_changed: 2026-05-13
 created: 2026-05-13T12:00:00Z
-updated: 2026-05-13T20:00:00Z
+updated: 2026-05-13T22:00:00Z
 ---
+
+## [2026-05-13 update] d33 ingest — AFSOC AT N=4 + d33 PRECEDES d25 as event-date-first AFSOC + LGLR Greece launch at N=2 + 33 SOS at N=2 + cross-AOR ferry first attestation
+
+[[references/dow-uap-d33-mission-greece-2023-10-26|DoW-UAP-D33]] (26-27 Oct 2023) carries `MAJCOM: AFSOC` ^[extracted] — **fourth AFSOC attestation** in dow-uap full-Misrep corpus, and **first AFSOC attestation by event date** (~91 days before d25's 25 Jan 2024 mission). AFSOC now recurs at N=4 within an 11-month event-date window (Oct 2023 → Sep 2024):
+
+| Mission | Event date | Launch → Land | Wing/Squadron | Mission Type | Platform ^[inferred] | Block |
+|---|---|---|---|---|---|---|
+| **d33** | **26-27 Oct 2023** | **LGLR Greece → OJMS Jordan (cross-AOR ferry)** | **27 SOW / 33 SOS / 56 SOIS** | **ISR + ferry** | **MQ-9 Reaper** | **B (MDR 26-0019)** |
+| d25 | 25 Jan 2024 | LGLR Greece → LGLR Greece (round-trip) | 27 SOW / 33 SOS / 56 SOIS | ISR | MQ-9 Reaper | F (MDR 25-0100..0103 / JS-250710-TM8S) |
+| d27 | 6-7 Jun 2024 | OMAM UAE → OMAM UAE (round-trip; WX-RTB) | 27 SOW / 3 SOS / 56 SOIS | ISR | MQ-9 Reaper | F (MDR 25-0100..0103 / JS-250710-TM8S) |
+| d28 | 20-21 Sep 2024 | OKAS Kuwait ^[inferred] → OKAS Kuwait (round-trip via AAAB) | 27 SOW / 16 SOS / 1 SOW QC | ARMED OVERWATCH | AC-130J Ghostrider ^[inferred — strongly] | F (MDR 25-0100..0103 / JS-250710-TM8S) |
+
+**MAJCOM histogram refines** at d33 ingest across 15 mission-records: ACC 4 + AFCENT 3 + **AFSOC 4** + cluster-blank 6. 432-AEW MQ-9 ISR share refines to **12-of-16 = ~75%** within MQ-9 ISR + AC-130J subset.
+
+**Framing refinement** ^closed-by-dow-uap-d33: d33 is **first AFSOC by event date**; d25 was **first AFSOC by ingest order**. The d25-anchored "FIRST AFSOC" + "FIRST 27 SOW" + "FIRST 33 SOS" + "FIRST 56 SOIS" + "FIRST Greece" + "FIRST LGLR" + "FIRST cross-MAJCOM-EUCOM-launched-CENTCOM-tasked" headlines all retro-shift: d25 retains the ingest-order-first qualifier; d33 carries the event-date-first qualifier.
+
+**d33 anchors the AFSOC LGLR-OJMS rotational two-base sub-cluster** ^closed-by-dow-uap-d33 (anchoring class). Narrative explicitly attests `TRANSITED AND LANDING AT OJMS TO REPLACE THE LIGHTNING LINE THAT LANDED AT LGLR YESTERDAY` ^[extracted] — first cross-AOR ferry/repositioning mission in dow-uap. The LGLR ↔ OJMS lane covers both **single-direction ferry** (d33) + **round-trip ISR** (d25) variants within ~3 months under the same 33 SOS / 27 SOW Originator chain.
+
+**Block recurrence**: d33 carries **Block B** (`MDR 26-0019`), distinct from d25 + d27 + d28's Block F. **AFSOC routes Misreps through multiple release blocks** ^closed-by-dow-uap-d33 (firming class). At d33 ingest: AFSOC class spans **Block B (d33) + Block F (d25 + d27 + d28)** — first cross-block AFSOC routing in dow-uap; AFSOC's release-block-attestation count is **2-of-22 release-block-testable artifacts at cross-block AFSOC routing** ^[inferred].
 
 # Air Force Special Operations Command (AFSOC)
 
@@ -83,9 +102,10 @@ AFSOC recurs at N=3 in dow-uap full-Misrep class:
 - [[entities/usaf|USAF]] — parent service.
 - [[entities/mq-9-reaper|MQ-9 Reaper]] — d25 + d27 airframe ^[inferred]; complementary to d28 AC-130J.
 - [[entities/dow-uap-foia-release]] — release context (Block F recurs at N=3).
-- [[references/dow-uap-d25-mission-greece-2024-01-25|DoW-UAP-D25]] — first AFSOC attestation.
-- [[references/dow-uap-d27-mission-uae-2024-06-06|DoW-UAP-D27]] — second AFSOC attestation; first CENTCOM-AOR-launched AFSOC mission.
-- [[references/dow-uap-d28-mission-iraq-2024-09-20|DoW-UAP-D28]] — third AFSOC attestation; first multi-platform AFSOC + first AC-130J / first gunship / first ARMED OVERWATCH / first kinetic-weapons-employment + first PGM-coincident UAP in dow-uap.
+- [[references/dow-uap-d33-mission-greece-2023-10-26|DoW-UAP-D33]] — **first AFSOC attestation by event date** (26-27 Oct 2023); first cross-AOR ferry mission (LGLR → OJMS); Block B class (vs Block F at d25/d27/d28).
+- [[references/dow-uap-d25-mission-greece-2024-01-25|DoW-UAP-D25]] — first AFSOC attestation by ingest order.
+- [[references/dow-uap-d27-mission-uae-2024-06-06|DoW-UAP-D27]] — second AFSOC attestation by ingest order; first CENTCOM-AOR-launched AFSOC mission.
+- [[references/dow-uap-d28-mission-iraq-2024-09-20|DoW-UAP-D28]] — third AFSOC attestation by ingest order; first multi-platform AFSOC + first AC-130J / first gunship / first ARMED OVERWATCH / first kinetic-weapons-employment + first PGM-coincident UAP in dow-uap.
 
 ## Open threads
 
@@ -93,7 +113,8 @@ AFSOC recurs at N=3 in dow-uap full-Misrep class:
 - ~~**AFSOC mission-record cluster at N≥2.**~~ ^closed-by-dow-uap-d27 — AFSOC recurs at N=2 cross-squadron (33 SOS + 3 SOS) + cross-launch-base (LGLR + OMAM) + cross-AOR launch (EUCOM AOR + CENTCOM AOR); parallel ISR posture firms.
 - ~~**AFSOC at N≥3 — sustained ISR lane.**~~ ^closed-by-dow-uap-d28 — AFSOC recurs at N=3 cross-squadron (33 SOS + 3 SOS + 16 SOS) + cross-launch-base (LGLR + OMAM + OKAS/AAAB) + cross-platform (MQ-9 ISR d25/d27 + AC-130J ARMED OVERWATCH d28) + cross-Mission-Type (ISR + ARMED OVERWATCH); sustained multi-platform ISR/CAS posture firms.
 - **AFSOC-to-USSOCOM joint operations attribution.** AFSOC operates as USAF component of USSOCOM. Whether d25/d27/d28 tasking is USSOCOM-routed JTF-engaged or pure-AFSOC-organic is not resolved in OCR (d25 Operation field redacted; d27 Operation = ENDURING SENTINEL; d28 Operation = INHERENT RESOLVE — same OIR umbrella as ACC/AFCENT-routed d10-d18 + d19 missions, suggesting AFSOC tasking flows through COCOM-driven joint-operation routing rather than AFSOC-organic ^[inferred]). ^[ambiguous]
-- **AFSOC at N≥4 — sustained multi-platform ISR/CAS lane.** Whether AFSOC continues to anchor dow-uap full-Misrep beyond N=3 (fourth Misrep with 27 SOW or sister SOW; another AC-130J Misrep; MC-130 / U-28A / CV-22 Misreps) is open. ^[open]
+- ~~**AFSOC at N≥4 — sustained multi-platform ISR/CAS lane.**~~ ^closed-by-dow-uap-d33 — AFSOC recurs at N=4 (d33 ferry + d25 round-trip + d27 round-trip + d28 ARMED OVERWATCH); d33 is first AFSOC by event date; cross-block routing firms (Block B + Block F); LGLR Greece at N=2; 33 SOS at N=2; 27 SOW at N=4.
+- **AFSOC at N≥5 — sustained multi-platform multi-block ISR/CAS lane.** Whether AFSOC continues to anchor dow-uap full-Misrep beyond N=4 (fifth Misrep with 27 SOW or sister wing; MC-130 / U-28A / CV-22 Misreps; another LIGHTNING-LINE rotation mission) is open. ^[open]
 - **Op ENDURING SENTINEL recurrence at N≥2.** d27 anchors first ENDURING SENTINEL in dow-uap corpus; d28 reverts to OIR. Whether ENDURING SENTINEL recurs (firming as a sustained AFSOC-tasking line) is open. ^[open]
 - **Per-SOS platform-class attribution scheme firmness.** d28 anchors `16 SOS = AC-130J ^[inferred — strongly]` against d25/d27's `33 SOS / 3 SOS = MQ-9 ^[inferred]`. Whether this scheme holds at N≥4 across additional AFSOC SOS attestations is open ^[open].
 

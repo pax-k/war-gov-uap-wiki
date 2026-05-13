@@ -3,8 +3,8 @@ title: 27th Special Operations Wing (27 SOW)
 category: entities
 tags: [usaf, organization, military, uap, isr]
 aliases: [27 SOW, 27th SOW, 27 Special Operations Wing, 27th Special Operations Wing]
-sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json]
-summary: USAF / AFSOC Special Operations Wing at Cannon AFB NM ^[inferred]. Parent wing for 33 SOS (d25 MQ-9 Originator ^[inferred]), 3 SOS (d27 MQ-9 Originator ^[inferred]), 16 SOS (d28 AC-130J Originator/POC ^[inferred]), and 56 SOIS (POC d25 + QC d27). 27 SOW recurs at N=3 in dow-uap full-Misrep corpus (d25 LGLR Greece + d27 OMAM UAE + d28 OKAS/AAAB Iraq) — first AFSOC cross-squadron + cross-platform (MQ-9 ISR + AC-130J CAS) N=3 within dow-uap.
+sources: [sources/dow-uap-d25-mission-report-greece-january-2024.json, sources/dow-uap-d27-mission-report-united-arab-emirates-october-2023.json, sources/dow-uap-d28-mission-report-east-china-sea-2024.json, sources/dow-uap-d33-mission-report-greece-october-2023.json]
+summary: USAF / AFSOC Special Operations Wing at Cannon AFB NM ^[inferred]. Parent wing for 33 SOS (d33 + d25 MQ-9 Originator ^[inferred]), 3 SOS (d27 MQ-9 Originator ^[inferred]), 16 SOS (d28 AC-130J Originator/POC ^[inferred]), and 56 SOIS (POC d25 + QC d27 + QC d33). **27 SOW recurs at N=4** in dow-uap full-Misrep corpus (d33 LGLR→OJMS ferry + d25 LGLR round-trip + d27 OMAM UAE + d28 OKAS/AAAB Iraq) — first AFSOC cross-squadron + cross-platform (MQ-9 ISR + AC-130J CAS) N=3 + cross-block (Block B + Block F) within dow-uap. d33 is first 27 SOW by event date.
 provenance:
   extracted: 0.35
   inferred: 0.60
@@ -13,8 +13,27 @@ base_confidence: 0.68
 lifecycle: draft
 lifecycle_changed: 2026-05-13
 created: 2026-05-13T12:00:00Z
-updated: 2026-05-13T20:00:00Z
+updated: 2026-05-13T22:00:00Z
 ---
+
+## [2026-05-13 update] d33 ingest — 27 SOW RECURS AT N=4 + d33 first 27 SOW by event date + cross-block AFSOC routing (Block B + Block F)
+
+[[references/dow-uap-d33-mission-greece-2023-10-26|DoW-UAP-D33]] (26-27 Oct 2023) carries `POC Wing: 27 SOW` ^[extracted] — **fourth 27 SOW attestation** in dow-uap corpus and **first 27 SOW by event date**:
+
+**d33 — LGLR Greece → OJMS Jordan ferry (26-27 Oct 2023):**
+- **POC** = A1C, (Unit Unavailable), 27 SOW, **609 CAOC** ^[extracted] — NOT 609 AOC Det 1 (contradicts d25's Det 1 reading)
+- **QC** = SrA, **56 SOIS**, 27 SOW, **609 CAOC** ^[extracted] — 56 SOIS recurs at N=3 cross-role (POC d25 + QC d27 + QC d33)
+- **Originator** = **33 SOS** ^[extracted] — recurs at N=2 with d25; first 33 SOS attestation by event date
+- **APPROVER** = SSgt, (Unit Unavailable), Other, **603 AOC** ^[extracted] — second 603 AOC APPROVER attestation in dow-uap (after d25)
+- 13h 30min ferry + ISR cycle; 1X UAP at 270035Z at UTM 35S KD (Eastern Med); SEEMINGLY CIRCULAR small object, 80 MPH, sharp 90° turns, FLYING JUST ABOVE THE SURFACE OF THE OCEAN WATER
+- **Platform**: MQ-9 Reaper ^[inferred] (AN/DAS-4 TGT Pod + 13:30 cycle)
+- **Block**: B (`MDR 26-0019` + `01/26/26 001..007`) — **first Block B AFSOC mission in dow-uap; first Block B Full Misrep outside 2020 NAVCENT cluster**
+
+**27 SOW now operates across two release blocks within dow-uap** ^closed-by-dow-uap-d33 (firming class) — Block B (d33) + Block F (d25 + d27 + d28). Block B and Block F are distinct release pipelines (`MDR 26-0019 / 01/26/26` vs `MDR 25-0100..0103 / JS-250710-TM8S / 10/28/25`) — 27 SOW is **routed through both pipelines within 11-month event-date window** ^[inferred].
+
+The d33 + d25 pairing within 27 SOW anchors a **LGLR rotational sub-cluster at N=2** (both 33 SOS Originator + same 56 SOIS + same AN/DAS-4 + same `GET` FMV-exploitation + same 603rd executing OC; both from LGLR Greece launch base). The d33 cross-AOR ferry leg + d25 round-trip ISR variants firm a **single AFSOC LGLR-OJMS rotational two-base lane** ^[inferred].
+
+**d33 contradicts d25's `609 AOC Det 1` POC OC reading** ^closed-by-dow-uap-d33 (contradiction class) — same 33 SOS / 27 SOW / 56 SOIS chain + same LGLR launch but d33 POC OC = `609 CAOC` (main), NOT Det 1. Det 1 may be Block-F-routing-pipeline-specific or 2024-era-specific.
 
 # 27th Special Operations Wing (27 SOW)
 
@@ -80,7 +99,8 @@ This page is a **stub hub**. 27 SOW surfaces in the dow-uap corpus as the **POC 
 - **56 SOIS attribution.** Page-25 POC Unit `56 SOIS` is plausibly **56th Special Operations Intelligence Squadron** but could also be **56 SOIS = 56 SOS-Intel detachment** or similar. ^[ambiguous] Recurs at N=2 cross-role (POC d25 + QC d27); absent at d28.
 - ~~**27 SOW MQ-9 ISR cluster at N≥2 in dow-uap.**~~ ^closed-by-dow-uap-d27 — 27 SOW recurs at N=2 cross-squadron (33 SOS d25 + 3 SOS d27) + cross-launch-base (LGLR + OMAM); parallel ISR posture firms.
 - ~~**27 SOW at N≥3 — sustained AFSOC ISR lane.**~~ ^closed-by-dow-uap-d28 — 27 SOW recurs at N=3 cross-squadron + cross-platform (MQ-9 ISR d25 + d27 + AC-130J CAS d28) + cross-launch-base (LGLR + OMAM + OKAS/AAAB); multi-platform AFSOC pool firms.
-- **27 SOW at N≥4 — sustained AFSOC ISR/CAS lane.** Whether 27 SOW continues to anchor AFSOC ISR/CAS in dow-uap beyond N=3 (fourth attestation or another sister Wing-class SOW) is open. ^[open]
+- ~~**27 SOW at N≥4 — sustained AFSOC ISR/CAS lane.**~~ ^closed-by-dow-uap-d33 — 27 SOW recurs at N=4 (d33 ferry + d25 round-trip + d27 round-trip + d28 ARMED OVERWATCH); first cross-block AFSOC routing within dow-uap (Block B d33 + Block F d25/d27/d28); LGLR rotational sub-cluster firms at N=2 (d33 + d25, same 33 SOS Originator chain).
+- **27 SOW at N≥5 — sustained cross-block multi-platform ISR/CAS lane.** Whether 27 SOW continues to anchor AFSOC ISR/CAS in dow-uap beyond N=4 is open. ^[open]
 - **1 SOW QC attestation.** d28 first 1 SOW attestation (QC role only). Whether 1 SOW recurs (POC or QC) in dow-uap is open ^[open].
 - **`Other` Operations Center token at d28 POC + QC.** Whether `Other` is an AFSOC-internal OC token (vs CENTCOM regional OC label like `609 CAOC`) is unresolved ^[ambiguous]. Possibly indicates AFSOC-internal routing path that does not use the 609 CAOC label at POC/QC role.
 

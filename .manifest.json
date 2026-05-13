@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-13T18:00:00Z",
+  "updated": "2026-05-13T22:00:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -4357,6 +4357,33 @@
       ],
       "notes": "Source filename (`october-2023`) is a curator-mismatch — internal Takeoff DTG `062100:00ZJUN24` (6-7 Jun 2024). Page slug + title + event_date all anchor to 2024-06-06 per dow-uap convention (4th distinct filename-curator-mismatch class after arabian-gulf / djibouti / iraq). Block F recurs at N=2 byte-for-byte (MDR 25-0100 thru 25-0103 / JS-250710-TM8S / 10/28/25); AFSOC at N=2 cross-squadron (33 SOS d25 + 3 SOS d27); sub-class 14 firms at N=3 with morphology axis ^closed-by-dow-uap-d27. First Op ENDURING SENTINEL + first 3 SOS + first 8-digit Misrep ID (10055709) + first WX-RTB-truncated MQ-9 ISR mission + first AFSOC-CENTCOM-AOR-launched-CENTCOM-tasked (4th distinct cross-OC topology) + GLOWING HOT SPHERICAL UAP with vertical pole/bar appendage + water reflection in dow-uap corpus."
     },
+    "sources/dow-uap-d33-mission-report-greece-october-2023.json": {
+      "ingested_at": "2026-05-13T22:00:00Z",
+      "size_bytes": 10198,
+      "modified_at": 1778332064,
+      "content_hash": "sha256:9db572f3590d5797d920017c53188985bb73fa912941993a75f774ea8eb82296",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "pages_created": [
+        "references/dow-uap-d33-mission-greece-2023-10-26.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "entities/33-sos.md",
+        "entities/27-sow.md",
+        "entities/afsoc.md",
+        "entities/609-caoc.md",
+        "entities/603-aoc.md",
+        "concepts/uap-aircraft-engagement.md",
+        "references/dow-uap-d25-mission-greece-2024-01-25.md",
+        "index.md",
+        "timeline.md",
+        "log.md",
+        "hot.md"
+      ],
+      "notes": "Source filename (`greece-october-2023`) is PARTIALLY CORRECT — Greece launch (LGLR) + Oct 2023 anchor correct, but mission TERMINATES in Jordan via cross-AOR ferry (`TRANSITED AND LANDING AT OJMS TO REPLACE THE LIGHTNING LINE THAT LANDED AT LGLR YESTERDAY` ^[extracted]); filename misses the cross-AOR transit. **6th distinct dow-uap filename-curator-mismatch class** — first PARTIAL-TRUTH variant after 5 prior categorical-class mismatches (d4/d5/d7 arabian-gulf + d8 djibouti + d14 iraq + d27 october-2023 + d28 east-china-sea). Page slug + title + event_date all anchor to 2023-10-26 per dow-uap convention (takeoff day). Takeoff DTG `262339:00ZOCT23` LGLR Greece → land DTG `271309:00ZOCT23` OJMS Jordan; 13h 30min cycle / 6h 29min FMV. 33 SOS / 27 SOW / 56 SOIS MQ-9 ^[inferred] AFSOC MAJCOM + USCENTCOM COCOM with 603rd executing OC (EUCOM-departure side) but USCENTCOM-tasked. **NEW BLOCK B FULL USMTF MISREP VARIANT at N=4 cross-year + cross-MAJCOM + cross-platform + cross-document-class** ^closed-by-dow-uap-d33: d33 carries `USCENTCOM MDR 26-0019` + `01/26/26 001..007` byte-for-byte matching d38 (range-fouler debrief May 2020) + d61 + d62 (2020 NAVCENT cluster). First 2023-era Block B + first AFSOC Block B + first cross-AOR-ferry Block B + first non-2020-NAVCENT-cluster Full Misrep Block B. At N=22 release-block-testable: A 5 + B 4 + C 3 + D 6 + E 1 + F 3. **AFSOC at N=4 + 33 SOS at N=2 + 27 SOW at N=4 + 56 SOIS at N=3 + LGLR at N=2** ^closed-by-dow-uap-d33 (firming class on multiple open threads); MAJCOM histogram ACC 4 + AFCENT 3 + AFSOC 4 + cluster-blank 6 across 15 mission-records; 432-AEW MQ-9 ISR share refines to 12-of-16 = ~75%. **d33 PRECEDES d25 by ~91 days as event-date-first AFSOC + 33 SOS + 27 SOW + 56 SOIS + Greece + LGLR** ^closed-by-dow-uap-d33 (refinement class on d25-anchored FIRST-AFSOC headlines — retroactively shift to ingest-order-first); d23 9319618 (24 Oct 2023) → d33 9329374 (26 Oct 2023; +9,756 IDs / ~2 days = ~4,878/day) → d25 9629373 (25 Jan 2024; +299,999 IDs / ~91 days = ~3,297/day) — TIGHTEST temporal sampling triple in dow-uap counter dataset. **Sub-class 14 firms at N=4 with first explicit MANEUVERING UAP + lowest velocity** ^closed-by-dow-uap-d33 (firming class on d27-anchored sub-class 14 at N=3 with morphology axis): 1X UAP at 270035Z UTM 35S KD Eastern Med — `SEEMINGLY CIRCULAR, TOO SMALL TO MAKE OUT DETAILS`, **80 MPH** (LOWEST sub-class-14 velocity; range 80-440 MPH = ~5.5× spread), **`Sharp 90 degree turns`** (first populated UAP Maneuverability Observations content), FLYING JUST ABOVE THE SURFACE OF THE OCEAN WATER, 5 NM seen-radius, ~3-min event duration; Benign, Solid, UAP Event Type = UAP Incident, 5-UNK template-field-saturated UAP segment, Signatures = NONE, Event Serial Number = dash placeholder. **609 AOC Det 1 hypothesis partially CONTRADICTED** ^closed-by-dow-uap-d33 (contradiction class on d25/d27-anchored Det 1 reading) — same 33 SOS / 27 SOW / 56 SOIS / LGLR chain as d25 but d33 POC + QC OC = `609 CAOC` (main), NOT Det 1; Det 1 may be Block-F-routing-pipeline-specific or 2024-era-specific. **First Greece-to-Jordan ferry/repositioning mission + AFSOC LGLR-OJMS rotational two-base sub-cluster anchored at N=2** (d33 ferry + d25 round-trip). 6th 603 AOC role-attestation (APPROVER + executing at d33; cross-COCOM-tasking-with-EUCOM-executing AFSOC LGLR pattern firms at N=2 with d25). d33 does NOT carry JS-250710-TM8S Joint Staff tracking-ID (Block D + E + F-specific); broader Misrep ID counter pool firms at Harrison-MDR-coordinator level above JS-tracking-ID granularity. Other firsts: first 35S KD UTM zone (vs d25's 35S QT); first 36S YC tasked-target zone; first `SW` qualitative Trajectory; first 5-UNK template-field-saturated UAP segment; first dash-placeholder UAP Event Serial Number; first explicit `NONE` UAP Signatures; first `(SEE ISR 1)` + `(SEE UAP 1)` segment cross-references; first Activity Description = `TARGET DEVELOPMENT`; first `GCP - VEO (violent extremist group)`; first 2-token `AH/GMESH` AIRHANDLER without `/SANTA FE` (refines SANTA FE as post-d33 AFSOC AIRHANDLER variant); first standalone `G-MESH` Sensors Available; first NO `undefined-` Misrep prefix in 2023-era Misrep (refines `undefined-` as JS-250710-TM8S-tranche-specific ^closed-by-dow-uap-d33 firming class); first intra-document declassification-date inconsistency (`22 January 2025` vs `22 January 2026` across pages — pipeline-class OCR typo ^[ambiguous]); first `1.4c` FOREIGN-MIL-INFO redaction in Asset Type field. Recurs at N=2: `GET` FMV-exploitation unit (with d25 — firms 3rd FMV-unit acronym at N=2 ^closed-by-dow-uap-d33); AN/DAS-4 TGT Pod (with d25); redacted `Operation: 1.4a` (with d25); UAP Under Intelligent Control = NO (with d25). Counter increments N=23→N=24 records / 37→38 datums. Zero GUARDCALL extends N=10; zero EMI extends N=11; zero REACTION extends N=16."
+    },
     "sources/dow-uap-d28-mission-report-east-china-sea-2024.json": {
       "ingested_at": "2026-05-13T20:00:00Z",
       "size_bytes": 10916,
@@ -4389,15 +4416,15 @@
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-13T01:30:00Z",
-      "sources_ingested": 64
+      "last_ingested": "2026-05-13T22:00:00Z",
+      "sources_ingested": 65
     }
   },
   "stats": {
-    "total_sources_ingested": 77,
-    "total_pages": 354,
+    "total_sources_ingested": 78,
+    "total_pages": 355,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-13T20:00:00Z"
+    "last_ingest_at": "2026-05-13T22:00:00Z"
   }
 }
