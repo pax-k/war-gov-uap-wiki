@@ -42,6 +42,14 @@ Final           TODO  ⬜ /wiki-synthesize + /wiki-dashboard + /wiki-export + /w
 - `entities/apollo-13`, `apollo-mesa`, `apollo-11-pao`, `gemini-8`, `gemini-10`, `gemini-12`, `jfk`, `uss-ticonderoga`, `alfmed-experiment`, `donald-l-springer`
 - `references/sighting-trans-en-provence-1981`, `references/sighting-air-france-3532-1994`
 - 1 small-fanout institutional placeholder remaining: `albert-chop` (1 ref). Note: `oni`, `afswp`, `army-g-2` were previously listed here but were stubbed in prior hygiene passes (per wiki-lint batch-6 audit) — list is partially stale and pruned to active placeholders only.
+- **New small-fanout placeholders found in batch-8 wiki-lint (sources 71..80)** — all 1-3 ref, below the ≥11-ref auto-stub threshold:
+  - `entities/48th-fighter-wing` (1 ref, d7) — USAF Wing RAF Lakenheath, named only in passing for theater-overlap framing
+  - `entities/clarence-m-kelley` (5 refs, FBI HQ 62-83894 caller chain) — FBI Director 1973-1978; mentioned for post-Hoover transition framing
+  - `entities/donald-w-moore-jr` (2 refs, FBI HQ 62-83894 caller chain) — FBI External Affairs AD signing 1977 Blue Book replies
+  - `entities/edgar-mitchell` (1 ref, boston-globe-ufo-2000-05-21) — Apollo 14 astronaut quoted on French disclosure
+  - `entities/jody-powell` (3 refs, post-BB UAP coordination question 1977) — Press Sec to President Carter
+  - `entities/marie-galbraith-briefing-document-1995` (1 ref, leslie-kean) — 1995 *Best Available Evidence* briefing document
+  - `entities/socom` (1 ref, afsoc) — USSOCOM Combatant Command parent of AFSOC
 
 ## Next-up sources (58-85)
 

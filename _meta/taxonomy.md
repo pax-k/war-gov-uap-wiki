@@ -5,12 +5,12 @@ tags: [taxonomy, meta]
 sources: []
 summary: Canonical controlled vocabulary for tags across the wiki. Source of truth for the tag-taxonomy skill.
 created: 2026-05-09
-updated: 2026-05-12T16:00:00Z
+updated: 2026-05-13T16:00:00Z
 ---
 
 # Tag Taxonomy
 
-Controlled vocabulary for the wiki. The current corpus is **UAP-archives** focused (353 wiki pages from 70 declassified-document / archival-conversation ingests, 1944–2026). Tags below are organized by axis. Use this file as the source of truth before adding tags to any new page.
+Controlled vocabulary for the wiki. The current corpus is **UAP-archives** focused (376 wiki pages from 80 declassified-document / archival-conversation ingests, 1944–2026). Tags below are organized by axis. Use this file as the source of truth before adding tags to any new page.
 
 ## Rules
 
@@ -34,7 +34,7 @@ These mark a page's intended reach. **Optional.** Untagged pages default to publ
 
 Rules: do **not** count toward 5-tag limit; one per page; never aliased; leave untouched in audits.
 
-Current corpus: **0 pages tagged**. All 353 pages default to public, which matches an open-source declassified-archive vault.
+Current corpus: **0 pages tagged**. All 376 pages default to public, which matches an open-source declassified-archive vault.
 
 ## Domain Tags
 
@@ -44,7 +44,7 @@ The subject matter axis — what the page is about.
 
 | Tag | Use for |
 |---|---|
-| `uap` | Anything in the UAP / unidentified-aerial-phenomena domain. The corpus's anchor tag (328 pages). |
+| `uap` | Anything in the UAP / unidentified-aerial-phenomena domain. The corpus's anchor tag (351 pages). |
 
 ### History / era
 
@@ -84,6 +84,7 @@ The subject matter axis — what the page is about.
 | `civilian-research` | Civilian (non-government) research orgs (e.g., OUFORA). |
 | `intelligence` | Intelligence-community framing, sources, or methods. |
 | `humint` | Human intelligence collection specifically. |
+| `isr` | Intelligence, Surveillance, Reconnaissance — operational collection mission-type (distinct from `intelligence`'s IC framing axis). Used for ISR platforms (MQ-9 Reaper), ISR-mission-type institutional units (432 AEW, 482 ATKS, 33/3 SOS, 27 SOW, AFSOC MAJCOM, 603/609 AOCs, AFCENT), and ISR-anchored operations (OIR). |
 | `attache` | Defense / Air Attaché reporting channel. (No diacritic.) |
 | `embassy` | US embassy as originating post. |
 | `diplomacy` | Diplomatic (state-to-state) framing or channel. |
@@ -170,37 +171,40 @@ Tags below are **non-canonical**. Replace with the canonical form when found.
 
 ## Frequency Reference (post-normalization)
 
-**As of 2026-05-12 batch-7 audit:** 109 unique tags across 353 wiki pages (70 sources / 341 manifest pages + 12 non-manifest pages — synthesis/projects/journal). Near-equilibrium — **zero** page-level normalizations applied; **two** taxonomy additions (`1940s` + `1950s` as canonical decade-slots, parallel to existing `1960s`, formalizing pre-existing usage on 3 entity pages introduced in the batch-5/6 FBI HQ section ingests). Zero alias usage, zero non-ASCII / whitespace / case / underscore issues, zero pages over the 5-tag limit. Top tags:
+**As of 2026-05-13 batch-8 audit:** 110 unique tags across 376 wiki pages (80 sources / 364 manifest pages + 12 non-manifest pages — synthesis/projects/journal). Near-equilibrium — **two** page-level normalizations applied (`entities/mq-9-reaper.md`: `[usaf, platform, aircraft, uap, isr]` → `[usaf, aviation, uap, isr]`, dropping `platform` and folding `aircraft` into canonical `aviation`; `entities/operation-inherent-resolve.md`: `[centcom, operation, military, uap, isr]` → `[military, uap, isr]`, dropping single-use unknowns `centcom` and `operation`); **one** taxonomy addition (`isr` promoted to canonical under Institutional/agency, distinct from `intelligence`'s IC framing axis, formalizing pre-existing 10-use cluster on USAF MQ-9 ISR-mission-type institutional units). Zero alias usage, zero non-ASCII / whitespace / case / underscore issues, zero pages over the 5-tag limit. Top tags:
 
 ```
-328 uap                130 primary-source    100 sighting           79 fbi
- 75 declassified        71 person             51 history            50 usaf
- 40 nasa                39 1947               39 witness            38 organization
- 34 intelligence        34 policy             33 1948               28 astronaut
- 28 civilian-research   23 1950               23 military           20 pattern
- 19 morphology          19 rhetoric           15 state-department   15 ww2
- 13 aviation            13 navy               10 1949               10 1957
- 10 federal-le          10 france              9 1952                9 usaaf
-  8 diplomacy            8 dod                 7 california          7 eti-attribution
-  7 new-mexico           7 spacecraft          6 analysis            6 mexico
-  5 1964                 5 behavior            5 embassy             5 mission
-  5 russia               5 us-army
+351 uap                140 primary-source    110 sighting           85 declassified
+ 79 fbi                 72 usaf               71 person              51 history
+ 48 organization        40 nasa               39 1947                39 witness
+ 35 military            34 intelligence       34 policy              33 1948
+ 28 astronaut           28 civilian-research  23 1950                20 pattern
+ 19 morphology          19 rhetoric           16 aviation            15 state-department
+ 15 ww2                 13 navy               10 1949                10 1957
+ 10 federal-le          10 france             10 isr                  9 1952
+  9 usaaf                8 diplomacy           8 dod                  7 california
+  7 eti-attribution      7 new-mexico          7 spacecraft           6 analysis
+  6 mexico               5 1964                5 behavior             5 embassy
+  5 mission              5 russia              5 us-army
 ```
 
-Notable shifts from batch-6 audit (343 → 353 pages, +10; tags 109 → 109, ±0 net; 111 unique observed pre-normalization → 109 after the two decade-slot promotions absorbed `1940s` + `1950s` into the canonical vocabulary):
+Notable shifts from batch-7 audit (353 → 376 pages, +23; tags 109 → 110, +1 net; 112 unique observed pre-normalization → 110 after the `isr` promotion + the `platform`/`aircraft`/`centcom`/`operation` removals):
 
-- `uap` 318 → 328 (+10, exactly tracking new pages — anchor invariant).
-- `primary-source` 120 → 130 (+10), `declassified` 65 → 75 (+10), `sighting` 90 → 100 (+10) — d61-d65 cluster (5 full USMTF Misreps) + d10 OIR Misrep + d6 + d12 + d14 + d3 ingests all carry the canonical `[uap, primary-source, declassified, navy|usaf|military, sighting]` artifact-class set. Zero tag-set drift across the batch.
-- `usaf` 41 → 50 (+9), `military` 23 → 23 (±0), `navy` 12 → 13 (+1) — batch-7 is heavily USAF-anchored (d61-d65 + d10 are all 432 AEW / 482ATKS / 609 CAOC MQ-9 missions; the d61-d65 quintuplet alone accounts for +5 USAF mission-report pages).
-- `fbi` 79 → 79 (±0) — FBI HQ ingest fully absorbed at batch-5/6; batch-7 is exclusively dow-uap.
+- `uap` 328 → 351 (+23, exactly tracking new pages — anchor invariant).
+- `primary-source` 130 → 140 (+10), `declassified` 75 → 85 (+10), `sighting` 100 → 110 (+10) — d16-d42 cluster (d16/d18/d19/d23/d25/d27/d28/d33/d35/d42 — 10 full USMTF Misreps + 1 range-fouler debrief) all carry the canonical `[uap, primary-source, declassified, usaf, sighting]` artifact-class set. Zero tag-set drift across the dow-uap mission-report ingests this batch.
+- `usaf` 50 → 72 (+22), `military` 23 → 35 (+12), `navy` 13 → 13 (±0) — batch-8 is overwhelmingly USAF-anchored (d16-d42 are all 432 AEW MQ-9 OIR missions + AFSOC MQ-9/AC-130J SOF missions); the +22 USAF reflects both the mission-report pages and the 6 new institutional-stub entity pages introduced this batch (`afsoc`, `27-sow`, `33-sos`, `3-sos`, `16-sos`, `ac-130j-ghostrider`). `military` 23 → 35 (+12) tracks the 5 institutional stubs (afsoc/27-sow/33-sos/3-sos/16-sos/ac-130j) + d-mission-report ingest tags + the operation-inherent-resolve page.
+- `fbi` 79 → 79 (±0) — FBI HQ ingest fully absorbed at batch-5/6; batch-8 is exclusively dow-uap.
 - `history` 51 → 51, `policy` 34 → 34, `nasa` 40 → 40 (all ±0) — no NASA / policy-domain ingests this batch; growth is exclusively in the dow-uap mission-report corner.
-- TWO **decade-slot canonical promotions** (`1940s` 1 use on `entities/borderland-sciences-research-associates.md`; `1950s` 2 uses on `entities/international-flying-saucer-bureau.md` + `entities/albert-k-bender.md`). All three pages were created 2026-05-10 during the FBI HQ Section-7/9 ingest batch (pre-batch-7); the decade tags weren't caught in batch-5/6 audits because the FBI HQ section ingest finished mid-batch-5 and the entity pages were created concurrent with the audit pass. Promotion rationale: `1960s` is already canonical with the documented decade-rationale (`Decade-level when year is unknown or pattern spans years`); BSRA spans 1945-1952, Bender ~1952-1953, IFSB ~1952-1962 — all genuinely decade-spanning; year-tags would lose precision. Per skill's "2+ pages → add to taxonomy" rule (`1950s` qualifies cleanly), and per single-use-replace-or-drop rule for `1940s` the closest canonical alternative would be a 1945/1946/etc. year tag which is less informative than the decade tag, so promotion is the most-informative move. Pages were NOT modified; promotions formalize pre-existing canonical-equivalent usage.
-- No new domain/type/phenomenology/policy tags introduced from d10-d14 ingests. d10's `OIR` (Operation Inherent Resolve) + `MAG` (Marine Aircraft Group) + `XCAS` mission-type are captured in title + body + entity-link prose, not as tags; existing `[uap, primary-source, declassified, usaf, sighting]` covers the artifact class for all of d10-d65 batch entries.
-- No year-slot activations this pass. The reserved 1947–1994 range remains stable. 2020/2022 event-dates (d61-d65 + d10) fall outside the reserved year-tag range and are anchored via filename-date suffix + `event_date` frontmatter, not via year-tag — consistent with the taxonomy's reserved-year-slot scope.
+- `aviation` 13 → 16 (+3) — `ac-130j-ghostrider` and `16-sos` (AC-130J ARMED OVERWATCH SOF pages) both adopted `aviation` over `isr` (mission-type-aware tagging: ARMED OVERWATCH/CAS is not ISR); also picks up `entities/mq-9-reaper.md` post-normalization (replacing `aircraft`).
+- `isr` 0 → 10 (NEW canonical) — promoted from unknown-tag status. 10 uses anchored on USAF MQ-9 ISR-mission-type institutional stubs (`afcent`, `432-aew`, `482-atks`, `603-aoc`, `609-caoc`, `mq-9-reaper`, plus this batch's `afsoc`, `27-sow`, `33-sos`, `3-sos`, plus `operation-inherent-resolve`). The `isr` cluster is **disjoint** from the `intelligence` cluster (zero pages carry both), confirming the categorical-distinction rationale — `isr` is operational mission-type (collection lane), `intelligence` is IC framing (analytical lane).
+- TWO **page normalizations**: (1) `entities/mq-9-reaper.md` dropped `platform` (single-use, no canonical equivalent) + `aircraft` → `aviation` (single-use → canonical merge); resulting tag set `[usaf, aviation, uap, isr]` aligns with sister AC-130J + 16 SOS pages' `aviation`-anchored tagging. (2) `entities/operation-inherent-resolve.md` dropped `centcom` (single-use, closest canonical `military` already present) + `operation` (single-use, no canonical equivalent; closest canonical `mission` is "Specific space/aviation mission" — too narrow for military campaign tagging); resulting tag set `[military, uap, isr]`. The operation-class is encoded via title + category + body. **Forward-looking note**: 5+ additional operation-class entity stubs are queued (Op SPARTAN SHIELD, ENDURING SENTINEL, PHANTOM FLEX, SPECTRE DAGGER, HUMMER-SICKLE per the batch-8 cross-link pass) — if those pages get created and uniformly adopt `operation`, the tag will qualify for promotion at N≥2 in a future audit.
+- No year-slot activations this pass. The reserved 1947–1994 range remains stable. 2020-2024 event-dates (d16-d42) fall outside the reserved year-tag range and are anchored via filename-date suffix + `event_date` frontmatter, not via year-tag — consistent with the taxonomy's reserved-year-slot scope.
 
 The long tail (1–4 uses) remains dominated by year tags, US state tags, and country tags — narrow but uniformly applied. Acceptable.
 
 **Canonical-but-unused tags** (zero pages): `georgia`, `nevada`, `meta`, `balls-of-fire`, `flying-discs`, plus unused year-slots in the `1947 … 1994` range. Retention rationale unchanged: `georgia` for future Russia-Georgia content; `nevada` as standard US-state slot; `meta` implicit via folder placement; `balls-of-fire` and `flying-discs` as collective-noun morphology slots; year slots filled lazily as source-events anchor to them.
+
+**Methodology note** (batch-8): the `isr` tag escaped the batch-7 audit's unknown-tag flag despite already standing at 6 uses on the d10/d60-d65-cluster pages. Mid-frequency unknowns (3–10 uses) sit below the visible top-of-frequency-table threshold and above the single-use floor where the "1 page → replace" rule auto-catches them. Batch-8 confirms the full-frequency-table scan (not just top-N eyeballing) is the right default for catching these. Batch-8 also caught a mid-pass page-creation race (the `operation-inherent-resolve.md` page was created between the initial scan and the final verify-pass), reinforcing the value of a final verification rescan after applying normalizations.
 
 ## Adding a New Tag
 
