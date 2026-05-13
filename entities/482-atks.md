@@ -3,8 +3,8 @@ title: 482d Attack Squadron (482 ATKS)
 category: entities
 tags: [usaf, organization, military, uap, isr]
 aliases: [482ATKS, 482 ATKS, 482d ATKS, 482nd Attack Squadron, 482d Attack Squadron]
-sources: [sources/dow-uap-d60-mission-report-persian-gulf-august-2020.json, sources/dow-uap-d61-mission-report-persian-gulf-august-2020.json, sources/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.json, sources/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.json, sources/dow-uap-d64-mission-report-iran-november-2020.json, sources/dow-uap-d65-mission-report-persian-gulf-july-2020.json]
-summary: USAF MQ-9 Reaper attack squadron under 432d Air Expeditionary Wing. POC Unit on the dow-uap 2020 NAVCENT MQ-9 mission-cluster sextuplet (Jul–Nov 2020 Persian Gulf / Strait of Hormuz / Iran AOR).
+sources: [sources/dow-uap-d60-mission-report-persian-gulf-august-2020.json, sources/dow-uap-d61-mission-report-persian-gulf-august-2020.json, sources/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.json, sources/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.json, sources/dow-uap-d64-mission-report-iran-november-2020.json, sources/dow-uap-d65-mission-report-persian-gulf-july-2020.json, sources/dow-uap-d42-range-fouler-debrief-japan-2023.json]
+summary: USAF MQ-9 Reaper attack squadron under 432d Air Expeditionary Wing. POC Unit on the dow-uap 2020 NAVCENT MQ-9 mission-cluster sextuplet (Jul–Nov 2020 Persian Gulf / Strait of Hormuz / Iran AOR) — 6 full USMTF Misreps. **d42 extends 482 ATKS attestations to 7 datums across two document classes** (range-fouler debrief 31 Aug 2020 — first cross-document-class same-squadron pair in dow-uap; filed via SPEAR pipeline in parallel with USMTF Misrep pipeline).
 provenance:
   extracted: 0.4
   inferred: 0.55
@@ -13,7 +13,7 @@ base_confidence: 0.55
 lifecycle: draft
 lifecycle_changed: 2026-05-12
 created: 2026-05-12T05:45:00Z
-updated: 2026-05-12T05:45:00Z
+updated: 2026-05-13T23:55:00Z
 ---
 
 # 482d Attack Squadron (482 ATKS)
@@ -24,18 +24,21 @@ This page is a **stub hub**. 482 ATKS is the most heavily-cited operational USAF
 
 ## Role in the dow-uap corpus
 
-The 2020 NAVCENT-cluster sextuplet — every full USMTF Misrep in the corpus from 16 Jul through 2 Nov 2020 carries `482ATKS` (or the OCR variant `482 ATKS`) as the POC Unit:
+The 2020 NAVCENT-cluster sextuplet — every full USMTF Misrep in the corpus from 16 Jul through 2 Nov 2020 carries `482ATKS` (or the OCR variant `482 ATKS`) as the POC Unit. **d42 extends the cluster to N=7 datums across two document classes** with a range-fouler debrief filed by a 482 ATKS aircrew on 31 Aug 2020:
 
-| Misrep | Date | Mission | Reference |
-|---|---|---|---|
-| 4592219 | 8 Aug 2020 | Arabian Gulf NAVCENT support | [[references/dow-uap-d60-mission-persian-gulf-2020-08-08|d60]] |
-| 4685903 | 27 Aug 2020 | Persian Gulf NAVCENT support | [[references/dow-uap-d61-mission-persian-gulf-2020-08-27|d61]] |
-| 4782130 | 16 Sep 2020 | Strait of Hormuz NAVCENT support | [[references/dow-uap-d62-mission-strait-of-hormuz-2020-09-16|d62]] |
-| 4871281 | 2 Oct 2020 | Strait of Hormuz NAVCENT support | [[references/dow-uap-d63-mission-strait-of-hormuz-2020-10-02|d63]] |
-| 5039166 | 2 Nov 2020 | Iran AOR NAVCENT support | [[references/dow-uap-d64-mission-iran-2020-11-02|d64]] |
-| earlier | 16 Jul 2020 | Persian Gulf NAVCENT support | [[references/dow-uap-d65-mission-persian-gulf-2020-07-16|d65]] |
+| Misrep / Form | Date | Document class | Mission | Reference |
+|---|---|---|---|---|
+| 4472514 | 16-17 Jul 2020 | full USMTF Misrep | Persian Gulf NAVCENT support | [[references/dow-uap-d65-mission-persian-gulf-2020-07-16|d65]] |
+| 4592219 | 8 Aug 2020 | full USMTF Misrep | Arabian Gulf NAVCENT support | [[references/dow-uap-d60-mission-persian-gulf-2020-08-08|d60]] |
+| 4685903 | 27 Aug 2020 | full USMTF Misrep | Persian Gulf NAVCENT support | [[references/dow-uap-d61-mission-persian-gulf-2020-08-27|d61]] |
+| Range Fouler Form | **31 Aug 2020** | **range-fouler debrief** | **Persian Gulf MGRS 39RWL26 — first cross-document-class same-squadron pair in dow-uap** | [[references/dow-uap-d42-range-fouler-centcom-2020-08-31|d42]] |
+| 4782130 | 16 Sep 2020 | full USMTF Misrep | Strait of Hormuz NAVCENT support | [[references/dow-uap-d62-mission-strait-of-hormuz-2020-09-16|d62]] |
+| 4871281 | 2 Oct 2020 | full USMTF Misrep | Strait of Hormuz NAVCENT support | [[references/dow-uap-d63-mission-strait-of-hormuz-2020-10-02|d63]] |
+| 5039166 | 2 Nov 2020 | full USMTF Misrep | Iran AOR NAVCENT support | [[references/dow-uap-d64-mission-iran-2020-11-02|d64]] |
 
-Same squadron, same Wing, same Operations Center, same NAVCENT-support tasking, same MQ-9 platform, same ~21-hour mission cycle envelope, ~110-day span across 5 calendar months. ^[extracted across the 6 Misrep POC blocks.]
+Same squadron, same Wing, same Operations Center, same NAVCENT-support tasking, same MQ-9 platform ^[inferred], same ~21-hour mission cycle envelope (Misreps), ~110-day span across 5 calendar months (Jul-Nov 2020). ^[extracted across the 6 Misrep POC blocks + 1 range-fouler Squadron field.]
+
+**d42 cross-document-class observation**: the same 482 ATKS aircrew/platform population filed events via **two distinct intake pipelines** (SPEAR range-fouler-debrief + USMTF mission report) in the same Jul–Nov 2020 operational window. The intake-pipeline choice appears **event-class-dependent** (range-intrusion-class events route through SPEAR; mission-prosecution-incidental UAP observations route through USMTF) ^[inferred] rather than squadron- or platform-dependent.
 
 ## Significance for the corpus
 

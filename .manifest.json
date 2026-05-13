@@ -2,7 +2,7 @@
   "version": 1,
   "vault_path": "/Users/pax/Documents/Obsidian/obsidian-wiki",
   "created": "2026-05-09T12:50:15Z",
-  "updated": "2026-05-13T23:30:00Z",
+  "updated": "2026-05-13T23:55:00Z",
   "sources": {
     "_raw/18_6369445_general_1948_vol_1.json": {
       "ingested_at": "2026-05-09T12:58:46Z",
@@ -4438,20 +4438,163 @@
         "hot.md"
       ],
       "notes": "Source filename (`east-china-sea-2024`) is a CATEGORICAL curator-mismatch — internal COCOM=USCENTCOM, body UTM=38S KC (west Iraq Anbar Province), operational range AAAB ROZ RAINDROP, internal Takeoff DTG `201740:00ZSEP24` (20-21 Sep 2024 CENTCOM Iraq, NOT 2024 East China Sea / INDOPACOM). Page slug + title + event_date all anchor to 2024-09-20 per dow-uap convention. 5th distinct filename-curator-mismatch class after arabian-gulf / djibouti / iraq / october-2023; FIRST ALL-AXES mismatch (theater + AOR + COCOM); FIRST INDOPACOM-labelled artifact whose internal content is CENTCOM-AOR. FIRST GUNSHIP / FIRST AC-130J Ghostrider ^[inferred — strongly] / FIRST NON-MQ-9-NON-F-15E PLATFORM in dow-uap full-Misrep corpus (platform-class N=3); 16 SOS AFSOC AC-130J operational squadron at Cannon AFB ^[inferred — strongly] per weapons fit (105mm M102 + 30mm GAU-23/A + AGM-176 Griffin) + sensor fit (MX-20 + MX-25) + 7h 6min mission cycle + ARMED OVERWATCH Mission Type. Block F recurs at N=3 byte-for-byte (MDR 25-0100 thru 25-0103 / JS-250710-TM8S / 10/28/25 001..006) — 3-of-4 Block F slots filled; only 1 remains eligible. AFSOC at N=3 cross-squadron + cross-platform (33 SOS MQ-9 d25 + 3 SOS MQ-9 d27 + 16 SOS AC-130J d28) + first multi-platform AFSOC; 27 SOW at N=3; AFSOC SOS-cluster firms at N=3 cross-platform; per-SOS platform-class scheme anchors (33 SOS + 3 SOS = MQ-9 ^[inferred]; 16 SOS = AC-130J ^[inferred — strongly]). FIRST ARMED OVERWATCH Mission Type (7th distinct after AREC/XCAS/RECONNAISSANCE/ARMED RECCE/ISR/DCA); FIRST KINETIC-WEAPONS-EMPLOYMENT MISREP in dow-uap (20x 105mm + 101x 30mm + 1x AGM-176 Griffin released); FIRST UAP-PGM-SHOT-COINCIDENT ENCOUNTER (UAP flew THROUGH MX-20/MX-25 sensor field BETWEEN AGM-176 release AND impact); FIRST primary+possibly-detaching-secondary morphology hypothesis; FIRST PREDETERMINED-TRAJECTORY assessment. OIR-Iraq sub-cluster extends to N=4 — first 38S KC sub-square (west Iraq Anbar Province / AAAB; vs d10/d12 38S MC + d18 38S MB). 379 AEW APPROVER lane firms at N=4 = 57% (Al-Udeid hub-routing cross-platform + cross-MAJCOM). Misrep ID counter validates at N=8 — d27→d28 ~3,549 IDs/day within-band; second 8-digit Misrep ID (10431840); pooled at Joint-Staff-tranche level across 49 months / 3 MAJCOMs / 2 COCOMs / 3 platforms / 9 within-band corroboration points; brief INDOPACOM-separate-pool hypothesis decisively falsified. JS-250710-TM8S firms at N=10 byte-for-byte. First 1 SOW QC home Wing (AFSOC Hurlburt Field FL ^[inferred]); first `Other` POC + QC Operations Center token (AFSOC-internal OC routing distinct from 609 CAOC); first `HM` ATO (9th distinct); first `SOTU 016` Originator format ^[ambiguous] (most parsimonious OCR variant of `16 SOS`); first MX-20 + MX-25 dual-EO/IR-pod detection; first `GATEWAY (IF BOTH)` Data Link; first AC-130J protection suite (AAR-47 MWS + AN/AAQ-24 LAIRCM + ALR-56M RWR + AN/APN-241 nav); first AGM-176 + 105mm M102 + 30mm GAU-23/A in dow-uap; first `Training Range: YES`; first AAAB / ROZ RAINDROP / 38S KC body anchor; first IR-lens-flare signature descriptor; first NO REOBSERVATION explicit narrative; first `170 KIAS` annotation; first FL130 Friendly Aircraft Altitude; first UAP-First-Coord = UAP-Last-Coord geometry (sensor-frame-internal transit); first explicit no-third-party-observer attestation. Sub-class 16 candidate anchored at N=1 (PGM-shot-coincident sensor-frame-internal UAP transit + IR-lens-flare + primary+possibly-detaching-secondary morphology + AC-130J ARMED OVERWATCH platform). OCR ambiguities: OKAS ICAO ambiguity (standard for Al Salem AB Kuwait; most parsimonious reading is Kuwait launch with mission flown into AAAB Iraq round-trip); Gentext munitions count `1020x30mm / 80x105mm` (total mission load ^[inferred]) vs narrative `101x30mm + 20x105mm` (on-station-segment release ^[inferred]) discrepancy; Last Engine Shutdown DTG `200101Z` precedes Last Land DTG `210046Z` — OCR digit-shift artifact, should be `210101Z` ^[inferred]; `SOTU 016` Originator most parsimonious OCR variant of `16 SOS` ^[ambiguous]. 10th `undefined-` OCR-prefix attestation; firms cross-block at N=10 (Block D 6 + Block E 1 + Block F 3). Zero GUARDCALL extends N=9; zero EMI extends N=10; zero REACTION extends N=15. Counter increments N=22→N=23 records / 36→37 datums."
+    },
+    "sources/dow-uap-d42-range-fouler-debrief-japan-2023.json": {
+      "ingested_at": "2026-05-13T23:55:00Z",
+      "size_bytes": 3683,
+      "modified_at": "May  9 16:07:44 2026",
+      "content_hash": "sha256:405e69dfebf9aca73eb73c3ea79d2099b4ea609b88672dc5d5813828185cc492",
+      "source_id": "dow-uap-d42-range-fouler-debrief-japan-2023",
+      "source_type": "document",
+      "source_quality": "official",
+      "project": "uap",
+      "series": "dow-uap-foia-release",
+      "series_position": "34-of-85",
+      "ocr_engine": "mistral-ocr-latest",
+      "ocr_pages_processed": 1,
+      "substantive_pages": 1,
+      "header_only_pages": 0,
+      "image_blocks_captured": 0,
+      "image_base64_captured": 0,
+      "document_class": "range-fouler-debrief",
+      "document_subclass": "fielded-form",
+      "document_class_extended_at_N": 5,
+      "form_title_variant": "Range Fouler Debrief Form (matches d38 + d56 + d58; differs from d44 Range Fouler Reporting Form) — form-title at N=5 = 4 Debrief + 1 Reporting; Debrief dominant at 80%; form-version-evolution decisively rejected (non-monotonic Debrief→Debrief→Debrief→Reporting→Debrief)",
+      "message_format": "Range Fouler Debrief Form — fielded schema identical to d58/d44/d38/d56 modulo title; EA Indications 5-row pre-printed block STRUCTURALLY anchored at N=4 (d44+d38+d56+d42 all-unchecked)",
+      "declassification_authority": "MG Richard A. Harrison, USCENTCOM Chief of Staff (inferred via OCR corruption of authority line)",
+      "release_block_classification": "Block C (matches d63 + d64 + d65 byte-for-byte; first cross-document-class Block C attestation — was previously full-Misrep-only)",
+      "release_stamp_date": "2026-03-16",
+      "release_sequence_no": "000001",
+      "release_sequence_format": "6-digit (matches Block A + Block C cross-block convention; distinct from Block B 3-digit)",
+      "mdr_case": "USCENTCOM MDR 26-0028",
+      "mdr_case_format": "single case (matches Block C d63 + d64 + d65)",
+      "release_block_matches": [
+        "sources/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.json",
+        "sources/dow-uap-d64-mission-report-iran-november-2020.json",
+        "sources/dow-uap-d65-mission-report-persian-gulf-july-2020.json"
+      ],
+      "release_block_distinct_from_within_range_fouler_subset": [
+        "sources/dow-uap-d55-mission-report-syria-november-2016.json (Block A)",
+        "sources/dow-uap-d58-range-fouler-debrief-na-october-2020.json (Block A)",
+        "sources/dow-uap-d44-range-fouler-arabian-sea-october-2020.json (Block A)",
+        "sources/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.json (Block A)",
+        "sources/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.json (Block B)"
+      ],
+      "release_framework_finding_at_N23_corpus_wide": "SIX blocks; A 5-of-23 + B 5-of-23 + C 4-of-23 cross-document-class + D 6-of-23 + E 1-of-23 + F 3-of-23; Block C now cross-document-class (was previously full-Misrep-only via d63+d64+d65); d42 anchors first range-fouler attestation in Block C",
+      "release_framework_finding_at_N5_range_fouler_subset": "Block A 3-of-5 dominant (d44+d56+d58) + Block B 1-of-5 (d38) + Block C 1-of-5 (d42 NEW); three release pipelines attested within range-fouler subset",
+      "receiving_authority": "AARO",
+      "receiving_authority_closure": "firms-at-N=12-of-13-pipeline-recurrence (^closed-by-dow-uap-d42 23rd recurrence anchor)",
+      "intake_pipeline_name": "SPEAR",
+      "intake_pipeline_recurrence_at_N": 5,
+      "redaction_authority_citation": "3.5c. (b)(6) — period prefix variant of d38 3.5c, (b)(6); EO 13526 §3.5(c) inferred; cross-block (B + d38 + C + d42) — NOT block-specific",
+      "form_filename_schema": "Date_Squadron_RF.pdf",
+      "form_class_abbreviation": "_RF",
+      "form_template_navy_fr_reference": "VFA-106 HUD.wmv (confirmed at N=5)",
+      "form_pre_printed_sensor_schema": [
+        "AIM-9x Self-Track",
+        "ATFLIR Autotrack"
+      ],
+      "form_ea_indications_schema_structurally_anchored_at_N": 4,
+      "form_ea_indications_d42_values": "all 5 unchecked (zero EA reception)",
+      "originating_service_user": "USAF Active Component",
+      "originating_unit_user": "482 ATKS",
+      "originating_unit_first_482_atks_range_fouler_in_corpus": true,
+      "cross_document_class_same_squadron_pair_first_in_corpus": true,
+      "cross_document_class_same_squadron_other_attestations": [
+        "sources/dow-uap-d60-mission-report-persian-gulf-august-2020.json",
+        "sources/dow-uap-d61-mission-report-persian-gulf-august-2020.json",
+        "sources/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.json",
+        "sources/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.json",
+        "sources/dow-uap-d64-mission-report-iran-november-2020.json",
+        "sources/dow-uap-d65-mission-report-persian-gulf-july-2020.json"
+      ],
+      "rank_user": "O-2 (First Lieutenant)",
+      "crew_position": "Pilot",
+      "platform_witness": "MQ-9 Reaper (inferred via 482 ATKS squadron + sensor-screen narrative + passive ISR + 482 ATKS NAVCENT cluster MQ-9 anchor at N=6)",
+      "mission_classification": "ISR (second ISR mission descriptor in range-fouler subset after d38)",
+      "lfe_flag": "No",
+      "day_night": "Dusk (first Dusk Day/Night value in range-fouler class)",
+      "event_date": "2020-08-31",
+      "event_time": null,
+      "filename_categorically_wrong": true,
+      "filename_mismatch_class": "INDOPACOM-tokened label vs CENTCOM Persian Gulf body + 3-year date mismatch (filename `japan-2023` vs body `08/31/20` + MGRS 39RWL Persian Gulf)",
+      "filename_mismatch_pattern_at_N4_corpus_wide": "4th INDOPACOM-mislabelled artifact corpus-wide (d8 djibouti↔Eastern Med + d28 east-china-sea-2024↔Iraq Anbar + d52 august-2024↔OCT 24 + d42 japan-2023↔CENTCOM Persian Gulf 2020); 3-of-4 mislabels assign INDOPACOM tokens to non-INDOPACOM bodies — possible curator-AOR-of-interest filename framing inferred",
+      "object_count": 3,
+      "object_count_source": "narrative-attested-only (form `# of Contacts` blank but narrative: `there were three on the screen at the same time moving amongst each other`)",
+      "object_morphology_checkboxes": [
+        "Other Shape",
+        "Apparent Propulsion"
+      ],
+      "object_morphology_first_apparent_propulsion_in_class": true,
+      "object_morphology_second_dual_morphology_after_d56": true,
+      "object_visual_signature_narrative": "Initial object was surpassed by another object of same size and shape but much higher speed; at one point during tracking the objects, there were three on the screen at the same time moving amongst each other",
+      "object_kinematics_speed_heading": "150° / 230 (unit ambiguous — KT or mph); first moderate-speed kinematic in range-fouler class",
+      "object_kinematics_first_speed_differential_narrative_in_class": true,
+      "object_kinematics_first_moderate_speed_value_in_class": true,
+      "intra_group_kinematic_interaction": "moving amongst each other (swarming/multi-direction reshuffling) — distinct from d58 circling + d56 formation-coordination",
+      "intra_group_kinematic_first_swarming_descriptor_in_class": true,
+      "disappearance_timescale": "persistent multi-object tracking; no disappearance event captured",
+      "active_em_signature": "zero EA reception (all 5 EA Indications boxes unchecked)",
+      "stable_trackfile": null,
+      "closest_approach_nm": null,
+      "closest_approach_note": "passive ISR observation; distance unknown; no closure attempt",
+      "sensor_channels": [
+        "sensor-screen tracking (consistent with MQ-9 Reaper MTS-B turret + GCS displays inferred)"
+      ],
+      "altitude_constant": "Yes",
+      "first_detection_position": "MGRS 39RWL26 (1)1.1a portion-redaction shorthand variant",
+      "first_detection_position_decode": "UTM 39R Persian Gulf / Iran AOR; WL 100-km square = southern Iran / Strait of Hormuz / Persian Gulf body anchor",
+      "centcom_aor_anchoring": "explicit body MGRS Persian Gulf + footer USCENTCOM MDR 26-0028; range-fouler class CENTCOM-AOR-anchored at 100% (5-of-5) at N=5",
+      "filename_theater_label": "japan",
+      "filename_theater_internally_verified": false,
+      "filename_theater_internal_value": "Persian Gulf MGRS 39RWL (categorical mismatch — Japan is UTM 52-54)",
+      "filename_date_label": "2023",
+      "filename_date_internally_verified": false,
+      "filename_date_internal_value": "08/31/20 (categorical mismatch — 3-year discrepancy)",
+      "filename_categorical_mismatch_in_range_fouler_subset_first_attestation": true,
+      "behavioral_sub_class": "range-fouler-passive-ISR-observation (sub-class B; firms to N=4 of 5 dominant at d42; spans 3 platform configurations — fixed-wing UAV MQ-9 ANG d44 + Active d42 + fixed-wing ISR unattributed d38 + rotary-wing maritime SSC d56)",
+      "behavioral_sub_class_mq_9_within_class_at_N": 2,
+      "behavioral_sub_class_dominant_at": "4-of-5 within range-fouler-debrief class",
+      "n5_validation_outcome": "CONFIRMED on structural axes (13-of-13 testable schema axes recur at N=5); release framework spans 3 distinct blocks (A 3-of-5 + B 1-of-5 + C 1-of-5); DIVERGES on capability-signature axes (d58 capability triad isolated at 1-of-5 = firm rejection); passive sub-class B dominant at 4-of-5 = 80% across 3 platform configurations",
+      "form_title_at_N5": "4 Debrief + 1 Reporting (d38 + d56 + d58 + d42 = Debrief; d44 = Reporting); Debrief variant decisively dominant; form-version-evolution rejected (non-monotonic)",
+      "multi_service_originating_anchor_count_at_N34": "14 USAF unit anchors (incl. 2 ANG + 3 AFSOC SOSs + 482 ATKS Active range-fouler new attestation) + 2 Navy platform anchors (P-8A/TF 67.1 fixed-wing from d55 + MH-60R/HSM-73 rotary-wing from d56) + Navy-aviation form-template attribution",
+      "structural_firsts_count": 24,
+      "structural_firsts_summary": "fifth range-fouler debrief; first 482 ATKS range-fouler; first cross-document-class same-squadron pair (range-fouler + USMTF Misrep); first Block C range-fouler attestation; first class-level filename-curator mismatch in range-fouler subset; first INDOPACOM↔CENTCOM-Persian-Gulf mislabel + first 3-year date-mismatch; first Dusk Day/Night; first Apparent Propulsion morphology checkbox (first behavior-class checkbox at all in range-fouler subset); second dual-morphology check after d56 (Other Shape + Apparent Propulsion); first speed-differential narrative; first moderate-speed (230) kinematic; first swarming `moving amongst each other` intra-group descriptor; first sensor-screen narrative framing; first (b)(1)1.1a portion-redaction variant; passive sub-class B firms to 4-of-5 dominant across 3 platform configs; d58 capability triad ISOLATED at 1-of-5; CENTCOM-AOR anchoring firms at 100% across 5-of-5; SPEAR pipeline confirmed at N=5; EA Indications block structurally anchored at N=4; form-title at N=5 = 4 Debrief + 1 Reporting (decisively rejects form-version-evolution); range-fouler subset spans 3 release pipelines; 3.5c redaction prefix recurs cross-block (B+C) — NOT block-specific; first Block C single-page artifact",
+      "thread_closures": [
+        "entities/dow-uap-foia-release.md#range-fouler-class (firmed-at-N=5)",
+        "entities/dow-uap-foia-release.md#Block-C-correlation-to-document-class (REFUTED — Block C now cross-document-class at N=4)",
+        "entities/dow-uap-foia-release.md#curator-AOR-of-interest-filename-hypothesis (extended at N=4 INDOPACOM-mislabels)",
+        "concepts/range-fouler.md#class-N5-validation (CONFIRMED at 13-of-13 axes)",
+        "concepts/range-fouler.md#d58-capability-triad-recurrence (closed-at-N=5-negative = firm rejection)",
+        "concepts/range-fouler.md#passive-sub-class-B-recurrence (firmed-at-N=4 dominant across 3 platform configurations)",
+        "entities/482-atks.md#cross-document-class-attestation (NEW — d42 anchors first cross-class same-squadron pair)"
+      ],
+      "pages_created": [
+        "references/dow-uap-d42-range-fouler-centcom-2020-08-31.md"
+      ],
+      "pages_updated": [
+        "entities/dow-uap-foia-release.md",
+        "concepts/range-fouler.md",
+        "entities/482-atks.md",
+        "index.md",
+        "timeline.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {
     "uap": {
       "vault_path": "projects/uap",
-      "last_ingested": "2026-05-13T22:00:00Z",
-      "sources_ingested": 65
+      "last_ingested": "2026-05-13T23:55:00Z",
+      "sources_ingested": 66
     }
   },
   "stats": {
-    "total_sources_ingested": 78,
-    "total_pages": 355,
+    "total_sources_ingested": 80,
+    "total_pages": 356,
     "total_projects": 1,
     "last_full_rebuild": null,
-    "last_ingest_at": "2026-05-13T22:00:00Z"
+    "last_ingest_at": "2026-05-13T23:55:00Z"
   }
 }
